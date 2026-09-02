@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
-  "89766": {
-    "name": "Шаурма с печеными вешенками и картофелем",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-pechenymi-veshenkami-i-kartofelem-89766/"
-  },
   "30357": {
     "name": "Ассорти х/к из скумбрии и горбуши, 250 г",
     "price": "234",
@@ -103,12 +96,5 @@
     "old_price": "700",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyki-iz-kuritsy-v-souse-iz-mango-i-layma-114975/"
-  },
-  "110141": {
-    "name": "Кефир ЭкоНива 3,2% 1 кг",
-    "price": "89",
-    "old_price": "149",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-ekoniva-3-110141/"
   }
 }
