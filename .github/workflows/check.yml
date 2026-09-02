@@ -1,8 +1,11 @@
 name: Check VkusVill discounts
 
 on:
+  # Встроенный cron GitHub ненадёжен на коротких интервалах — используется как
+  # редкий бэкап. Основной запуск каждые 10 минут — через внешний cron-job.org,
+  # который дёргает workflow_dispatch по API.
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "0,30 * * * *"
   workflow_dispatch: {}
 
 permissions:
