@@ -28,8 +28,7 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
-          VKUSVILL_PHPSESSID: ${{ secrets.VKUSVILL_PHPSESSID }}
-          VKUSVILL_VV_CARD: ${{ secrets.VKUSVILL_VV_CARD }}
+          VKUSVILL_COOKIE: ${{ secrets.VKUSVILL_COOKIE }}
           PROXY_URL: ${{ secrets.PROXY_URL }}
         run: python bot.py
 
