@@ -41,33 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
   },
-  "123166": {
-    "name": "Суп \"Том ям\" с креветками и древесными грибами, холодный",
-    "price": "215",
-    "old_price": "358",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-tom-yam-s-krevetkami-i-drevesnymi-gribami-123166/"
-  },
-  "113300": {
-    "name": "Лапша из батата с креветками в соусе терияки",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-s-krevetkami-v-souse-teriyaki-113300/"
-  },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
     "price": "63",
     "old_price": "105",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
-  },
-  "108688": {
-    "name": "Картофель жареный с грибами, 500 г",
-    "price": "235",
-    "old_price": "392",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
   },
   "89766": {
     "name": "Шаурма с печеными вешенками и картофелем",
@@ -83,6 +62,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-skumbrii-i-gorbushi-30357/"
   },
+  "113701": {
+    "name": "Торт блинный шоколадный \"Малина-жимолость\"",
+    "price": "476",
+    "old_price": "794",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-malina-zhimolost-113701/"
+  },
   "118906": {
     "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
     "price": "197",
@@ -90,12 +76,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
   },
-  "113701": {
-    "name": "Торт блинный шоколадный \"Малина-жимолость\"",
-    "price": "476",
-    "old_price": "794",
+  "111098": {
+    "name": "Окрошка с вегетарианской \"колбасой\"",
+    "price": "143",
+    "old_price": "238",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-malina-zhimolost-113701/"
+    "link": "https://vkusvill.ru/goods/okroshka-s-vegetarianskoy-kolbasoy-111098/"
+  },
+  "114975": {
+    "name": "Стейки из курицы в соусе из манго и лайма",
+    "price": "420",
+    "old_price": "700",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyki-iz-kuritsy-v-souse-iz-mango-i-layma-114975/"
+  },
+  "110141": {
+    "name": "Кефир ЭкоНива 3,2% 1 кг",
+    "price": "89",
+    "old_price": "149",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-ekoniva-3-110141/"
   },
   "124289": {
     "name": "Йогурт греческий из овечьего молока \"Вишня\" 4,0-8,0%",
@@ -111,40 +111,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tan-0-120605/"
   },
-  "111098": {
-    "name": "Окрошка с вегетарианской \"колбасой\"",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-s-vegetarianskoy-kolbasoy-111098/"
-  },
   "122229": {
     "name": "Колбаски улитки для жарки",
     "price": "227",
     "old_price": "378",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaski-ulitki-dlya-zharki-122229/"
-  },
-  "114975": {
-    "name": "Стейки из курицы в соусе из манго и лайма",
-    "price": "420",
-    "old_price": "700",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyki-iz-kuritsy-v-souse-iz-mango-i-layma-114975/"
-  },
-  "122787": {
-    "name": "Клаб-сэндвич по-итальянски с колбасой и томатным соусом",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-po-italyanski-s-kolbasoy-i-tomatnym-sousom-122787/"
-  },
-  "110141": {
-    "name": "Кефир ЭкоНива 3,2% 1 кг",
-    "price": "89",
-    "old_price": "149",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-ekoniva-3-110141/"
   },
   "117108": {
     "name": "Котлета \"Крабовая\" с картофельным пюре",
