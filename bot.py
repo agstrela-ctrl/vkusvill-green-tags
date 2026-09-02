@@ -6,8 +6,7 @@ from bs4 import BeautifulSoup
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
-PHPSESSID = os.environ["VKUSVILL_PHPSESSID"]
-VV_CARD = os.environ["VKUSVILL_VV_CARD"]
+VKUSVILL_COOKIE = os.environ["VKUSVILL_COOKIE"]
 PROXY_URL = os.environ["PROXY_URL"]
 
 DATA_FILE = "seen_items.json"
@@ -22,78 +21,86 @@ def make_session():
         "Accept-Language": "ru-RU,ru;q=0.9",
         "Referer": "https://vkusvill.ru/cart/",
         "X-Requested-With": "XMLHttpRequest",
+        # Полная строка cookie из настоящего браузера (включая BXVV_UTK — токен
+        # "запомнить меня"). Без него сайт не до конца узнаёт пользователя и
+        # отдаёт общую подборку рекомендаций вместо точных зелёных ценников.
+        "Cookie": VKUSVILL_COOKIE,
     })
-    s.cookies.set("__Host-PHPSESSID", PHPSESSID, domain="vkusvill.ru")
-    s.cookies.set("_vv_card", VV_CARD, domain="vkusvill.ru")
     # ВкусВилл блокирует запросы с IP облачных дата-центров (GitHub Actions),
     # поэтому ходим через российский прокси, чтобы IP совпадал с обычным пользователем
     s.proxies = {"http": PROXY_URL, "https": PROXY_URL}
     return s
 
 
-# Настоящий источник полного списка "Зелёные ценники" — тот же запрос, что уходит
-# при клике "Показать все" в корзине (js-prods-modal, TYPE=GreenLabels). Отдаёт
-# сразу всё, без пагинации. Привязан к выбранному адресу/магазину аккаунта.
-GREEN_LABELS_MODAL_URL = "https://vkusvill.ru/ajax/delivery_order/cart_prods_modal/template.php"
+# Настоящий источник зелёных ценников — тот же запрос, что подгружает маленький
+# слайдер "Зелёные ценники" в корзине (ленивая подгрузка при скролле).
+GREEN_LABELS_AJAX = "https://vkusvill.ru/ajax/index_page_lazy_load.php"
+PAGE_SIZE = 24
+MAX_PAGES = 10
 
 
 def get_discounted_items(session):
     items = {}
 
-    try:
-        resp = session.post(GREEN_LABELS_MODAL_URL, data={
-            "inited": "N",
-            "PRODUCTS": "",
-            "TYPE": "GreenLabels",
-            "ORIGIN": "cartpage",
-            "SET_ID": "",
-            "GROUP_ID": "",
-            "SET_URL": "",
-            "IS_APP": "",
-        }, timeout=15)
-    except Exception as e:
-        print(f"  Ошибка запроса: {e}")
-        return items
+    for page in range(1, MAX_PAGES + 1):
+        data = {"code": "cart_green_labels", "version": "default", "is_app": ""}
+        if page > 1:
+            data["page"] = page
+            data["needSplitter"] = "Y"
 
-    print(f"  запрос: {resp.status_code}")
-    if resp.status_code != 200:
-        return items
+        try:
+            resp = session.post(GREEN_LABELS_AJAX, data=data, timeout=15)
+        except Exception as e:
+            print(f"  Ошибка запроса стр. {page}: {e}")
+            break
 
-    try:
-        result = resp.json()
-    except ValueError:
-        print(f"  Ответ не JSON. Тело: {resp.text[:300]!r}")
-        return items
+        if resp.status_code != 200:
+            print(f"  стр. {page}: {resp.status_code}")
+            break
 
-    if not result.get("html"):
-        print(f"  success={result.get('success')!r} error={result.get('error_text')!r}")
-        return items
+        try:
+            result = resp.json()
+        except ValueError:
+            print(f"  Ответ не JSON. Тело: {resp.text[:300]!r}")
+            break
 
-    soup = BeautifulSoup(result["html"], "html.parser")
-    for card in soup.select(".ProductCard"):
-        item_id = card.get("data-id")
-        name_el = card.select_one(".js-product-v-tizer__title-text")
-        price_el = card.select_one(".js-datalayer-catalog-list-price")
-        old_price_el = card.select_one(".js-datalayer-catalog-list-price-old")
-        link_el = card.select_one(".ProductCard__link")
+        print(
+            f"  стр. {page}: success={result.get('success')!r} "
+            f"count_prods_avail={result.get('count_prods_avail')!r}"
+        )
+        if result.get("success") != "Y" or not result.get("html"):
+            break
 
-        if not (item_id and name_el and price_el):
-            continue
+        for chunk in result["html"].split("|#||"):
+            soup = BeautifulSoup(chunk, "html.parser")
+            for card in soup.select(".ProductCard"):
+                item_id = card.get("data-id")
+                name_el = card.select_one(".js-product-v-tizer__title-text")
+                price_el = card.select_one(".js-datalayer-catalog-list-price")
+                old_price_el = card.select_one(".js-datalayer-catalog-list-price-old")
+                link_el = card.select_one(".ProductCard__link")
 
-        price = price_el.get_text(strip=True)
-        old_price = old_price_el.get_text(strip=True) if old_price_el else ""
+                if not (item_id and name_el and price_el):
+                    continue
 
-        discount = ""
-        if old_price.isdigit() and price.isdigit() and int(old_price) > 0:
-            discount = str(round((1 - int(price) / int(old_price)) * 100))
+                price = price_el.get_text(strip=True)
+                old_price = old_price_el.get_text(strip=True) if old_price_el else ""
 
-        items[item_id] = {
-            "name": name_el.get_text(strip=True),
-            "price": price,
-            "old_price": old_price,
-            "discount": discount,
-            "link": "https://vkusvill.ru" + link_el.get("href", "") if link_el else "",
-        }
+                discount = ""
+                if old_price.isdigit() and price.isdigit() and int(old_price) > 0:
+                    discount = str(round((1 - int(price) / int(old_price)) * 100))
+
+                items[item_id] = {
+                    "name": name_el.get_text(strip=True),
+                    "price": price,
+                    "old_price": old_price,
+                    "discount": discount,
+                    "link": "https://vkusvill.ru" + link_el.get("href", "") if link_el else "",
+                }
+
+        count_pages = result.get("count_pages", 1)
+        if page >= count_pages:
+            break
 
     print(f"  Всего найдено зелёных ценников: {len(items)}")
     return items
@@ -148,9 +155,8 @@ def check_and_notify():
         if not os.path.exists(ALERT_FLAG_FILE):
             send_telegram(
                 "⚠️ <b>Не удалось получить зелёные ценники ВкусВилл</b>\n"
-                "Возможно, истекла сессия — обновите секреты "
-                "VKUSVILL_PHPSESSID / VKUSVILL_VV_CARD в GitHub. Либо сайт "
-                "изменил разметку и бота нужно поправить."
+                "Возможно, истекла сессия — обновите секрет VKUSVILL_COOKIE "
+                "в GitHub. Либо сайт изменил разметку и бота нужно поправить."
             )
             with open(ALERT_FLAG_FILE, "w") as f:
                 f.write("1")
