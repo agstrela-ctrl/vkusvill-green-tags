@@ -13,12 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-konservirovannym-tuntsom-i-yablokom-108186/"
   },
-  "48167": {
-    "name": "Филе индейки \"Гриль\" с пастой птитим со шпинатом и овощами",
-    "price": "222",
-    "old_price": "370",
+  "98575": {
+    "name": "Крем-суп с лисичками и белыми грибами",
+    "price": "186",
+    "old_price": "310",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-pastoy-ptitim-so-shpinatom-i-ovoshchami-48167/"
+    "link": "https://vkusvill.ru/goods/krem-sup-s-lisichkami-i-belymi-gribami-98575/"
   },
   "38977": {
     "name": "Салат свекольный с грецким орехом",
@@ -54,20 +54,6 @@
     "old_price": "440",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladi-pechenochnye-69649/"
-  },
-  "20171": {
-    "name": "Борщ \"Вегетарианский\"",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/borshch-vegetarianskiy-20171/"
-  },
-  "37744": {
-    "name": "Сердце цыплят-бройлеров",
-    "price": "254",
-    "old_price": "424",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/serdtse-tsyplyat-broylerov-37744/"
   },
   "73475": {
     "name": "Торт \"Бенто\" с клубникой (С Днем Рождения)",
@@ -118,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
-  "71616": {
-    "name": "Салат \"Винегрет\", 600 г",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-71616/"
-  },
   "100069": {
     "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
     "price": "235",
@@ -160,20 +139,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-dlya-khot-doga-121599/"
   },
-  "63579": {
-    "name": "Нерка слабосоленая ломтик, 100 г",
-    "price": "220",
-    "old_price": "367",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nerka-slabosolenaya-lomtik-63579/"
-  },
-  "102259": {
-    "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
-  },
   "30357": {
     "name": "Ассорти х/к из скумбрии и горбуши, 250 г",
     "price": "234",
@@ -188,13 +153,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
   },
-  "41146": {
-    "name": "Сливки 10%, 200 г",
-    "price": "52",
-    "old_price": "87",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/slivki-10-41146/"
-  },
   "113701": {
     "name": "Торт блинный шоколадный \"Малина-жимолость\"",
     "price": "476",
@@ -208,13 +166,6 @@
     "old_price": "108",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-grecheskiy-iz-ovechego-moloka-vishnya-4-124289/"
-  },
-  "29760": {
-    "name": "Торт \"Вкусновение\"",
-    "price": "320",
-    "old_price": "533",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-vkusnovenie-29760/"
   },
   "101137": {
     "name": "Торт \"Брауни\", веган",
@@ -250,13 +201,6 @@
     "old_price": "378",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaski-ulitki-dlya-zharki-122229/"
-  },
-  "15433": {
-    "name": "Молоко 2,5% в бутылке, 450 мл",
-    "price": "49",
-    "old_price": "82",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-2-15433/"
   },
   "114975": {
     "name": "Стейки из курицы в соусе из манго и лайма",
