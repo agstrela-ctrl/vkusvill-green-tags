@@ -102,12 +102,14 @@ def get_discounted_items(session):
 def send_telegram(message):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     try:
-        requests.post(url, json={
+        resp = requests.post(url, json={
             "chat_id": CHAT_ID,
             "text": message,
             "parse_mode": "HTML",
             "disable_web_page_preview": True,
         }, timeout=10)
+        if resp.status_code != 200:
+            print(f"Telegram ответил {resp.status_code}: {resp.text[:300]}")
     except Exception as e:
         print(f"Ошибка Telegram: {e}")
 
