@@ -31,77 +31,69 @@ def make_session():
     return s
 
 
-# Реальный источник блока "Зелёные ценники" из корзины (виджет cart_green_labels),
-# привязан к выбранному адресу/магазину аккаунта. Публичного каталога с этими
-# товарами не существует — только этот AJAX, найденный в JS корзины сайта.
-GREEN_LABELS_AJAX = "https://vkusvill.ru/ajax/index_page_lazy_load.php"
+# Настоящий источник полного списка "Зелёные ценники" — тот же запрос, что уходит
+# при клике "Показать все" в корзине (js-prods-modal, TYPE=GreenLabels). Отдаёт
+# сразу всё, без пагинации. Привязан к выбранному адресу/магазину аккаунта.
+GREEN_LABELS_MODAL_URL = "https://vkusvill.ru/ajax/delivery_order/cart_prods_modal/template.php"
 
 
 def get_discounted_items(session):
     items = {}
-    page = 1
 
-    while True:
-        data = {"code": "cart_green_labels", "version": "default", "is_app": ""}
-        if page > 1:
-            data["page"] = page
-            data["needSplitter"] = "Y"
+    try:
+        resp = session.post(GREEN_LABELS_MODAL_URL, data={
+            "inited": "N",
+            "PRODUCTS": "",
+            "TYPE": "GreenLabels",
+            "ORIGIN": "cartpage",
+            "SET_ID": "",
+            "GROUP_ID": "",
+            "SET_URL": "",
+            "IS_APP": "",
+        }, timeout=15)
+    except Exception as e:
+        print(f"  Ошибка запроса: {e}")
+        return items
 
-        try:
-            resp = session.post(GREEN_LABELS_AJAX, data=data, timeout=15)
-        except Exception as e:
-            print(f"  Ошибка запроса стр. {page}: {e}")
-            break
+    print(f"  запрос: {resp.status_code}")
+    if resp.status_code != 200:
+        return items
 
-        print(f"  стр. {page}: {resp.status_code}")
-        if resp.status_code != 200:
-            break
+    try:
+        result = resp.json()
+    except ValueError:
+        print(f"  Ответ не JSON. Тело: {resp.text[:300]!r}")
+        return items
 
-        try:
-            result = resp.json()
-        except ValueError:
-            print(f"  Ответ не JSON. Тело: {resp.text[:300]!r}")
-            break
+    if not result.get("html"):
+        print(f"  success={result.get('success')!r} error={result.get('error_text')!r}")
+        return items
 
-        print(
-            f"  success={result.get('success')!r} "
-            f"count_prods_avail={result.get('count_prods_avail')!r} "
-            f"html_len={len(result.get('html') or '')}"
-        )
-        if result.get("success") != "Y" or not result.get("html"):
-            break
+    soup = BeautifulSoup(result["html"], "html.parser")
+    for card in soup.select(".ProductCard"):
+        item_id = card.get("data-id")
+        name_el = card.select_one(".js-product-v-tizer__title-text")
+        price_el = card.select_one(".js-datalayer-catalog-list-price")
+        old_price_el = card.select_one(".js-datalayer-catalog-list-price-old")
+        link_el = card.select_one(".ProductCard__link")
 
-        for chunk in result["html"].split("|#||"):
-            soup = BeautifulSoup(chunk, "html.parser")
-            for card in soup.select(".ProductCard"):
-                item_id = card.get("data-id")
-                name_el = card.select_one(".js-product-v-tizer__title-text")
-                price_el = card.select_one(".js-datalayer-catalog-list-price")
-                old_price_el = card.select_one(".js-datalayer-catalog-list-price-old")
-                link_el = card.select_one(".ProductCard__link")
+        if not (item_id and name_el and price_el):
+            continue
 
-                if not (item_id and name_el and price_el):
-                    continue
+        price = price_el.get_text(strip=True)
+        old_price = old_price_el.get_text(strip=True) if old_price_el else ""
 
-                price = price_el.get_text(strip=True)
-                old_price = old_price_el.get_text(strip=True) if old_price_el else ""
+        discount = ""
+        if old_price.isdigit() and price.isdigit() and int(old_price) > 0:
+            discount = str(round((1 - int(price) / int(old_price)) * 100))
 
-                discount = ""
-                if old_price.isdigit() and price.isdigit() and int(old_price) > 0:
-                    discount = str(round((1 - int(price) / int(old_price)) * 100))
-
-                items[item_id] = {
-                    "name": name_el.get_text(strip=True),
-                    "price": price,
-                    "old_price": old_price,
-                    "discount": discount,
-                    "link": "https://vkusvill.ru" + link_el.get("href", "") if link_el else "",
-                }
-
-        count_pages = result.get("count_pages", 1)
-        if page >= count_pages:
-            break
-        page += 1
+        items[item_id] = {
+            "name": name_el.get_text(strip=True),
+            "price": price,
+            "old_price": old_price,
+            "discount": discount,
+            "link": "https://vkusvill.ru" + link_el.get("href", "") if link_el else "",
+        }
 
     print(f"  Всего найдено зелёных ценников: {len(items)}")
     return items
