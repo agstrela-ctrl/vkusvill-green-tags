@@ -26,102 +26,68 @@ def make_session():
     return s
 
 
+# Фильтр "Скоро исчезнут с полок" (id=284) на /offers/ — это и есть зелёные ценники
+GREEN_TAGS_URL = "https://vkusvill.ru/offers/?F%5B212%5D%5B%5D=284&F%5BDEF_3%5D=1&sf4=Y"
+PAGE_SIZE = 24
+MAX_PAGES = 15
+
+
 def get_discounted_items(session):
-    """Пробует разные способы получить скидки."""
     items = {}
 
-    api_urls = [
-        "https://vkusvill.ru/api/v1/products/?filter[discount]=1&limit=100",
-        "https://vkusvill.ru/api/v2/products/?filter[discount]=1&limit=100",
-        "https://vkusvill.ru/api/v1/goods/?filter[discount]=1&limit=100",
-        "https://vkusvill.ru/api/v2/goods/?filter[discount]=1&limit=100",
-    ]
-
-    for url in api_urls:
+    for page in range(1, MAX_PAGES + 1):
+        url = f"{GREEN_TAGS_URL}&PAGEN_1={page}"
         try:
             resp = session.get(url, timeout=15)
-            print(f"  {url} -> {resp.status_code}")
-            if resp.status_code == 200:
-                data = resp.json()
-                products = (data.get("items") or data.get("data") or
-                            data.get("products") or data.get("goods") or [])
-                if products:
-                    for p in products:
-                        name = p.get("title") or p.get("name", "")
-                        price = str(p.get("price", ""))
-                        old_price = str(p.get("old_price") or p.get("price_old") or "")
-                        discount = str(p.get("discount") or "")
-                        link = "https://vkusvill.ru" + p.get("url", p.get("link", ""))
-                        personal = bool(p.get("is_personal") or p.get("personal"))
-                        if name:
-                            items[name] = {
-                                "price": price,
-                                "old_price": old_price,
-                                "discount": discount,
-                                "link": link,
-                                "personal": personal,
-                            }
-                    if items:
-                        print(f"  OK: получено {len(items)} товаров")
-                        return items
         except Exception as e:
-            print(f"  Ошибка: {e}")
+            print(f"  Ошибка запроса стр. {page}: {e}")
+            break
 
-    scrape_urls = [
-        "https://vkusvill.ru/personal/",
-        "https://vkusvill.ru/goods/?filter%5Bdiscount%5D=1",
-        "https://vkusvill.ru/sale/",
-    ]
+        print(f"  стр. {page}: {url} -> {resp.status_code}")
+        if resp.status_code != 200:
+            break
 
-    for url in scrape_urls:
-        try:
-            resp = session.get(url, timeout=15)
-            print(f"  Парсинг {url} -> {resp.status_code}")
-            if resp.status_code != 200:
+        soup = BeautifulSoup(resp.text, "html.parser")
+        cards = soup.select(".ProductCard")
+        if not cards:
+            break
+
+        for card in cards:
+            item_id = card.get("data-id")
+            name_el = card.select_one(".js-product-v-tizer__title-text")
+            weight_el = card.select_one(".ProductCard__linkWeight")
+            price_el = card.select_one(".js-datalayer-catalog-list-price")
+            old_price_el = card.select_one(".js-datalayer-catalog-list-price-old")
+            link_el = card.select_one(".ProductCard__link")
+            notice_el = card.select_one(".ProductCard__notice")
+
+            if not (item_id and name_el and price_el):
                 continue
-            soup = BeautifulSoup(resp.text, "html.parser")
 
-            selectors = [
-                ".ProductCard", ".product-card", "[class*='ProductCard']",
-                "[class*='product_card']", ".goods-item", "[class*='GoodsCard']",
-            ]
-            cards = []
-            for sel in selectors:
-                cards = soup.select(sel)
-                if cards:
-                    print(f"  Найдено {len(cards)} карточек по селектору '{sel}'")
-                    break
+            name = name_el.get_text(strip=True)
+            if weight_el:
+                name += f", {weight_el.get_text(strip=True)}"
 
-            for card in cards:
-                has_discount = card.select_one("[class*='old'], [class*='discount'], [class*='sale']")
-                if not has_discount:
-                    continue
+            price = price_el.get_text(strip=True)
+            old_price = old_price_el.get_text(strip=True) if old_price_el else ""
 
-                name_el = card.select_one("[class*='title'], [class*='name'], h3, h2")
-                price_el = card.select_one("[class*='price']:not([class*='old'])")
-                old_el = card.select_one("[class*='old']")
-                link_el = card.select_one("a[href]")
+            discount = ""
+            if old_price.isdigit() and price.isdigit() and int(old_price) > 0:
+                discount = str(round((1 - int(price) / int(old_price)) * 100))
 
-                if name_el:
-                    name = name_el.get_text(strip=True)
-                    price = price_el.get_text(strip=True) if price_el else ""
-                    old_price = old_el.get_text(strip=True) if old_el else ""
-                    link = "https://vkusvill.ru" + link_el["href"] if link_el else ""
-                    items[name] = {
-                        "price": price,
-                        "old_price": old_price,
-                        "discount": "",
-                        "link": link,
-                        "personal": False,
-                    }
+            items[item_id] = {
+                "name": name,
+                "price": price,
+                "old_price": old_price,
+                "discount": discount,
+                "link": "https://vkusvill.ru" + link_el["href"] if link_el else "",
+                "notice": notice_el.get_text(strip=True) if notice_el else "",
+            }
 
-            if items:
-                print(f"  OK: спарсено {len(items)} товаров со скидкой")
-                return items
+        if len(cards) < PAGE_SIZE:
+            break
 
-        except Exception as e:
-            print(f"  Ошибка парсинга: {e}")
-
+    print(f"  Всего найдено зелёных ценников: {len(items)}")
     return items
 
 
@@ -150,16 +116,15 @@ def save_seen(data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def format_item(name, info):
-    icon = "⭐️" if info.get("personal") else "🟢"
-    line = f"{icon} <b>{name}</b>\n"
+def format_item(item_id, info):
+    line = f"🟢 <b>{info['name']}</b>\n"
     if info["old_price"]:
         line += f"  {info['old_price']} → <b>{info['price']}</b>"
     else:
         line += f"  <b>{info['price']}</b>"
     if info["discount"]:
         line += f" (-{info['discount']}%)"
-    if info["link"] and info["link"] != "https://vkusvill.ru":
+    if info["link"]:
         line += f"\n  {info['link']}"
     return line
 
@@ -169,12 +134,13 @@ def check_and_notify():
     current = get_discounted_items(session)
 
     if not current:
-        print("Товары не найдены — возможно, истёк сеанс или нет скидок")
+        print("Товары не найдены — возможно, изменилась структура сайта или истекла сессия")
         if not os.path.exists(ALERT_FLAG_FILE):
             send_telegram(
-                "⚠️ <b>Не удалось получить скидки ВкусВилл</b>\n"
-                "Похоже, истекла сессия (PHPSESSID). Нужно обновить секреты "
-                "VKUSVILL_PHPSESSID / VKUSVILL_VV_CARD в GitHub."
+                "⚠️ <b>Не удалось получить зелёные ценники ВкусВилл</b>\n"
+                "Возможно, истекла сессия — обновите секреты "
+                "VKUSVILL_PHPSESSID / VKUSVILL_VV_CARD в GitHub. Либо сайт "
+                "изменил разметку и бота нужно поправить."
             )
             with open(ALERT_FLAG_FILE, "w") as f:
                 f.write("1")
@@ -184,29 +150,21 @@ def check_and_notify():
 
     if os.path.exists(ALERT_FLAG_FILE):
         os.remove(ALERT_FLAG_FILE)
-        send_telegram("✅ Сессия снова рабочая, проверка скидок восстановлена.")
+        send_telegram("✅ Снова получаю зелёные ценники, всё восстановилось.")
 
     seen = load_seen()
     new_items = {k: v for k, v in current.items() if k not in seen}
 
     if new_items:
-        personal = {k: v for k, v in new_items.items() if v.get("personal")}
-        regular = {k: v for k, v in new_items.items() if not v.get("personal")}
-
-        if personal:
-            msg = f"⭐️ <b>Твои персональные скидки!</b> ({len(personal)} шт.)\n\n"
-            msg += "\n\n".join(format_item(k, v) for k, v in list(personal.items())[:10])
-            send_telegram(msg)
-
-        for i in range(0, len(regular), 10):
-            chunk = list(regular.items())[i:i + 10]
-            msg = f"🟢 <b>Зелёные ценники ВкусВилл</b> ({len(regular)} шт.)\n\n"
+        items_list = list(new_items.items())
+        for i in range(0, len(items_list), 10):
+            chunk = items_list[i:i + 10]
+            msg = f"🟢 <b>Зелёные ценники ВкусВилл</b> ({len(new_items)} шт.)\n\n"
             msg += "\n\n".join(format_item(k, v) for k, v in chunk)
             send_telegram(msg)
-
-        print(f"Отправлено: {len(personal)} персональных + {len(regular)} магазинных")
+        print(f"Отправлено новых зелёных ценников: {len(new_items)}")
     else:
-        print(f"Новых скидок нет. Всего со скидкой: {len(current)}")
+        print(f"Новых зелёных ценников нет. Всего сейчас: {len(current)}")
 
     save_seen(current)
 
