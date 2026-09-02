@@ -19,80 +19,80 @@ def make_session():
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Accept": "application/json, text/html, */*",
         "Accept-Language": "ru-RU,ru;q=0.9",
-        "Referer": "https://vkusvill.ru/",
+        "Referer": "https://vkusvill.ru/cart/",
+        "X-Requested-With": "XMLHttpRequest",
     })
     s.cookies.set("__Host-PHPSESSID", PHPSESSID, domain="vkusvill.ru")
     s.cookies.set("_vv_card", VV_CARD, domain="vkusvill.ru")
     return s
 
 
-# Фильтр "Скоро исчезнут с полок" (id=284) на /offers/ — это и есть зелёные ценники
-GREEN_TAGS_URL = "https://vkusvill.ru/offers/?F%5B212%5D%5B%5D=284&F%5BDEF_3%5D=1&sf4=Y"
-PAGE_SIZE = 24
-MAX_PAGES = 40
+# Реальный источник блока "Зелёные ценники" из корзины (виджет cart_green_labels),
+# привязан к выбранному адресу/магазину аккаунта. Публичного каталога с этими
+# товарами не существует — только этот AJAX, найденный в JS корзины сайта.
+GREEN_LABELS_AJAX = "https://vkusvill.ru/ajax/index_page_lazy_load.php"
 
 
 def get_discounted_items(session):
     items = {}
-    prev_ids = None
+    page = 1
 
-    for page in range(1, MAX_PAGES + 1):
-        url = f"{GREEN_TAGS_URL}&PAGEN_1={page}"
+    while True:
+        data = {"code": "cart_green_labels", "version": "default", "is_app": ""}
+        if page > 1:
+            data["page"] = page
+            data["needSplitter"] = "Y"
+
         try:
-            resp = session.get(url, timeout=15)
+            resp = session.post(GREEN_LABELS_AJAX, data=data, timeout=15)
         except Exception as e:
             print(f"  Ошибка запроса стр. {page}: {e}")
             break
 
-        print(f"  стр. {page}: {url} -> {resp.status_code}")
+        print(f"  стр. {page}: {resp.status_code}")
         if resp.status_code != 200:
             break
 
-        soup = BeautifulSoup(resp.text, "html.parser")
-        cards = soup.select(".ProductCard")
-        if not cards:
+        try:
+            result = resp.json()
+        except ValueError:
+            print("  Ответ не JSON — вероятно, истекла сессия")
             break
 
-        current_ids = {card.get("data-id") for card in cards}
-        if current_ids == prev_ids:
-            # За последней реальной страницей сайт повторяет "хвост" — стоп
+        if result.get("success") != "Y" or not result.get("html"):
             break
-        prev_ids = current_ids
 
-        for card in cards:
-            item_id = card.get("data-id")
-            name_el = card.select_one(".js-product-v-tizer__title-text")
-            weight_el = card.select_one(".ProductCard__linkWeight")
-            price_el = card.select_one(".js-datalayer-catalog-list-price")
-            old_price_el = card.select_one(".js-datalayer-catalog-list-price-old")
-            link_el = card.select_one(".ProductCard__link")
-            notice_el = card.select_one(".ProductCard__notice")
+        for chunk in result["html"].split("|#||"):
+            soup = BeautifulSoup(chunk, "html.parser")
+            for card in soup.select(".ProductCard"):
+                item_id = card.get("data-id")
+                name_el = card.select_one(".js-product-v-tizer__title-text")
+                price_el = card.select_one(".js-datalayer-catalog-list-price")
+                old_price_el = card.select_one(".js-datalayer-catalog-list-price-old")
+                link_el = card.select_one(".ProductCard__link")
 
-            if not (item_id and name_el and price_el):
-                continue
+                if not (item_id and name_el and price_el):
+                    continue
 
-            name = name_el.get_text(strip=True)
-            if weight_el:
-                name += f", {weight_el.get_text(strip=True)}"
+                price = price_el.get_text(strip=True)
+                old_price = old_price_el.get_text(strip=True) if old_price_el else ""
 
-            price = price_el.get_text(strip=True)
-            old_price = old_price_el.get_text(strip=True) if old_price_el else ""
+                discount = ""
+                if old_price.isdigit() and price.isdigit() and int(old_price) > 0:
+                    discount = str(round((1 - int(price) / int(old_price)) * 100))
 
-            discount = ""
-            if old_price.isdigit() and price.isdigit() and int(old_price) > 0:
-                discount = str(round((1 - int(price) / int(old_price)) * 100))
+                items[item_id] = {
+                    "name": name_el.get_text(strip=True),
+                    "price": price,
+                    "old_price": old_price,
+                    "discount": discount,
+                    "link": "https://vkusvill.ru" + link_el.get("href", "") if link_el else "",
+                }
 
-            items[item_id] = {
-                "name": name,
-                "price": price,
-                "old_price": old_price,
-                "discount": discount,
-                "link": "https://vkusvill.ru" + link_el.get("href", "") if link_el else "",
-                "notice": notice_el.get_text(strip=True) if notice_el else "",
-            }
-
-        if len(cards) < PAGE_SIZE:
+        count_pages = result.get("count_pages", 1)
+        if page >= count_pages:
             break
+        page += 1
 
     print(f"  Всего найдено зелёных ценников: {len(items)}")
     return items
