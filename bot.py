@@ -56,9 +56,14 @@ def get_discounted_items(session):
         try:
             result = resp.json()
         except ValueError:
-            print("  Ответ не JSON — вероятно, истекла сессия")
+            print(f"  Ответ не JSON. Тело: {resp.text[:300]!r}")
             break
 
+        print(
+            f"  success={result.get('success')!r} "
+            f"count_prods_avail={result.get('count_prods_avail')!r} "
+            f"html_len={len(result.get('html') or '')}"
+        )
         if result.get("success") != "Y" or not result.get("html"):
             break
 

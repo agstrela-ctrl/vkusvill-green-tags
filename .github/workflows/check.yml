@@ -24,6 +24,9 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Show outbound IP (diagnostics)
+        run: curl -s https://ipapi.co/json/ || true
+
       - name: Run checker
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
