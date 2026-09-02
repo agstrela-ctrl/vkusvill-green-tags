@@ -1,0 +1,43 @@
+name: Check VkusVill discounts
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vkusvill-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run checker
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          VKUSVILL_PHPSESSID: ${{ secrets.VKUSVILL_PHPSESSID }}
+          VKUSVILL_VV_CARD: ${{ secrets.VKUSVILL_VV_CARD }}
+        run: python bot.py
+
+      - name: Persist state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          [ -f seen_items.json ] && git add -f seen_items.json
+          [ -f session_expired.flag ] && git add -f session_expired.flag
+          [ -f session_expired.flag ] || git rm -f --ignore-unmatch session_expired.flag >/dev/null 2>&1 || true
+          git diff --staged --quiet || git commit -m "chore: update seen items state"
+          git push
