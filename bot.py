@@ -8,6 +8,7 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 PHPSESSID = os.environ["VKUSVILL_PHPSESSID"]
 VV_CARD = os.environ["VKUSVILL_VV_CARD"]
+PROXY_URL = os.environ["PROXY_URL"]
 
 DATA_FILE = "seen_items.json"
 ALERT_FLAG_FILE = "session_expired.flag"
@@ -24,6 +25,9 @@ def make_session():
     })
     s.cookies.set("__Host-PHPSESSID", PHPSESSID, domain="vkusvill.ru")
     s.cookies.set("_vv_card", VV_CARD, domain="vkusvill.ru")
+    # ВкусВилл блокирует запросы с IP облачных дата-центров (GitHub Actions),
+    # поэтому ходим через российский прокси, чтобы IP совпадал с обычным пользователем
+    s.proxies = {"http": PROXY_URL, "https": PROXY_URL}
     return s
 
 

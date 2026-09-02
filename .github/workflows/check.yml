@@ -24,15 +24,13 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Show outbound IP (diagnostics)
-        run: curl -s https://ipapi.co/json/ || true
-
       - name: Run checker
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           VKUSVILL_PHPSESSID: ${{ secrets.VKUSVILL_PHPSESSID }}
           VKUSVILL_VV_CARD: ${{ secrets.VKUSVILL_VV_CARD }}
+          PROXY_URL: ${{ secrets.PROXY_URL }}
         run: python bot.py
 
       - name: Persist state
