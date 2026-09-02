@@ -29,11 +29,12 @@ def make_session():
 # Фильтр "Скоро исчезнут с полок" (id=284) на /offers/ — это и есть зелёные ценники
 GREEN_TAGS_URL = "https://vkusvill.ru/offers/?F%5B212%5D%5B%5D=284&F%5BDEF_3%5D=1&sf4=Y"
 PAGE_SIZE = 24
-MAX_PAGES = 15
+MAX_PAGES = 40
 
 
 def get_discounted_items(session):
     items = {}
+    prev_ids = None
 
     for page in range(1, MAX_PAGES + 1):
         url = f"{GREEN_TAGS_URL}&PAGEN_1={page}"
@@ -51,6 +52,12 @@ def get_discounted_items(session):
         cards = soup.select(".ProductCard")
         if not cards:
             break
+
+        current_ids = {card.get("data-id") for card in cards}
+        if current_ids == prev_ids:
+            # За последней реальной страницей сайт повторяет "хвост" — стоп
+            break
+        prev_ids = current_ids
 
         for card in cards:
             item_id = card.get("data-id")
@@ -80,7 +87,7 @@ def get_discounted_items(session):
                 "price": price,
                 "old_price": old_price,
                 "discount": discount,
-                "link": "https://vkusvill.ru" + link_el["href"] if link_el else "",
+                "link": "https://vkusvill.ru" + link_el.get("href", "") if link_el else "",
                 "notice": notice_el.get_text(strip=True) if notice_el else "",
             }
 
