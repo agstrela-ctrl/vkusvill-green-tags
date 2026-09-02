@@ -1,10 +1,38 @@
 {
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "20969": {
+    "name": "Котлета куриная с картофельным пюре",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-20969/"
+  },
   "605": {
     "name": "Лук репчатый",
     "price": "37",
     "old_price": "62",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "17736": {
+    "name": "Молоко цельное в бутылке, 900 мл",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-tselnoe-v-butylke-17736/"
+  },
+  "36296": {
+    "name": "Молоко 2,5% в бутылке, 900 мл",
+    "price": "60",
+    "old_price": "100",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-2-36296/"
   },
   "111102": {
     "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
@@ -41,12 +69,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
   },
+  "22741": {
+    "name": "Черешня крупная, 500 г",
+    "price": "414",
+    "old_price": "690",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chereshnya-krupnaya-22741/"
+  },
   "18735": {
     "name": "Морковь мытая",
     "price": "63",
     "old_price": "105",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
+  },
+  "19080": {
+    "name": "Хлеб \"Донской\", нарезка",
+    "price": "30",
+    "old_price": "50",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-donskoy-19080/"
   },
   "57764": {
     "name": "Печенье \"Мутаки\" с грецким орехом",
@@ -55,12 +97,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-mutaki-s-gretskim-orekhom-57764/"
   },
-  "29850": {
-    "name": "Салат Рукола, 125 г",
-    "price": "126",
-    "old_price": "210",
+  "70297": {
+    "name": "Семга стейк зам., 500 г",
+    "price": "957",
+    "old_price": "1595",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-rukola-29850/"
+    "link": "https://vkusvill.ru/goods/semga-steyk-zam-70297/"
   },
   "18800": {
     "name": "Печенье овсяное с клюквой",
@@ -68,6 +110,13 @@
     "old_price": "258",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-s-klyukvoy-18800/"
+  },
+  "89186": {
+    "name": "Хлеб \"На кефире с сывороткой\", нарезка",
+    "price": "57",
+    "old_price": "95",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-na-kefire-s-syvorotkoy-89186/"
   },
   "103297": {
     "name": "Молоко безлактозное 2,5%, 900 мл",
@@ -83,12 +132,40 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-treshchinki-apelsinovye-57769/"
   },
+  "16134": {
+    "name": "Квас \"Хлебный\", 1 л",
+    "price": "71",
+    "old_price": "118",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kvas-khlebnyy-16134/"
+  },
+  "16025": {
+    "name": "Яблоко Симиренко",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-simirenko-16025/"
+  },
   "116859": {
     "name": "Кимпаб-ролл с говяжьим фаршем",
     "price": "222",
     "old_price": "370",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kimpab-roll-s-govyazhim-farshem-116859/"
+  },
+  "23074": {
+    "name": "Манго Египет",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
+  },
+  "82854": {
+    "name": "Печенье шоколадно-ореховое \"Буоно\", 180г",
+    "price": "172",
+    "old_price": "287",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-shokoladno-orekhovoe-buono-82854/"
   },
   "83055": {
     "name": "Изделие х/б \"Полбяной цельнозер. мультизлак.\", нарезка",
@@ -104,13 +181,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banan-56310/"
   },
-  "25052": {
-    "name": "Перец сладкий ассорти, 600 г",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-sladkiy-assorti-25052/"
-  },
   "18110": {
     "name": "Клюква в сахарной пудре",
     "price": "101",
@@ -125,12 +195,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-grudki-utenka-v-yagodnom-souse-99192/"
   },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
+  "39458": {
+    "name": "Салат оливье, 300 г",
+    "price": "203",
+    "old_price": "338",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+    "link": "https://vkusvill.ru/goods/salat-olive-39458/"
+  },
+  "22870": {
+    "name": "Базилик зеленый, 30 г",
+    "price": "104",
+    "old_price": "174",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bazilik-zelenyy-22870/"
   },
   "42832": {
     "name": "Апельсин соковый",
@@ -138,6 +215,13 @@
     "old_price": "280",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/apelsin-sokovyy-42832/"
+  },
+  "79222": {
+    "name": "Йогурт сливочный с инжиром 5,5%",
+    "price": "61",
+    "old_price": "101",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-slivochnyy-s-inzhirom-5-79222/"
   },
   "64824": {
     "name": "Изделие х/б \"Деревенский\", половинка. Пекарня",
@@ -173,13 +257,6 @@
     "old_price": "190",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ulitka-mindalnaya-s-chyernoy-smorodinoy-pekarnya-105098/"
-  },
-  "118814": {
-    "name": "Печенье песочное \"Эфин\"",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-pesochnoe-efin-118814/"
   },
   "118779": {
     "name": "Чиабатта пшенично-ржаная. Пекарня",
@@ -230,6 +307,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-kolomenskoe-nareznoy-400-g-63603/"
   },
+  "71612": {
+    "name": "Кокосовое молоко Foco Organic Tetra Pak 250 мл",
+    "price": "117",
+    "old_price": "195",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kokosovoe-moloko-foco-organic-tetra-pak-250-ml-71612/"
+  },
+  "72307": {
+    "name": "Напиток газированный Fanta Апельсин безалкогольный 1 л",
+    "price": "146",
+    "old_price": "244",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-gazirovannyy-fanta-apelsin-bezalkogolnyy-1-l-72307/"
+  },
   "73537": {
     "name": "Бульон ProBulion костный куриный замороженный 300 мл",
     "price": "353",
@@ -243,68 +334,5 @@
     "old_price": "245",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zefir-sharmel-apelsinovyy-255-g-105069/"
-  },
-  "119756": {
-    "name": "Пицца Zotman на бородинском тесте с окороком 470 г",
-    "price": "660",
-    "old_price": "1100",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstsa-zotman-na-borodinskom-teste-s-okorokom-470-g-119756/"
-  },
-  "39916": {
-    "name": "Зефир Шармэль яблочный 255 г",
-    "price": "147",
-    "old_price": "245",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zefir-sharmel-yablochnyy-255-g-39916/"
-  },
-  "104229": {
-    "name": "Яйца перепелиные маринованные, вареные",
-    "price": "169",
-    "old_price": "281",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytsa-perepelinye-marinovannye-104229/"
-  },
-  "67483": {
-    "name": "Песочная корзиночка Хлебный дом Ягодное лукошко с черникой 140 г",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pesochnaya-korzinochka-khlebnyy-dom-yagodnoe-lukoshko-s-chernikoy-140-g-67483/"
-  },
-  "119134": {
-    "name": "Холодный зеленый чай Восточные листья Цитрусовый Пуэр 500 мл",
-    "price": "160",
-    "old_price": "267",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kholodnyy-zelenyy-chay-vostochnye-listya-tsitrusovyy-puer-500-ml-119134/"
-  },
-  "110304": {
-    "name": "Напиток безалкогольный Kapibara Мармеладные мишки сильногазированный 500 мл",
-    "price": "51",
-    "old_price": "85",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-kapibara-marmeladnye-mishki-silnogazirovannyy-500-ml-110304/"
-  },
-  "120064": {
-    "name": "Курица с зеленым рисом карри",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-zelenym-risom-karri-120064/"
-  },
-  "20797": {
-    "name": "Голубика, вес",
-    "price": "537",
-    "old_price": "895",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-20797/"
-  },
-  "62571": {
-    "name": "Колбаски гриль Велком Барбекю Микс вареные 640 г",
-    "price": "359",
-    "old_price": "599",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-gril-velkom-barbekyu-miks-varenye-640-g-62571/"
   }
 }
