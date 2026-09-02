@@ -40,4 +40,5 @@ jobs:
           [ -f session_expired.flag ] && git add -f session_expired.flag
           [ -f session_expired.flag ] || git rm -f --ignore-unmatch session_expired.flag >/dev/null 2>&1 || true
           git diff --staged --quiet || git commit -m "chore: update seen items state"
+          git pull --rebase origin main
           git push
