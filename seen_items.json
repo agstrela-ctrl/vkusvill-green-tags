@@ -69,40 +69,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-malina-zhimolost-113701/"
   },
-  "118906": {
-    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
-  },
-  "111098": {
-    "name": "Окрошка с вегетарианской \"колбасой\"",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-s-vegetarianskoy-kolbasoy-111098/"
-  },
-  "114975": {
-    "name": "Стейки из курицы в соусе из манго и лайма",
-    "price": "420",
-    "old_price": "700",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyki-iz-kuritsy-v-souse-iz-mango-i-layma-114975/"
-  },
-  "110141": {
-    "name": "Кефир ЭкоНива 3,2% 1 кг",
-    "price": "89",
-    "old_price": "149",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-ekoniva-3-110141/"
-  },
   "124289": {
     "name": "Йогурт греческий из овечьего молока \"Вишня\" 4,0-8,0%",
     "price": "65",
     "old_price": "108",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-grecheskiy-iz-ovechego-moloka-vishnya-4-124289/"
+  },
+  "118906": {
+    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
   },
   "120605": {
     "name": "Тан 0,5%, 1 л",
@@ -124,5 +103,26 @@
     "old_price": "418",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-krabovaya-s-kartofelnym-pyure-117108/"
+  },
+  "111098": {
+    "name": "Окрошка с вегетарианской \"колбасой\"",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-vegetarianskoy-kolbasoy-111098/"
+  },
+  "114975": {
+    "name": "Стейки из курицы в соусе из манго и лайма",
+    "price": "420",
+    "old_price": "700",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyki-iz-kuritsy-v-souse-iz-mango-i-layma-114975/"
+  },
+  "110141": {
+    "name": "Кефир ЭкоНива 3,2% 1 кг",
+    "price": "89",
+    "old_price": "149",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-ekoniva-3-110141/"
   }
 }
