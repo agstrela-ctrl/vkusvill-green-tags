@@ -1,16 +1,9 @@
 {
-  "62171": {
-    "name": "Колбаса вареная \"Классическая\". Халяль, 430 г",
-    "price": "271",
-    "old_price": "452",
+  "102953": {
+    "name": "Сыр мягкий с белой плесенью \"Бри\" с грецким орехом, 125 г",
+    "price": "229",
+    "old_price": "382",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-klassicheskaya-khalyal-62171/"
-  },
-  "119981": {
-    "name": "Ветчина из куриной грудки, Халяль",
-    "price": "302",
-    "old_price": "504",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-kurinoy-grudki-119981/"
+    "link": "https://vkusvill.ru/goods/syr-myagkiy-s-beloy-plesenyu-bri-s-gretskim-orekhom-102953/"
   }
 }
