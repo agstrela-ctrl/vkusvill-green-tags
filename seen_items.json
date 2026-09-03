@@ -1,4 +1,18 @@
 {
+  "489": {
+    "name": "Голень цыпленка-бройлера",
+    "price": "254",
+    "old_price": "423",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-489/"
+  },
+  "93669": {
+    "name": "Боул \"Зеленый салат\" с индейкой, брокколи, киноа и эдамаме",
+    "price": "209",
+    "old_price": "348",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-zelenyy-salat-s-indeykoy-93669/"
+  },
   "1039": {
     "name": "Изделие цельнозер. без муки \"Житный\", нарезка",
     "price": "56",
@@ -13,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-shokoladnyy-miks-mussovyy-98344/"
   },
-  "73475": {
-    "name": "Торт \"Бенто\" с клубникой (С Днем Рождения)",
-    "price": "322",
-    "old_price": "536",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
-  },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
     "price": "63",
@@ -27,12 +34,47 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
+  "76626": {
+    "name": "Роллы \"Филадельфия\" с филе семги и речного угря",
+    "price": "360",
+    "old_price": "600",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rolly-filadelfiya-s-file-semgi-i-rechnogo-ugrya-76626/"
+  },
   "30357": {
     "name": "Ассорти х/к из скумбрии и горбуши, 250 г",
     "price": "234",
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-skumbrii-i-gorbushi-30357/"
+  },
+  "123462": {
+    "name": "Салат корейский \"Ве-Ча\" с говядиной и огурцами",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-koreyskiy-ve-cha-s-govyadinoy-i-ogurtsami-123462/"
+  },
+  "124359": {
+    "name": "Сэндвич со скрэмблом, беконом и сыром чеддер",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-so-skremblom-124359/"
+  },
+  "105824": {
+    "name": "Суп \"Мисо-рамен\" с морепродуктами",
+    "price": "300",
+    "old_price": "500",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-miso-ramen-s-moreproduktami-105824/"
+  },
+  "120064": {
+    "name": "Курица с зеленым рисом карри",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-s-zelenym-risom-karri-120064/"
   },
   "124289": {
     "name": "Йогурт греческий из овечьего молока \"Вишня\" 4,0-8,0%",
