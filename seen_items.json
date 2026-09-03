@@ -1,9 +1,23 @@
 {
-  "120605": {
-    "name": "Тан 0,5%, 1 л",
-    "price": "88",
-    "old_price": "147",
+  "39249": {
+    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
+    "price": "173",
+    "old_price": "288",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tan-0-120605/"
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
+  },
+  "122489": {
+    "name": "Чиабатта с куриной ветчиной и соусом \"Цезарь\", кафе",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinoy-vetchinoy-i-sousom-tsezar-122489/"
+  },
+  "123729": {
+    "name": "Чиабатта оливковая с ветчиной из индейки, омлетом и сырным соусом, кафе",
+    "price": "168",
+    "old_price": "280",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-olivkovaya-s-vetchinoy-iz-indeyki-123729/"
   }
 }
