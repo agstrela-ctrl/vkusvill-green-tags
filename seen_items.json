@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
   },
-  "62806": {
-    "name": "Фарш из говядины и свинины, 360 г",
-    "price": "206",
-    "old_price": "343",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-svininy-62806/"
-  },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
     "price": "62",
@@ -40,20 +33,6 @@
     "old_price": "362",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-s-tselnym-molokom-bez-glyutena-122396/"
-  },
-  "58742": {
-    "name": "Блины с \"Крем чиз\" и вишней",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-krem-chiz-i-vishney-58742/"
-  },
-  "14662": {
-    "name": "Медальоны в рисовых хлопьях, охл.",
-    "price": "370",
-    "old_price": "617",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/medalony-v-risovykh-khlopyakh-14662/"
   },
   "26305": {
     "name": "Хлеб \"Романовский\", нарезка",
@@ -152,27 +131,6 @@
     "old_price": "498",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaski-aromatnye-dlya-zharki-122343/"
-  },
-  "109665": {
-    "name": "Филе форели радужной на гриле с рисом",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-foreli-raduzhnoy-na-grile-s-risom-109665/"
-  },
-  "26904": {
-    "name": "Сэндвич с форелью.",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
-  },
-  "80166": {
-    "name": "Десерт \"Наполеон\", постный",
-    "price": "136",
-    "old_price": "226",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-napoleon-80166/"
   },
   "123948": {
     "name": "Овсянка ленивая с семенами чиа и клубничным топпингом",
