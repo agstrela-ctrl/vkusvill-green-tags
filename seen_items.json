@@ -1,31 +1,17 @@
 {
-  "489": {
-    "name": "Голень цыпленка-бройлера",
-    "price": "254",
-    "old_price": "423",
+  "89903": {
+    "name": "Напиток-шот \"Мандарин-лайм-лимон-апельсин\", 100 мл",
+    "price": "75",
+    "old_price": "125",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-489/"
+    "link": "https://vkusvill.ru/goods/napitok-shot-mandarin-laym-limon-apelsin-89903/"
   },
-  "93669": {
-    "name": "Боул \"Зеленый салат\" с индейкой, брокколи, киноа и эдамаме",
-    "price": "209",
-    "old_price": "348",
+  "116182": {
+    "name": "Смузи \"Тропический микс\" с коллагеном, 250 мл",
+    "price": "106",
+    "old_price": "177",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-zelenyy-salat-s-indeykoy-93669/"
-  },
-  "1039": {
-    "name": "Изделие цельнозер. без муки \"Житный\", нарезка",
-    "price": "56",
-    "old_price": "93",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-zhitnyy-1039/"
-  },
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+    "link": "https://vkusvill.ru/goods/smuzi-tropicheskiy-miks-s-kollagenom-116182/"
   },
   "119801": {
     "name": "Палочки сдобные с варёной сгущенкой",
