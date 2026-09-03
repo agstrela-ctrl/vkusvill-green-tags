@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-konservirovannym-tuntsom-i-yablokom-108186/"
   },
-  "75244": {
-    "name": "Котлета куриная с фарфалле",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244/"
-  },
   "123152": {
     "name": "Сэндвич ролл с курицей и соусом кимчи",
     "price": "167",
@@ -26,13 +19,6 @@
     "old_price": "84",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
-  },
-  "117386": {
-    "name": "Ролл с сёмгой, тунцом и угрём",
-    "price": "359",
-    "old_price": "598",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-syemgoy-117386/"
   },
   "62806": {
     "name": "Фарш из говядины и свинины, 360 г",
@@ -82,13 +68,6 @@
     "old_price": "1028",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-file-grudki-indeyki-s-olivkovym-maslom-109072/"
-  },
-  "100737": {
-    "name": "Лепешка с сыром и картофелем, 2 шт",
-    "price": "163",
-    "old_price": "272",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-syrom-i-kartofelem-100737/"
   },
   "49769": {
     "name": "Окрошка овощная, 400 г",
@@ -237,13 +216,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syr-rastitelnyy-green-idea-parmezan-kusok-200-g-72798/"
   },
-  "122688": {
-    "name": "Торт бисквитный \"Приэльбрусье\" со смородиной",
-    "price": "353",
-    "old_price": "588",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-biskvitnyy-prielbruse-so-smorodinoy-122688/"
-  },
   "125620": {
     "name": "Сэндвич ролл \"Фалафель - бабагануш\" с сырным муссом",
     "price": "185",
@@ -257,13 +229,6 @@
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
-  },
-  "117654": {
-    "name": "Филе куриной грудки с грибами",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-s-gribami-117654/"
   },
   "124748": {
     "name": "Сосиски Клинский Языковые 350 г",
