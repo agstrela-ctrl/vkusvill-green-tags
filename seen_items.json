@@ -132,6 +132,34 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovsyanka-lenivaya-s-semenami-chia-i-klubnichnym-toppingom-123948/"
   },
+  "125620": {
+    "name": "Сэндвич ролл \"Фалафель - бабагануш\" с сырным муссом",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-falafel-babaganush-s-syrnym-mussom-125620/"
+  },
+  "99743": {
+    "name": "Завтрак боул с хашбрауном, кафе",
+    "price": "204",
+    "old_price": "340",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
+  },
+  "124748": {
+    "name": "Сосиски Клинский Языковые 350 г",
+    "price": "239",
+    "old_price": "399",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-klinskiy-yazykovye-350-g-124748/"
+  },
+  "122644": {
+    "name": "Колбаски \"Высокобелковые\" из куриного филе с семенами льна",
+    "price": "214",
+    "old_price": "356",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-vysokobelkovye-iz-kurinogo-file-s-semenami-lna-122644/"
+  },
   "120896": {
     "name": "Сосиски Клинский Сливочные 410 г",
     "price": "254",
@@ -166,34 +194,6 @@
     "old_price": "307",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syr-rastitelnyy-green-idea-parmezan-kusok-200-g-72798/"
-  },
-  "125620": {
-    "name": "Сэндвич ролл \"Фалафель - бабагануш\" с сырным муссом",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-falafel-babaganush-s-syrnym-mussom-125620/"
-  },
-  "99743": {
-    "name": "Завтрак боул с хашбрауном, кафе",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
-  },
-  "124748": {
-    "name": "Сосиски Клинский Языковые 350 г",
-    "price": "239",
-    "old_price": "399",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-klinskiy-yazykovye-350-g-124748/"
-  },
-  "122644": {
-    "name": "Колбаски \"Высокобелковые\" из куриного филе с семенами льна",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-vysokobelkovye-iz-kurinogo-file-s-semenami-lna-122644/"
   },
   "122667": {
     "name": "Колбаски \"Улитки\" куриные с сыром",
