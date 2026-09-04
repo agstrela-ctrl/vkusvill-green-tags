@@ -1,18 +1,4 @@
 {
-  "91332": {
-    "name": "Суп Фо Бо",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
-  },
-  "119627": {
-    "name": "Вок тофу с овощами",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vok-tofu-s-ovoshchami-119627/"
-  },
   "123166": {
     "name": "Суп \"Том ям\" с креветками и древесными грибами, холодный",
     "price": "215",
@@ -26,13 +12,6 @@
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
-  },
-  "98014": {
-    "name": "Улитка с творогом и изюмом",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ulitka-s-tvorogom-i-izyumom-98014/"
   },
   "122204": {
     "name": "Шаурма с уткой по-пекински и соусом Хойсин",
