@@ -1,11 +1,4 @@
 {
-  "88589": {
-    "name": "Голубика \"ВВ Отборное\", 125 г",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-vv-otbornoe-88589/"
-  },
   "91332": {
     "name": "Суп Фо Бо",
     "price": "198",
@@ -27,12 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-82543/"
   },
-  "121195": {
-    "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
-    "price": "192",
-    "old_price": "320",
+  "107646": {
+    "name": "Ветчина из филе куриной грудки \"Легкая классика\", нарезка",
+    "price": "149",
+    "old_price": "248",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
+    "link": "https://vkusvill.ru/goods/vetchina-iz-file-kurinoy-grudki-legkaya-klassika-107646/"
   },
   "119627": {
     "name": "Вок тофу с овощами",
@@ -40,13 +33,6 @@
     "old_price": "348",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vok-tofu-s-ovoshchami-119627/"
-  },
-  "58178": {
-    "name": "Крем-суп с тыквой и индейкой",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
   },
   "123166": {
     "name": "Суп \"Том ям\" с креветками и древесными грибами, холодный",
@@ -62,19 +48,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
   },
+  "98014": {
+    "name": "Улитка с творогом и изюмом",
+    "price": "90",
+    "old_price": "150",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ulitka-s-tvorogom-i-izyumom-98014/"
+  },
   "59022": {
     "name": "Шашлык из индейки 4 перца",
     "price": "586",
     "old_price": "976",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-4-pertsa-59022/"
-  },
-  "99925": {
-    "name": "Шаурма с креветкой, соусом тысяча островов и салатом Романо",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
   },
   "110062": {
     "name": "Окрошка с говядиной, 250 г",
