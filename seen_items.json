@@ -1,10 +1,52 @@
 {
+  "124133": {
+    "name": "Тарт \"Клубника-земляника\" со сливочно-сырным кремом",
+    "price": "590",
+    "old_price": "984",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tart-klubnika-zemlyanika-so-slivochno-syrnym-kremom-124133/"
+  },
+  "115539": {
+    "name": "Торт \"Рикейк\" с черносливом и грецким орехом",
+    "price": "581",
+    "old_price": "968",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-rikeyk-s-chernoslivom-i-gretskim-orekhom-115539/"
+  },
+  "113288": {
+    "name": "Десерт \"Бонфуа\" с лесными ягодами и крем-чиз",
+    "price": "145",
+    "old_price": "242",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-bonfua-s-lesnymi-yagodami-i-krem-chiz-113288/"
+  },
   "66659": {
     "name": "Горбуша слабосоленая ломтики, 100 г",
     "price": "163",
     "old_price": "272",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
+  },
+  "24734": {
+    "name": "Торт \"Морковный с пеканом\" постный",
+    "price": "359",
+    "old_price": "598",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-morkovnyy-s-pekanom-postnyy-24734/"
+  },
+  "68366": {
+    "name": "Десерт \"Киевский\", 100 г",
+    "price": "149",
+    "old_price": "248",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-kievskiy-68366/"
+  },
+  "53640": {
+    "name": "Ассорти эклеров \"Манго, Сырный, Лесные ягоды\"",
+    "price": "212",
+    "old_price": "353",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-eklerov-mango-53640/"
   },
   "49769": {
     "name": "Окрошка овощная, 400 г",
