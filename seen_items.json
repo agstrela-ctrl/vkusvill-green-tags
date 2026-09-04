@@ -6,20 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tart-klubnika-zemlyanika-so-slivochno-syrnym-kremom-124133/"
   },
-  "115539": {
-    "name": "Торт \"Рикейк\" с черносливом и грецким орехом",
-    "price": "581",
-    "old_price": "968",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-rikeyk-s-chernoslivom-i-gretskim-orekhom-115539/"
-  },
-  "113288": {
-    "name": "Десерт \"Бонфуа\" с лесными ягодами и крем-чиз",
-    "price": "145",
-    "old_price": "242",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bonfua-s-lesnymi-yagodami-i-krem-chiz-113288/"
-  },
   "66659": {
     "name": "Горбуша слабосоленая ломтики, 100 г",
     "price": "163",
@@ -41,19 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kievskiy-68366/"
   },
-  "53640": {
-    "name": "Ассорти эклеров \"Манго, Сырный, Лесные ягоды\"",
-    "price": "212",
-    "old_price": "353",
+  "109982": {
+    "name": "Тофу копченый, 250 г",
+    "price": "109",
+    "old_price": "181",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-eklerov-mango-53640/"
-  },
-  "49769": {
-    "name": "Окрошка овощная, 400 г",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
+    "link": "https://vkusvill.ru/goods/tofu-kopchenyy-109982/"
   },
   "65461": {
     "name": "Изделие х/б \"Скандинавский\" цельнозерн. на закваске",
@@ -62,19 +41,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-skandinavskiy-tselnozern-na-zakvaske-65461/"
   },
-  "109982": {
-    "name": "Тофу копченый, 250 г",
-    "price": "109",
-    "old_price": "181",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tofu-kopchenyy-109982/"
-  },
   "116837": {
     "name": "Тофу \"Шелковый\", 230 г",
     "price": "136",
     "old_price": "227",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-shelkovyy-116837/"
+  },
+  "49769": {
+    "name": "Окрошка овощная, 400 г",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
   },
   "32075": {
     "name": "Сыр President Petit Brie с белой плесенью 60% мягкий 125 г",
@@ -90,12 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovsyanka-lenivaya-s-semenami-chia-i-klubnichnym-toppingom-123948/"
   },
-  "124748": {
-    "name": "Сосиски Клинский Языковые 350 г",
-    "price": "239",
-    "old_price": "399",
+  "122667": {
+    "name": "Колбаски \"Улитки\" куриные с сыром",
+    "price": "148",
+    "old_price": "246",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-klinskiy-yazykovye-350-g-124748/"
+    "link": "https://vkusvill.ru/goods/kolbaski-ulitki-kurinye-s-syrom-122667/"
   },
   "122644": {
     "name": "Колбаски \"Высокобелковые\" из куриного филе с семенами льна",
@@ -111,19 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-klinskiy-slivochnye-410-g-120896/"
   },
-  "62571": {
-    "name": "Колбаски гриль Велком Барбекю Микс вареные 640 г",
-    "price": "359",
-    "old_price": "599",
+  "124748": {
+    "name": "Сосиски Клинский Языковые 350 г",
+    "price": "239",
+    "old_price": "399",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-gril-velkom-barbekyu-miks-varenye-640-g-62571/"
-  },
-  "117217": {
-    "name": "Сыр Золото Европы Манчего 50% твердый в нарезке 175 г",
-    "price": "356",
-    "old_price": "593",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-zoloto-evropy-manchego-50-tverdyy-v-narezke-175-g-117217/"
+    "link": "https://vkusvill.ru/goods/sosiski-klinskiy-yazykovye-350-g-124748/"
   },
   "120599": {
     "name": "Сельдь филе-кусочки Меридиан соленая в соусе пряная горчица 115 г",
@@ -132,18 +104,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/seld-file-kusochki-meridian-solenaya-v-souse-pryanaya-gorchitsa-115-g-120599/"
   },
+  "62571": {
+    "name": "Колбаски гриль Велком Барбекю Микс вареные 640 г",
+    "price": "359",
+    "old_price": "599",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-gril-velkom-barbekyu-miks-varenye-640-g-62571/"
+  },
   "72798": {
     "name": "Сыр растительный Green Idea Пармезан кусок 200 г",
     "price": "184",
     "old_price": "307",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syr-rastitelnyy-green-idea-parmezan-kusok-200-g-72798/"
-  },
-  "122667": {
-    "name": "Колбаски \"Улитки\" куриные с сыром",
-    "price": "148",
-    "old_price": "246",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-ulitki-kurinye-s-syrom-122667/"
   }
 }
