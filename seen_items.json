@@ -1,11 +1,4 @@
 {
-  "16589": {
-    "name": "Форель малосоленая ломтики, 150 г",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-malosolenaya-lomtiki-16589/"
-  },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
     "price": "191",
@@ -13,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
   },
-  "115967": {
-    "name": "Уха по-фински",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ukha-po-finski-115967/"
-  },
   "49834": {
     "name": "Желе ягодное малина, голубика, клубника",
     "price": "154",
     "old_price": "256",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-yagodnoe-malina-49834/"
-  },
-  "122384": {
-    "name": "Салат Рукола, 65г",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-rukola-122384/"
   },
   "117805": {
     "name": "Фарш из филе цыпленка-бройлера на зерновом откорме",
@@ -69,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-smetannyy-s-malinoy-63628/"
   },
-  "123388": {
-    "name": "Чиабатта злаковая с куриным филе, соусом песто и томатным айоли",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-zlakovaya-s-kurinym-file-123388/"
-  },
   "25023": {
     "name": "Блинчики \"Цезарь\"",
     "price": "146",
@@ -83,26 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blinchiki-tsezar-25023/"
   },
-  "117174": {
-    "name": "Торт \"Стёпушка\" со смородиной из рубленого теста",
-    "price": "496",
-    "old_price": "826",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-styepushka-so-smorodinoy-iz-rublenogo-testa-117174/"
-  },
   "15924": {
     "name": "Котлеты из щуки охл., 300 г",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-shchuki-okhl-15924/"
-  },
-  "117905": {
-    "name": "Сэндвич на пикантной булочке с ростбифом и соусом \"Блю Чиз\"",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-na-pikantnoy-bulochke-s-rostbifom-i-sousom-blyu-chiz-117905/"
   },
   "94226": {
     "name": "Кальмар командорский в сливочном соусе, 180 г",
