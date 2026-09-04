@@ -1,17 +1,108 @@
 {
-  "124133": {
-    "name": "Тарт \"Клубника-земляника\" со сливочно-сырным кремом",
-    "price": "590",
-    "old_price": "984",
+  "88589": {
+    "name": "Голубика \"ВВ Отборное\", 125 г",
+    "price": "179",
+    "old_price": "298",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tart-klubnika-zemlyanika-so-slivochno-syrnym-kremom-124133/"
+    "link": "https://vkusvill.ru/goods/golubika-vv-otbornoe-88589/"
   },
-  "66659": {
-    "name": "Горбуша слабосоленая ломтики, 100 г",
-    "price": "163",
-    "old_price": "272",
+  "91332": {
+    "name": "Суп Фо Бо",
+    "price": "198",
+    "old_price": "330",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
+    "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
+  },
+  "12304": {
+    "name": "Котлеты из кролика",
+    "price": "304",
+    "old_price": "506",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-krolika-12304/"
+  },
+  "82543": {
+    "name": "Крыло цыпленка-бройлера, упаковка от 1.3 кг",
+    "price": "299",
+    "old_price": "498",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-82543/"
+  },
+  "121195": {
+    "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
+  },
+  "119627": {
+    "name": "Вок тофу с овощами",
+    "price": "209",
+    "old_price": "348",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vok-tofu-s-ovoshchami-119627/"
+  },
+  "58178": {
+    "name": "Крем-суп с тыквой и индейкой",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
+  },
+  "123166": {
+    "name": "Суп \"Том ям\" с креветками и древесными грибами, холодный",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-tom-yam-s-krevetkami-i-drevesnymi-gribami-123166/"
+  },
+  "119818": {
+    "name": "Лепешка \"Тортилья\" с сыром",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
+  },
+  "59022": {
+    "name": "Шашлык из индейки 4 перца",
+    "price": "586",
+    "old_price": "976",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-4-pertsa-59022/"
+  },
+  "99925": {
+    "name": "Шаурма с креветкой, соусом тысяча островов и салатом Романо",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
+  },
+  "110062": {
+    "name": "Окрошка с говядиной, 250 г",
+    "price": "245",
+    "old_price": "408",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-110062/"
+  },
+  "122204": {
+    "name": "Шаурма с уткой по-пекински и соусом Хойсин",
+    "price": "204",
+    "old_price": "340",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-utkoy-po-pekinski-i-sousom-khoysin-122204/"
+  },
+  "68413": {
+    "name": "Чиабатта с индейкой су-вид и горчичным соусом",
+    "price": "186",
+    "old_price": "310",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-indeykoy-su-vid-i-gorchichnym-sousom-68413/"
+  },
+  "122742": {
+    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   },
   "116837": {
     "name": "Тофу \"Шелковый\", 230 г",
@@ -19,6 +110,13 @@
     "old_price": "227",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-shelkovyy-116837/"
+  },
+  "53170": {
+    "name": "Окрошка с говядиной, 400 г",
+    "price": "371",
+    "old_price": "618",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-53170/"
   },
   "49769": {
     "name": "Окрошка овощная, 400 г",
@@ -40,13 +138,6 @@
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovsyanka-lenivaya-s-semenami-chia-i-klubnichnym-toppingom-123948/"
-  },
-  "120896": {
-    "name": "Сосиски Клинский Сливочные 410 г",
-    "price": "254",
-    "old_price": "424",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-klinskiy-slivochnye-410-g-120896/"
   },
   "124748": {
     "name": "Сосиски Клинский Языковые 350 г",
