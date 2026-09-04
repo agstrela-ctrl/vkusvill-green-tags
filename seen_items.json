@@ -1,18 +1,4 @@
 {
-  "123166": {
-    "name": "Суп \"Том ям\" с креветками и древесными грибами, холодный",
-    "price": "215",
-    "old_price": "358",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-tom-yam-s-krevetkami-i-drevesnymi-gribami-123166/"
-  },
-  "119818": {
-    "name": "Лепешка \"Тортилья\" с сыром",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
-  },
   "68413": {
     "name": "Чиабатта с индейкой су-вид и горчичным соусом",
     "price": "186",
@@ -48,19 +34,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-53170/"
   },
-  "49769": {
-    "name": "Окрошка овощная, 400 г",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
-  },
   "32075": {
     "name": "Сыр President Petit Brie с белой плесенью 60% мягкий 125 г",
     "price": "269",
     "old_price": "530",
     "discount": "49",
     "link": "https://vkusvill.ru/goods/syr-president-petit-brie-s-beloy-plesenyu-60-myagkiy-125-g-32075/"
+  },
+  "120897": {
+    "name": "Сосиски Клинские 410 г",
+    "price": "263",
+    "old_price": "438",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-klinskie-410-g-120897/"
   },
   "123948": {
     "name": "Овсянка ленивая с семенами чиа и клубничным топпингом",
