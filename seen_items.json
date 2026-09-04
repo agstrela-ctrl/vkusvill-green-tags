@@ -1,86 +1,65 @@
 {
-  "34217": {
-    "name": "Батон нарезной, половинка",
-    "price": "28",
-    "old_price": "46",
-    "discount": "39",
-    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
-  },
-  "489": {
-    "name": "Голень цыпленка-бройлера",
-    "price": "254",
-    "old_price": "423",
+  "116837": {
+    "name": "Тофу \"Шелковый\", 230 г",
+    "price": "136",
+    "old_price": "227",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-489/"
+    "link": "https://vkusvill.ru/goods/tofu-shelkovyy-116837/"
   },
-  "609": {
-    "name": "Огурцы короткоплодные",
-    "price": "119",
-    "old_price": "198",
+  "53170": {
+    "name": "Окрошка с говядиной, 400 г",
+    "price": "371",
+    "old_price": "618",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-609/"
+    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-53170/"
   },
-  "43240": {
-    "name": "Плов с курицей, 600 г",
-    "price": "252",
-    "old_price": "420",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-s-kuritsey-43240/"
+  "32075": {
+    "name": "Сыр President Petit Brie с белой плесенью 60% мягкий 125 г",
+    "price": "269",
+    "old_price": "530",
+    "discount": "49",
+    "link": "https://vkusvill.ru/goods/syr-president-petit-brie-s-beloy-plesenyu-60-myagkiy-125-g-32075/"
   },
-  "95582": {
-    "name": "Мини-чиабатта с куриной ветчиной, омлетом и сыром (2 шт)",
-    "price": "180",
-    "old_price": "300",
+  "120897": {
+    "name": "Сосиски Клинские 410 г",
+    "price": "263",
+    "old_price": "438",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
+    "link": "https://vkusvill.ru/goods/sosiski-klinskie-410-g-120897/"
   },
-  "113571": {
-    "name": "Батон \"Молодежная классика\", нарезка",
-    "price": "36",
-    "old_price": "60",
+  "123948": {
+    "name": "Овсянка ленивая с семенами чиа и клубничным топпингом",
+    "price": "132",
+    "old_price": "220",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+    "link": "https://vkusvill.ru/goods/ovsyanka-lenivaya-s-semenami-chia-i-klubnichnym-toppingom-123948/"
   },
-  "125311": {
-    "name": "Поке-боул с креветками и соусом Манго-Юдзу",
-    "price": "299",
-    "old_price": "498",
+  "124748": {
+    "name": "Сосиски Клинский Языковые 350 г",
+    "price": "239",
+    "old_price": "399",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/poke-boul-s-krevetkami-i-sousom-mango-yudzu-125311/"
+    "link": "https://vkusvill.ru/goods/sosiski-klinskiy-yazykovye-350-g-124748/"
   },
-  "102212": {
-    "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
-    "price": "222",
-    "old_price": "370",
+  "120599": {
+    "name": "Сельдь филе-кусочки Меридиан соленая в соусе пряная горчица 115 г",
+    "price": "105",
+    "old_price": "175",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-bitochek-sochnyy-s-penne-i-salat-krabovyy-102212/"
+    "link": "https://vkusvill.ru/goods/seld-file-kusochki-meridian-solenaya-v-souse-pryanaya-gorchitsa-115-g-120599/"
   },
-  "105824": {
-    "name": "Суп \"Мисо-рамен\" с морепродуктами",
-    "price": "300",
-    "old_price": "500",
+  "62571": {
+    "name": "Колбаски гриль Велком Барбекю Микс вареные 640 г",
+    "price": "359",
+    "old_price": "599",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-miso-ramen-s-moreproduktami-105824/"
+    "link": "https://vkusvill.ru/goods/kolbaski-gril-velkom-barbekyu-miks-varenye-640-g-62571/"
   },
-  "32936": {
-    "name": "Тартин пшеничный, половинка",
-    "price": "50",
-    "old_price": "84",
+  "72798": {
+    "name": "Сыр растительный Green Idea Пармезан кусок 200 г",
+    "price": "184",
+    "old_price": "307",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
-  },
-  "21005": {
-    "name": "Перец красный сладкий",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005/"
-  },
-  "112775": {
-    "name": "Изделие х/б \"Зерновой\" с куркумой",
-    "price": "61",
-    "old_price": "102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
+    "link": "https://vkusvill.ru/goods/syr-rastitelnyy-green-idea-parmezan-kusok-200-g-72798/"
   }
 }
