@@ -6,27 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
   },
-  "12304": {
-    "name": "Котлеты из кролика",
-    "price": "304",
-    "old_price": "506",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-krolika-12304/"
-  },
-  "82543": {
-    "name": "Крыло цыпленка-бройлера, упаковка от 1.3 кг",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-82543/"
-  },
-  "107646": {
-    "name": "Ветчина из филе куриной грудки \"Легкая классика\", нарезка",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-file-kurinoy-grudki-legkaya-klassika-107646/"
-  },
   "119627": {
     "name": "Вок тофу с овощами",
     "price": "209",
@@ -54,20 +33,6 @@
     "old_price": "150",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ulitka-s-tvorogom-i-izyumom-98014/"
-  },
-  "59022": {
-    "name": "Шашлык из индейки 4 перца",
-    "price": "586",
-    "old_price": "976",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-4-pertsa-59022/"
-  },
-  "110062": {
-    "name": "Окрошка с говядиной, 250 г",
-    "price": "245",
-    "old_price": "408",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-110062/"
   },
   "122204": {
     "name": "Шаурма с уткой по-пекински и соусом Хойсин",
