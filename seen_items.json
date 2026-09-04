@@ -20,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-yagodnoe-malina-49834/"
   },
+  "111702": {
+    "name": "Салат \"Цезарь\" с креветками",
+    "price": "287",
+    "old_price": "478",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
+  },
   "88563": {
     "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
     "price": "166",
@@ -68,13 +75,6 @@
     "old_price": "115",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-prorostkov-chechevitsy-121256/"
-  },
-  "53470": {
-    "name": "Ассорти эклеров \"Ваниль, Фисташка, Шоколад\"",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-eklerov-vanil-53470/"
   },
   "111433": {
     "name": "Чизкейк \"Японский\", 140 г",
@@ -173,6 +173,13 @@
     "old_price": "160",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sliva-kubanskaya-v-vederke-113557/"
+  },
+  "120064": {
+    "name": "Курица с зеленым рисом карри",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-s-zelenym-risom-karri-120064/"
   },
   "113867": {
     "name": "Слива \"Комета\", 500 г",
