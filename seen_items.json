@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-shelkovyy-116837/"
   },
-  "53170": {
-    "name": "Окрошка с говядиной, 400 г",
-    "price": "371",
-    "old_price": "618",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-53170/"
-  },
   "32075": {
     "name": "Сыр President Petit Brie с белой плесенью 60% мягкий 125 г",
     "price": "269",
@@ -26,12 +19,5 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/seld-file-kusochki-meridian-solenaya-v-souse-pryanaya-gorchitsa-115-g-120599/"
-  },
-  "72798": {
-    "name": "Сыр растительный Green Idea Пармезан кусок 200 г",
-    "price": "184",
-    "old_price": "307",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-rastitelnyy-green-idea-parmezan-kusok-200-g-72798/"
   }
 }
