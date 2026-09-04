@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
   },
+  "66659": {
+    "name": "Горбуша слабосоленая ломтики, 100 г",
+    "price": "163",
+    "old_price": "272",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
+  },
   "109072": {
     "name": "Шашлык из филе грудки индейки с оливковым маслом",
     "price": "617",
@@ -26,13 +33,6 @@
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
-  },
-  "96008": {
-    "name": "Крылышки цыпленка-бройлера с куркумой",
-    "price": "386",
-    "old_price": "643",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylyshki-tsyplenka-broylera-s-kurkumoy-96008/"
   },
   "65461": {
     "name": "Изделие х/б \"Скандинавский\" цельнозерн. на закваске",
@@ -54,6 +54,13 @@
     "old_price": "190",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-rostkov-brokkoli-116542/"
+  },
+  "105780": {
+    "name": "Стейк свиной в грибном маринаде",
+    "price": "327",
+    "old_price": "545",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-svinoy-v-gribnom-marinade-105780/"
   },
   "116837": {
     "name": "Тофу \"Шелковый\", 230 г",
