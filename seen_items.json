@@ -1,24 +1,10 @@
 {
-  "32936": {
-    "name": "Тартин пшеничный, половинка",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
-  },
   "66659": {
     "name": "Горбуша слабосоленая ломтики, 100 г",
     "price": "163",
     "old_price": "272",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
-  },
-  "109072": {
-    "name": "Шашлык из филе грудки индейки с оливковым маслом",
-    "price": "617",
-    "old_price": "1028",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-file-grudki-indeyki-s-olivkovym-maslom-109072/"
   },
   "49769": {
     "name": "Окрошка овощная, 400 г",
@@ -54,13 +40,6 @@
     "old_price": "530",
     "discount": "49",
     "link": "https://vkusvill.ru/goods/syr-president-petit-brie-s-beloy-plesenyu-60-myagkiy-125-g-32075/"
-  },
-  "75797": {
-    "name": "Колбаса вареная Папа может Классическая 400 г",
-    "price": "212",
-    "old_price": "354",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-papa-mozhet-klassicheskaya-400-g-75797/"
   },
   "123948": {
     "name": "Овсянка ленивая с семенами чиа и клубничным топпингом",
