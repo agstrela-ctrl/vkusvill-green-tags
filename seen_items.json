@@ -20,20 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-yagodnoe-malina-49834/"
   },
-  "111702": {
-    "name": "Салат \"Цезарь\" с креветками",
-    "price": "287",
-    "old_price": "478",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
-  },
-  "107823": {
-    "name": "Брецель на сливочном масле с кунжутом",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
-  },
   "122384": {
     "name": "Салат Рукола, 65г",
     "price": "81",
@@ -54,13 +40,6 @@
     "old_price": "115",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-prorostkov-chechevitsy-121256/"
-  },
-  "111433": {
-    "name": "Чизкейк \"Японский\", 140 г",
-    "price": "157",
-    "old_price": "262",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-yaponskiy-111433/"
   },
   "123730": {
     "name": "Суши-салат \"Филадельфия\"",
@@ -145,12 +124,5 @@
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-s-zelenym-risom-karri-120064/"
-  },
-  "65589": {
-    "name": "Грибы шампиньоны для гриля, 700 г",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/griby-shampinony-dlya-grilya-65589/"
   }
 }
