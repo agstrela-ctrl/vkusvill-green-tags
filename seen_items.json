@@ -1,10 +1,24 @@
 {
-  "72657": {
-    "name": "Корм сухой Purina one для котят с высоким содержанием курицы и цельными злаками 750 г",
-    "price": "331",
-    "old_price": "552",
+  "21193": {
+    "name": "Напиток \"Шорли\" яблочный, 500 мл",
+    "price": "104",
+    "old_price": "173",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/korm-sukhoy-purina-one-dlya-kotyat-s-vysokim-soderzhaniem-kuritsy-i-tselnymi-zlakami-750-g-72657/"
+    "link": "https://vkusvill.ru/goods/napitok-shorli-yablochnyy-21193/"
+  },
+  "18727": {
+    "name": "Соус \"Песто\"",
+    "price": "267",
+    "old_price": "445",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sous-pesto-18727/"
+  },
+  "72476": {
+    "name": "Сливки ультрапастеризованные 10%, 490 мл",
+    "price": "125",
+    "old_price": "209",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/slivki-ultrapasterizovannye-10-72476/"
   },
   "32075": {
     "name": "Сыр President Petit Brie с белой плесенью 60% мягкий 125 г",
