@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-malosolenaya-lomtiki-16589/"
   },
-  "98697": {
-    "name": "Шаурма с курицей и соусом \"Гриль\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-gril-98697/"
-  },
   "43269": {
     "name": "Желе фруктово-ягодное голубика, банан, клубника, яблоко",
     "price": "131",
@@ -26,13 +19,6 @@
     "old_price": "256",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-yagodnoe-malina-49834/"
-  },
-  "16039": {
-    "name": "Изделие х/б \"Кефирный\"",
-    "price": "55",
-    "old_price": "91",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-kefirnyy-16039/"
   },
   "88563": {
     "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
@@ -132,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-iz-kabachkov-92744/"
   },
-  "108138": {
-    "name": "Шаурма с грибным жюльеном и курицей",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-gribnym-zhyulenom-i-kuritsey-108138/"
-  },
   "123388": {
     "name": "Чиабатта злаковая с куриным филе, соусом песто и томатным айоли",
     "price": "191",
@@ -160,13 +139,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-styepushka-so-smorodinoy-iz-rublenogo-testa-117174/"
   },
-  "90296": {
-    "name": "Котлета для бургера из говядины с сыром",
-    "price": "235",
-    "old_price": "392",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-dlya-burgera-iz-govyadiny-s-syrom-90296/"
-  },
   "15924": {
     "name": "Котлеты из щуки охл., 300 г",
     "price": "198",
@@ -180,13 +152,6 @@
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-na-pikantnoy-bulochke-s-rostbifom-i-sousom-blyu-chiz-117905/"
-  },
-  "113867": {
-    "name": "Слива \"Комета\", 500 г",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sliva-kometa-113867/"
   },
   "121970": {
     "name": "Десерт \"Бонфуа\" с манго и крем-чиз",
@@ -208,6 +173,13 @@
     "old_price": "160",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sliva-kubanskaya-v-vederke-113557/"
+  },
+  "113867": {
+    "name": "Слива \"Комета\", 500 г",
+    "price": "114",
+    "old_price": "190",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sliva-kometa-113867/"
   },
   "65589": {
     "name": "Грибы шампиньоны для гриля, 700 г",
