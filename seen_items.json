@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
   },
-  "66445": {
-    "name": "Лимонад \"Мандарин\", 320 мл",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/limonad-mandarin-66445/"
-  },
   "98952": {
     "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
     "price": "328",
@@ -40,13 +33,6 @@
     "old_price": "670",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
-  },
-  "118157": {
-    "name": "Смузи \"Яблоко-клубника-базилик\" с сиропом топинамбура, 250 мл",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/smuzi-yabloko-klubnika-bazilik-s-siropom-topinambura-118157/"
   },
   "49769": {
     "name": "Окрошка овощная, 400 г",
@@ -62,19 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/marmelad-pina-kolada-ananas-kokos-121343/"
   },
-  "102259": {
-    "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
-    "price": "158",
-    "old_price": "264",
+  "86068": {
+    "name": "Кефир из цельного молока в бутылке, 900 г",
+    "price": "73",
+    "old_price": "122",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
-  },
-  "123730": {
-    "name": "Суши-салат \"Филадельфия\"",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sushi-salat-filadelfiya-123730/"
+    "link": "https://vkusvill.ru/goods/kefir-iz-tselnogo-moloka-v-butylke-86068/"
   },
   "25023": {
     "name": "Блинчики \"Цезарь\"",
