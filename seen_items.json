@@ -34,33 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
   },
-  "36208": {
-    "name": "Желе фруктовое мандарин, виноград, яблоко, ананас",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-fruktovoe-mandarin-36208/"
-  },
-  "116859": {
-    "name": "Кимпаб-ролл с говяжьим фаршем",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kimpab-roll-s-govyazhim-farshem-116859/"
-  },
   "49769": {
     "name": "Окрошка овощная, 400 г",
     "price": "257",
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
-  },
-  "121256": {
-    "name": "Микс из проростков чечевицы, ростков люцерны и редиса, 50г",
-    "price": "69",
-    "old_price": "115",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-prorostkov-chechevitsy-121256/"
   },
   "102259": {
     "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
@@ -110,12 +89,5 @@
     "old_price": "160",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sliva-kubanskaya-v-vederke-113557/"
-  },
-  "120064": {
-    "name": "Курица с зеленым рисом карри",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-zelenym-risom-karri-120064/"
   }
 }
