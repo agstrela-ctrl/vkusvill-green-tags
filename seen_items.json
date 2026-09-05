@@ -6,33 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-s-kuritsey-teriyaki-118342/"
   },
-  "78100": {
-    "name": "Паста Орзо с креветками",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-orzo-s-krevetkami-78100/"
-  },
   "43719": {
     "name": "Ежики мясные с отварной гречкой",
     "price": "150",
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
-  },
-  "89299": {
-    "name": "Щи из свежей капусты постные",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchi-iz-svezhey-kapusty-postnye-89299/"
-  },
-  "39781": {
-    "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
   },
   "38995": {
     "name": "Филе окорочка цыпленка-бройлера с овощами",
@@ -47,13 +26,6 @@
     "old_price": "880",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
-  },
-  "125094": {
-    "name": "Колбаски гриль из индейки и курицы с паприкой и соусом Сацебели",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-gril-iz-indeyki-i-kuritsy-s-paprikoy-i-sousom-satsebeli-125094/"
   },
   "116805": {
     "name": "Ряженка безлактозная 2,5%",
