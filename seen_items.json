@@ -1,9 +1,23 @@
 {
+  "20328": {
+    "name": "Шоколад молочный с манго",
+    "price": "183",
+    "old_price": "305",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shokolad-molochnyy-s-mango-20328/"
+  },
   "23073": {
     "name": "Салат Кобб с имбирным соусом",
     "price": "174",
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
+  },
+  "74258": {
+    "name": "Пиво \"Клаусталер Ориджинал\" безалкогольное светлое фильтр., 330 мл",
+    "price": "93",
+    "old_price": "155",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pivo-klaustaler-oridzhinal-bezalkogolnoe-svetloe-filtr-74258/"
   }
 }
