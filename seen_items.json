@@ -1,11 +1,4 @@
 {
-  "82232": {
-    "name": "Торт \"Белые ночи\" с сырным кремом, 1,1 кг",
-    "price": "684",
-    "old_price": "1140",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-belye-nochi-s-syrnym-kremom-82232/"
-  },
   "125311": {
     "name": "Поке-боул с креветками и соусом Манго-Юдзу",
     "price": "299",
@@ -145,13 +138,6 @@
     "old_price": "244",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blinchiki-tsezar-25023/"
-  },
-  "15924": {
-    "name": "Котлеты из щуки охл., 300 г",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-shchuki-okhl-15924/"
   },
   "113557": {
     "name": "Слива кубанская в ведерке, 500 г",
