@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-96045/"
   },
-  "33849": {
-    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
-    "price": "81",
-    "old_price": "135",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
-  },
   "98952": {
     "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
     "price": "328",
@@ -61,12 +54,5 @@
     "old_price": "160",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/smuzi-ananas-kokos-mango-55365/"
-  },
-  "113557": {
-    "name": "Слива кубанская в ведерке, 500 г",
-    "price": "96",
-    "old_price": "160",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sliva-kubanskaya-v-vederke-113557/"
   }
 }
