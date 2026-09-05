@@ -1,10 +1,115 @@
 {
+  "82232": {
+    "name": "Торт \"Белые ночи\" с сырным кремом, 1,1 кг",
+    "price": "684",
+    "old_price": "1140",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-belye-nochi-s-syrnym-kremom-82232/"
+  },
+  "125311": {
+    "name": "Поке-боул с креветками и соусом Манго-Юдзу",
+    "price": "299",
+    "old_price": "498",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/poke-boul-s-krevetkami-i-sousom-mango-yudzu-125311/"
+  },
+  "125418": {
+    "name": "Конвертики \"Капрезе\"",
+    "price": "139",
+    "old_price": "232",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konvertiki-kapreze-125418/"
+  },
+  "120802": {
+    "name": "Яйца отварные, 2 шт",
+    "price": "52",
+    "old_price": "86",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytsa-otvarnye-120802/"
+  },
+  "58742": {
+    "name": "Блины с \"Крем чиз\" и вишней",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-krem-chiz-i-vishney-58742/"
+  },
+  "96045": {
+    "name": "Окрошка с куриной колбасой, 400 г",
+    "price": "294",
+    "old_price": "490",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-96045/"
+  },
+  "61013": {
+    "name": "Эклеры с заварным кремом",
+    "price": "221",
+    "old_price": "368",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/eklery-s-zavarnym-kremom-61013/"
+  },
+  "98952": {
+    "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
+    "price": "328",
+    "old_price": "546",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylya-tsyplenka-broylera-v-souse-teriyaki-98952/"
+  },
+  "511": {
+    "name": "Окорок свиной, охлажденный",
+    "price": "402",
+    "old_price": "670",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
+  },
+  "63414": {
+    "name": "\"Кебаб\" из мраморной говядины, 400 г",
+    "price": "359",
+    "old_price": "598",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kebab-iz-mramornoy-govyadiny-63414/"
+  },
+  "116859": {
+    "name": "Кимпаб-ролл с говяжьим фаршем",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kimpab-roll-s-govyazhim-farshem-116859/"
+  },
   "121256": {
     "name": "Микс из проростков чечевицы, ростков люцерны и редиса, 50г",
     "price": "69",
     "old_price": "115",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-prorostkov-chechevitsy-121256/"
+  },
+  "115111": {
+    "name": "Запеканка картофельная с курицей, томатами и соусом песто",
+    "price": "349",
+    "old_price": "582",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-115111/"
+  },
+  "74326": {
+    "name": "Суп \"Рассольник\" вегетарианский с грибами и сельдереем",
+    "price": "107",
+    "old_price": "178",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326/"
+  },
+  "49769": {
+    "name": "Окрошка овощная, 400 г",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
+  },
+  "48165": {
+    "name": "Кутабы с сыром и помидорами",
+    "price": "131",
+    "old_price": "219",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kutaby-s-syrom-i-pomidorami-48165/"
   },
   "123730": {
     "name": "Суши-салат \"Филадельфия\"",
