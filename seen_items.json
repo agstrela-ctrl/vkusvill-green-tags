@@ -1,11 +1,4 @@
 {
-  "61483": {
-    "name": "Салат \"Цезарь\" с курицей и пекинской капустой",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-pekinskoy-kapustoy-61483/"
-  },
   "118342": {
     "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
     "price": "203",
@@ -19,13 +12,6 @@
     "old_price": "200",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-svekolnyy-s-gretskim-orekhom-38977/"
-  },
-  "102354": {
-    "name": "Салат с баклажанами и крем-чизом в азиатском соусе",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-baklazhanami-i-krem-chizom-v-aziatskom-souse-102354/"
   },
   "22929": {
     "name": "Куриное филе запеченное с овощами",
@@ -54,13 +40,6 @@
     "old_price": "212",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-kurinyy-s-lapshoy-i-yaytsom-99857/"
-  },
-  "89458": {
-    "name": "Салат \"Коул Слоу\" постный",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
   },
   "83024": {
     "name": "Филе грудки цыпленка-бройлера на зерновом откорме",
@@ -111,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinaya-grudka-s-gribami-i-penne-37923/"
   },
-  "124684": {
-    "name": "Булочка \"Вкусвиллбон\" классическая",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-vkusvillbon-klassicheskaya-124684/"
-  },
   "113574": {
     "name": "Батон \"Сдобный\" на сливочном масле",
     "price": "47",
@@ -131,13 +103,6 @@
     "old_price": "496",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-kuritsy-i-kapusty-76795/"
-  },
-  "24949": {
-    "name": "Тушка цыпленка-бройлера Халяль.",
-    "price": "242",
-    "old_price": "404",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-khalyal-24949/"
   },
   "25262": {
     "name": "Суп-крем куриный",
@@ -188,26 +153,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyat-broylerov-s-syrom-suluguni-i-bazilikom-115459/"
   },
-  "114280": {
-    "name": "Салат из фасоли \"Киркаш\"",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-fasoli-kirkash-114280/"
-  },
   "80397": {
     "name": "Кабачки фаршированные мясом и рисом",
     "price": "138",
     "old_price": "230",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kabachki-farshirovannye-myasom-i-risom-80397/"
-  },
-  "38362": {
-    "name": "Котлета \"Стейкбургер\"",
-    "price": "274",
-    "old_price": "456",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-steykburger-38362/"
   },
   "112464": {
     "name": "Салат руккола с креветкой",
@@ -216,26 +167,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-rukkola-s-krevetkoy-112464/"
   },
-  "71177": {
-    "name": "Лепешка с зеленью и сыром, 2 шт",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-zelenyu-i-syrom-71177/"
-  },
   "39781": {
     "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
     "price": "156",
     "old_price": "260",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
-  },
-  "62810": {
-    "name": "Бефстроганов, 360 г",
-    "price": "380",
-    "old_price": "633",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/befstroganov-62810/"
   },
   "122342": {
     "name": "Ассорти колбасок для жарки",
@@ -244,33 +181,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-kolbasok-dlya-zharki-122342/"
   },
-  "119801": {
-    "name": "Палочки сдобные с варёной сгущенкой",
-    "price": "82",
-    "old_price": "136",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/palochki-sdobnye-s-varyenoy-sgushchenkoy-119801/"
-  },
-  "123710": {
-    "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-vetchinoy-i-syrom-chedder-123710/"
-  },
   "38995": {
     "name": "Филе окорочка цыпленка-бройлера с овощами",
     "price": "274",
     "old_price": "456",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-okorochka-tsyplenka-broylera-s-ovoshchami-38995/"
-  },
-  "110084": {
-    "name": "Скумбрия атлантическая в растительном масле подкопченная, 300 г",
-    "price": "189",
-    "old_price": "315",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/skumbriya-atlanticheskaya-v-rastitelnom-masle-podkopchennaya-110084/"
   },
   "34804": {
     "name": "Макароны с курицей и грибами",
@@ -313,13 +229,6 @@
     "old_price": "880",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
-  },
-  "86566": {
-    "name": "Сельдь тихоокеан. филе без кожи соленая с петрушкой, 200 г",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/seld-tikhookean-file-bez-kozhi-solenaya-s-petrushkoy-86566/"
   },
   "115622": {
     "name": "Батон \"Молочный\" на опаре и закваске, нарезка",
@@ -377,13 +286,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-domashniy-121549/"
   },
-  "104229": {
-    "name": "Яйца перепелиные маринованные, вареные",
-    "price": "169",
-    "old_price": "281",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytsa-perepelinye-marinovannye-104229/"
-  },
   "125094": {
     "name": "Колбаски гриль из индейки и курицы с паприкой и соусом Сацебели",
     "price": "203",
@@ -411,13 +313,6 @@
     "old_price": "180",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/korzinochka-s-belkovym-kremom-i-slivovo-yablochnym-dzhemom-110506/"
-  },
-  "113300": {
-    "name": "Лапша из батата с креветками в соусе терияки",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-s-krevetkami-v-souse-teriyaki-113300/"
   },
   "122230": {
     "name": "Колбаска \"Домашняя\" для жарки",
