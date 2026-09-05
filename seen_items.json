@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
   },
-  "113574": {
-    "name": "Батон \"Сдобный\" на сливочном масле",
-    "price": "47",
-    "old_price": "79",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
-  },
   "44305": {
     "name": "Сырники, 210 г",
     "price": "180",
@@ -62,33 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-okorochka-tsyplenka-broylera-s-ovoshchami-38995/"
   },
-  "34804": {
-    "name": "Макароны с курицей и грибами",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/makarony-s-kuritsey-i-gribami-34804/"
-  },
-  "121185": {
-    "name": "Филе грудки цыпленка-бройлера на зерновом откорме в \"Сливочно-чесночном\" маринаде",
-    "price": "386",
-    "old_price": "644",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-na-zernovom-otkorme-v-slivochno-chesnochnom-marinade-121185/"
-  },
   "115652": {
     "name": "Бедро индейки по-азиатски с картофелем",
     "price": "528",
     "old_price": "880",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
-  },
-  "121549": {
-    "name": "Шашлык из свиной шейки \"Домашний\"",
-    "price": "479",
-    "old_price": "798",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-domashniy-121549/"
   },
   "125094": {
     "name": "Колбаски гриль из индейки и курицы с паприкой и соусом Сацебели",
@@ -104,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tefteli-iz-myasa-tsyplyat-broylerov-s-risom-114226/"
   },
-  "53170": {
-    "name": "Окрошка с говядиной, 400 г",
-    "price": "371",
-    "old_price": "618",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-53170/"
-  },
   "116805": {
     "name": "Ряженка безлактозная 2,5%",
     "price": "53",
@@ -125,26 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaska-domashnyaya-dlya-zharki-122230/"
   },
-  "121534": {
-    "name": "Пирожки с клубникой и ревенем, 2 шт",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-s-klubnikoy-i-revenem-121534/"
-  },
   "122204": {
     "name": "Шаурма с уткой по-пекински и соусом Хойсин",
     "price": "204",
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-utkoy-po-pekinski-i-sousom-khoysin-122204/"
-  },
-  "102993": {
-    "name": "Ассорти х/к из кеты, масляной рыбы, нерки и омуля, 200 г",
-    "price": "352",
-    "old_price": "587",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-kety-102993/"
   },
   "122121": {
     "name": "Батон \"Молочный\" на слив. масле, с кунжутом",
@@ -173,20 +124,6 @@
     "old_price": "699",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-medovik-karamelnyy-s-chernoy-smorodinoy-83736/"
-  },
-  "60064": {
-    "name": "Торт \"Трюфельный\" постный",
-    "price": "449",
-    "old_price": "748",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-tryufelnyy-postnyy-60064/"
-  },
-  "119124": {
-    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
-    "price": "273",
-    "old_price": "455",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
   },
   "119902": {
     "name": "Палтус филе-кусок холодного копчения, 150 г",
