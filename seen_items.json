@@ -90,12 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kutaby-s-syrom-i-pomidorami-48165/"
   },
-  "123730": {
-    "name": "Суши-салат \"Филадельфия\"",
-    "price": "239",
-    "old_price": "398",
+  "74326": {
+    "name": "Суп \"Рассольник\" вегетарианский с грибами и сельдереем",
+    "price": "107",
+    "old_price": "178",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sushi-salat-filadelfiya-123730/"
+    "link": "https://vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326/"
   },
   "37867": {
     "name": "Грудка куриная с картофелем по-деревенски",
@@ -103,6 +103,13 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudka-kurinaya-s-kartofelem-po-derevenski-37867/"
+  },
+  "123730": {
+    "name": "Суши-салат \"Филадельфия\"",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sushi-salat-filadelfiya-123730/"
   },
   "63628": {
     "name": "Торт \"Сметанный\" с малиной",
