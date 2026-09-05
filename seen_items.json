@@ -1,11 +1,4 @@
 {
-  "125311": {
-    "name": "Поке-боул с креветками и соусом Манго-Юдзу",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/poke-boul-s-krevetkami-i-sousom-mango-yudzu-125311/"
-  },
   "120802": {
     "name": "Яйца отварные, 2 шт",
     "price": "52",
@@ -20,6 +13,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-96045/"
   },
+  "33849": {
+    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
+    "price": "81",
+    "old_price": "135",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
+  },
+  "66445": {
+    "name": "Лимонад \"Мандарин\", 320 мл",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/limonad-mandarin-66445/"
+  },
   "98952": {
     "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
     "price": "328",
@@ -33,6 +40,13 @@
     "old_price": "670",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
+  },
+  "118157": {
+    "name": "Смузи \"Яблоко-клубника-базилик\" с сиропом топинамбура, 250 мл",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/smuzi-yabloko-klubnika-bazilik-s-siropom-topinambura-118157/"
   },
   "49769": {
     "name": "Окрошка овощная, 400 г",
@@ -55,27 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
   },
-  "48165": {
-    "name": "Кутабы с сыром и помидорами",
-    "price": "131",
-    "old_price": "219",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kutaby-s-syrom-i-pomidorami-48165/"
-  },
-  "74326": {
-    "name": "Суп \"Рассольник\" вегетарианский с грибами и сельдереем",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326/"
-  },
-  "37867": {
-    "name": "Грудка куриная с картофелем по-деревенски",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grudka-kurinaya-s-kartofelem-po-derevenski-37867/"
-  },
   "123730": {
     "name": "Суши-салат \"Филадельфия\"",
     "price": "239",
@@ -89,6 +82,13 @@
     "old_price": "244",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blinchiki-tsezar-25023/"
+  },
+  "55365": {
+    "name": "Смузи \"Ананас-кокос-манго\", 250 мл",
+    "price": "96",
+    "old_price": "160",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/smuzi-ananas-kokos-mango-55365/"
   },
   "113557": {
     "name": "Слива кубанская в ведерке, 500 г",
