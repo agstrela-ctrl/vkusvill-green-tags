@@ -62,12 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
   },
-  "63414": {
-    "name": "\"Кебаб\" из мраморной говядины, 400 г",
-    "price": "359",
-    "old_price": "598",
+  "36208": {
+    "name": "Желе фруктовое мандарин, виноград, яблоко, ананас",
+    "price": "111",
+    "old_price": "185",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kebab-iz-mramornoy-govyadiny-63414/"
+    "link": "https://vkusvill.ru/goods/zhele-fruktovoe-mandarin-36208/"
   },
   "116859": {
     "name": "Кимпаб-ролл с говяжьим фаршем",
@@ -82,6 +82,13 @@
     "old_price": "115",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-prorostkov-chechevitsy-121256/"
+  },
+  "102259": {
+    "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
   },
   "115111": {
     "name": "Запеканка картофельная с курицей, томатами и соусом песто",
