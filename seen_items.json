@@ -1,18 +1,4 @@
 {
-  "118342": {
-    "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-s-kuritsey-teriyaki-118342/"
-  },
-  "43719": {
-    "name": "Ежики мясные с отварной гречкой",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
-  },
   "38995": {
     "name": "Филе окорочка цыпленка-бройлера с овощами",
     "price": "274",
@@ -27,26 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
   },
-  "116805": {
-    "name": "Ряженка безлактозная 2,5%",
-    "price": "53",
-    "old_price": "88",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ryazhenka-bezlaktoznaya-2-116805/"
-  },
   "122230": {
     "name": "Колбаска \"Домашняя\" для жарки",
     "price": "245",
     "old_price": "408",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaska-domashnyaya-dlya-zharki-122230/"
-  },
-  "122204": {
-    "name": "Шаурма с уткой по-пекински и соусом Хойсин",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-utkoy-po-pekinski-i-sousom-khoysin-122204/"
   },
   "122121": {
     "name": "Батон \"Молочный\" на слив. масле, с кунжутом",
