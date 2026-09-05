@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-96045/"
   },
-  "61013": {
-    "name": "Эклеры с заварным кремом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-s-zavarnym-kremom-61013/"
-  },
   "98952": {
     "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
     "price": "328",
@@ -69,6 +62,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kimpab-roll-s-govyazhim-farshem-116859/"
   },
+  "49769": {
+    "name": "Окрошка овощная, 400 г",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
+  },
   "121256": {
     "name": "Микс из проростков чечевицы, ростков люцерны и редиса, 50г",
     "price": "69",
@@ -82,27 +82,6 @@
     "old_price": "264",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
-  },
-  "115111": {
-    "name": "Запеканка картофельная с курицей, томатами и соусом песто",
-    "price": "349",
-    "old_price": "582",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-115111/"
-  },
-  "74326": {
-    "name": "Суп \"Рассольник\" вегетарианский с грибами и сельдереем",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326/"
-  },
-  "49769": {
-    "name": "Окрошка овощная, 400 г",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
   },
   "48165": {
     "name": "Кутабы с сыром и помидорами",
