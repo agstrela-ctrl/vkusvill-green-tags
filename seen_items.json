@@ -1,23 +1,16 @@
 {
+  "79663": {
+    "name": "Вода питьевая негазированная, 5 л",
+    "price": "70",
+    "old_price": "117",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
+  },
   "23073": {
     "name": "Салат Кобб с имбирным соусом",
     "price": "174",
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
-  },
-  "121343": {
-    "name": "Мармелад \"Пина Колада\" ананас-кокос",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/marmelad-pina-kolada-ananas-kokos-121343/"
-  },
-  "117292": {
-    "name": "Корзиночки с белковым кремом и джемом из клубники и ревеня",
-    "price": "97",
-    "old_price": "162",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/korzinochki-s-belkovym-kremom-i-dzhemom-iz-klubniki-i-revenya-117292/"
   }
 }
