@@ -97,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vinegret-96749/"
   },
-  "30290": {
-    "name": "Суп \"Рассольник\" с курицей",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-rassolnik-s-kuritsey-30290/"
-  },
   "29461": {
     "name": "Коврижка яблочная постная, кафе",
     "price": "109",
@@ -160,13 +153,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-farshirovannyy-s-kuritsey-115250/"
   },
-  "70530": {
-    "name": "Онигири \"Филадельфия\"",
-    "price": "146",
-    "old_price": "244",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-filadelfiya-70530/"
-  },
   "101080": {
     "name": "Онигири с угрем и творожным сыром",
     "price": "125",
@@ -202,26 +188,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-v-lukovom-marinade-122413/"
   },
-  "126160": {
-    "name": "Торт муссовый \"Москва\" шоколадный микс сырный",
-    "price": "597",
-    "old_price": "995",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-mussovyy-moskva-shokoladnyy-miks-syrnyy-126160/"
-  },
   "118781": {
     "name": "Брокколи по-сычуаньски",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/brokkoli-po-sychuanski-118781/"
-  },
-  "78933": {
-    "name": "Котлетки из грудки цыпленка-бройлера с маслом",
-    "price": "299",
-    "old_price": "499",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
   },
   "121185": {
     "name": "Филе грудки цыпленка-бройлера на зерновом откорме в \"Сливочно-чесночном\" маринаде",
@@ -251,13 +223,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-rostkov-brokkoli-116542/"
   },
-  "123299": {
-    "name": "Пирожное \"Черемуховое\" со сметанным кремом",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-cheremukhovoe-so-smetannym-kremom-123299/"
-  },
   "41672": {
     "name": "Эклеры \"Шоколад и ваниль\"",
     "price": "178",
@@ -271,13 +236,6 @@
     "old_price": "335",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gorbusha-file-kusochki-v-masle-17718/"
-  },
-  "108645": {
-    "name": "Творожник с клубникой, 140 г",
-    "price": "104",
-    "old_price": "174",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorozhnik-s-klubnikoy-108645/"
   },
   "111441": {
     "name": "Свекольник на кефире с говядиной",
