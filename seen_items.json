@@ -1,18 +1,4 @@
 {
-  "112645": {
-    "name": "Арбуз сердцевина, 1000 г",
-    "price": "414",
-    "old_price": "690",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-112645/"
-  },
-  "38995": {
-    "name": "Филе окорочка цыпленка-бройлера с овощами",
-    "price": "274",
-    "old_price": "456",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-okorochka-tsyplenka-broylera-s-ovoshchami-38995/"
-  },
   "115652": {
     "name": "Бедро индейки по-азиатски с картофелем",
     "price": "528",
@@ -26,13 +12,6 @@
     "old_price": "80",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ayran-s-tomatami-i-zelenyu-1-118776/"
-  },
-  "121939": {
-    "name": "Сэндвич ролл с курицей и фасолью",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-fasolyu-121939/"
   },
   "119902": {
     "name": "Палтус филе-кусок холодного копчения, 150 г",
