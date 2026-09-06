@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
-  "105236": {
-    "name": "Паста-салат с соусом песто, индейкой, сыром и вялеными томатами",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-salat-s-sousom-pesto-105236/"
-  },
   "20122": {
     "name": "Огурцы короткоплодные, 450 г",
     "price": "102",
@@ -48,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-krem-kurinyy-25262/"
   },
-  "25044": {
-    "name": "Паста \"Болоньезе\"",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-boloneze-25044/"
-  },
   "96749": {
     "name": "Салат винегрет, 300 г",
     "price": "132",
@@ -62,33 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vinegret-96749/"
   },
-  "39781": {
-    "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
-  },
-  "109582": {
-    "name": "Пирожное картошка \"Жёлудь в гречишном шоколаде\"",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-kartoshka-zhyelud-v-grechishnom-shokolade-109582/"
-  },
   "122694": {
     "name": "Творог безлактозный рассыпчатый 5%, 350 г",
     "price": "129",
     "old_price": "215",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-bezlaktoznyy-rassypchatyy-5-122694/"
-  },
-  "113281": {
-    "name": "Комбо-набор: Грудка куриная с картофелем по-деревенски и Салат из летних овощей",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-grudka-kurinaya-s-kartofelem-po-derevenski-i-salat-iz-letnikh-ovoshchey-113281/"
   },
   "78481": {
     "name": "Чиабатта с куриным филе и соусом \"Песто\"",
@@ -111,19 +76,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
   },
-  "115250": {
-    "name": "Перец фаршированный с курицей",
-    "price": "361",
-    "old_price": "602",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-farshirovannyy-s-kuritsey-115250/"
-  },
   "49729": {
     "name": "Вырезка из кролика",
     "price": "273",
     "old_price": "455",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vyrezka-iz-krolika-49729/"
+  },
+  "41672": {
+    "name": "Эклеры \"Шоколад и ваниль\"",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
   },
   "118348": {
     "name": "Профитроли \"Ягодные\", 2 шт",
@@ -166,20 +131,6 @@
     "old_price": "190",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-rostkov-brokkoli-116542/"
-  },
-  "41672": {
-    "name": "Эклеры \"Шоколад и ваниль\"",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
-  },
-  "41146": {
-    "name": "Сливки 10%, 200 г",
-    "price": "52",
-    "old_price": "87",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/slivki-10-41146/"
   },
   "17718": {
     "name": "Горбуша филе кусочки в масле, 180 г",
