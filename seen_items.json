@@ -1,10 +1,17 @@
 {
-  "110247": {
-    "name": "Окрошка с куриной колбасой, 250 г",
-    "price": "215",
-    "old_price": "358",
+  "106480": {
+    "name": "Лепешка с куриной ветчиной и сыром на гриле, кафе",
+    "price": "115",
+    "old_price": "192",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-110247/"
+    "link": "https://vkusvill.ru/goods/lepeshka-s-kurinoy-vetchinoy-i-syrom-na-grile-106480/"
+  },
+  "68303": {
+    "name": "Сэндвич с курицей и печеным перцем, кафе",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-s-kuritsey-i-pechenym-pertsem-68303/"
   },
   "118104": {
     "name": "Мясо по-французски",
