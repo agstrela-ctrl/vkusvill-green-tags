@@ -1,4 +1,18 @@
 {
+  "47917": {
+    "name": "Сок ананасовый восстановленный, 1 л",
+    "price": "157",
+    "old_price": "262",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sok-ananasovyy-vosstanovlennyy-47917/"
+  },
+  "39387": {
+    "name": "Напиток клубничный с базиликом, 1 л",
+    "price": "124",
+    "old_price": "207",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-klubnichnyy-s-bazilikom-39387/"
+  },
   "110062": {
     "name": "Окрошка с говядиной, 250 г",
     "price": "245",
@@ -6,11 +20,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-110062/"
   },
-  "119902": {
-    "name": "Палтус филе-кусок холодного копчения, 150 г",
-    "price": "441",
-    "old_price": "735",
+  "76709": {
+    "name": "Напиток газированный Добрый Cola без сахара 1 л",
+    "price": "91",
+    "old_price": "151",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/paltus-file-kusok-kholodnogo-kopcheniya-119902/"
+    "link": "https://vkusvill.ru/goods/napitok-gazirovannyy-dobryy-cola-bez-sakhara-1-l-76709/"
+  },
+  "69290": {
+    "name": "Напиток сильногазированный Cool Cola Zero безалкогольный пэт 1,5 л",
+    "price": "94",
+    "old_price": "156",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-silnogazirovannyy-cool-cola-zero-bezalkogolnyy-pet-1-69290/"
+  },
+  "98683": {
+    "name": "Напиток сокосодержащий Добрый Апельсин-мандарин 1 л",
+    "price": "112",
+    "old_price": "187",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-sokosoderzhashchiy-dobryy-apelsin-mandarin-1-l-98683/"
   }
 }
