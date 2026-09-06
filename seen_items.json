@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
   },
-  "111102": {
-    "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
-  },
   "23995": {
     "name": "Стейк из филе грудки цыпленка-бройлера",
     "price": "224",
@@ -20,26 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-file-grudki-tsyplenka-broylera-23995/"
   },
-  "30084": {
-    "name": "Котлетки рыбные с запеченными овощами",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotletki-rybnye-s-zapechennymi-ovoshchami-30084/"
-  },
   "105270": {
     "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
     "price": "228",
     "old_price": "380",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
-  },
-  "113856": {
-    "name": "Салат из запеченной свеклы с сыром фета",
-    "price": "137",
-    "old_price": "229",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
   },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
@@ -62,20 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
   },
-  "37319": {
-    "name": "Сэндвич ролл с лососем и шпинатом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-lososem-i-shpinatom-37319/"
-  },
-  "20744": {
-    "name": "Десерт молочный \"Наполеон\"",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-20744/"
-  },
   "25262": {
     "name": "Суп-крем куриный",
     "price": "137",
@@ -97,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vinegret-96749/"
   },
-  "29461": {
-    "name": "Коврижка яблочная постная, кафе",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
-  },
   "39781": {
     "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
     "price": "156",
@@ -117,6 +75,13 @@
     "old_price": "152",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-kartoshka-zhyelud-v-grechishnom-shokolade-109582/"
+  },
+  "122694": {
+    "name": "Творог безлактозный рассыпчатый 5%, 350 г",
+    "price": "129",
+    "old_price": "215",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-bezlaktoznyy-rassypchatyy-5-122694/"
   },
   "113281": {
     "name": "Комбо-набор: Грудка куриная с картофелем по-деревенски и Салат из летних овощей",
@@ -153,20 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-farshirovannyy-s-kuritsey-115250/"
   },
-  "101080": {
-    "name": "Онигири с угрем и творожным сыром",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-ugrem-i-tvorozhnym-syrom-101080/"
-  },
-  "116326": {
-    "name": "Батончик протеиновый из курицы и говядины",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/batonchik-proteinovyy-iz-kuritsy-i-govyadiny-116326/"
-  },
   "49729": {
     "name": "Вырезка из кролика",
     "price": "273",
@@ -187,13 +138,6 @@
     "old_price": "888",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-v-lukovom-marinade-122413/"
-  },
-  "118781": {
-    "name": "Брокколи по-сычуаньски",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/brokkoli-po-sychuanski-118781/"
   },
   "121185": {
     "name": "Филе грудки цыпленка-бройлера на зерновом откорме в \"Сливочно-чесночном\" маринаде",
@@ -230,6 +174,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
   },
+  "41146": {
+    "name": "Сливки 10%, 200 г",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/slivki-10-41146/"
+  },
   "17718": {
     "name": "Горбуша филе кусочки в масле, 180 г",
     "price": "201",
@@ -250,5 +201,19 @@
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-klubnika-laym-s-dobavleniem-vitamina-s-117098/"
+  },
+  "116326": {
+    "name": "Батончик протеиновый из курицы и говядины",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/batonchik-proteinovyy-iz-kuritsy-i-govyadiny-116326/"
+  },
+  "47977": {
+    "name": "Йогурт Epica Crispy Кокосовое печенье с клубникой шоколадом и миндалем 7,3% 138 г",
+    "price": "70",
+    "old_price": "116",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-epica-crispy-kokosovoe-pechene-s-klubnikoy-shokoladom-i-mindalem-7-47977/"
   }
 }
