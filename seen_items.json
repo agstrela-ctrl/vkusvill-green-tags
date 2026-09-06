@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
   },
-  "122769": {
-    "name": "Суп \"Легкий\" с птитимом и креветками",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
-  },
   "109679": {
     "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
     "price": "167",
@@ -41,6 +34,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylyshki-tsyplenka-broylera-s-kurkumoy-96008/"
   },
+  "110247": {
+    "name": "Окрошка с куриной колбасой, 250 г",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-110247/"
+  },
   "118104": {
     "name": "Мясо по-французски",
     "price": "505",
@@ -54,6 +54,13 @@
     "old_price": "408",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-110062/"
+  },
+  "26439": {
+    "name": "Вареники с картофелем и свиными шкварками",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vareniki-s-kartofelem-i-svinymi-shkvarkami-26439/"
   },
   "115652": {
     "name": "Бедро индейки по-азиатски с картофелем",
@@ -69,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-tuntsom-i-yablokom-113979/"
   },
-  "110247": {
-    "name": "Окрошка с куриной колбасой, 250 г",
-    "price": "215",
-    "old_price": "358",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-110247/"
-  },
   "118776": {
     "name": "Айран с томатами и зеленью 1,8%, 180 г",
     "price": "48",
@@ -89,6 +89,13 @@
     "old_price": "154",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vafli-sakharnye-parizhskie-97447/"
+  },
+  "94871": {
+    "name": "Котлеты из форели и судака зам., 300 г",
+    "price": "293",
+    "old_price": "488",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-foreli-i-sudaka-zam-94871/"
   },
   "119902": {
     "name": "Палтус филе-кусок холодного копчения, 150 г",
