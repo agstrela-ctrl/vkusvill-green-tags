@@ -5,5 +5,40 @@
     "old_price": "62",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "33215": {
+    "name": "Вода минеральная \"Тарханская №3\" газированная, 1,5 л",
+    "price": "43",
+    "old_price": "72",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-mineralnaya-tarkhanskaya-3-gazirovannaya-33215/"
+  },
+  "123115": {
+    "name": "Лимонад \"Лимон-лайм\" с мятой и мелиссой, 330 мл",
+    "price": "100",
+    "old_price": "166",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/limonad-limon-laym-s-myatoy-i-melissoy-123115/"
+  },
+  "33154": {
+    "name": "Вода питьевая Святой Источник негазированная 5 л",
+    "price": "116",
+    "old_price": "194",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-svyatoy-istochnik-negazirovannaya-5-l-33154/"
+  },
+  "43762": {
+    "name": "Вода питьевая Сенежская негазированная пэт 5 л",
+    "price": "86",
+    "old_price": "144",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-senezhskaya-negazirovannaya-pet-5-l-43762/"
+  },
+  "122825": {
+    "name": "Напиток безалкогольный газированный Bombbar Лимонад со вкусом лимона и мяты, ПЭТ 500 мл",
+    "price": "79",
+    "old_price": "132",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-gazirovannyy-bombbar-limonad-so-vkusom-limona-i-myaty-122825/"
   }
 }
