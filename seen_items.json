@@ -1,4 +1,11 @@
 {
+  "53516": {
+    "name": "Курица в сливочном соусе с гречкой",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
+  },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
     "price": "191",
@@ -48,12 +55,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
   },
-  "123860": {
-    "name": "Стрипсы из филе цыпленка-бройлера на зерновом откорме",
+  "113979": {
+    "name": "Сэндвич ролл с тунцом и яблоком",
     "price": "192",
     "old_price": "320",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-iz-file-tsyplenka-broylera-na-zernovom-otkorme-123860/"
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-tuntsom-i-yablokom-113979/"
+  },
+  "110247": {
+    "name": "Окрошка с куриной колбасой, 250 г",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-110247/"
   },
   "118776": {
     "name": "Айран с томатами и зеленью 1,8%, 180 г",
