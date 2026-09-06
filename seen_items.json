@@ -1,4 +1,11 @@
 {
+  "74914": {
+    "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
+    "price": "497",
+    "old_price": "829",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
+  },
   "96008": {
     "name": "Крылышки цыпленка-бройлера с куркумой",
     "price": "386",
@@ -12,6 +19,13 @@
     "old_price": "880",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
+  },
+  "123860": {
+    "name": "Стрипсы из филе цыпленка-бройлера на зерновом откорме",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/stripsy-iz-file-tsyplenka-broylera-na-zernovom-otkorme-123860/"
   },
   "118776": {
     "name": "Айран с томатами и зеленью 1,8%, 180 г",
