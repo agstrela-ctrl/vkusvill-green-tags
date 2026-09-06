@@ -1,4 +1,11 @@
 {
+  "112645": {
+    "name": "Арбуз сердцевина, 1000 г",
+    "price": "414",
+    "old_price": "690",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-112645/"
+  },
   "38995": {
     "name": "Филе окорочка цыпленка-бройлера с овощами",
     "price": "274",
@@ -12,13 +19,6 @@
     "old_price": "880",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
-  },
-  "122121": {
-    "name": "Батон \"Молочный\" на слив. масле, с кунжутом",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-molochnyy-na-sliv-masle-122121/"
   },
   "118776": {
     "name": "Айран с томатами и зеленью 1,8%, 180 г",
