@@ -34,6 +34,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
   },
+  "119800": {
+    "name": "Палочки сдобные с яблоком и грушей",
+    "price": "74",
+    "old_price": "123",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/palochki-sdobnye-s-yablokom-i-grushey-119800/"
+  },
+  "18744": {
+    "name": "Банановый кекс с орехом",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bananovyy-keks-s-orekhom-18744/"
+  },
   "25262": {
     "name": "Суп-крем куриный",
     "price": "137",
@@ -48,6 +62,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vinegret-96749/"
   },
+  "82408": {
+    "name": "Печенье с пармезаном, 150 г",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-s-parmezanom-82408/"
+  },
   "125013": {
     "name": "Эклеры \"Я люблю лето\" манго-маракуйя, малина, ваниль",
     "price": "195",
@@ -61,6 +82,20 @@
     "old_price": "392",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
+  },
+  "69495": {
+    "name": "Батон \"Весенний\", половинка, нарезка",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
+  },
+  "119380": {
+    "name": "Гриссини \"Алюметте\" с сыром",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grissini-alyumette-s-syrom-119380/"
   },
   "118348": {
     "name": "Профитроли \"Ягодные\", 2 шт",
@@ -96,6 +131,13 @@
     "old_price": "297",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
+  },
+  "84065": {
+    "name": "Лепешка \"Иранская\", 3 шт",
+    "price": "54",
+    "old_price": "90",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-iranskaya-84065/"
   },
   "126596": {
     "name": "Торт \"День города\" клубника-малина",
