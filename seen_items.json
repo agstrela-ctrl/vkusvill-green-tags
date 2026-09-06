@@ -1,51 +1,198 @@
 {
-  "79663": {
-    "name": "Вода питьевая негазированная, 5 л",
-    "price": "70",
-    "old_price": "117",
+  "105270": {
+    "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
+    "price": "228",
+    "old_price": "380",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
+    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
   },
-  "605": {
-    "name": "Лук репчатый",
-    "price": "37",
-    "old_price": "62",
+  "98697": {
+    "name": "Шаурма с курицей и соусом \"Гриль\"",
+    "price": "192",
+    "old_price": "320",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-gril-98697/"
   },
-  "33215": {
-    "name": "Вода минеральная \"Тарханская №3\" газированная, 1,5 л",
-    "price": "43",
-    "old_price": "72",
+  "81525": {
+    "name": "Салат по-гречески с сыром \"Фета\"",
+    "price": "186",
+    "old_price": "310",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-mineralnaya-tarkhanskaya-3-gazirovannaya-33215/"
+    "link": "https://vkusvill.ru/goods/salat-po-grecheski-s-syrom-feta-81525/"
   },
-  "123115": {
-    "name": "Лимонад \"Лимон-лайм\" с мятой и мелиссой, 330 мл",
-    "price": "100",
-    "old_price": "166",
+  "98731": {
+    "name": "Арбуз сердцевина, 300 г",
+    "price": "207",
+    "old_price": "345",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/limonad-limon-laym-s-myatoy-i-melissoy-123115/"
+    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
-  "33154": {
-    "name": "Вода питьевая Святой Источник негазированная 5 л",
-    "price": "116",
-    "old_price": "194",
+  "25291": {
+    "name": "Салат \"Мимоза\", 180 г",
+    "price": "136",
+    "old_price": "226",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-pitevaya-svyatoy-istochnik-negazirovannaya-5-l-33154/"
+    "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
   },
-  "43762": {
-    "name": "Вода питьевая Сенежская негазированная пэт 5 л",
-    "price": "86",
-    "old_price": "144",
+  "20122": {
+    "name": "Огурцы короткоплодные, 450 г",
+    "price": "102",
+    "old_price": "170",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-pitevaya-senezhskaya-negazirovannaya-pet-5-l-43762/"
+    "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
   },
-  "122825": {
-    "name": "Напиток безалкогольный газированный Bombbar Лимонад со вкусом лимона и мяты, ПЭТ 500 мл",
-    "price": "79",
-    "old_price": "132",
+  "37319": {
+    "name": "Сэндвич ролл с лососем и шпинатом",
+    "price": "179",
+    "old_price": "298",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-gazirovannyy-bombbar-limonad-so-vkusom-limona-i-myaty-122825/"
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-lososem-i-shpinatom-37319/"
+  },
+  "14983": {
+    "name": "Шейка свиная без кости",
+    "price": "477",
+    "old_price": "795",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sheyka-svinaya-bez-kosti-14983/"
+  },
+  "99375": {
+    "name": "Жаркое из говядины с грибами",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zharkoe-iz-govyadiny-s-gribami-99375/"
+  },
+  "44305": {
+    "name": "Сырники, 210 г",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-44305/"
+  },
+  "43330": {
+    "name": "Пирожки постные с яблоками, 90 г, (2 шт)",
+    "price": "82",
+    "old_price": "136",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-postnye-s-yablokami-43330/"
+  },
+  "24132": {
+    "name": "Блины с вишней",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-vishney-24132/"
+  },
+  "70530": {
+    "name": "Онигири \"Филадельфия\"",
+    "price": "146",
+    "old_price": "244",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-filadelfiya-70530/"
+  },
+  "96749": {
+    "name": "Салат винегрет, 300 г",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-vinegret-96749/"
+  },
+  "123948": {
+    "name": "Овсянка ленивая с семенами чиа и клубничным топпингом",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovsyanka-lenivaya-s-semenami-chia-i-klubnichnym-toppingom-123948/"
+  },
+  "93516": {
+    "name": "Набор из цыплят-бройлеров (бедро, крыло, голень)",
+    "price": "311",
+    "old_price": "518",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/nabor-iz-tsyplyat-broylerov-bedro-93516/"
+  },
+  "27161": {
+    "name": "Сырники из творога, кафе",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-27161/"
+  },
+  "108521": {
+    "name": "Вертута с яблоком и изюмом (постная)",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vertuta-s-yablokom-i-izyumom-postnaya-108521/"
+  },
+  "23098": {
+    "name": "Томаты черри сливовидные красные, 250 г",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-cherri-slivovidnye-krasnye-23098/"
+  },
+  "114547": {
+    "name": "Клубника, 450 г",
+    "price": "384",
+    "old_price": "640",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/klubnika-114547/"
+  },
+  "511": {
+    "name": "Окорок свиной, охлажденный",
+    "price": "402",
+    "old_price": "670",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
+  },
+  "123548": {
+    "name": "Клаб-сэндвич \"Цезарь\" с курицей и беконом, 190 г",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/klab-sendvich-tsezar-s-kuritsey-i-bekonom-123548/"
+  },
+  "116859": {
+    "name": "Кимпаб-ролл с говяжьим фаршем",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kimpab-roll-s-govyazhim-farshem-116859/"
+  },
+  "41672": {
+    "name": "Эклеры \"Шоколад и ваниль\"",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
+  },
+  "101080": {
+    "name": "Онигири с угрем и творожным сыром",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-ugrem-i-tvorozhnym-syrom-101080/"
+  },
+  "76046": {
+    "name": "Мандарины новый урожай, 500 г",
+    "price": "171",
+    "old_price": "285",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mandariny-novyy-urozhay-76046/"
+  },
+  "115364": {
+    "name": "Сырники творожные для жарки",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-dlya-zharki-115364/"
+  },
+  "21004": {
+    "name": "Инжир, 250 г",
+    "price": "280",
+    "old_price": "466",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/inzhir-21004/"
   }
 }
