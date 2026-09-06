@@ -1,18 +1,4 @@
 {
-  "68303": {
-    "name": "Сэндвич с курицей и печеным перцем, кафе",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-kuritsey-i-pechenym-pertsem-68303/"
-  },
-  "118104": {
-    "name": "Мясо по-французски",
-    "price": "505",
-    "old_price": "842",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
-  },
   "110062": {
     "name": "Окрошка с говядиной, 250 г",
     "price": "245",
