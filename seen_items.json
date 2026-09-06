@@ -1,4 +1,18 @@
 {
+  "122769": {
+    "name": "Суп \"Легкий\" с птитимом и креветками",
+    "price": "191",
+    "old_price": "318",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
+  },
+  "109679": {
+    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
+  },
   "74914": {
     "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
     "price": "497",
@@ -12,6 +26,20 @@
     "old_price": "643",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylyshki-tsyplenka-broylera-s-kurkumoy-96008/"
+  },
+  "118104": {
+    "name": "Мясо по-французски",
+    "price": "505",
+    "old_price": "842",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
+  },
+  "110062": {
+    "name": "Окрошка с говядиной, 250 г",
+    "price": "245",
+    "old_price": "408",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-110062/"
   },
   "115652": {
     "name": "Бедро индейки по-азиатски с картофелем",
