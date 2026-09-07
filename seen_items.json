@@ -1,9 +1,16 @@
 {
-  "122741": {
-    "name": "Стик солнцезащитный SPF 50+",
-    "price": "125",
-    "old_price": "208",
+  "39295": {
+    "name": "Творог \"Пластовой\" 5%, 350 г",
+    "price": "142",
+    "old_price": "237",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/stik-solntsezashchitnyy-spf-50-122741/"
+    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-5-39295/"
+  },
+  "188": {
+    "name": "Творог 9%, 400 г",
+    "price": "124",
+    "old_price": "207",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-9-188/"
   }
 }
