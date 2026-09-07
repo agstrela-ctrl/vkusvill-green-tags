@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
   },
-  "25262": {
-    "name": "Суп-крем куриный",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-krem-kurinyy-25262/"
-  },
   "82408": {
     "name": "Печенье с пармезаном, 150 г",
     "price": "161",
@@ -55,26 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-s-parmezanom-82408/"
   },
-  "125013": {
-    "name": "Эклеры \"Я люблю лето\" манго-маракуйя, малина, ваниль",
-    "price": "195",
-    "old_price": "325",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-ya-lyublyu-leto-mango-marakuyya-125013/"
-  },
   "69495": {
     "name": "Батон \"Весенний\", половинка, нарезка",
     "price": "35",
     "old_price": "58",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
-  },
-  "118348": {
-    "name": "Профитроли \"Ягодные\", 2 шт",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/profitroli-yagodnye-118348/"
   },
   "121185": {
     "name": "Филе грудки цыпленка-бройлера на зерновом откорме в \"Сливочно-чесночном\" маринаде",
@@ -103,13 +82,6 @@
     "old_price": "1090",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-den-goroda-klubnika-malina-126596/"
-  },
-  "17718": {
-    "name": "Горбуша филе кусочки в масле, 180 г",
-    "price": "201",
-    "old_price": "335",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gorbusha-file-kusochki-v-masle-17718/"
   },
   "111441": {
     "name": "Свекольник на кефире с говядиной",
