@@ -6,12 +6,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
   },
+  "125311": {
+    "name": "Поке-боул с креветками и соусом Манго-Юдзу",
+    "price": "299",
+    "old_price": "498",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/poke-boul-s-krevetkami-i-sousom-mango-yudzu-125311/"
+  },
+  "95582": {
+    "name": "Мини-чиабатта с куриной ветчиной, омлетом и сыром (2 шт)",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
+  },
   "23995": {
     "name": "Стейк из филе грудки цыпленка-бройлера",
     "price": "224",
     "old_price": "373",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-file-grudki-tsyplenka-broylera-23995/"
+  },
+  "61688": {
+    "name": "Котлета рыбная с картофельным пюре",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-rybnaya-s-kartofelnym-pyure-61688/"
   },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
@@ -20,6 +41,34 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
+  "43719": {
+    "name": "Ежики мясные с отварной гречкой",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
+  },
+  "25291": {
+    "name": "Салат \"Мимоза\", 180 г",
+    "price": "136",
+    "old_price": "226",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
+  },
+  "68839": {
+    "name": "Конвертики с творогом и зеленью",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konvertiki-s-tvorogom-i-zelenyu-68839/"
+  },
+  "24132": {
+    "name": "Блины с вишней",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-vishney-24132/"
+  },
   "82408": {
     "name": "Печенье с пармезаном, 150 г",
     "price": "161",
@@ -27,12 +76,40 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-s-parmezanom-82408/"
   },
+  "71054": {
+    "name": "Стейк из лосося с картофельным пюре",
+    "price": "288",
+    "old_price": "480",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-iz-lososya-s-kartofelnym-pyure-71054/"
+  },
   "65513": {
     "name": "Биточки из мяса индейки",
     "price": "215",
     "old_price": "358",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
+  },
+  "116859": {
+    "name": "Кимпаб-ролл с говяжьим фаршем",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kimpab-roll-s-govyazhim-farshem-116859/"
+  },
+  "118102": {
+    "name": "Шашлык из свиного окорока с аджапсандали",
+    "price": "498",
+    "old_price": "830",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
+  },
+  "120055": {
+    "name": "Пирог с форелью, картофелем и брынзой",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirog-s-forelyu-120055/"
   },
   "121185": {
     "name": "Филе грудки цыпленка-бройлера на зерновом откорме в \"Сливочно-чесночном\" маринаде",
@@ -54,6 +131,13 @@
     "old_price": "190",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-rostkov-brokkoli-116542/"
+  },
+  "34511": {
+    "name": "Пенне с грибами и овощами",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
   },
   "126596": {
     "name": "Торт \"День города\" клубника-малина",
