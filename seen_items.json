@@ -41,12 +41,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
   },
+  "83026": {
+    "name": "Голень цыпленка-бройлера на зерновом откорме",
+    "price": "367",
+    "old_price": "612",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-na-zernovom-otkorme-83026/"
+  },
   "82408": {
     "name": "Печенье с пармезаном, 150 г",
     "price": "161",
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-s-parmezanom-82408/"
+  },
+  "65513": {
+    "name": "Биточки из мяса индейки",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
   },
   "69495": {
     "name": "Батон \"Весенний\", половинка, нарезка",
