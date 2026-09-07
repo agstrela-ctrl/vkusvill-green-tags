@@ -1,24 +1,10 @@
 {
-  "20969": {
-    "name": "Котлета куриная с картофельным пюре",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-20969/"
-  },
   "111616": {
     "name": "Паста \"Тальятелле\" с лимонной курицей",
     "price": "192",
     "old_price": "320",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-talyatelle-s-limonnoy-kuritsey-111616/"
-  },
-  "18825": {
-    "name": "Торт \"Маракуйя\"",
-    "price": "383",
-    "old_price": "638",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-marakuyya-18825/"
   },
   "71215": {
     "name": "Биточек куриный с капустой и картофельным пюре",
@@ -40,13 +26,6 @@
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-kuritsy-i-syra-s-zapechennym-kartofelem-92843/"
-  },
-  "96748": {
-    "name": "Фарш из говядины и индейки, 360 г",
-    "price": "215",
-    "old_price": "358",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-indeyki-96748/"
   },
   "69649": {
     "name": "Оладьи печеночные, 300 г",
@@ -110,13 +89,6 @@
     "old_price": "270",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
-  },
-  "61751": {
-    "name": "Гречка отварная с овощами, 200 г",
-    "price": "84",
-    "old_price": "140",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
   },
   "122342": {
     "name": "Ассорти колбасок для жарки",
@@ -188,13 +160,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-dymov-s-syrom-464-g-65695/"
   },
-  "121262": {
-    "name": "Филе куриной грудки в беконе, запеченное",
-    "price": "241",
-    "old_price": "401",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-v-bekone-121262/"
-  },
   "76248": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
     "price": "296",
@@ -257,12 +222,5 @@
     "old_price": "582",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-115111/"
-  },
-  "116160": {
-    "name": "Печенье \"Леджери\" с корицей",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-ledzheri-s-koritsey-116160/"
   }
 }
