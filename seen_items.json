@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
-  "82408": {
-    "name": "Печенье с пармезаном, 150 г",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-s-parmezanom-82408/"
-  },
   "511": {
     "name": "Окорок свиной, охлажденный",
     "price": "402",
@@ -20,12 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
   },
-  "71054": {
-    "name": "Стейк из лосося с картофельным пюре",
-    "price": "288",
-    "old_price": "480",
+  "82408": {
+    "name": "Печенье с пармезаном, 150 г",
+    "price": "161",
+    "old_price": "268",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-iz-lososya-s-kartofelnym-pyure-71054/"
+    "link": "https://vkusvill.ru/goods/pechene-s-parmezanom-82408/"
   },
   "116859": {
     "name": "Кимпаб-ролл с говяжьим фаршем",
@@ -54,12 +47,5 @@
     "old_price": "288",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-s-govyadinoy-111441/"
-  },
-  "116326": {
-    "name": "Батончик протеиновый из курицы и говядины",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/batonchik-proteinovyy-iz-kuritsy-i-govyadiny-116326/"
   }
 }
