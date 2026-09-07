@@ -1,11 +1,4 @@
 {
-  "122737": {
-    "name": "Куриное филе гриль с киноа и овощами",
-    "price": "245",
-    "old_price": "408",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
-  },
   "23995": {
     "name": "Стейк из филе грудки цыпленка-бройлера",
     "price": "224",
@@ -20,19 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
-  "43719": {
-    "name": "Ежики мясные с отварной гречкой",
-    "price": "150",
-    "old_price": "250",
+  "82408": {
+    "name": "Печенье с пармезаном, 150 г",
+    "price": "161",
+    "old_price": "268",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
-  },
-  "124400": {
-    "name": "Ассорти макарон \"Мохито, Кр. смородина/Чили, Ананас/Кокос\"",
-    "price": "169",
-    "old_price": "282",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-makaron-mokhito-124400/"
+    "link": "https://vkusvill.ru/goods/pechene-s-parmezanom-82408/"
   },
   "511": {
     "name": "Окорок свиной, охлажденный",
@@ -41,12 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
   },
-  "82408": {
-    "name": "Печенье с пармезаном, 150 г",
-    "price": "161",
-    "old_price": "268",
+  "124538": {
+    "name": "Колбаски Чоризо",
+    "price": "207",
+    "old_price": "345",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-s-parmezanom-82408/"
+    "link": "https://vkusvill.ru/goods/kolbaski-chorizo-124538/"
   },
   "71054": {
     "name": "Стейк из лосося с картофельным пюре",
@@ -55,12 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-lososya-s-kartofelnym-pyure-71054/"
   },
-  "124538": {
-    "name": "Колбаски Чоризо",
-    "price": "207",
-    "old_price": "345",
+  "124400": {
+    "name": "Ассорти макарон \"Мохито, Кр. смородина/Чили, Ананас/Кокос\"",
+    "price": "169",
+    "old_price": "282",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-chorizo-124538/"
+    "link": "https://vkusvill.ru/goods/assorti-makaron-mokhito-124400/"
   },
   "116859": {
     "name": "Кимпаб-ролл с говяжьим фаршем",
@@ -76,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
   },
-  "116542": {
-    "name": "Микс из ростков \"Брокколи, редис, горох\", 50 г",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-rostkov-brokkoli-116542/"
-  },
   "34511": {
     "name": "Пенне с грибами и овощами",
     "price": "125",
@@ -90,12 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
   },
-  "126596": {
-    "name": "Торт \"День города\" клубника-малина",
-    "price": "654",
-    "old_price": "1090",
+  "116542": {
+    "name": "Микс из ростков \"Брокколи, редис, горох\", 50 г",
+    "price": "114",
+    "old_price": "190",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-den-goroda-klubnika-malina-126596/"
+    "link": "https://vkusvill.ru/goods/miks-iz-rostkov-brokkoli-116542/"
   },
   "111441": {
     "name": "Свекольник на кефире с говядиной",
