@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-20969/"
   },
+  "68797": {
+    "name": "Картофельное пюре, 500 г",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofelnoe-pyure-68797/"
+  },
   "93666": {
     "name": "Грудка цыплят-бройлеров без кожи",
     "price": "328",
@@ -76,26 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myakot-bedra-tsyplenka-broylera-s-pechenym-pertsem-83346/"
   },
-  "119818": {
-    "name": "Лепешка \"Тортилья\" с сыром",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
-  },
   "119980": {
     "name": "Ветчина запеченная с томатами и базиликом, Халяль, ~350 г",
     "price": "678",
     "old_price": "1130",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-zapechennaya-s-tomatami-i-bazilikom-119980/"
-  },
-  "117903": {
-    "name": "Блины с яблоком, маскарпоне и карамелью",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-yablokom-117903/"
   },
   "115254": {
     "name": "Стейк из мраморной свинины на кости \"Ти-Боун\"",
