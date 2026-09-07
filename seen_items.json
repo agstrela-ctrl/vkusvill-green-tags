@@ -1,17 +1,10 @@
 {
-  "111616": {
-    "name": "Паста \"Тальятелле\" с лимонной курицей",
-    "price": "192",
-    "old_price": "320",
+  "20969": {
+    "name": "Котлета куриная с картофельным пюре",
+    "price": "173",
+    "old_price": "288",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-talyatelle-s-limonnoy-kuritsey-111616/"
-  },
-  "71215": {
-    "name": "Биточек куриный с капустой и картофельным пюре",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochek-kurinyy-s-kapustoy-i-kartofelnym-pyure-71215/"
+    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-20969/"
   },
   "93666": {
     "name": "Грудка цыплят-бройлеров без кожи",
@@ -33,20 +26,6 @@
     "old_price": "440",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladi-pechenochnye-69649/"
-  },
-  "20171": {
-    "name": "Борщ \"Вегетарианский\"",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/borshch-vegetarianskiy-20171/"
-  },
-  "110608": {
-    "name": "Клаб-сэндвич на угольном хлебе с пастрами из курицы и соусом \"Пряная паприка\"",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-na-ugolnom-khlebe-s-pastrami-iz-kuritsy-i-sousom-pryanaya-paprika-110608/"
   },
   "34100": {
     "name": "Грудка цыплят-бройлеров",
@@ -82,13 +61,6 @@
     "old_price": "210",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-orzo-s-kurinymi-frikadelkami-98052/"
-  },
-  "98204": {
-    "name": "Сэндвич ролл с индейкой и сладким чили",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
   },
   "122342": {
     "name": "Ассорти колбасок для жарки",
