@@ -132,12 +132,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myakot-bedra-tsyplenka-broylera-s-pechenym-pertsem-83346/"
   },
-  "123254": {
-    "name": "Булочка с творогом и изюмом, 2 шт",
-    "price": "69",
-    "old_price": "115",
+  "119818": {
+    "name": "Лепешка \"Тортилья\" с сыром",
+    "price": "47",
+    "old_price": "78",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-s-tvorogom-i-izyumom-123254/"
+    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
   },
   "119980": {
     "name": "Ветчина запеченная с томатами и базиликом, Халяль, ~350 г",
@@ -209,13 +209,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koryushka-zharenaya-86669/"
   },
-  "36531": {
-    "name": "Колбаски \"Мюнхенские\", вес, ~450 г",
-    "price": "597",
-    "old_price": "995",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-myunkhenskie-36531/"
-  },
   "115614": {
     "name": "Ребра свиные в маринаде из светлого пива",
     "price": "336",
@@ -237,6 +230,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-svinogo-okoroka-115075/"
   },
+  "113979": {
+    "name": "Сэндвич ролл с тунцом и яблоком",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-tuntsom-i-yablokom-113979/"
+  },
+  "106823": {
+    "name": "Сом клариевый жареный филе под соусом, 170 г",
+    "price": "226",
+    "old_price": "377",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/som-klarievyy-zharenyy-file-pod-sousom-106823/"
+  },
   "123773": {
     "name": "Колбаса вареная Ближние Горки Сливочная 400г",
     "price": "137",
@@ -251,25 +258,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-115111/"
   },
-  "113979": {
-    "name": "Сэндвич ролл с тунцом и яблоком",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-tuntsom-i-yablokom-113979/"
-  },
   "116160": {
     "name": "Печенье \"Леджери\" с корицей",
     "price": "101",
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-ledzheri-s-koritsey-116160/"
-  },
-  "106823": {
-    "name": "Сом клариевый жареный филе под соусом, 170 г",
-    "price": "226",
-    "old_price": "377",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/som-klarievyy-zharenyy-file-pod-sousom-106823/"
   }
 }
