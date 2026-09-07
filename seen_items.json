@@ -41,19 +41,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
   },
-  "68839": {
-    "name": "Конвертики с творогом и зеленью",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-tvorogom-i-zelenyu-68839/"
-  },
   "24132": {
     "name": "Блины с вишней",
     "price": "137",
     "old_price": "228",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-vishney-24132/"
+  },
+  "124400": {
+    "name": "Ассорти макарон \"Мохито, Кр. смородина/Чили, Ананас/Кокос\"",
+    "price": "169",
+    "old_price": "282",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-makaron-mokhito-124400/"
   },
   "511": {
     "name": "Окорок свиной, охлажденный",
@@ -83,6 +83,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-lososya-s-kartofelnym-pyure-71054/"
   },
+  "124538": {
+    "name": "Колбаски Чоризо",
+    "price": "207",
+    "old_price": "345",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-chorizo-124538/"
+  },
   "65513": {
     "name": "Биточки из мяса индейки",
     "price": "215",
@@ -104,26 +111,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
   },
-  "120055": {
-    "name": "Пирог с форелью, картофелем и брынзой",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirog-s-forelyu-120055/"
-  },
   "121185": {
     "name": "Филе грудки цыпленка-бройлера на зерновом откорме в \"Сливочно-чесночном\" маринаде",
     "price": "386",
     "old_price": "644",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-na-zernovom-otkorme-v-slivochno-chesnochnom-marinade-121185/"
-  },
-  "124538": {
-    "name": "Колбаски Чоризо",
-    "price": "207",
-    "old_price": "345",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-chorizo-124538/"
   },
   "116542": {
     "name": "Микс из ростков \"Брокколи, редис, горох\", 50 г",
