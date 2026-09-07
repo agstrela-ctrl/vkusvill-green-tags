@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
   },
-  "82408": {
-    "name": "Печенье с пармезаном, 150 г",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-s-parmezanom-82408/"
-  },
   "116859": {
     "name": "Кимпаб-ролл с говяжьим фаршем",
     "price": "222",
@@ -33,12 +26,5 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
-  },
-  "111441": {
-    "name": "Свекольник на кефире с говядиной",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-s-govyadinoy-111441/"
   }
 }
