@@ -1,4 +1,11 @@
 {
+  "32936": {
+    "name": "Тартин пшеничный, половинка",
+    "price": "50",
+    "old_price": "84",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
+  },
   "112645": {
     "name": "Арбуз сердцевина, 1000 г",
     "price": "414",
@@ -34,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirog-osetinskiy-kartofel-s-syrom-27966/"
   },
+  "117204": {
+    "name": "Печенье сдобное с начинкой \"Черная смородина\"",
+    "price": "116",
+    "old_price": "193",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-s-nachinkoy-chernaya-smorodina-117204/"
+  },
   "119036": {
     "name": "Кейк с вишней и кокосом, 120 г (веган)",
     "price": "148",
@@ -61,6 +75,13 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
+  },
+  "108748": {
+    "name": "Десерт \"Бала баяна\" кокосовый",
+    "price": "196",
+    "old_price": "327",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-108748/"
   },
   "86566": {
     "name": "Сельдь тихоокеан. филе без кожи соленая с петрушкой, 200 г",
@@ -96,12 +117,5 @@
     "old_price": "508",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/aromatnyy-tsyplenok-broyler-s-ovoshchami-i-struchkovoy-fasolyu-119541/"
-  },
-  "108748": {
-    "name": "Десерт \"Бала баяна\" кокосовый",
-    "price": "196",
-    "old_price": "327",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-108748/"
   }
 }
