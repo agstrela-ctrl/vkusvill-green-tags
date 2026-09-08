@@ -1,31 +1,10 @@
 {
-  "109679": {
-    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
-  },
   "122342": {
     "name": "Ассорти колбасок для жарки",
     "price": "347",
     "old_price": "578",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-kolbasok-dlya-zharki-122342/"
-  },
-  "117386": {
-    "name": "Ролл с сёмгой, тунцом и угрём",
-    "price": "359",
-    "old_price": "598",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-syemgoy-117386/"
-  },
-  "118202": {
-    "name": "Микрозелень (ростки) брокколи, 30 г",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mikrozelen-rostki-brokkoli-118202/"
   },
   "113634": {
     "name": "Корейка на кости из мраморной свинины",
@@ -34,25 +13,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
   },
-  "93690": {
-    "name": "Сэндвич на булочке из слоеного теста с ветчиной и сыром",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-na-bulochke-iz-sloenogo-testa-s-vetchinoy-i-syrom-93690/"
-  },
   "114691": {
     "name": "Крылья куриные \"Барбекю\" с посыпкой из начос с копчёной паприкой",
     "price": "414",
     "old_price": "690",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylya-kurinye-barbekyu-s-posypkoy-iz-nachos-s-kopchyenoy-paprikoy-114691/"
-  },
-  "80166": {
-    "name": "Десерт \"Наполеон\", постный",
-    "price": "136",
-    "old_price": "226",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-napoleon-80166/"
   }
 }
