@@ -1,11 +1,4 @@
 {
-  "68155": {
-    "name": "Печенье домашнее \"Арахисовая полоска\"",
-    "price": "182",
-    "old_price": "304",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-domashnee-arakhisovaya-poloska-68155/"
-  },
   "100214": {
     "name": "Печенье \"Розовые лепестки\" с ванильной начинкой",
     "price": "157",
@@ -19,27 +12,6 @@
     "old_price": "295",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syr-burrata-kopchenaya-116704/"
-  },
-  "103756": {
-    "name": "Печенье сдобное \"Палочки с шоколадом\"",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-palochki-s-shokoladom-103756/"
-  },
-  "72051": {
-    "name": "Печенье сдобное \"Конвертики\" с вишней",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-konvertiki-s-vishney-72051/"
-  },
-  "116357": {
-    "name": "Сыр плавленый с ветчиной, 180 г",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-plavlenyy-s-vetchinoy-116357/"
   },
   "72769": {
     "name": "Вафли \"Арахисовая паста в шоколадной глазури\"",
