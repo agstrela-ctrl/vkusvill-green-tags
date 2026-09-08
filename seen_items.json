@@ -1,10 +1,10 @@
 {
-  "95582": {
-    "name": "Мини-чиабатта с куриной ветчиной, омлетом и сыром (2 шт)",
-    "price": "180",
-    "old_price": "300",
+  "109679": {
+    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
+    "price": "167",
+    "old_price": "278",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
+    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
   },
   "122342": {
     "name": "Ассорти колбасок для жарки",
@@ -12,6 +12,20 @@
     "old_price": "578",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-kolbasok-dlya-zharki-122342/"
+  },
+  "117386": {
+    "name": "Ролл с сёмгой, тунцом и угрём",
+    "price": "359",
+    "old_price": "598",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/roll-s-syemgoy-117386/"
+  },
+  "72937": {
+    "name": "Картофель отварной с укропом, 500 г",
+    "price": "160",
+    "old_price": "266",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-otvarnoy-s-ukropom-72937/"
   },
   "119980": {
     "name": "Ветчина запеченная с томатами и базиликом, Халяль, ~350 г",
@@ -61,13 +75,6 @@
     "old_price": "344",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lenivye-golubtsy-iz-svininy-i-govyadiny-122909/"
-  },
-  "115614": {
-    "name": "Ребра свиные в маринаде из светлого пива",
-    "price": "336",
-    "old_price": "560",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rebra-svinye-v-marinade-iz-svetlogo-piva-115614/"
   },
   "80166": {
     "name": "Десерт \"Наполеон\", постный",
