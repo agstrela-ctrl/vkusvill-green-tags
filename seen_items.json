@@ -1,16 +1,51 @@
 {
-  "109595": {
-    "name": "Рёбрышки в маринаде по-домашнему",
-    "price": "311",
-    "old_price": "518",
+  "68155": {
+    "name": "Печенье домашнее \"Арахисовая полоска\"",
+    "price": "182",
+    "old_price": "304",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ryebryshki-v-marinade-po-domashnemu-109595/"
+    "link": "https://vkusvill.ru/goods/pechene-domashnee-arakhisovaya-poloska-68155/"
   },
-  "114691": {
-    "name": "Крылья куриные \"Барбекю\" с посыпкой из начос с копчёной паприкой",
-    "price": "414",
-    "old_price": "690",
+  "100214": {
+    "name": "Печенье \"Розовые лепестки\" с ванильной начинкой",
+    "price": "157",
+    "old_price": "262",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylya-kurinye-barbekyu-s-posypkoy-iz-nachos-s-kopchyenoy-paprikoy-114691/"
+    "link": "https://vkusvill.ru/goods/pechene-rozovye-lepestki-s-vanilnoy-nachinkoy-100214/"
+  },
+  "116704": {
+    "name": "Сыр \"Буррата копченая\", 100 г",
+    "price": "177",
+    "old_price": "295",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syr-burrata-kopchenaya-116704/"
+  },
+  "103756": {
+    "name": "Печенье сдобное \"Палочки с шоколадом\"",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-palochki-s-shokoladom-103756/"
+  },
+  "72051": {
+    "name": "Печенье сдобное \"Конвертики\" с вишней",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-konvertiki-s-vishney-72051/"
+  },
+  "116357": {
+    "name": "Сыр плавленый с ветчиной, 180 г",
+    "price": "118",
+    "old_price": "196",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syr-plavlenyy-s-vetchinoy-116357/"
+  },
+  "72769": {
+    "name": "Вафли \"Арахисовая паста в шоколадной глазури\"",
+    "price": "170",
+    "old_price": "284",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vafli-arakhisovaya-pasta-v-shokoladnoy-glazuri-72769/"
   }
 }
