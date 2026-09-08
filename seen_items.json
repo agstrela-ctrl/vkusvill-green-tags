@@ -27,20 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
   },
-  "21451": {
-    "name": "Омлет с курицей и сыром",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-s-kuritsey-i-syrom-21451/"
-  },
-  "82834": {
-    "name": "Торт \"Половинки Маракуйя-Монтблан\"",
-    "price": "432",
-    "old_price": "720",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-montblan-82834/"
-  },
   "27966": {
     "name": "Пирог осетинский \"Картофель с сыром\", 250 г",
     "price": "138",
@@ -48,47 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirog-osetinskiy-kartofel-s-syrom-27966/"
   },
-  "100354": {
-    "name": "Суп Фо Бо, 580 г",
-    "price": "300",
-    "old_price": "500",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-fo-bo-100354/"
-  },
-  "22790": {
-    "name": "Печенье сдобное с апельсиновой начинкой",
-    "price": "110",
-    "old_price": "184",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-s-apelsinovoy-nachinkoy-22790/"
-  },
-  "69495": {
-    "name": "Батон \"Весенний\", половинка, нарезка",
-    "price": "35",
-    "old_price": "58",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
-  },
-  "117204": {
-    "name": "Печенье сдобное с начинкой \"Черная смородина\"",
-    "price": "116",
-    "old_price": "193",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-s-nachinkoy-chernaya-smorodina-117204/"
-  },
   "119036": {
     "name": "Кейк с вишней и кокосом, 120 г (веган)",
     "price": "148",
     "old_price": "247",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keyk-s-vishney-i-kokosom-119036/"
-  },
-  "125038": {
-    "name": "Шримп-ролл с креветками и соусом Амай Терияки",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shrimp-roll-s-krevetkami-i-sousom-amay-teriyaki-125038/"
   },
   "125535": {
     "name": "Шаурма по-балтийски со скумбрией",
@@ -145,13 +96,6 @@
     "old_price": "508",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/aromatnyy-tsyplenok-broyler-s-ovoshchami-i-struchkovoy-fasolyu-119541/"
-  },
-  "114995": {
-    "name": "Баклажаны \"Пармиджано\" с соусом Болоньезе и моцареллой",
-    "price": "384",
-    "old_price": "640",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baklazhany-parmidzhano-s-sousom-boloneze-i-motsarelloy-114995/"
   },
   "108748": {
     "name": "Десерт \"Бала баяна\" кокосовый",
