@@ -27,40 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-briosh-37314/"
   },
-  "118735": {
-    "name": "Айран с огурцом и зеленью 1,8%, 180 г",
-    "price": "48",
-    "old_price": "80",
+  "120607": {
+    "name": "Десерт кокосовый питьевой с йогуртовой закваской, 230 г",
+    "price": "95",
+    "old_price": "158",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ayran-s-ogurtsom-i-zelenyu-1-118735/"
-  },
-  "116883": {
-    "name": "Биойогурт питьевой ПРОБИОТИК+ 1,7%",
-    "price": "51",
-    "old_price": "85",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bioyogurt-pitevoy-probiotik-1-116883/"
-  },
-  "122583": {
-    "name": "Йогурт питьевой \"Алоэ-белый виноград\" 1,7%",
-    "price": "58",
-    "old_price": "97",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-aloe-belyy-vinograd-1-122583/"
-  },
-  "118636": {
-    "name": "Йогурт питьевой \"Персик-овсяные хлопья\", 1,7%",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-persik-ovsyanye-khlopya-118636/"
-  },
-  "116251": {
-    "name": "Йогурт питьевой \"Иван-чай с земляникой\" 1,7%",
-    "price": "58",
-    "old_price": "97",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-ivan-chay-s-zemlyanikoy-1-116251/"
+    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-120607/"
   },
   "125535": {
     "name": "Шаурма по-балтийски со скумбрией",
@@ -90,12 +62,40 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
   },
+  "76683": {
+    "name": "Ряженка из козьего молока термостатная 2,8-5,6%",
+    "price": "94",
+    "old_price": "157",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ryazhenka-iz-kozego-moloka-termostatnaya-2-76683/"
+  },
   "86566": {
     "name": "Сельдь тихоокеан. филе без кожи соленая с петрушкой, 200 г",
     "price": "135",
     "old_price": "225",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/seld-tikhookean-file-bez-kozhi-solenaya-s-petrushkoy-86566/"
+  },
+  "116883": {
+    "name": "Биойогурт питьевой ПРОБИОТИК+ 1,7%",
+    "price": "51",
+    "old_price": "85",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bioyogurt-pitevoy-probiotik-1-116883/"
+  },
+  "118636": {
+    "name": "Йогурт питьевой \"Персик-овсяные хлопья\", 1,7%",
+    "price": "57",
+    "old_price": "95",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-persik-ovsyanye-khlopya-118636/"
+  },
+  "116251": {
+    "name": "Йогурт питьевой \"Иван-чай с земляникой\" 1,7%",
+    "price": "58",
+    "old_price": "97",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-ivan-chay-s-zemlyanikoy-1-116251/"
   },
   "111759": {
     "name": "Десерт \"Бала баяна\" кокосовый с малиной",
@@ -124,5 +124,12 @@
     "old_price": "327",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-108748/"
+  },
+  "122583": {
+    "name": "Йогурт питьевой \"Алоэ-белый виноград\" 1,7%",
+    "price": "58",
+    "old_price": "97",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-aloe-belyy-vinograd-1-122583/"
   }
 }
