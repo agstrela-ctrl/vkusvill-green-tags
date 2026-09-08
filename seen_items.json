@@ -1,4 +1,25 @@
 {
+  "39250": {
+    "name": "Чиабатта с курицей, пармезаном и соусом цезарь, кафе",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39250/"
+  },
+  "39249": {
+    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
+  },
+  "68303": {
+    "name": "Сэндвич с курицей и печеным перцем, кафе",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-s-kuritsey-i-pechenym-pertsem-68303/"
+  },
   "100214": {
     "name": "Печенье \"Розовые лепестки\" с ванильной начинкой",
     "price": "157",
@@ -19,5 +40,12 @@
     "old_price": "284",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vafli-arakhisovaya-pasta-v-shokoladnoy-glazuri-72769/"
+  },
+  "123729": {
+    "name": "Чиабатта оливковая с ветчиной из индейки, омлетом и сырным соусом, кафе",
+    "price": "168",
+    "old_price": "280",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-olivkovaya-s-vetchinoy-iz-indeyki-123729/"
   }
 }
