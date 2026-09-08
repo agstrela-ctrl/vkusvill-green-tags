@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
   },
-  "108748": {
-    "name": "Десерт \"Бала баяна\" кокосовый",
-    "price": "196",
-    "old_price": "327",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-108748/"
-  },
   "86566": {
     "name": "Сельдь тихоокеан. филе без кожи соленая с петрушкой, 200 г",
     "price": "135",
@@ -96,5 +89,12 @@
     "old_price": "508",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/aromatnyy-tsyplenok-broyler-s-ovoshchami-i-struchkovoy-fasolyu-119541/"
+  },
+  "108748": {
+    "name": "Десерт \"Бала баяна\" кокосовый",
+    "price": "196",
+    "old_price": "327",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-108748/"
   }
 }
