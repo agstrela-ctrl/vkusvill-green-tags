@@ -1,9 +1,23 @@
 {
-  "72769": {
-    "name": "Вафли \"Арахисовая паста в шоколадной глазури\"",
-    "price": "170",
-    "old_price": "284",
+  "43883": {
+    "name": "Букет из мыльных цветов №2, 14*16см",
+    "price": "1200",
+    "old_price": "2000",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/vafli-arakhisovaya-pasta-v-shokoladnoy-glazuri-72769/"
+    "link": "https://vkusvill.ru/goods/buket-iz-mylnykh-tsvetov-2-43883/"
+  },
+  "64509": {
+    "name": "Конструктор блочный, 160 элементов, ВП",
+    "price": "145",
+    "old_price": "242",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konstruktor-blochnyy-64509/"
+  },
+  "124284": {
+    "name": "Аромалампа \"Мята и лимонный лист\"",
+    "price": "979",
+    "old_price": "1632",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/aromalampa-myata-i-limonnyy-list-124284/"
   }
 }
