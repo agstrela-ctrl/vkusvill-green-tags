@@ -20,20 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-s-syemgoy-117386/"
   },
-  "72937": {
-    "name": "Картофель отварной с укропом, 500 г",
-    "price": "160",
-    "old_price": "266",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-otvarnoy-s-ukropom-72937/"
-  },
-  "119980": {
-    "name": "Ветчина запеченная с томатами и базиликом, Халяль, ~350 г",
-    "price": "678",
-    "old_price": "1130",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-zapechennaya-s-tomatami-i-bazilikom-119980/"
-  },
   "118202": {
     "name": "Микрозелень (ростки) брокколи, 30 г",
     "price": "99",
@@ -48,19 +34,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
   },
-  "114691": {
-    "name": "Крылья куриные \"Барбекю\" с посыпкой из начос с копчёной паприкой",
-    "price": "414",
-    "old_price": "690",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylya-kurinye-barbekyu-s-posypkoy-iz-nachos-s-kopchyenoy-paprikoy-114691/"
-  },
   "93690": {
     "name": "Сэндвич на булочке из слоеного теста с ветчиной и сыром",
     "price": "132",
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-na-bulochke-iz-sloenogo-testa-s-vetchinoy-i-syrom-93690/"
+  },
+  "114691": {
+    "name": "Крылья куриные \"Барбекю\" с посыпкой из начос с копчёной паприкой",
+    "price": "414",
+    "old_price": "690",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylya-kurinye-barbekyu-s-posypkoy-iz-nachos-s-kopchyenoy-paprikoy-114691/"
   },
   "119680": {
     "name": "Колбаса \"Косичка\" из индейки жареная",
