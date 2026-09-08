@@ -1,24 +1,10 @@
 {
-  "92843": {
-    "name": "Биточки из курицы и сыра с запеченным картофелем",
-    "price": "150",
-    "old_price": "250",
+  "95582": {
+    "name": "Мини-чиабатта с куриной ветчиной, омлетом и сыром (2 шт)",
+    "price": "180",
+    "old_price": "300",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-kuritsy-i-syra-s-zapechennym-kartofelem-92843/"
-  },
-  "62809": {
-    "name": "Фарш из говядины \"по стандарту ВкусВилл\", 360 г",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-po-standartu-vkusvill-62809/"
-  },
-  "63899": {
-    "name": "Котлеты из свинины и говядины, 300 г",
-    "price": "276",
-    "old_price": "460",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-63899/"
+    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
   },
   "122342": {
     "name": "Ассорти колбасок для жарки",
@@ -55,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylya-kurinye-barbekyu-s-posypkoy-iz-nachos-s-kopchyenoy-paprikoy-114691/"
   },
+  "93690": {
+    "name": "Сэндвич на булочке из слоеного теста с ветчиной и сыром",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-na-bulochke-iz-sloenogo-testa-s-vetchinoy-i-syrom-93690/"
+  },
   "119680": {
     "name": "Колбаса \"Косичка\" из индейки жареная",
     "price": "298",
@@ -69,20 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lenivye-golubtsy-iz-svininy-i-govyadiny-122909/"
   },
-  "76248": {
-    "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
-    "price": "296",
-    "old_price": "494",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-76248/"
-  },
-  "86669": {
-    "name": "Корюшка жареная, 200 г",
-    "price": "286",
-    "old_price": "477",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koryushka-zharenaya-86669/"
-  },
   "115614": {
     "name": "Ребра свиные в маринаде из светлого пива",
     "price": "336",
@@ -96,19 +75,5 @@
     "old_price": "226",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-napoleon-80166/"
-  },
-  "115111": {
-    "name": "Запеканка картофельная с курицей, томатами и соусом песто",
-    "price": "349",
-    "old_price": "582",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-115111/"
-  },
-  "113979": {
-    "name": "Сэндвич ролл с тунцом и яблоком",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-tuntsom-i-yablokom-113979/"
   }
 }
