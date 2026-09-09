@@ -1,18 +1,4 @@
 {
-  "122169": {
-    "name": "Молоко Вологодское 3,2%, 930 мл",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-vologodskoe-3-122169/"
-  },
-  "108750": {
-    "name": "Огурчики Кисловодские, 250 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurchiki-kislovodskie-108750/"
-  },
   "98204": {
     "name": "Сэндвич ролл с индейкой и сладким чили",
     "price": "162",
@@ -33,20 +19,6 @@
     "old_price": "578",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-kolbasok-dlya-zharki-122342/"
-  },
-  "27966": {
-    "name": "Пирог осетинский \"Картофель с сыром\", 250 г",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirog-osetinskiy-kartofel-s-syrom-27966/"
-  },
-  "98336": {
-    "name": "Окорочок утиный с соевым соусом и чесноком",
-    "price": "661",
-    "old_price": "1102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okorochok-utinyy-s-soevym-sousom-i-chesnokom-98336/"
   },
   "53170": {
     "name": "Окрошка с говядиной, 400 г",
@@ -82,6 +54,13 @@
     "old_price": "80",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ayran-s-ogurtsom-i-zelenyu-1-118735/"
+  },
+  "120607": {
+    "name": "Десерт кокосовый питьевой с йогуртовой закваской, 230 г",
+    "price": "95",
+    "old_price": "158",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-120607/"
   },
   "118941": {
     "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
