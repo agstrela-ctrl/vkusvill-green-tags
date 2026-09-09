@@ -1,38 +1,10 @@
 {
-  "98204": {
-    "name": "Сэндвич ролл с индейкой и сладким чили",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
-  },
-  "124375": {
-    "name": "Клаб-сэндвич с курицей и творожным сыром",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-tvorozhnym-syrom-124375/"
-  },
   "122342": {
     "name": "Ассорти колбасок для жарки",
     "price": "347",
     "old_price": "578",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-kolbasok-dlya-zharki-122342/"
-  },
-  "53170": {
-    "name": "Окрошка с говядиной, 400 г",
-    "price": "371",
-    "old_price": "618",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-53170/"
-  },
-  "36208": {
-    "name": "Желе фруктовое мандарин, виноград, яблоко, ананас",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-fruktovoe-mandarin-36208/"
   },
   "125535": {
     "name": "Шаурма по-балтийски со скумбрией",
@@ -48,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
   },
-  "118735": {
-    "name": "Айран с огурцом и зеленью 1,8%, 180 г",
-    "price": "48",
-    "old_price": "80",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ayran-s-ogurtsom-i-zelenyu-1-118735/"
-  },
   "120607": {
     "name": "Десерт кокосовый питьевой с йогуртовой закваской, 230 г",
     "price": "95",
@@ -62,32 +27,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-120607/"
   },
-  "118941": {
-    "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
-  },
-  "23073": {
-    "name": "Салат Кобб с имбирным соусом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
-  },
   "111759": {
     "name": "Десерт \"Бала баяна\" кокосовый с малиной",
     "price": "216",
     "old_price": "360",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-malinoy-111759/"
-  },
-  "108748": {
-    "name": "Десерт \"Бала баяна\" кокосовый",
-    "price": "196",
-    "old_price": "327",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-108748/"
   }
 }
