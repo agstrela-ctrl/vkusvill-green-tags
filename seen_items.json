@@ -1,4 +1,11 @@
 {
+  "72200": {
+    "name": "Курабье с апельсином, 140 г (веган)",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurabe-s-apelsinom-72200/"
+  },
   "117863": {
     "name": "Салат по-азиатски с курицей, арахисом и соусом Унаги",
     "price": "203",
@@ -12,6 +19,20 @@
     "old_price": "158",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-120607/"
+  },
+  "75622": {
+    "name": "Пирожное дайфукумоти “Манго” зам.",
+    "price": "112",
+    "old_price": "187",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-dayfukumoti-mango-zam-75622/"
+  },
+  "121035": {
+    "name": "Напиток \"яблоко-айва\" с красной смородиной, аронией и лаймом, 500 мл",
+    "price": "87",
+    "old_price": "145",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-yabloko-ayva-s-krasnoy-smorodinoy-121035/"
   },
   "111759": {
     "name": "Десерт \"Бала баяна\" кокосовый с малиной",
