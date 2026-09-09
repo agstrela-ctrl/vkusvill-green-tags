@@ -1,24 +1,10 @@
 {
-  "39234": {
-    "name": "Форель филе зам.",
-    "price": "1642",
-    "old_price": "2737",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-file-zam-39234/"
-  },
   "98554": {
     "name": "Зубатка пестрая стейк зам., 600 г",
     "price": "358",
     "old_price": "597",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zubatka-pestraya-steyk-zam-98554/"
-  },
-  "109673": {
-    "name": "Дорадо филе на коже зам., 290 г",
-    "price": "670",
-    "old_price": "1117",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dorado-file-na-kozhe-zam-109673/"
   },
   "24804": {
     "name": "Креветки черные тигровые очищенные 40/50 зам., 400 г",
@@ -33,13 +19,6 @@
     "old_price": "977",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keta-file-kusok-bez-kozhi-zam-85221/"
-  },
-  "17103": {
-    "name": "Кальмар кольца зам., 400 г",
-    "price": "365",
-    "old_price": "608",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kalmar-koltsa-zam-17103/"
   },
   "68903": {
     "name": "Тунец филе-кусок без кожи зам., 600 г",
