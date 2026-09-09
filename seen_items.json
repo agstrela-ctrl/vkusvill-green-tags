@@ -1,11 +1,4 @@
 {
-  "21303": {
-    "name": "Язык говяжий, замороженный",
-    "price": "940",
-    "old_price": "1566",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yazyk-govyazhiy-21303/"
-  },
   "39234": {
     "name": "Форель филе зам.",
     "price": "1642",
@@ -54,20 +47,6 @@
     "old_price": "1287",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tunets-file-kusok-bez-kozhi-zam-68903/"
-  },
-  "105063": {
-    "name": "Кета стейк зам., 500 г",
-    "price": "390",
-    "old_price": "650",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keta-steyk-zam-105063/"
-  },
-  "52672": {
-    "name": "Щупальца кальмара командорского зам., 400 г",
-    "price": "288",
-    "old_price": "480",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchupaltsa-kalmara-komandorskogo-zam-52672/"
   },
   "111759": {
     "name": "Десерт \"Бала баяна\" кокосовый с малиной",
