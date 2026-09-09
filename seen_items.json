@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotletki-rybnye-s-zapechennymi-ovoshchami-30084/"
   },
-  "28799": {
-    "name": "Плов с курицей",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-s-kuritsey-28799/"
-  },
   "112775": {
     "name": "Изделие х/б \"Зерновой\" с куркумой",
     "price": "61",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-s-krevetkoy-i-ogurtsom-69875/"
   },
-  "98731": {
-    "name": "Арбуз сердцевина, 300 г",
-    "price": "207",
-    "old_price": "345",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
   "105236": {
     "name": "Паста-салат с соусом песто, индейкой, сыром и вялеными томатами",
     "price": "186",
@@ -69,26 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-salat-s-sousom-pesto-105236/"
   },
-  "29622": {
-    "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
-    "price": "82",
-    "old_price": "136",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
-  },
   "77153": {
     "name": "Свекольник на кефире",
     "price": "119",
     "old_price": "198",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
-  },
-  "21159": {
-    "name": "Блины с начинкой \"Жюльен\"",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-nachinkoy-zhyulen-21159/"
   },
   "50389": {
     "name": "Ролл \"Симфония классики\" с креветкой",
@@ -110,13 +82,6 @@
     "old_price": "343",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-svininy-62806/"
-  },
-  "115245": {
-    "name": "Фрикадельки \"Сливочные\" из мяса цыплят-бройлеров и индейки",
-    "price": "163",
-    "old_price": "272",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-slivochnye-iz-myasa-tsyplyat-broylerov-i-indeyki-115245/"
   },
   "24734": {
     "name": "Торт \"Морковный с пеканом\" постный",
@@ -167,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-khalyal-24950/"
   },
-  "96885": {
-    "name": "Бедрышки-табака цыплят-бройлеров",
-    "price": "355",
-    "old_price": "592",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bedryshki-tabaka-tsyplyat-broylerov-96885/"
-  },
   "123710": {
     "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
     "price": "167",
@@ -209,13 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-indeyki-po-argentinski-96079/"
   },
-  "115873": {
-    "name": "Мак-н-чеддер с сосисками",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mak-n-chedder-s-sosiskami-115873/"
-  },
   "119818": {
     "name": "Лепешка \"Тортилья\" с сыром",
     "price": "47",
@@ -230,26 +181,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ikra-mintaya-podkopchenaya-v-masle-119744/"
   },
-  "111102": {
-    "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
-  },
   "61689": {
     "name": "Биточек сочный с пенне",
     "price": "143",
     "old_price": "238",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochek-sochnyy-s-penne-61689/"
-  },
-  "124359": {
-    "name": "Сэндвич со скрэмблом, беконом и сыром чеддер",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-so-skremblom-124359/"
   },
   "95691": {
     "name": "Филе грудки утенка",
@@ -258,13 +195,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-grudki-utenka-95691/"
   },
-  "114226": {
-    "name": "Тефтели из мяса цыплят-бройлеров с рисом",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tefteli-iz-myasa-tsyplyat-broylerov-s-risom-114226/"
-  },
   "65513": {
     "name": "Биточки из мяса индейки",
     "price": "215",
@@ -272,18 +202,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
   },
-  "119874": {
-    "name": "Икра минтая соленая в масле, 150 г",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ikra-mintaya-solenaya-v-masle-119874/"
-  },
   "106055": {
     "name": "Кальмар гигантский филе горячего копчения, 150 г",
     "price": "234",
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kalmar-gigantskiy-file-goryachego-kopcheniya-106055/"
+  },
+  "124359": {
+    "name": "Сэндвич со скрэмблом, беконом и сыром чеддер",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-so-skremblom-124359/"
+  },
+  "119874": {
+    "name": "Икра минтая соленая в масле, 150 г",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ikra-mintaya-solenaya-v-masle-119874/"
   }
 }
