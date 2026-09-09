@@ -6,11 +6,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
-  "19426": {
-    "name": "Морской гребешок филе 100/130 зам., 300 г",
-    "price": "840",
-    "old_price": "1400",
+  "120608": {
+    "name": "Вода детская \"Наш родничок\" родниковая негаз., 330 мл",
+    "price": "26",
+    "old_price": "43",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/morskoy-grebeshok-file-100-130-zam-19426/"
+    "link": "https://vkusvill.ru/goods/voda-detskaya-nash-rodnichok-rodnikovaya-negaz-120608/"
+  },
+  "44041": {
+    "name": "Вода питьевая детская ФрутоНяня негазированная с 0 месяцев 1,5 л",
+    "price": "45",
+    "old_price": "75",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-detskaya-frutonyanya-negazirovannaya-s-0-mesyatsev-1-44041/"
   }
 }
