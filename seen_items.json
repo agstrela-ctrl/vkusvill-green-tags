@@ -1,11 +1,4 @@
 {
-  "605": {
-    "name": "Лук репчатый",
-    "price": "37",
-    "old_price": "62",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
-  },
   "43883": {
     "name": "Букет из мыльных цветов №2, 14*16см",
     "price": "1200",
@@ -19,5 +12,12 @@
     "old_price": "360",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-malinoy-111759/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "37",
+    "old_price": "62",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   }
 }
