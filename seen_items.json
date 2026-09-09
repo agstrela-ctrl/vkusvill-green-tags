@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moloko-vologodskoe-3-122169/"
   },
-  "77153": {
-    "name": "Свекольник на кефире",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
-  },
   "108750": {
     "name": "Огурчики Кисловодские, 250 г",
     "price": "108",
@@ -83,12 +76,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorochok-utinyy-s-soevym-sousom-i-chesnokom-98336/"
   },
+  "53170": {
+    "name": "Окрошка с говядиной, 400 г",
+    "price": "371",
+    "old_price": "618",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-53170/"
+  },
   "74914": {
     "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
     "price": "497",
     "old_price": "829",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
+  },
+  "36208": {
+    "name": "Желе фруктовое мандарин, виноград, яблоко, ананас",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-fruktovoe-mandarin-36208/"
+  },
+  "73608": {
+    "name": "Суп \"Том ям\" вегетарианский",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-tom-yam-vegetarianskiy-73608/"
   },
   "125535": {
     "name": "Шаурма по-балтийски со скумбрией",
@@ -103,6 +117,13 @@
     "old_price": "338",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
+  },
+  "118735": {
+    "name": "Айран с огурцом и зеленью 1,8%, 180 г",
+    "price": "48",
+    "old_price": "80",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ayran-s-ogurtsom-i-zelenyu-1-118735/"
   },
   "120607": {
     "name": "Десерт кокосовый питьевой с йогуртовой закваской, 230 г",
