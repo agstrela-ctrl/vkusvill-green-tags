@@ -6,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
-  "102917": {
-    "name": "Десерт \"Бонфуа\" с цельной клубникой и крем-чиз",
-    "price": "171",
-    "old_price": "285",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bonfua-s-tselnoy-klubnikoy-i-krem-chiz-102917/"
-  },
   "15310": {
     "name": "Кинза, 50 г",
     "price": "59",
     "old_price": "98",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kinza-15310/"
-  },
-  "92244": {
-    "name": "Йогурт питьевой с малиной 2,5%",
-    "price": "59",
-    "old_price": "99",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-malinoy-2-92244/"
   },
   "120607": {
     "name": "Десерт кокосовый питьевой с йогуртовой закваской, 230 г",
@@ -47,12 +33,5 @@
     "old_price": "360",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-malinoy-111759/"
-  },
-  "73048": {
-    "name": "Сырок творожный Ростагроэкспорт глазированный с ароматом ванили 20% 45 г",
-    "price": "29",
-    "old_price": "49",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-rostagroeksport-glazirovannyy-s-aromatom-vanili-20-45-g-73048/"
   }
 }
