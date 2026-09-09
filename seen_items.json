@@ -1,18 +1,4 @@
 {
-  "70541": {
-    "name": "Форель стейк зам., 500 г",
-    "price": "712",
-    "old_price": "1187",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-steyk-zam-70541/"
-  },
-  "42672": {
-    "name": "Тесто замороженное дрожжевое зам. 500 г",
-    "price": "106",
-    "old_price": "177",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/testo-zamorozhennoe-drozhzhevoe-zam-500-g-42672/"
-  },
   "21303": {
     "name": "Язык говяжий, замороженный",
     "price": "940",
@@ -68,13 +54,6 @@
     "old_price": "1717",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-chernye-tigrovye-ochishchennye-40-50-zam-24804/"
-  },
-  "92244": {
-    "name": "Йогурт питьевой с малиной 2,5%",
-    "price": "59",
-    "old_price": "99",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-malinoy-2-92244/"
   },
   "85221": {
     "name": "Кета филе-кусок без кожи зам., 600 г",
