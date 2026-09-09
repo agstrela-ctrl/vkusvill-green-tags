@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
   },
-  "108750": {
-    "name": "Огурчики Кисловодские, 250 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurchiki-kislovodskie-108750/"
-  },
   "77153": {
     "name": "Свекольник на кефире",
     "price": "119",
@@ -20,12 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
   },
-  "120607": {
-    "name": "Десерт кокосовый питьевой с йогуртовой закваской, 230 г",
-    "price": "95",
-    "old_price": "158",
+  "108750": {
+    "name": "Огурчики Кисловодские, 250 г",
+    "price": "108",
+    "old_price": "180",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-120607/"
+    "link": "https://vkusvill.ru/goods/ogurchiki-kislovodskie-108750/"
   },
   "125535": {
     "name": "Шаурма по-балтийски со скумбрией",
@@ -40,6 +33,13 @@
     "old_price": "338",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
+  },
+  "120607": {
+    "name": "Десерт кокосовый питьевой с йогуртовой закваской, 230 г",
+    "price": "95",
+    "old_price": "158",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-120607/"
   },
   "73048": {
     "name": "Сырок творожный Ростагроэкспорт глазированный с ароматом ванили 20% 45 г",
