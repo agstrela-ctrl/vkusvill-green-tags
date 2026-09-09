@@ -1,10 +1,38 @@
 {
+  "17736": {
+    "name": "Молоко цельное в бутылке, 900 мл",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-tselnoe-v-butylke-17736/"
+  },
+  "18825": {
+    "name": "Торт \"Маракуйя\"",
+    "price": "383",
+    "old_price": "638",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-marakuyya-18825/"
+  },
   "32936": {
     "name": "Тартин пшеничный, половинка",
     "price": "50",
     "old_price": "84",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
+  },
+  "82233": {
+    "name": "Пирожное блинное шоколадное",
+    "price": "107",
+    "old_price": "178",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-shokoladnoe-82233/"
+  },
+  "122169": {
+    "name": "Молоко Вологодское 3,2%, 930 мл",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-vologodskoe-3-122169/"
   },
   "77153": {
     "name": "Свекольник на кефире",
@@ -13,12 +41,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
   },
-  "108750": {
-    "name": "Огурчики Кисловодские, 250 г",
-    "price": "108",
-    "old_price": "180",
+  "98014": {
+    "name": "Улитка с творогом и изюмом",
+    "price": "90",
+    "old_price": "150",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurchiki-kislovodskie-108750/"
+    "link": "https://vkusvill.ru/goods/ulitka-s-tvorogom-i-izyumom-98014/"
+  },
+  "94459": {
+    "name": "Молоко 2,5% в бутылке, 1400 г",
+    "price": "95",
+    "old_price": "159",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-2-94459/"
   },
   "125535": {
     "name": "Шаурма по-балтийски со скумбрией",
