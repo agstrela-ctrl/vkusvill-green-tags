@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-marakuyya-18825/"
   },
-  "32936": {
-    "name": "Тартин пшеничный, половинка",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
-  },
   "82233": {
     "name": "Пирожное блинное шоколадное",
     "price": "107",
@@ -41,6 +34,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
   },
+  "122342": {
+    "name": "Ассорти колбасок для жарки",
+    "price": "347",
+    "old_price": "578",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-kolbasok-dlya-zharki-122342/"
+  },
   "98014": {
     "name": "Улитка с творогом и изюмом",
     "price": "90",
@@ -48,12 +48,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ulitka-s-tvorogom-i-izyumom-98014/"
   },
-  "94459": {
-    "name": "Молоко 2,5% в бутылке, 1400 г",
-    "price": "95",
-    "old_price": "159",
+  "98336": {
+    "name": "Окорочок утиный с соевым соусом и чесноком",
+    "price": "661",
+    "old_price": "1102",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-2-94459/"
+    "link": "https://vkusvill.ru/goods/okorochok-utinyy-s-soevym-sousom-i-chesnokom-98336/"
+  },
+  "74914": {
+    "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
+    "price": "497",
+    "old_price": "829",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
   },
   "125535": {
     "name": "Шаурма по-балтийски со скумбрией",
