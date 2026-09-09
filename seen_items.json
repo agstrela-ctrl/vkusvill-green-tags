@@ -34,6 +34,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
   },
+  "83348": {
+    "name": "Котлеты из индейки и цыпленка с сыром чеддер",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-indeyki-i-tsyplenka-s-syrom-chedder-83348/"
+  },
   "122342": {
     "name": "Ассорти колбасок для жарки",
     "price": "347",
@@ -76,46 +83,88 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
   },
-  "120607": {
-    "name": "Десерт кокосовый питьевой с йогуртовой закваской, 230 г",
-    "price": "95",
-    "old_price": "158",
+  "58728": {
+    "name": "Хлеб цельнозерновой с отрубями",
+    "price": "180",
+    "old_price": "300",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-120607/"
+    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
-  "73048": {
-    "name": "Сырок творожный Ростагроэкспорт глазированный с ароматом ванили 20% 45 г",
-    "price": "29",
-    "old_price": "49",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-rostagroeksport-glazirovannyy-s-aromatom-vanili-20-45-g-73048/"
-  },
-  "23073": {
-    "name": "Салат Кобб с имбирным соусом",
-    "price": "174",
-    "old_price": "290",
+  "1039": {
+    "name": "Изделие цельнозер. без муки \"Житный\", нарезка",
+    "price": "56",
+    "old_price": "93",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
+    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-zhitnyy-1039/"
   },
-  "111759": {
-    "name": "Десерт \"Бала баяна\" кокосовый с малиной",
-    "price": "216",
-    "old_price": "360",
+  "65192": {
+    "name": "Изделие х/б \"Цельнозерновой\" полбяной с семенами льна",
+    "price": "85",
+    "old_price": "142",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-malinoy-111759/"
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoy-polbyanoy-s-semenami-lna-65192/"
   },
-  "108748": {
-    "name": "Десерт \"Бала баяна\" кокосовый",
-    "price": "196",
-    "old_price": "327",
+  "32931": {
+    "name": "Тартин пшенично-ржаной, половинка",
+    "price": "50",
+    "old_price": "84",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-108748/"
+    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
   },
-  "122583": {
-    "name": "Йогурт питьевой \"Алоэ-белый виноград\" 1,7%",
-    "price": "58",
-    "old_price": "97",
+  "125796": {
+    "name": "Клопсы \"Кенигсбергские\" с картофелем и каперсами",
+    "price": "198",
+    "old_price": "330",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-aloe-belyy-vinograd-1-122583/"
+    "link": "https://vkusvill.ru/goods/klopsy-kenigsbergskie-s-kartofelem-i-kapersami-125796/"
+  },
+  "38215": {
+    "name": "Филе грудки цыпленка-бройлера для запекания в маринаде \"Сливочно-пряный\"",
+    "price": "364",
+    "old_price": "607",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-dlya-zapekaniya-v-marinade-slivochno-pryanyy-38215/"
+  },
+  "98575": {
+    "name": "Крем-суп с лисичками и белыми грибами",
+    "price": "186",
+    "old_price": "310",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-s-lisichkami-i-belymi-gribami-98575/"
+  },
+  "101030": {
+    "name": "Говядина тушеная с лисичками и пастой Ризо в сливочно-грибном соусе",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-tushenaya-s-lisichkami-i-pastoy-rizo-v-slivochno-gribnom-souse-101030/"
+  },
+  "115477": {
+    "name": "Батон без добавления сахара нарезанный, половинка",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-bez-dobavleniya-sakhara-narezannyy-115477/"
+  },
+  "19080": {
+    "name": "Хлеб \"Донской\", нарезка",
+    "price": "30",
+    "old_price": "50",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-donskoy-19080/"
+  },
+  "18271": {
+    "name": "Кефир 3,2% в бутылке, 900 г",
+    "price": "70",
+    "old_price": "117",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-3-18271/"
+  },
+  "22459": {
+    "name": "Хлебцы \"Зерновые\"",
+    "price": "85",
+    "old_price": "141",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khlebtsy-zernovye-22459/"
   }
 }
