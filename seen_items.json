@@ -1,4 +1,53 @@
 {
+  "39234": {
+    "name": "Форель филе зам.",
+    "price": "1642",
+    "old_price": "2737",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/forel-file-zam-39234/"
+  },
+  "18572": {
+    "name": "Пельмени с грудкой цыпленка-бройлера и сыром",
+    "price": "289",
+    "old_price": "482",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pelmeni-s-grudkoy-tsyplenka-broylera-i-syrom-18572/"
+  },
+  "78704": {
+    "name": "Карп филе зам.",
+    "price": "813",
+    "old_price": "1355",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/karp-file-zam-78704/"
+  },
+  "98554": {
+    "name": "Зубатка пестрая стейк зам., 600 г",
+    "price": "358",
+    "old_price": "597",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zubatka-pestraya-steyk-zam-98554/"
+  },
+  "109673": {
+    "name": "Дорадо филе на коже зам., 290 г",
+    "price": "670",
+    "old_price": "1117",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dorado-file-na-kozhe-zam-109673/"
+  },
+  "37737": {
+    "name": "Судак филе порционное зам., 400 г",
+    "price": "492",
+    "old_price": "820",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sudak-file-portsionnoe-zam-37737/"
+  },
+  "105063": {
+    "name": "Кета стейк зам., 500 г",
+    "price": "390",
+    "old_price": "650",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keta-steyk-zam-105063/"
+  },
   "43883": {
     "name": "Букет из мыльных цветов №2, 14*16см",
     "price": "1200",
@@ -6,12 +55,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/buket-iz-mylnykh-tsvetov-2-43883/"
   },
+  "23411": {
+    "name": "Треска тихоокеанская филе без кожи зам.",
+    "price": "960",
+    "old_price": "1600",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/treska-tikhookeanskaya-file-bez-kozhi-zam-23411/"
+  },
+  "83579": {
+    "name": "Вареники с малиной розовые",
+    "price": "244",
+    "old_price": "407",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vareniki-s-malinoy-rozovye-83579/"
+  },
   "111759": {
     "name": "Десерт \"Бала баяна\" кокосовый с малиной",
     "price": "216",
     "old_price": "360",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-malinoy-111759/"
+  },
+  "52672": {
+    "name": "Щупальца кальмара командорского зам., 400 г",
+    "price": "288",
+    "old_price": "480",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shchupaltsa-kalmara-komandorskogo-zam-52672/"
   },
   "605": {
     "name": "Лук репчатый",
