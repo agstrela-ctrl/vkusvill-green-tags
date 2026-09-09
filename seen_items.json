@@ -1,16 +1,86 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
-  },
   "605": {
     "name": "Лук репчатый",
     "price": "37",
     "old_price": "62",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "82233": {
+    "name": "Пирожное блинное шоколадное",
+    "price": "107",
+    "old_price": "178",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-shokoladnoe-82233/"
+  },
+  "102917": {
+    "name": "Десерт \"Бонфуа\" с цельной клубникой и крем-чиз",
+    "price": "171",
+    "old_price": "285",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-bonfua-s-tselnoy-klubnikoy-i-krem-chiz-102917/"
+  },
+  "15310": {
+    "name": "Кинза, 50 г",
+    "price": "59",
+    "old_price": "98",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kinza-15310/"
+  },
+  "15197": {
+    "name": "Ассорти из зелени, 100 г",
+    "price": "72",
+    "old_price": "120",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
+  },
+  "41142": {
+    "name": "Сырники с малиновой начинкой",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-s-malinovoy-nachinkoy-41142/"
+  },
+  "74326": {
+    "name": "Суп \"Рассольник\" вегетарианский с грибами и сельдереем",
+    "price": "107",
+    "old_price": "178",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326/"
+  },
+  "92244": {
+    "name": "Йогурт питьевой с малиной 2,5%",
+    "price": "59",
+    "old_price": "99",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-malinoy-2-92244/"
+  },
+  "120607": {
+    "name": "Десерт кокосовый питьевой с йогуртовой закваской, 230 г",
+    "price": "95",
+    "old_price": "158",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-120607/"
+  },
+  "43883": {
+    "name": "Букет из мыльных цветов №2, 14*16см",
+    "price": "1200",
+    "old_price": "2000",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/buket-iz-mylnykh-tsvetov-2-43883/"
+  },
+  "111759": {
+    "name": "Десерт \"Бала баяна\" кокосовый с малиной",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-malinoy-111759/"
+  },
+  "73048": {
+    "name": "Сырок творожный Ростагроэкспорт глазированный с ароматом ванили 20% 45 г",
+    "price": "29",
+    "old_price": "49",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-rostagroeksport-glazirovannyy-s-aromatom-vanili-20-45-g-73048/"
   }
 }
