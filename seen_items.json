@@ -6,33 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yazyk-govyazhiy-21303/"
   },
-  "59282": {
-    "name": "Авокадо Хасс \"ВВ отборное\", шт",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/avokado-khass-vv-otbornoe-59282/"
-  },
   "39234": {
     "name": "Форель филе зам.",
     "price": "1642",
     "old_price": "2737",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-file-zam-39234/"
-  },
-  "18572": {
-    "name": "Пельмени с грудкой цыпленка-бройлера и сыром",
-    "price": "289",
-    "old_price": "482",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pelmeni-s-grudkoy-tsyplenka-broylera-i-syrom-18572/"
-  },
-  "78704": {
-    "name": "Карп филе зам.",
-    "price": "813",
-    "old_price": "1355",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/karp-file-zam-78704/"
   },
   "98554": {
     "name": "Зубатка пестрая стейк зам., 600 г",
@@ -62,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keta-file-kusok-bez-kozhi-zam-85221/"
   },
-  "90489": {
-    "name": "Глазированные конфеты с ореховой начинкой, ВЕС",
-    "price": "757",
-    "old_price": "1262",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/glazirovannye-konfety-s-orekhovoy-nachinkoy-90489/"
-  },
   "17103": {
     "name": "Кальмар кольца зам., 400 г",
     "price": "365",
@@ -97,20 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keta-steyk-zam-105063/"
   },
-  "43883": {
-    "name": "Букет из мыльных цветов №2, 14*16см",
-    "price": "1200",
-    "old_price": "2000",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/buket-iz-mylnykh-tsvetov-2-43883/"
-  },
-  "114322": {
-    "name": "Пельмени без глютена с цыпленком-бройлером и зеленью",
-    "price": "339",
-    "old_price": "565",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pelmeni-bez-glyutena-s-tsyplenkom-broylerom-i-zelenyu-114322/"
-  },
   "52672": {
     "name": "Щупальца кальмара командорского зам., 400 г",
     "price": "288",
@@ -131,13 +89,6 @@
     "old_price": "62",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
-  },
-  "83579": {
-    "name": "Вареники с малиной розовые",
-    "price": "244",
-    "old_price": "407",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vareniki-s-malinoy-rozovye-83579/"
   },
   "111759": {
     "name": "Десерт \"Бала баяна\" кокосовый с малиной",
