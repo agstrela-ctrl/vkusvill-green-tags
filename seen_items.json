@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kinza-15310/"
   },
-  "15197": {
-    "name": "Ассорти из зелени, 100 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
-  },
   "92244": {
     "name": "Йогурт питьевой с малиной 2,5%",
     "price": "59",
@@ -61,19 +54,5 @@
     "old_price": "49",
     "discount": "41",
     "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-rostagroeksport-glazirovannyy-s-aromatom-vanili-20-45-g-73048/"
-  },
-  "82233": {
-    "name": "Пирожное блинное шоколадное",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-shokoladnoe-82233/"
-  },
-  "74326": {
-    "name": "Суп \"Рассольник\" вегетарианский с грибами и сельдереем",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326/"
   }
 }
