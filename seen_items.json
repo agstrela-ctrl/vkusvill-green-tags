@@ -1,30 +1,9 @@
 {
-  "117863": {
-    "name": "Салат по-азиатски с курицей, арахисом и соусом Унаги",
-    "price": "203",
-    "old_price": "338",
+  "298": {
+    "name": "Бифилайф детский \"Черника\" 2,5%",
+    "price": "36",
+    "old_price": "60",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
-  },
-  "120607": {
-    "name": "Десерт кокосовый питьевой с йогуртовой закваской, 230 г",
-    "price": "95",
-    "old_price": "158",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-120607/"
-  },
-  "121035": {
-    "name": "Напиток \"яблоко-айва\" с красной смородиной, аронией и лаймом, 500 мл",
-    "price": "87",
-    "old_price": "145",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-yabloko-ayva-s-krasnoy-smorodinoy-121035/"
-  },
-  "111759": {
-    "name": "Десерт \"Бала баяна\" кокосовый с малиной",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-malinoy-111759/"
+    "link": "https://vkusvill.ru/goods/bifilayf-detskiy-chernika-2-298/"
   }
 }
