@@ -1,16 +1,16 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
+  "17128": {
+    "name": "Микс салатный \"Паризьен\"",
+    "price": "99",
+    "old_price": "165",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-parizen-17128/"
   },
-  "28740": {
-    "name": "Огурцы \"Корнишоны\", 300 г",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurtsy-kornishony-28740/"
+  "43733": {
+    "name": "Вода питьевая Сенежская негазированная пэт 1,5 л",
+    "price": "38",
+    "old_price": "64",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-senezhskaya-negazirovannaya-pet-1-43733/"
   }
 }
