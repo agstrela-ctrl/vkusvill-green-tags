@@ -6,6 +6,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
   },
+  "126348": {
+    "name": "Салат картофельный со шпротами и горчичной заправкой",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-kartofelnyy-so-shprotami-i-gorchichnoy-zapravkoy-126348/"
+  },
+  "126039": {
+    "name": "Онигири со шпротами",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-so-shprotami-126039/"
+  },
   "96522": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом",
     "price": "296",
@@ -41,26 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pryaniki-zavarnye-myatnye-21013/"
   },
-  "63656": {
-    "name": "Десерт творожный \"Ванилла Бисквитти\"",
-    "price": "74",
-    "old_price": "124",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-vanilla-biskvitti-63656/"
-  },
   "122453": {
     "name": "Ролл \"Филадельфия\" с безлактозным сыром",
     "price": "401",
     "old_price": "668",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-filadelfiya-s-bezlaktoznym-syrom-122453/"
-  },
-  "126348": {
-    "name": "Салат картофельный со шпротами и горчичной заправкой",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-kartofelnyy-so-shprotami-i-gorchichnoy-zapravkoy-126348/"
   },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
@@ -75,13 +75,6 @@
     "old_price": "297",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/batonchik-shokolad-dubayskiy-s-fistashkoy-i-kataifi-111932/"
-  },
-  "126039": {
-    "name": "Онигири со шпротами",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-so-shprotami-126039/"
   },
   "106055": {
     "name": "Кальмар гигантский филе горячего копчения, 150 г",
