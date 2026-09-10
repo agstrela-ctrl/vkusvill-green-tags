@@ -13,26 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/polutushka-tsyplenka-broylera-na-zernovom-otkorme-64567/"
   },
-  "54394": {
-    "name": "Торт \"Киевский\" с грецким орехом",
-    "price": "635",
-    "old_price": "1058",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-kievskiy-s-gretskim-orekhom-54394/"
-  },
   "120063": {
     "name": "Курица в сливочно-шпинатном соусе с рисом",
     "price": "155",
     "old_price": "258",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-v-slivochno-shpinatnom-souse-s-risom-120063/"
-  },
-  "115131": {
-    "name": "Хлеб \"Двухсолодовый\" с пророщенным зерном, нарезка",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-dvukhsolodovyy-s-proroshchennym-zernom-115131/"
   },
   "102082": {
     "name": "Омлет с томатами и моцареллой",
@@ -103,13 +89,6 @@
     "old_price": "72",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-25053/"
-  },
-  "89299": {
-    "name": "Щи из свежей капусты постные",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchi-iz-svezhey-kapusty-postnye-89299/"
   },
   "63576": {
     "name": "Семга филе-кусок на коже охл., 350 г",
@@ -188,33 +167,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kokteyl-vysokobelkovyy-active-energy-so-vkusom-zemlyaniki-i-cherniki-0-123156/"
   },
-  "123944": {
-    "name": "Шаверма \"Как в Питере\" с курицей и овощами",
-    "price": "183",
-    "old_price": "305",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
-  },
-  "1076": {
-    "name": "Кумыс, 500 г",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kumys-1076/"
-  },
   "63628": {
     "name": "Торт \"Сметанный\" с малиной",
     "price": "483",
     "old_price": "805",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-smetannyy-s-malinoy-63628/"
-  },
-  "121339": {
-    "name": "Кесадилья с курицей, шпинатом и моцареллой",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-121339/"
   },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
@@ -223,26 +181,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
   },
+  "1076": {
+    "name": "Кумыс, 500 г",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kumys-1076/"
+  },
   "59022": {
     "name": "Шашлык из индейки 4 перца",
     "price": "586",
     "old_price": "976",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-4-pertsa-59022/"
-  },
-  "122204": {
-    "name": "Шаурма с уткой по-пекински и соусом Хойсин",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-utkoy-po-pekinski-i-sousom-khoysin-122204/"
-  },
-  "115892": {
-    "name": "Заливное из грудки цыпленка с перепелиным яйцом",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zalivnoe-iz-grudki-tsyplenka-s-perepelinym-yaytsom-115892/"
   },
   "94594": {
     "name": "Семга ребра холодного копчения, 100 г",
