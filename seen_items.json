@@ -1,11 +1,4 @@
 {
-  "665": {
-    "name": "Дыня Колхозница",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dynya-kolkhoznitsa-665/"
-  },
   "606": {
     "name": "Морковь",
     "price": "33",
@@ -33,12 +26,5 @@
     "old_price": "208",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stik-solntsezashchitnyy-spf-50-122741/"
-  },
-  "119744": {
-    "name": "Икра минтая подкопченая в масле, 150 г",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ikra-mintaya-podkopchenaya-v-masle-119744/"
   }
 }
