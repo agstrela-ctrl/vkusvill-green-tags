@@ -20,11 +20,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-606/"
   },
+  "36832": {
+    "name": "Вода минеральная \"Набеглави\" газ., 1 л",
+    "price": "82",
+    "old_price": "137",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-mineralnaya-nabeglavi-gaz-36832/"
+  },
   "122741": {
     "name": "Стик солнцезащитный SPF 50+",
     "price": "125",
     "old_price": "208",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stik-solntsezashchitnyy-spf-50-122741/"
+  },
+  "119744": {
+    "name": "Икра минтая подкопченая в масле, 150 г",
+    "price": "114",
+    "old_price": "190",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ikra-mintaya-podkopchenaya-v-masle-119744/"
   }
 }
