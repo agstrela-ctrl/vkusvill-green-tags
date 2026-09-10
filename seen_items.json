@@ -20,33 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-kievskiy-s-gretskim-orekhom-54394/"
   },
-  "66903": {
-    "name": "Гречка по-купечески",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-po-kupecheski-66903/"
-  },
   "120063": {
     "name": "Курица в сливочно-шпинатном соусе с рисом",
     "price": "155",
     "old_price": "258",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-v-slivochno-shpinatnom-souse-s-risom-120063/"
-  },
-  "98731": {
-    "name": "Арбуз сердцевина, 300 г",
-    "price": "207",
-    "old_price": "345",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
-  "105840": {
-    "name": "Солянка \"по-домашнему\"",
-    "price": "164",
-    "old_price": "274",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/solyanka-po-domashnemu-105840/"
   },
   "115131": {
     "name": "Хлеб \"Двухсолодовый\" с пророщенным зерном, нарезка",
@@ -83,20 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-malina-zhimolost-113701/"
   },
-  "118563": {
-    "name": "Щи из свежей капусты с говядиной",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchi-iz-svezhey-kapusty-s-govyadinoy-118563/"
-  },
-  "62806": {
-    "name": "Фарш из говядины и свинины, 360 г",
-    "price": "206",
-    "old_price": "343",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-svininy-62806/"
-  },
   "81582": {
     "name": "Торт \"Маракуйя\", 1 кг",
     "price": "678",
@@ -125,33 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/profitroli-s-nachinkoy-v-shokoladnom-souse-82602/"
   },
-  "83776": {
-    "name": "Лагман жареный с говядиной",
-    "price": "152",
-    "old_price": "254",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lagman-zharenyy-s-govyadinoy-83776/"
-  },
   "93111": {
     "name": "Стейк из свинины \"Чесночный\"",
     "price": "293",
     "old_price": "488",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-svininy-chesnochnyy-93111/"
-  },
-  "104251": {
-    "name": "Вареники ленивые в наборе со сметаной",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vareniki-lenivye-v-nabore-so-smetanoy-104251/"
-  },
-  "25290": {
-    "name": "Салат \"Оливье\", 150 г",
-    "price": "120",
-    "old_price": "200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-olive-25290/"
   },
   "25053": {
     "name": "Лаваш \"Армянский\", 160 г",
@@ -216,13 +160,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-eklerov-mango-53640/"
   },
-  "119457": {
-    "name": "Конвертики с вишневой начинкой",
-    "price": "112",
-    "old_price": "186",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-vishnevoy-nachinkoy-119457/"
-  },
   "101080": {
     "name": "Онигири с угрем и творожным сыром",
     "price": "125",
@@ -272,13 +209,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
   },
-  "121988": {
-    "name": "Торт \"Бонфуа\" с манго и крем-чиз",
-    "price": "648",
-    "old_price": "1080",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-bonfua-s-mango-i-krem-chiz-121988/"
-  },
   "63628": {
     "name": "Торт \"Сметанный\" с малиной",
     "price": "483",
@@ -293,26 +223,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-121339/"
   },
-  "116341": {
-    "name": "Брецель \"Миндальный\" на сливочном масле",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-mindalnyy-na-slivochnom-masle-116341/"
-  },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
     "price": "499",
     "old_price": "832",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
-  },
-  "73841": {
-    "name": "Килька балтийская без головы в масле с пряностями, 180 г",
-    "price": "120",
-    "old_price": "200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kilka-baltiyskaya-bez-golovy-v-masle-s-pryanostyami-73841/"
   },
   "59022": {
     "name": "Шашлык из индейки 4 перца",
