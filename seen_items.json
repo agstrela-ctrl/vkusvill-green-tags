@@ -146,13 +146,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-s-lesnymi-gribami-89166/"
   },
-  "53640": {
-    "name": "Ассорти эклеров \"Манго, Сырный, Лесные ягоды\"",
-    "price": "212",
-    "old_price": "353",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-eklerov-mango-53640/"
-  },
   "101080": {
     "name": "Онигири с угрем и творожным сыром",
     "price": "125",
@@ -202,6 +195,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
   },
+  "1076": {
+    "name": "Кумыс, 500 г",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kumys-1076/"
+  },
   "63628": {
     "name": "Торт \"Сметанный\" с малиной",
     "price": "483",
@@ -243,13 +243,6 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zalivnoe-iz-grudki-tsyplenka-s-perepelinym-yaytsom-115892/"
-  },
-  "1076": {
-    "name": "Кумыс, 500 г",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kumys-1076/"
   },
   "94594": {
     "name": "Семга ребра холодного копчения, 100 г",
