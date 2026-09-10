@@ -111,18 +111,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
   },
-  "1076": {
-    "name": "Кумыс, 500 г",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kumys-1076/"
-  },
   "59022": {
     "name": "Шашлык из индейки 4 перца",
     "price": "586",
     "old_price": "976",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-4-pertsa-59022/"
+  },
+  "1076": {
+    "name": "Кумыс, 500 г",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kumys-1076/"
   }
 }
