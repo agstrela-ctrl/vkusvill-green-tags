@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pryaniki-zavarnye-myatnye-21013/"
   },
-  "122453": {
-    "name": "Ролл \"Филадельфия\" с безлактозным сыром",
-    "price": "401",
-    "old_price": "668",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-filadelfiya-s-bezlaktoznym-syrom-122453/"
-  },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
     "price": "52",
@@ -68,12 +61,5 @@
     "old_price": "297",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/batonchik-shokolad-dubayskiy-s-fistashkoy-i-kataifi-111932/"
-  },
-  "106055": {
-    "name": "Кальмар гигантский филе горячего копчения, 150 г",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kalmar-gigantskiy-file-goryachego-kopcheniya-106055/"
   }
 }
