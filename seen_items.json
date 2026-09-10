@@ -1,9 +1,23 @@
 {
-  "43733": {
-    "name": "Вода питьевая Сенежская негазированная пэт 1,5 л",
-    "price": "38",
-    "old_price": "64",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/voda-pitevaya-senezhskaya-negazirovannaya-pet-1-43733/"
+  "665": {
+    "name": "Дыня Колхозница",
+    "price": "90",
+    "old_price": "150",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dynya-kolkhoznitsa-665/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "37",
+    "old_price": "62",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "606": {
+    "name": "Морковь",
+    "price": "33",
+    "old_price": "55",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-606/"
   }
 }
