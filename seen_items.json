@@ -13,12 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/polutushka-tsyplenka-broylera-na-zernovom-otkorme-64567/"
   },
-  "120063": {
-    "name": "Курица в сливочно-шпинатном соусе с рисом",
-    "price": "155",
-    "old_price": "258",
+  "158": {
+    "name": "Кефир 3,2%, 1000 г",
+    "price": "59",
+    "old_price": "98",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochno-shpinatnom-souse-s-risom-120063/"
+    "link": "https://vkusvill.ru/goods/kefir-3-158/"
   },
   "102082": {
     "name": "Омлет с томатами и моцареллой",
@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
   },
-  "113701": {
-    "name": "Торт блинный шоколадный \"Малина-жимолость\"",
-    "price": "476",
-    "old_price": "794",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-malina-zhimolost-113701/"
-  },
   "81582": {
     "name": "Торт \"Маракуйя\", 1 кг",
     "price": "678",
@@ -55,26 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-marakuyya-81582/"
   },
-  "39543": {
-    "name": "Котлета куриная в панировке из сухарей с картофельным пюре",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-v-panirovke-iz-sukharey-s-kartofelnym-pyure-39543/"
-  },
   "26305": {
     "name": "Хлеб \"Романовский\", нарезка",
     "price": "181",
     "old_price": "302",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
-  },
-  "82602": {
-    "name": "Профитроли с начинкой в шоколадном соусе",
-    "price": "196",
-    "old_price": "326",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/profitroli-s-nachinkoy-v-shokoladnom-souse-82602/"
   },
   "93111": {
     "name": "Стейк из свинины \"Чесночный\"",
@@ -125,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-s-lesnymi-gribami-89166/"
   },
-  "101080": {
-    "name": "Онигири с угрем и творожным сыром",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-ugrem-i-tvorozhnym-syrom-101080/"
-  },
   "49769": {
     "name": "Окрошка овощная, 400 г",
     "price": "257",
@@ -139,19 +111,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
   },
-  "124231": {
-    "name": "Самоса по-азиатски с фунчозой и пряными специями",
-    "price": "114",
-    "old_price": "190",
+  "86068": {
+    "name": "Кефир из цельного молока в бутылке, 900 г",
+    "price": "73",
+    "old_price": "122",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/samosa-po-aziatski-s-funchozoy-i-pryanymi-spetsiyami-124231/"
-  },
-  "38710": {
-    "name": "Голубика, 300 г",
-    "price": "306",
-    "old_price": "510",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-38710/"
+    "link": "https://vkusvill.ru/goods/kefir-iz-tselnogo-moloka-v-butylke-86068/"
   },
   "125813": {
     "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
@@ -166,6 +131,13 @@
     "old_price": "149",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kokteyl-vysokobelkovyy-active-energy-so-vkusom-zemlyaniki-i-cherniki-0-123156/"
+  },
+  "123944": {
+    "name": "Шаверма \"Как в Питере\" с курицей и овощами",
+    "price": "183",
+    "old_price": "305",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
   },
   "63628": {
     "name": "Торт \"Сметанный\" с малиной",
