@@ -1,4 +1,11 @@
 {
+  "605": {
+    "name": "Лук репчатый",
+    "price": "37",
+    "old_price": "62",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
   "606": {
     "name": "Морковь",
     "price": "33",
@@ -12,5 +19,12 @@
     "old_price": "208",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stik-solntsezashchitnyy-spf-50-122741/"
+  },
+  "17128": {
+    "name": "Микс салатный \"Паризьен\"",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-parizen-17128/"
   }
 }
