@@ -5,5 +5,33 @@
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "22648": {
+    "name": "Креветки северные очищенные 300/400 в/м., 200 г",
+    "price": "432",
+    "old_price": "720",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-severnye-ochishchennye-300-400-v-m-22648/"
+  },
+  "98554": {
+    "name": "Зубатка пестрая стейк зам., 600 г",
+    "price": "358",
+    "old_price": "597",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zubatka-pestraya-steyk-zam-98554/"
+  },
+  "24804": {
+    "name": "Креветки черные тигровые очищенные 40/50 зам., 400 г",
+    "price": "1030",
+    "old_price": "1717",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-chernye-tigrovye-ochishchennye-40-50-zam-24804/"
+  },
+  "68903": {
+    "name": "Тунец филе-кусок без кожи зам., 600 г",
+    "price": "772",
+    "old_price": "1287",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tunets-file-kusok-bez-kozhi-zam-68903/"
   }
 }
