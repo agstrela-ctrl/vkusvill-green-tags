@@ -69,6 +69,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-96045/"
   },
+  "112770": {
+    "name": "Хлеб \"Свекольно-морковный\"",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
+  },
   "124723": {
     "name": "Салат с курицей, брынзой и соусом песто с тыквенными семечками",
     "price": "221",
@@ -117,6 +124,13 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-kartofelnyy-so-shprotami-i-gorchichnoy-zapravkoy-126348/"
+  },
+  "118697": {
+    "name": "Хлебцы мягкие ржано-пшеничные с семенами",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
   },
   "117328": {
     "name": "Лепешка с творожным сыром и грушей",
