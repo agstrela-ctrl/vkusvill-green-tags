@@ -20,12 +20,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
   },
+  "33849": {
+    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
+    "price": "81",
+    "old_price": "135",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
+  },
   "112770": {
     "name": "Хлеб \"Свекольно-морковный\"",
     "price": "66",
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
+  },
+  "21013": {
+    "name": "Пряники заварные \"Мятные\"",
+    "price": "77",
+    "old_price": "128",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pryaniki-zavarnye-myatnye-21013/"
+  },
+  "63656": {
+    "name": "Десерт творожный \"Ванилла Бисквитти\"",
+    "price": "74",
+    "old_price": "124",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-vanilla-biskvitti-63656/"
   },
   "122453": {
     "name": "Ролл \"Филадельфия\" с безлактозным сыром",
@@ -47,6 +68,13 @@
     "old_price": "87",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
+  },
+  "111932": {
+    "name": "Батончик шоколад. \"Дубайский\" с фисташкой и катаифи",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/batonchik-shokolad-dubayskiy-s-fistashkoy-i-kataifi-111932/"
   },
   "126039": {
     "name": "Онигири со шпротами",
