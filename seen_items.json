@@ -125,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
   },
-  "63628": {
-    "name": "Торт \"Сметанный\" с малиной",
-    "price": "483",
-    "old_price": "805",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-smetannyy-s-malinoy-63628/"
-  },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
     "price": "499",
@@ -152,19 +145,5 @@
     "old_price": "976",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-4-pertsa-59022/"
-  },
-  "94594": {
-    "name": "Семга ребра холодного копчения, 100 г",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/semga-rebra-kholodnogo-kopcheniya-94594/"
-  },
-  "122118": {
-    "name": "Биойогурт 2%, 180 г",
-    "price": "42",
-    "old_price": "70",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bioyogurt-2-122118/"
   }
 }
