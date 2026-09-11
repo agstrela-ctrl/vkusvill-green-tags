@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
   },
-  "81582": {
-    "name": "Торт \"Маракуйя\", 1 кг",
-    "price": "678",
-    "old_price": "1130",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-marakuyya-81582/"
-  },
   "26305": {
     "name": "Хлеб \"Романовский\", нарезка",
     "price": "181",
@@ -69,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
-  "83249": {
-    "name": "Редис дайкон, 600 г",
-    "price": "120",
-    "old_price": "200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/redis-daykon-83249/"
-  },
   "110062": {
     "name": "Окрошка с говядиной, 250 г",
     "price": "245",
@@ -89,6 +75,13 @@
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
+  },
+  "83249": {
+    "name": "Редис дайкон, 600 г",
+    "price": "120",
+    "old_price": "200",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/redis-daykon-83249/"
   },
   "1076": {
     "name": "Кумыс, 500 г",
