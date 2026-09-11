@@ -76,19 +76,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-rzhano-pshenichnyy-1087/"
   },
-  "100737": {
-    "name": "Лепешка с сыром и картофелем, 2 шт",
-    "price": "163",
-    "old_price": "272",
+  "115478": {
+    "name": "Булочка \"Бородинская\", 4 шт",
+    "price": "53",
+    "old_price": "88",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-syrom-i-kartofelem-100737/"
+    "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
   },
-  "53170": {
-    "name": "Окрошка с говядиной, 400 г",
-    "price": "371",
-    "old_price": "618",
+  "124581": {
+    "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
+    "price": "36",
+    "old_price": "60",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-53170/"
+    "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
   "121529": {
     "name": "Пирожки с яйцом и щавелем, 2 шт",
@@ -104,12 +104,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
   },
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
+  },
+  "101183": {
+    "name": "Изделие х/б \"Бородинский-мини на закваске\", 5 шт",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-borodinskiy-mini-na-zakvaske-101183/"
+  },
   "49769": {
     "name": "Окрошка овощная, 400 г",
     "price": "257",
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
+  },
+  "105780": {
+    "name": "Стейк свиной в грибном маринаде",
+    "price": "327",
+    "old_price": "545",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-svinoy-v-gribnom-marinade-105780/"
   },
   "54416": {
     "name": "Тарталетка \"Смородина\" веган",
