@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-bedra-indeyki-48018/"
   },
-  "81642": {
-    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
-  },
   "112773": {
     "name": "Хлеб \"Гречневый\" на закваске",
     "price": "73",
@@ -89,6 +82,13 @@
     "old_price": "829",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
+  },
+  "115254": {
+    "name": "Стейк из мраморной свинины на кости \"Ти-Боун\"",
+    "price": "335",
+    "old_price": "558",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-iz-mramornoy-svininy-na-kosti-ti-boun-115254/"
   },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
@@ -131,13 +131,6 @@
     "old_price": "798",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-domashniy-121549/"
-  },
-  "80166": {
-    "name": "Десерт \"Наполеон\", постный",
-    "price": "136",
-    "old_price": "226",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-napoleon-80166/"
   },
   "93669": {
     "name": "Боул \"Зеленый салат\" с индейкой, брокколи, киноа и эдамаме",
@@ -194,13 +187,6 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
-  },
-  "76538": {
-    "name": "Лепешка с курицей и овощами",
-    "price": "179",
-    "old_price": "299",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-kuritsey-i-ovoshchami-76538/"
   },
   "16552": {
     "name": "Филе индейки копчено-вареное, нарезка",
