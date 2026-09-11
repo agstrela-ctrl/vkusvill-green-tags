@@ -1,10 +1,24 @@
 {
+  "113856": {
+    "name": "Салат из запеченной свеклы с сыром фета",
+    "price": "137",
+    "old_price": "229",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
+  },
   "64567": {
     "name": "Полутушка цыпленка-бройлера на зерновом откорме",
     "price": "334",
     "old_price": "556",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/polutushka-tsyplenka-broylera-na-zernovom-otkorme-64567/"
+  },
+  "89458": {
+    "name": "Салат \"Коул Слоу\" постный",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
   },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
@@ -55,6 +69,34 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-rzhano-pshenichnyy-1087/"
   },
+  "100737": {
+    "name": "Лепешка с сыром и картофелем, 2 шт",
+    "price": "163",
+    "old_price": "272",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-s-syrom-i-kartofelem-100737/"
+  },
+  "53170": {
+    "name": "Окрошка с говядиной, 400 г",
+    "price": "371",
+    "old_price": "618",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-53170/"
+  },
+  "121529": {
+    "name": "Пирожки с яйцом и щавелем, 2 шт",
+    "price": "115",
+    "old_price": "191",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-s-yaytsom-i-shchavelem-121529/"
+  },
+  "115822": {
+    "name": "Онигири с тунцом в соево-кунжутном соусе",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
+  },
   "49769": {
     "name": "Окрошка овощная, 400 г",
     "price": "257",
@@ -62,19 +104,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
   },
+  "110062": {
+    "name": "Окрошка с говядиной, 250 г",
+    "price": "245",
+    "old_price": "408",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-110062/"
+  },
   "123156": {
     "name": "Коктейль высокобелковый Active Energy со вкусом земляники и черники 0,5% 230 мл",
     "price": "89",
     "old_price": "149",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kokteyl-vysokobelkovyy-active-energy-so-vkusom-zemlyaniki-i-cherniki-0-123156/"
-  },
-  "59022": {
-    "name": "Шашлык из индейки 4 перца",
-    "price": "586",
-    "old_price": "976",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-4-pertsa-59022/"
   },
   "1076": {
     "name": "Кумыс, 500 г",
