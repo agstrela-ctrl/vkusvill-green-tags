@@ -1,11 +1,4 @@
 {
-  "113856": {
-    "name": "Салат из запеченной свеклы с сыром фета",
-    "price": "137",
-    "old_price": "229",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
-  },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
     "price": "89",
@@ -13,12 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
   },
-  "110444": {
-    "name": "Шаурма с курицей и томатным соусом на гриле, кафе",
-    "price": "179",
-    "old_price": "298",
+  "106480": {
+    "name": "Лепешка с куриной ветчиной и сыром на гриле, кафе",
+    "price": "115",
+    "old_price": "192",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-tomatnym-sousom-na-grile-110444/"
+    "link": "https://vkusvill.ru/goods/lepeshka-s-kurinoy-vetchinoy-i-syrom-na-grile-106480/"
   },
   "26305": {
     "name": "Хлеб \"Романовский\", нарезка",
@@ -47,13 +40,6 @@
     "old_price": "60",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
-  },
-  "123729": {
-    "name": "Чиабатта оливковая с ветчиной из индейки, омлетом и сырным соусом, кафе",
-    "price": "168",
-    "old_price": "280",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-olivkovaya-s-vetchinoy-iz-indeyki-123729/"
   },
   "49769": {
     "name": "Окрошка овощная, 400 г",
