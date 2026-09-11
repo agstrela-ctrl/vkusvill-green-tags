@@ -1,44 +1,9 @@
 {
-  "120751": {
-    "name": "Батон-мини \"Брецель\"",
-    "price": "89",
-    "old_price": "148",
+  "75113": {
+    "name": "Тарталетка \"Клубника с сырным кремом\"",
+    "price": "138",
+    "old_price": "230",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
-  "106480": {
-    "name": "Лепешка с куриной ветчиной и сыром на гриле, кафе",
-    "price": "115",
-    "old_price": "192",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-kurinoy-vetchinoy-i-syrom-na-grile-106480/"
-  },
-  "26305": {
-    "name": "Хлеб \"Романовский\", нарезка",
-    "price": "181",
-    "old_price": "302",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
-  },
-  "124581": {
-    "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
-  },
-  "49769": {
-    "name": "Окрошка овощная, 400 г",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
-  },
-  "1076": {
-    "name": "Кумыс, 500 г",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kumys-1076/"
+    "link": "https://vkusvill.ru/goods/tartaletka-klubnika-s-syrnym-kremom-75113/"
   }
 }
