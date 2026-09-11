@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
   },
-  "158": {
-    "name": "Кефир 3,2%, 1000 г",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-3-158/"
-  },
   "81582": {
     "name": "Торт \"Маракуйя\", 1 кг",
     "price": "678",
@@ -69,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
-  "121529": {
-    "name": "Пирожки с яйцом и щавелем, 2 шт",
-    "price": "115",
-    "old_price": "191",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-s-yaytsom-i-shchavelem-121529/"
-  },
   "110062": {
     "name": "Окрошка с говядиной, 250 г",
     "price": "245",
@@ -103,6 +89,13 @@
     "old_price": "545",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-svinoy-v-gribnom-marinade-105780/"
+  },
+  "84331": {
+    "name": "Масляная рыба холодного копчения ломтики, 100 г",
+    "price": "168",
+    "old_price": "280",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/maslyanaya-ryba-kholodnogo-kopcheniya-lomtiki-84331/"
   },
   "1076": {
     "name": "Кумыс, 500 г",
