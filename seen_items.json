@@ -1,9 +1,16 @@
 {
-  "69992": {
-    "name": "Томаты сливка Фламенко, 450 г",
-    "price": "159",
-    "old_price": "265",
+  "79663": {
+    "name": "Вода питьевая негазированная, 5 л",
+    "price": "70",
+    "old_price": "117",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-slivka-flamenko-69992/"
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
+  },
+  "43723": {
+    "name": "Вода питьевая Сенежская газированная пэт 1,5 л",
+    "price": "38",
+    "old_price": "64",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-senezhskaya-gazirovannaya-pet-1-43723/"
   }
 }
