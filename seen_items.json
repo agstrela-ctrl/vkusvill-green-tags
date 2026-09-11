@@ -34,12 +34,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-svininy-chesnochnyy-93111/"
   },
+  "122736": {
+    "name": "Филе индейки гриль с кускусом и брокколи",
+    "price": "233",
+    "old_price": "388",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-kuskusom-i-brokkoli-122736/"
+  },
   "25053": {
     "name": "Лаваш \"Армянский\", 160 г",
     "price": "43",
     "old_price": "72",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-25053/"
+  },
+  "1696": {
+    "name": "Йогурт греческий 4%",
+    "price": "43",
+    "old_price": "72",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-grecheskiy-4-1696/"
   },
   "1087": {
     "name": "Изделие цельнозер. без муки \"Ржано- пшеничный\",нарезка",
@@ -54,6 +68,13 @@
     "old_price": "60",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
+  },
+  "83249": {
+    "name": "Редис дайкон, 600 г",
+    "price": "120",
+    "old_price": "200",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/redis-daykon-83249/"
   },
   "110062": {
     "name": "Окрошка с говядиной, 250 г",
