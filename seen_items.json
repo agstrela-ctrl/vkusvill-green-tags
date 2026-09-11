@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
   },
-  "64567": {
-    "name": "Полутушка цыпленка-бройлера на зерновом откорме",
-    "price": "334",
-    "old_price": "556",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/polutushka-tsyplenka-broylera-na-zernovom-otkorme-64567/"
-  },
   "158": {
     "name": "Кефир 3,2%, 1000 г",
     "price": "59",
@@ -26,13 +19,6 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
-  "17243": {
-    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
-    "price": "38",
-    "old_price": "63",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
   },
   "81582": {
     "name": "Торт \"Маракуйя\", 1 кг",
@@ -104,19 +90,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-svinoy-v-gribnom-marinade-105780/"
   },
+  "102259": {
+    "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
+  },
   "110062": {
     "name": "Окрошка с говядиной, 250 г",
     "price": "245",
     "old_price": "408",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-110062/"
-  },
-  "123156": {
-    "name": "Коктейль высокобелковый Active Energy со вкусом земляники и черники 0,5% 230 мл",
-    "price": "89",
-    "old_price": "149",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kokteyl-vysokobelkovyy-active-energy-so-vkusom-zemlyaniki-i-cherniki-0-123156/"
   },
   "1076": {
     "name": "Кумыс, 500 г",
