@@ -104,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
   },
-  "115622": {
-    "name": "Батон \"Молочный\" на опаре и закваске, нарезка",
-    "price": "44",
-    "old_price": "73",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-molochnyy-na-opare-i-zakvaske-115622/"
-  },
   "122342": {
     "name": "Ассорти колбасок для жарки",
     "price": "347",
@@ -187,12 +180,5 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
-  },
-  "16552": {
-    "name": "Филе индейки копчено-вареное, нарезка",
-    "price": "154",
-    "old_price": "256",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-indeyki-kopcheno-varenoe-16552/"
   }
 }
