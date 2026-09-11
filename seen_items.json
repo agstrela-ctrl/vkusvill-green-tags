@@ -104,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
   },
-  "121549": {
-    "name": "Шашлык из свиной шейки \"Домашний\"",
-    "price": "479",
-    "old_price": "798",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-domashniy-121549/"
-  },
   "93669": {
     "name": "Боул \"Зеленый салат\" с индейкой, брокколи, киноа и эдамаме",
     "price": "209",
@@ -132,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/buzhenina-iz-kuritsy-118404/"
   },
-  "122404": {
-    "name": "Шашлык из индейки \"по-Кавказски\"",
-    "price": "587",
-    "old_price": "978",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-po-kavkazski-122404/"
-  },
   "118425": {
     "name": "Колбаса варёная из курицы и кусочками филе индейки",
     "price": "356",
@@ -146,19 +132,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-varyenaya-iz-kuritsy-i-kusochkami-file-indeyki-118425/"
   },
-  "120918": {
-    "name": "Сосиски из курицы со шпинатом и сыром Фета",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-so-shpinatom-i-syrom-feta-120918/"
-  },
   "65851": {
     "name": "Тарталетка \"Манго-маракуйя\", веган",
     "price": "116",
     "old_price": "194",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartaletka-mango-marakuyya-65851/"
+  },
+  "121549": {
+    "name": "Шашлык из свиной шейки \"Домашний\"",
+    "price": "479",
+    "old_price": "798",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-domashniy-121549/"
+  },
+  "122404": {
+    "name": "Шашлык из индейки \"по-Кавказски\"",
+    "price": "587",
+    "old_price": "978",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-po-kavkazski-122404/"
+  },
+  "120918": {
+    "name": "Сосиски из курицы со шпинатом и сыром Фета",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-so-shpinatom-i-syrom-feta-120918/"
   },
   "118102": {
     "name": "Шашлык из свиного окорока с аджапсандали",
