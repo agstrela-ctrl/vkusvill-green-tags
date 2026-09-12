@@ -41,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
+  "111702": {
+    "name": "Салат \"Цезарь\" с креветками",
+    "price": "287",
+    "old_price": "478",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
+  },
   "112959": {
     "name": "Хлеб пшеничный \"Ремесленный\" на закваске, нарезка",
     "price": "44",
@@ -55,6 +62,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
   },
+  "119818": {
+    "name": "Лепешка \"Тортилья\" с сыром",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
+  },
+  "52952": {
+    "name": "Пита \"Ливанская\"",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
+  },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
     "price": "52",
@@ -68,6 +89,34 @@
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
+  },
+  "113869": {
+    "name": "Шпинат крупнолистовой, 100 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
+  },
+  "115802": {
+    "name": "Биточки из индейки с сыром",
+    "price": "171",
+    "old_price": "285",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-indeyki-s-syrom-115802/"
+  },
+  "122959": {
+    "name": "Фриттата с шампиньонами, болгарским перцем и шпинатом",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/frittata-s-shampinonami-122959/"
+  },
+  "110247": {
+    "name": "Окрошка с куриной колбасой, 250 г",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-110247/"
   },
   "122342": {
     "name": "Ассорти колбасок для жарки",
