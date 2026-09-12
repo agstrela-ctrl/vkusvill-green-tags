@@ -1,23 +1,16 @@
 {
-  "120751": {
-    "name": "Батон-мини \"Брецель\"",
-    "price": "89",
-    "old_price": "148",
+  "606": {
+    "name": "Морковь",
+    "price": "33",
+    "old_price": "55",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
+    "link": "https://vkusvill.ru/goods/morkov-606/"
   },
-  "88800": {
-    "name": "Тофу с белыми грибами, 250 г",
-    "price": "112",
-    "old_price": "187",
+  "33154": {
+    "name": "Вода питьевая Святой Источник негазированная 5 л",
+    "price": "116",
+    "old_price": "194",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
-  },
-  "105607": {
-    "name": "Сливки сухие Mr. Сливкин Заменитель 200 г",
-    "price": "74",
-    "old_price": "124",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/slivki-sukhie-mr-slivkin-zamenitel-200-g-105607/"
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-svyatoy-istochnik-negazirovannaya-5-l-33154/"
   }
 }
