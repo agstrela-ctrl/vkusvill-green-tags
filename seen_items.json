@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-kokosovoe-s-shokoladom-i-pyure-iz-apelsina-117362/"
   },
-  "68155": {
-    "name": "Печенье домашнее \"Арахисовая полоска\"",
-    "price": "182",
-    "old_price": "304",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-domashnee-arakhisovaya-poloska-68155/"
-  },
   "81269": {
     "name": "Безе кокосовое",
     "price": "114",
@@ -34,12 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/beze-kokosovoe-81269/"
   },
-  "105607": {
-    "name": "Сливки сухие Mr. Сливкин Заменитель 200 г",
-    "price": "74",
-    "old_price": "124",
+  "68155": {
+    "name": "Печенье домашнее \"Арахисовая полоска\"",
+    "price": "182",
+    "old_price": "304",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/slivki-sukhie-mr-slivkin-zamenitel-200-g-105607/"
+    "link": "https://vkusvill.ru/goods/pechene-domashnee-arakhisovaya-poloska-68155/"
   },
   "88800": {
     "name": "Тофу с белыми грибами, 250 г",
@@ -47,5 +40,12 @@
     "old_price": "187",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
+  },
+  "105607": {
+    "name": "Сливки сухие Mr. Сливкин Заменитель 200 г",
+    "price": "74",
+    "old_price": "124",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/slivki-sukhie-mr-slivkin-zamenitel-200-g-105607/"
   }
 }
