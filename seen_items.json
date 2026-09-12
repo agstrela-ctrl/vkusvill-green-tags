@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-kuritsy-i-syra-s-zapechennym-kartofelem-92843/"
   },
-  "113281": {
-    "name": "Комбо-набор: Грудка куриная с картофелем по-деревенски и Салат из летних овощей",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-grudka-kurinaya-s-kartofelem-po-derevenski-i-salat-iz-letnikh-ovoshchey-113281/"
-  },
   "49834": {
     "name": "Желе ягодное малина, голубика, клубника",
     "price": "154",
@@ -82,6 +75,13 @@
     "old_price": "880",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
+  },
+  "115364": {
+    "name": "Сырники творожные для жарки",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-dlya-zharki-115364/"
   },
   "115873": {
     "name": "Мак-н-чеддер с сосисками",
