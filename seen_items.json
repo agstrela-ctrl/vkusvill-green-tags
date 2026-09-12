@@ -1,4 +1,11 @@
 {
+  "16416": {
+    "name": "Суп с фрикадельками из индейки",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
+  },
   "112645": {
     "name": "Арбуз сердцевина, 1000 г",
     "price": "414",
@@ -41,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-grechnevyy-na-zakvaske-112773/"
   },
-  "109471": {
-    "name": "Тартин \"Зерновой\", нарезка, 250 г",
-    "price": "62",
-    "old_price": "104",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
-  },
   "111702": {
     "name": "Салат \"Цезарь\" с креветками",
     "price": "287",
@@ -61,6 +61,13 @@
     "old_price": "829",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
+  },
+  "75938": {
+    "name": "Круассан с малиной, кафе",
+    "price": "100",
+    "old_price": "166",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
   },
   "112959": {
     "name": "Хлеб пшеничный \"Ремесленный\" на закваске, нарезка",
@@ -82,13 +89,6 @@
     "old_price": "87",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
-  },
-  "118697": {
-    "name": "Хлебцы мягкие ржано-пшеничные с семенами",
-    "price": "52",
-    "old_price": "87",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
   },
   "49769": {
     "name": "Окрошка овощная, 400 г",
@@ -118,33 +118,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-kurinoy-kolbasoy-110247/"
   },
-  "122342": {
-    "name": "Ассорти колбасок для жарки",
-    "price": "347",
-    "old_price": "578",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-kolbasok-dlya-zharki-122342/"
-  },
   "88800": {
     "name": "Тофу с белыми грибами, 250 г",
     "price": "112",
     "old_price": "187",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
-  },
-  "118404": {
-    "name": "\"Буженина\" из курицы",
-    "price": "399",
-    "old_price": "665",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/buzhenina-iz-kuritsy-118404/"
-  },
-  "118425": {
-    "name": "Колбаса варёная из курицы и кусочками филе индейки",
-    "price": "356",
-    "old_price": "593",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varyenaya-iz-kuritsy-i-kusochkami-file-indeyki-118425/"
   },
   "121549": {
     "name": "Шашлык из свиной шейки \"Домашний\"",
