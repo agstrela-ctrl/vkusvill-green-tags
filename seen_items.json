@@ -20,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
   },
+  "19080": {
+    "name": "Хлеб \"Донской\", нарезка",
+    "price": "30",
+    "old_price": "50",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-donskoy-19080/"
+  },
   "111702": {
     "name": "Салат \"Цезарь\" с креветками",
     "price": "287",
@@ -61,13 +68,6 @@
     "old_price": "187",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
-  },
-  "121549": {
-    "name": "Шашлык из свиной шейки \"Домашний\"",
-    "price": "479",
-    "old_price": "798",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-domashniy-121549/"
   },
   "120918": {
     "name": "Сосиски из курицы со шпинатом и сыром Фета",
