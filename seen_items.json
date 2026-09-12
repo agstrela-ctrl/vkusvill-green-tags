@@ -1,11 +1,4 @@
 {
-  "106904": {
-    "name": "Макароны с тушёной говядиной",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
-  },
   "125813": {
     "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
     "price": "89",
@@ -26,13 +19,6 @@
     "old_price": "380",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-grudka-kurinaya-s-kartofelem-po-derevenski-i-salat-iz-letnikh-ovoshchey-113281/"
-  },
-  "119435": {
-    "name": "Лапша удон с кальмарами, креветками и овощами",
-    "price": "227",
-    "old_price": "378",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-udon-s-kalmarami-119435/"
   },
   "49834": {
     "name": "Желе ягодное малина, голубика, клубника",
@@ -69,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-na-bezlaktoznom-moloke-s-yagodami-i-mindalnymi-lepestkami-105273/"
   },
-  "61150": {
-    "name": "Ролл с огурцом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
-  },
   "22779": {
     "name": "Творог \"Зернышко\" 9%, 300 г",
     "price": "110",
@@ -110,20 +89,6 @@
     "old_price": "880",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
-  },
-  "114234": {
-    "name": "Суп азиатский с креветками и рисовой лапшой",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-aziatskiy-s-krevetkami-i-risovoy-lapshoy-114234/"
-  },
-  "94645": {
-    "name": "Свиная корейка гриль с бэби-картофелем с шашлычным соусом",
-    "price": "281",
-    "old_price": "468",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/svinaya-koreyka-gril-s-bebi-kartofelem-s-shashlychnym-sousom-94645/"
   },
   "115873": {
     "name": "Мак-н-чеддер с сосисками",
