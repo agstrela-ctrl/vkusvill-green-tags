@@ -27,6 +27,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-bedra-indeyki-48018/"
   },
+  "31276": {
+    "name": "Лук зеленый, 100 г",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-zelenyy-31276/"
+  },
   "112773": {
     "name": "Хлеб \"Гречневый\" на закваске",
     "price": "73",
@@ -48,19 +55,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
   },
-  "112959": {
-    "name": "Хлеб пшеничный \"Ремесленный\" на закваске, нарезка",
-    "price": "44",
-    "old_price": "74",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/khleb-pshenichnyy-remeslennyy-na-zakvaske-112959/"
-  },
   "74914": {
     "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
     "price": "497",
     "old_price": "829",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
+  },
+  "112959": {
+    "name": "Хлеб пшеничный \"Ремесленный\" на закваске, нарезка",
+    "price": "44",
+    "old_price": "74",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/khleb-pshenichnyy-remeslennyy-na-zakvaske-112959/"
   },
   "119818": {
     "name": "Лепешка \"Тортилья\" с сыром",
@@ -90,19 +97,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
   },
-  "113869": {
-    "name": "Шпинат крупнолистовой, 100 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
-  },
   "115802": {
     "name": "Биточки из индейки с сыром",
     "price": "171",
     "old_price": "285",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-indeyki-s-syrom-115802/"
+  },
+  "113869": {
+    "name": "Шпинат крупнолистовой, 100 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
   },
   "122959": {
     "name": "Фриттата с шампиньонами, болгарским перцем и шпинатом",
