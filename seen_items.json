@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lapsha-udon-s-kalmarami-119435/"
   },
-  "102082": {
-    "name": "Омлет с томатами и моцареллой",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-s-tomatami-i-motsarelloy-102082/"
-  },
   "49834": {
     "name": "Желе ягодное малина, голубика, клубника",
     "price": "154",
@@ -69,20 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sheyka-svinaya-bez-kosti-14983/"
   },
-  "271": {
-    "name": "Кефир детский 3,2%, 210 г",
-    "price": "32",
-    "old_price": "53",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-detskiy-3-271/"
-  },
-  "112464": {
-    "name": "Салат руккола с креветкой",
-    "price": "252",
-    "old_price": "420",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-rukkola-s-krevetkoy-112464/"
-  },
   "105273": {
     "name": "Каша овсяная на безлактозном молоке с ягодами и миндальными лепестками, кафе",
     "price": "132",
@@ -96,20 +75,6 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
-  },
-  "27161": {
-    "name": "Сырники из творога, кафе",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-27161/"
-  },
-  "88563": {
-    "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
-    "price": "166",
-    "old_price": "276",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
   },
   "22779": {
     "name": "Творог \"Зернышко\" 9%, 300 г",
@@ -146,20 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
   },
-  "47959": {
-    "name": "Тортилья с томатом и паприкой",
-    "price": "53",
-    "old_price": "89",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tortilya-s-tomatom-i-paprikoy-47959/"
-  },
-  "120751": {
-    "name": "Батон-мини \"Брецель\"",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
   "114234": {
     "name": "Суп азиатский с креветками и рисовой лапшой",
     "price": "209",
@@ -180,6 +131,20 @@
     "old_price": "308",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mak-n-chedder-s-sosiskami-115873/"
+  },
+  "47959": {
+    "name": "Тортилья с томатом и паприкой",
+    "price": "53",
+    "old_price": "89",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tortilya-s-tomatom-i-paprikoy-47959/"
+  },
+  "120751": {
+    "name": "Батон-мини \"Брецель\"",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
   },
   "18327": {
     "name": "Суп \"Свекольник\"",
