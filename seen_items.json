@@ -1,18 +1,4 @@
 {
-  "27195": {
-    "name": "Суп щавелевый с курицей",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-shchavelevyy-s-kuritsey-27195/"
-  },
-  "26199": {
-    "name": "Круассан миндальный",
-    "price": "113",
-    "old_price": "189",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-26199/"
-  },
   "106904": {
     "name": "Макароны с тушёной говядиной",
     "price": "162",
@@ -20,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
   },
-  "28799": {
-    "name": "Плов с курицей",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-s-kuritsey-28799/"
-  },
   "69875": {
     "name": "Ролл с креветкой и огурцом",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-s-krevetkoy-i-ogurtsom-69875/"
-  },
-  "65192": {
-    "name": "Изделие х/б \"Цельнозерновой\" полбяной с семенами льна",
-    "price": "85",
-    "old_price": "142",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoy-polbyanoy-s-semenami-lna-65192/"
   },
   "125813": {
     "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
@@ -54,13 +26,6 @@
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-kuritsy-i-syra-s-zapechennym-kartofelem-92843/"
-  },
-  "67887": {
-    "name": "Шницель куриный в яйце, 360 г",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-yaytse-67887/"
   },
   "69649": {
     "name": "Оладьи печеночные, 300 г",
@@ -103,13 +68,6 @@
     "old_price": "120",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-briosh-37314/"
-  },
-  "24165": {
-    "name": "Творог 9%, 180 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-9-24165/"
   },
   "115967": {
     "name": "Уха по-фински",
@@ -181,13 +139,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-zernyshko-9-22779/"
   },
-  "124581": {
-    "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
-  },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
     "price": "66",
@@ -208,13 +159,6 @@
     "old_price": "184",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zefir-malinovyy-v-shokoladnoy-glazuri-96716/"
-  },
-  "68413": {
-    "name": "Чиабатта с индейкой су-вид и горчичным соусом",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-indeykoy-su-vid-i-gorchichnym-sousom-68413/"
   },
   "40936": {
     "name": "Пирожки постные с капустой и зеленью, 140 г (2 шт)",
@@ -286,39 +230,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tortilya-s-tomatom-i-paprikoy-47959/"
   },
-  "119317": {
-    "name": "Сет роллов \"Макимания\"",
-    "price": "275",
-    "old_price": "458",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/set-rollov-makimaniya-119317/"
-  },
-  "12196": {
-    "name": "Холодец из говядины и свинины",
-    "price": "194",
-    "old_price": "324",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kholodets-iz-govyadiny-i-svininy-12196/"
-  },
-  "70863": {
-    "name": "Пирожки с рисом, яйцом и зеленым луком",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-s-risom-70863/"
-  },
   "18327": {
     "name": "Суп \"Свекольник\"",
     "price": "119",
     "old_price": "198",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-svekolnik-18327/"
-  },
-  "119777": {
-    "name": "Йогурт питьевой \"Абрикос\" 1,8%",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-abrikos-1-119777/"
   }
 }
