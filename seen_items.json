@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-na-bezlaktoznom-moloke-s-yagodami-i-mindalnymi-lepestkami-105273/"
   },
-  "119016": {
-    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
-  },
   "121692": {
     "name": "Хлеб \"Кукурузный\", нарезка",
     "price": "74",
@@ -76,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
   },
-  "115364": {
-    "name": "Сырники творожные для жарки",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-dlya-zharki-115364/"
-  },
   "115873": {
     "name": "Мак-н-чеддер с сосисками",
     "price": "185",
@@ -103,12 +89,5 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
-  "18327": {
-    "name": "Суп \"Свекольник\"",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-svekolnik-18327/"
   }
 }
