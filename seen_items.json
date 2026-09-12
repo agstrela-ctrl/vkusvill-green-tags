@@ -1,11 +1,4 @@
 {
-  "16416": {
-    "name": "Суп с фрикадельками из индейки",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
-  },
   "112645": {
     "name": "Арбуз сердцевина, 1000 г",
     "price": "414",
@@ -34,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
   },
-  "74914": {
-    "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
-    "price": "497",
-    "old_price": "829",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
-  },
   "119818": {
     "name": "Лепешка \"Тортилья\" с сыром",
     "price": "47",
@@ -54,13 +40,6 @@
     "old_price": "87",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
-  },
-  "115802": {
-    "name": "Биточки из индейки с сыром",
-    "price": "171",
-    "old_price": "285",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-indeyki-s-syrom-115802/"
   },
   "122959": {
     "name": "Фриттата с шампиньонами, болгарским перцем и шпинатом",
@@ -89,13 +68,6 @@
     "old_price": "798",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-domashniy-121549/"
-  },
-  "122404": {
-    "name": "Шашлык из индейки \"по-Кавказски\"",
-    "price": "587",
-    "old_price": "978",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-po-kavkazski-122404/"
   },
   "120918": {
     "name": "Сосиски из курицы со шпинатом и сыром Фета",
