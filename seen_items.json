@@ -76,18 +76,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mak-n-chedder-s-sosiskami-115873/"
   },
-  "115935": {
-    "name": "Медальоны из форели и минтая зам., 200 г",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/medalony-iz-foreli-i-mintaya-zam-115935/"
-  },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
     "price": "89",
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
+  },
+  "115935": {
+    "name": "Медальоны из форели и минтая зам., 200 г",
+    "price": "282",
+    "old_price": "470",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/medalony-iz-foreli-i-mintaya-zam-115935/"
   }
 }
