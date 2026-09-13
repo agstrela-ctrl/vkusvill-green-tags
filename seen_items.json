@@ -1,31 +1,10 @@
 {
-  "15310": {
-    "name": "Кинза, 50 г",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kinza-15310/"
-  },
-  "15197": {
-    "name": "Ассорти из зелени, 100 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
-  },
   "37314": {
     "name": "Изделие х/б \"Бриошь\", нарезка",
     "price": "72",
     "old_price": "120",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-briosh-37314/"
-  },
-  "95321": {
-    "name": "Эклеры \"Пломбир\", 3 шт.",
-    "price": "214",
-    "old_price": "357",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-plombir-95321/"
   },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
@@ -40,13 +19,6 @@
     "old_price": "1168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
-  },
-  "21419": {
-    "name": "Сэндвич ролл с бужениной запеченной",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
   },
   "83491": {
     "name": "Набор пирожных \"Крепвиль\" шоколад-сливки, 2 шт",
@@ -68,20 +40,6 @@
     "old_price": "264",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/naggetsy-kurinye-14501/"
-  },
-  "123944": {
-    "name": "Шаверма \"Как в Питере\" с курицей и овощами",
-    "price": "183",
-    "old_price": "305",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
-  },
-  "118941": {
-    "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
   "108503": {
     "name": "Шашлык из грудки цыпленка-бройлера в сметанном соусе",
