@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
   },
-  "15378": {
-    "name": "Томаты розовые",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-rozovye-15378/"
-  },
   "114432": {
     "name": "Яблоко вишневое",
     "price": "141",
@@ -41,12 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-82543/"
   },
-  "15456": {
-    "name": "Томаты красные",
-    "price": "138",
-    "old_price": "230",
+  "54133": {
+    "name": "Спаржа с морковью по-корейски",
+    "price": "82",
+    "old_price": "136",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-krasnye-15456/"
+    "link": "https://vkusvill.ru/goods/sparzha-s-morkovyu-po-koreyski-54133/"
   },
   "74914": {
     "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
@@ -61,12 +54,5 @@
     "old_price": "190",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-rostkov-brokkoli-116542/"
-  },
-  "54133": {
-    "name": "Спаржа с морковью по-корейски",
-    "price": "82",
-    "old_price": "136",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sparzha-s-morkovyu-po-koreyski-54133/"
   }
 }
