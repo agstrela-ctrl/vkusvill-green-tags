@@ -69,12 +69,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-kukuruznyy-121692/"
   },
+  "50790": {
+    "name": "Печенье-сэндвич с черничным суфле в молочном шоколаде",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sendvich-s-chernichnym-sufle-v-molochnom-shokolade-50790/"
+  },
   "115873": {
     "name": "Мак-н-чеддер с сосисками",
     "price": "185",
     "old_price": "308",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mak-n-chedder-s-sosiskami-115873/"
+  },
+  "115935": {
+    "name": "Медальоны из форели и минтая зам., 200 г",
+    "price": "282",
+    "old_price": "470",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/medalony-iz-foreli-i-mintaya-zam-115935/"
   },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
