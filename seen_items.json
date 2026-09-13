@@ -76,26 +76,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/naggetsy-kurinye-14501/"
   },
-  "118941": {
-    "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
-  },
-  "125132": {
-    "name": "Рулетики из цукини с творожным сыром и базиликом",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsukini-s-tvorozhnym-syrom-i-bazilikom-125132/"
-  },
   "123944": {
     "name": "Шаверма \"Как в Питере\" с курицей и овощами",
     "price": "183",
     "old_price": "305",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
+  },
+  "118941": {
+    "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
   "108503": {
     "name": "Шашлык из грудки цыпленка-бройлера в сметанном соусе",
