@@ -1,32 +1,4 @@
 {
-  "21005": {
-    "name": "Перец красный сладкий",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005/"
-  },
-  "619": {
-    "name": "Кабачки",
-    "price": "75",
-    "old_price": "125",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kabachki-619/"
-  },
-  "96402": {
-    "name": "Перец сладкий грунтовой",
-    "price": "84",
-    "old_price": "140",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
-  },
-  "114432": {
-    "name": "Яблоко вишневое",
-    "price": "141",
-    "old_price": "235",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yabloko-vishnevoe-114432/"
-  },
   "82543": {
     "name": "Крыло цыпленка-бройлера, упаковка от 1.3 кг",
     "price": "299",
@@ -40,12 +12,5 @@
     "old_price": "829",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
-  },
-  "116542": {
-    "name": "Микс из ростков \"Брокколи, редис, горох\", 50 г",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-rostkov-brokkoli-116542/"
   }
 }
