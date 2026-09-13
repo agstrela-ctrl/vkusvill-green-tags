@@ -1,9 +1,30 @@
 {
-  "74914": {
-    "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
-    "price": "497",
-    "old_price": "829",
+  "606": {
+    "name": "Морковь",
+    "price": "33",
+    "old_price": "55",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
+    "link": "https://vkusvill.ru/goods/morkov-606/"
+  },
+  "17039": {
+    "name": "Огурцы среднеплодные",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ogurtsy-sredneplodnye-17039/"
+  },
+  "114432": {
+    "name": "Яблоко вишневое",
+    "price": "141",
+    "old_price": "235",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-vishnevoe-114432/"
+  },
+  "113869": {
+    "name": "Шпинат крупнолистовой, 100 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
   }
 }
