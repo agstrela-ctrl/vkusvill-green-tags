@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
   },
+  "123818": {
+    "name": "Крем-суп сырный в бутылке",
+    "price": "195",
+    "old_price": "325",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-syrnyy-v-butylke-123818/"
+  },
   "49834": {
     "name": "Желе ягодное малина, голубика, клубника",
     "price": "154",
@@ -19,6 +26,27 @@
     "old_price": "120",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-briosh-37314/"
+  },
+  "50389": {
+    "name": "Ролл \"Симфония классики\" с креветкой",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-krevetkoy-50389/"
+  },
+  "63899": {
+    "name": "Котлеты из свинины и говядины, 300 г",
+    "price": "276",
+    "old_price": "460",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-63899/"
+  },
+  "125578": {
+    "name": "\"Просто шаурма\" с курицей и морковкой по-корейски",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/prosto-shaurma-s-kuritsey-i-morkovkoy-po-koreyski-125578/"
   },
   "69495": {
     "name": "Батон \"Весенний\", половинка, нарезка",
