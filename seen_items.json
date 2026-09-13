@@ -1,24 +1,10 @@
 {
-  "102354": {
-    "name": "Салат с баклажанами и крем-чизом в азиатском соусе",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-baklazhanami-i-krem-chizom-v-aziatskom-souse-102354/"
-  },
   "15310": {
     "name": "Кинза, 50 г",
     "price": "59",
     "old_price": "98",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kinza-15310/"
-  },
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
   },
   "15197": {
     "name": "Ассорти из зелени, 100 г",
@@ -41,33 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-s-tsvetochkom-119570/"
   },
-  "114282": {
-    "name": "Баклажаны по-сычуаньски, 200 г",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baklazhany-po-sychuanski-114282/"
-  },
-  "93111": {
-    "name": "Стейк из свинины \"Чесночный\"",
-    "price": "293",
-    "old_price": "488",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-iz-svininy-chesnochnyy-93111/"
-  },
   "15196": {
     "name": "Петрушка, 50 г",
     "price": "45",
     "old_price": "75",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/petrushka-15196/"
-  },
-  "62810": {
-    "name": "Бефстроганов, 360 г",
-    "price": "380",
-    "old_price": "633",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/befstroganov-62810/"
   },
   "95321": {
     "name": "Эклеры \"Пломбир\", 3 шт.",
@@ -111,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
-  "80499": {
-    "name": "Кефир 3,2% в бутылке, 450 г",
-    "price": "50",
-    "old_price": "83",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-3-80499/"
-  },
   "37867": {
     "name": "Грудка куриная с картофелем по-деревенски",
     "price": "179",
@@ -160,26 +118,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-klubnichnyy-119349/"
   },
-  "114226": {
-    "name": "Тефтели из мяса цыплят-бройлеров с рисом",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tefteli-iz-myasa-tsyplyat-broylerov-s-risom-114226/"
-  },
   "59833": {
     "name": "Чизкейк с голубикой, 100 г",
     "price": "151",
     "old_price": "251",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chizkeyk-s-golubikoy-59833/"
-  },
-  "65385": {
-    "name": "Лепешка \"Индийская\" с картофелем и карри (постная)",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-indiyskaya-s-kartofelem-i-karri-postnaya-65385/"
   },
   "126562": {
     "name": "Персик крупный, 500 г",
