@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-s-tsvetochkom-119570/"
   },
-  "15196": {
-    "name": "Петрушка, 50 г",
-    "price": "45",
-    "old_price": "75",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/petrushka-15196/"
-  },
   "95321": {
     "name": "Эклеры \"Пломбир\", 3 шт.",
     "price": "214",
@@ -69,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nabor-pirozhnykh-krepvil-shokolad-slivki-83491/"
   },
-  "118941": {
-    "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
-  },
   "37867": {
     "name": "Грудка куриная с картофелем по-деревенски",
     "price": "179",
@@ -89,6 +75,13 @@
     "old_price": "264",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/naggetsy-kurinye-14501/"
+  },
+  "118941": {
+    "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
   "125132": {
     "name": "Рулетики из цукини с творожным сыром и базиликом",
@@ -110,20 +103,6 @@
     "old_price": "639",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-grudki-tsyplenka-broylera-v-smetannom-souse-108503/"
-  },
-  "119349": {
-    "name": "Рулет бисквитный \"Клубничный\"",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-klubnichnyy-119349/"
-  },
-  "59833": {
-    "name": "Чизкейк с голубикой, 100 г",
-    "price": "151",
-    "old_price": "251",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-s-golubikoy-59833/"
   },
   "126562": {
     "name": "Персик крупный, 500 г",
