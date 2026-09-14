@@ -1,23 +1,16 @@
 {
-  "37314": {
-    "name": "Изделие х/б \"Бриошь\", нарезка",
-    "price": "72",
-    "old_price": "120",
+  "79663": {
+    "name": "Вода питьевая негазированная, 5 л",
+    "price": "70",
+    "old_price": "117",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-briosh-37314/"
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
   },
-  "105788": {
-    "name": "Овощной микс \"Витаминное трио\", 250 г",
-    "price": "63",
-    "old_price": "105",
+  "48589": {
+    "name": "Вода минеральная \"Легенда гор Архыз\", негаз., 5 л",
+    "price": "87",
+    "old_price": "145",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
-  },
-  "117337": {
-    "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
-    "price": "361",
-    "old_price": "602",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
+    "link": "https://vkusvill.ru/goods/voda-mineralnaya-legenda-gor-arkhyz-48589/"
   }
 }
