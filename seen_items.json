@@ -76,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-makaron-mokhito-124400/"
   },
-  "116924": {
-    "name": "Филе куриной грудки \"По-индийски\"",
-    "price": "196",
-    "old_price": "327",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-po-indiyski-116924/"
-  },
   "125813": {
     "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
     "price": "89",
@@ -111,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-so-skremblom-124359/"
   },
-  "114845": {
-    "name": "Кальмар полоски сушено-вяленый, 70 г",
-    "price": "142",
-    "old_price": "237",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kalmar-poloski-susheno-vyalenyy-114845/"
-  },
   "116805": {
     "name": "Ряженка безлактозная 2,5%",
     "price": "53",
@@ -139,6 +125,27 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-klubnichnyy-s-syrno-slivochnym-kremom-98381/"
   },
+  "116924": {
+    "name": "Филе куриной грудки \"По-индийски\"",
+    "price": "196",
+    "old_price": "327",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-po-indiyski-116924/"
+  },
+  "65425": {
+    "name": "Креветки жареные, 150 г",
+    "price": "348",
+    "old_price": "580",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
+  },
+  "114845": {
+    "name": "Кальмар полоски сушено-вяленый, 70 г",
+    "price": "142",
+    "old_price": "237",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kalmar-poloski-susheno-vyalenyy-114845/"
+  },
   "94222": {
     "name": "Палочки из форели радужной холодного копчения, 100 г",
     "price": "129",
@@ -159,20 +166,6 @@
     "old_price": "380",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-tryufelnye-121250/"
-  },
-  "65425": {
-    "name": "Креветки жареные, 150 г",
-    "price": "348",
-    "old_price": "580",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
-  "122520": {
-    "name": "Десерт \"Бонфуа\" с малиной",
-    "price": "189",
-    "old_price": "315",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bonfua-s-malinoy-122520/"
   },
   "55577": {
     "name": "Фарш из свинины и говядины Ближние Горки по-домашнему охлажденный 400 г",
