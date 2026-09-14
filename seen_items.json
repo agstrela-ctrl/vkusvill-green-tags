@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baklazhany-gruntovye-96401/"
   },
-  "14501": {
-    "name": "Наггетсы куриные, 250 г",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/naggetsy-kurinye-14501/"
-  },
   "15489": {
     "name": "Яблоко молодое Женева",
     "price": "135",
@@ -48,18 +41,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
   },
-  "113634": {
-    "name": "Корейка на кости из мраморной свинины",
-    "price": "263",
-    "old_price": "438",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
-  },
   "25529": {
     "name": "Огурцы грунтовые",
     "price": "89",
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-gruntovye-25529/"
+  },
+  "113634": {
+    "name": "Корейка на кости из мраморной свинины",
+    "price": "263",
+    "old_price": "438",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
   }
 }
