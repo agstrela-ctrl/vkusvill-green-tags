@@ -12,5 +12,47 @@
     "old_price": "145",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/voda-mineralnaya-legenda-gor-arkhyz-48589/"
+  },
+  "14684": {
+    "name": "Вода родниковая, 6 л",
+    "price": "100",
+    "old_price": "167",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-rodnikovaya-14684/"
+  },
+  "34511": {
+    "name": "Пенне с грибами и овощами",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
+  },
+  "115541": {
+    "name": "Флан \"Классический\" со стручковой ванилью",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/flan-klassicheskiy-so-struchkovoy-vanilyu-115541/"
+  },
+  "124581": {
+    "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
+  },
+  "24013": {
+    "name": "Кефир обогащенный лактулозой и витаминами 3,2%, 290 г",
+    "price": "52",
+    "old_price": "86",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-obogashchennyy-laktulozoy-i-vitaminami-3-24013/"
+  },
+  "73048": {
+    "name": "Сырок творожный Ростагроэкспорт глазированный с ароматом ванили 20% 45 г",
+    "price": "29",
+    "old_price": "49",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-rostagroeksport-glazirovannyy-s-aromatom-vanili-20-45-g-73048/"
   }
 }
