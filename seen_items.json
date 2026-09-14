@@ -20,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
   },
+  "117337": {
+    "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
+    "price": "361",
+    "old_price": "602",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
+  },
   "124387": {
     "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
     "price": "701",
@@ -40,6 +47,13 @@
     "old_price": "345",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaski-chorizo-124538/"
+  },
+  "61751": {
+    "name": "Гречка отварная с овощами, 200 г",
+    "price": "84",
+    "old_price": "140",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
   },
   "37867": {
     "name": "Грудка куриная с картофелем по-деревенски",
