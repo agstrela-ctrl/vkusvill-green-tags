@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-briosh-37314/"
   },
+  "26582": {
+    "name": "Стрипсы в панировке",
+    "price": "181",
+    "old_price": "301",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
+  },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
     "price": "63",
@@ -20,6 +27,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
   },
+  "74797": {
+    "name": "Чизкейк \"Манго-маракуйя\", 140 г",
+    "price": "160",
+    "old_price": "266",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chizkeyk-mango-marakuyya-74797/"
+  },
+  "124538": {
+    "name": "Колбаски Чоризо",
+    "price": "207",
+    "old_price": "345",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-chorizo-124538/"
+  },
   "37867": {
     "name": "Грудка куриная с картофелем по-деревенски",
     "price": "179",
@@ -33,13 +54,6 @@
     "old_price": "264",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/naggetsy-kurinye-14501/"
-  },
-  "108503": {
-    "name": "Шашлык из грудки цыпленка-бройлера в сметанном соусе",
-    "price": "383",
-    "old_price": "639",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-grudki-tsyplenka-broylera-v-smetannom-souse-108503/"
   },
   "126562": {
     "name": "Персик крупный, 500 г",
