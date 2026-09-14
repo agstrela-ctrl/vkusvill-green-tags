@@ -1,4 +1,11 @@
 {
+  "22564": {
+    "name": "Томаты Махитос",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-makhitos-22564/"
+  },
   "21005": {
     "name": "Перец красный сладкий",
     "price": "228",
@@ -13,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
   },
+  "96401": {
+    "name": "Баклажаны грунтовые",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baklazhany-gruntovye-96401/"
+  },
   "15489": {
     "name": "Яблоко молодое Женева",
     "price": "135",
@@ -26,13 +40,6 @@
     "old_price": "105",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
-  },
-  "25529": {
-    "name": "Огурцы грунтовые",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurtsy-gruntovye-25529/"
   },
   "113634": {
     "name": "Корейка на кости из мраморной свинины",
