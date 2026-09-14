@@ -6,6 +6,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-briosh-37314/"
   },
+  "34511": {
+    "name": "Пенне с грибами и овощами",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
+  },
+  "124387": {
+    "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
+    "price": "701",
+    "old_price": "1168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
+  },
   "26582": {
     "name": "Стрипсы в панировке",
     "price": "181",
@@ -26,13 +40,6 @@
     "old_price": "602",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
-  },
-  "124387": {
-    "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
-    "price": "701",
-    "old_price": "1168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
   },
   "74797": {
     "name": "Чизкейк \"Манго-маракуйя\", 140 г",
