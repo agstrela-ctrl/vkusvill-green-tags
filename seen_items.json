@@ -1,4 +1,18 @@
 {
+  "22564": {
+    "name": "Томаты Махитос",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-makhitos-22564/"
+  },
+  "21005": {
+    "name": "Перец красный сладкий",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005/"
+  },
   "18735": {
     "name": "Морковь мытая",
     "price": "51",
@@ -12,6 +26,34 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baklazhany-gruntovye-96401/"
+  },
+  "14501": {
+    "name": "Наггетсы куриные, 250 г",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/naggetsy-kurinye-14501/"
+  },
+  "15489": {
+    "name": "Яблоко молодое Женева",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-molodoe-zheneva-15489/"
+  },
+  "105788": {
+    "name": "Овощной микс \"Витаминное трио\", 250 г",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
+  },
+  "113634": {
+    "name": "Корейка на кости из мраморной свинины",
+    "price": "263",
+    "old_price": "438",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
   },
   "25529": {
     "name": "Огурцы грунтовые",
