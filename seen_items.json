@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-112645/"
   },
-  "125192": {
-    "name": "Тарт \"Облепиха с характером\"",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tart-oblepikha-s-kharakterom-125192/"
-  },
   "1171": {
     "name": "Изделие х/б \"Хлебушек дворянский элитный\"",
     "price": "77",
@@ -76,33 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-bezlaktoznyy-s-klubnikoy-i-bananom-bez-dob-sakhara-2-109336/"
   },
-  "74326": {
-    "name": "Суп \"Рассольник\" вегетарианский с грибами и сельдереем",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326/"
-  },
-  "123125": {
-    "name": "Колбаса на безлактозном молоке",
-    "price": "221",
-    "old_price": "369",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-na-bezlaktoznom-moloke-123125/"
-  },
   "124400": {
     "name": "Ассорти макарон \"Мохито, Кр. смородина/Чили, Ананас/Кокос\"",
     "price": "169",
     "old_price": "282",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-makaron-mokhito-124400/"
-  },
-  "114691": {
-    "name": "Крылья куриные \"Барбекю\" с посыпкой из начос с копчёной паприкой",
-    "price": "414",
-    "old_price": "690",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylya-kurinye-barbekyu-s-posypkoy-iz-nachos-s-kopchyenoy-paprikoy-114691/"
   },
   "116924": {
     "name": "Филе куриной грудки \"По-индийски\"",
@@ -124,13 +96,6 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-lisichkami-125771/"
-  },
-  "121988": {
-    "name": "Торт \"Бонфуа\" с манго и крем-чиз",
-    "price": "648",
-    "old_price": "1080",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-bonfua-s-mango-i-krem-chiz-121988/"
   },
   "124387": {
     "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
@@ -160,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ryazhenka-bezlaktoznaya-2-116805/"
   },
-  "99925": {
-    "name": "Шаурма с креветкой, соусом тысяча островов и салатом Романо",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
-  },
   "110084": {
     "name": "Скумбрия атлантическая в растительном масле подкопченная, 300 г",
     "price": "189",
@@ -187,20 +145,6 @@
     "old_price": "215",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/palochki-iz-foreli-raduzhnoy-kholodnogo-kopcheniya-94222/"
-  },
-  "19560": {
-    "name": "Муксун подкопченный ломтики, 100 г",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/muksun-podkopchennyy-lomtiki-19560/"
-  },
-  "63514": {
-    "name": "Семга слабосоленая филе-кусок, 180 г",
-    "price": "430",
-    "old_price": "717",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/semga-slabosolenaya-file-kusok-63514/"
   },
   "1076": {
     "name": "Кумыс, 500 г",
