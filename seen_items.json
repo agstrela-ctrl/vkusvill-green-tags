@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-briosh-37314/"
   },
-  "34511": {
-    "name": "Пенне с грибами и овощами",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
-  },
   "124387": {
     "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
     "price": "701",
@@ -40,12 +33,5 @@
     "old_price": "140",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
-  },
-  "14501": {
-    "name": "Наггетсы куриные, 250 г",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/naggetsy-kurinye-14501/"
   }
 }
