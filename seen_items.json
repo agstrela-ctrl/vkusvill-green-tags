@@ -13,20 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-khlebushek-dvoryanskiy-elitnyy-1171/"
   },
-  "119435": {
-    "name": "Лапша удон с кальмарами, креветками и овощами",
-    "price": "227",
-    "old_price": "378",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-udon-s-kalmarami-119435/"
-  },
-  "78790": {
-    "name": "Суп \"Грибной\" с домашней лапшой",
-    "price": "127",
-    "old_price": "211",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-gribnoy-s-domashney-lapshoy-78790/"
-  },
   "70898": {
     "name": "Котлета на косточке свиная, 400 г",
     "price": "176",
@@ -48,6 +34,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-s-indeykoy-i-slivochnym-syrom-100069/"
   },
+  "33849": {
+    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
+    "price": "81",
+    "old_price": "135",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
+  },
   "124792": {
     "name": "Ассорти макарон \"Клубника - мята, малина, грейпфрут\"",
     "price": "169",
@@ -68,13 +61,6 @@
     "old_price": "91",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-bezlaktoznyy-s-klubnikoy-i-bananom-bez-dob-sakhara-2-109336/"
-  },
-  "124400": {
-    "name": "Ассорти макарон \"Мохито, Кр. смородина/Чили, Ананас/Кокос\"",
-    "price": "169",
-    "old_price": "282",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-makaron-mokhito-124400/"
   },
   "125813": {
     "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
