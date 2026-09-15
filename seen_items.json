@@ -27,6 +27,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
   },
+  "20832": {
+    "name": "Свекла молодая",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/svekla-molodaya-20832/"
+  },
   "83537": {
     "name": "Сельдь филе-кусочки Матиас слабосоленая XXL в масле с луком 260 г",
     "price": "194",
@@ -40,12 +47,5 @@
     "old_price": "261",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/seld-file-matias-original-v-masle-250-g-42028/"
-  },
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
   }
 }
