@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-so-svyekloy-113558/"
   },
-  "123514": {
-    "name": "Стейк из свиной шейки, 400г",
-    "price": "281",
-    "old_price": "468",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-iz-svinoy-sheyki-123514/"
-  },
   "24945": {
     "name": "Крылья куриные в маринаде",
     "price": "257",
@@ -62,12 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-severnye-nerazdelannye-varenye-podkopchennye-120-150-okhl-125537/"
   },
-  "65129": {
-    "name": "Баранки ОГО! с ароматом ванили 300 г",
-    "price": "57",
-    "old_price": "95",
+  "123514": {
+    "name": "Стейк из свиной шейки, 400г",
+    "price": "281",
+    "old_price": "468",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/baranki-ogo-s-aromatom-vanili-300-g-65129/"
+    "link": "https://vkusvill.ru/goods/steyk-iz-svinoy-sheyki-123514/"
   },
   "102993": {
     "name": "Ассорти х/к из кеты, масляной рыбы, нерки и омуля, 200 г",
@@ -82,5 +75,12 @@
     "old_price": "417",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nerka-kholodnogo-kopcheniya-lomtiki-65794/"
+  },
+  "65129": {
+    "name": "Баранки ОГО! с ароматом ванили 300 г",
+    "price": "57",
+    "old_price": "95",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baranki-ogo-s-aromatom-vanili-300-g-65129/"
   }
 }
