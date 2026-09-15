@@ -20,40 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-krem-kurinyy-25262/"
   },
-  "112464": {
-    "name": "Салат руккола с креветкой",
-    "price": "252",
-    "old_price": "420",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-rukkola-s-krevetkoy-112464/"
-  },
-  "118094": {
-    "name": "Оладьи из кабачков",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-iz-kabachkov-118094/"
-  },
   "113558": {
     "name": "Салат со свёклой, сыром фета и медово-горчичным соусом, 500 г",
     "price": "336",
     "old_price": "560",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-so-svyekloy-113558/"
-  },
-  "20336": {
-    "name": "Фарш из кролика, 500 г",
-    "price": "472",
-    "old_price": "787",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-krolika-20336/"
-  },
-  "65129": {
-    "name": "Баранки ОГО! с ароматом ванили 300 г",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baranki-ogo-s-aromatom-vanili-300-g-65129/"
   },
   "114196": {
     "name": "Оджахури с курицей",
@@ -76,19 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylya-kurinye-v-marinade-24945/"
   },
-  "102993": {
-    "name": "Ассорти х/к из кеты, масляной рыбы, нерки и омуля, 200 г",
-    "price": "352",
-    "old_price": "587",
+  "20336": {
+    "name": "Фарш из кролика, 500 г",
+    "price": "472",
+    "old_price": "787",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-kety-102993/"
-  },
-  "65794": {
-    "name": "Нерка холодного копчения ломтики, 100 г",
-    "price": "250",
-    "old_price": "417",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nerka-kholodnogo-kopcheniya-lomtiki-65794/"
+    "link": "https://vkusvill.ru/goods/farsh-iz-krolika-20336/"
   },
   "91647": {
     "name": "Икра ястычная сельди подкопченная в масле, 180 г",
@@ -103,5 +68,26 @@
     "old_price": "440",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-severnye-nerazdelannye-varenye-podkopchennye-120-150-okhl-125537/"
+  },
+  "65129": {
+    "name": "Баранки ОГО! с ароматом ванили 300 г",
+    "price": "57",
+    "old_price": "95",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baranki-ogo-s-aromatom-vanili-300-g-65129/"
+  },
+  "102993": {
+    "name": "Ассорти х/к из кеты, масляной рыбы, нерки и омуля, 200 г",
+    "price": "352",
+    "old_price": "587",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-kety-102993/"
+  },
+  "65794": {
+    "name": "Нерка холодного копчения ломтики, 100 г",
+    "price": "250",
+    "old_price": "417",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/nerka-kholodnogo-kopcheniya-lomtiki-65794/"
   }
 }
