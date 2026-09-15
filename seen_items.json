@@ -20,20 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-sdobnoe-shokoladnaya-legenda-s-vishney-71674/"
   },
-  "75991": {
-    "name": "Микс салатный \"Витамикс\" , 150 г",
-    "price": "159",
-    "old_price": "265",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
-  },
-  "122742": {
-    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
-  },
   "118814": {
     "name": "Печенье песочное \"Эфин\"",
     "price": "101",
@@ -54,12 +40,5 @@
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
-  "63486": {
-    "name": "Ветчина Знаменский ветчинный дом по-швейцарски 300 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-znamenskiy-vetchinnyy-dom-po-shveytsarski-300-g-63486/"
   }
 }
