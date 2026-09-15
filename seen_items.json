@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-fruktovoe-mandarin-36208/"
   },
+  "71674": {
+    "name": "Печенье сдобное \"Шоколадная легенда\" с вишней",
+    "price": "130",
+    "old_price": "216",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-shokoladnaya-legenda-s-vishney-71674/"
+  },
   "75991": {
     "name": "Микс салатный \"Витамикс\" , 150 г",
     "price": "159",
@@ -27,12 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   },
-  "118906": {
-    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
-    "price": "197",
-    "old_price": "328",
+  "118814": {
+    "name": "Печенье песочное \"Эфин\"",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
+    "link": "https://vkusvill.ru/goods/pechene-pesochnoe-efin-118814/"
   },
   "124387": {
     "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
@@ -47,13 +54,6 @@
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
-  "121250": {
-    "name": "Сосиски \"Трюфельные\"",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-tryufelnye-121250/"
   },
   "63486": {
     "name": "Ветчина Знаменский ветчинный дом по-швейцарски 300 г",
