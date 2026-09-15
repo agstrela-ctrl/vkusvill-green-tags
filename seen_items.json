@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khamsa-bez-golovy-nepotroshenaya-v-masle-23549/"
   },
-  "107823": {
-    "name": "Брецель на сливочном масле с кунжутом",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
-  },
   "105483": {
     "name": "Форель филе-кусок (хвост. часть) с кожей малосоленая зам., 500 г",
     "price": "598",
@@ -48,33 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   },
-  "83456": {
-    "name": "Креветки \"Королевские\" неразделанные вареные 50/60 охл., 250 г",
-    "price": "281",
-    "old_price": "468",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-nerazdelannye-varenye-50-60-okhl-83456/"
-  },
-  "79305": {
-    "name": "Биточки из говядины паровые, зам.",
-    "price": "366",
-    "old_price": "610",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-govyadiny-parovye-79305/"
-  },
   "23411": {
     "name": "Треска тихоокеанская филе без кожи зам.",
     "price": "960",
     "old_price": "1600",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/treska-tikhookeanskaya-file-bez-kozhi-zam-23411/"
-  },
-  "46360": {
-    "name": "Уксус Дядя Ваня столовый 9% 1 л",
-    "price": "91",
-    "old_price": "151",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/uksus-dyadya-vanya-stolovyy-9-1-l-46360/"
   },
   "83537": {
     "name": "Сельдь филе-кусочки Матиас слабосоленая XXL в масле с луком 260 г",
@@ -89,12 +61,5 @@
     "old_price": "261",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/seld-file-matias-original-v-masle-250-g-42028/"
-  },
-  "63486": {
-    "name": "Ветчина Знаменский ветчинный дом по-швейцарски 300 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-znamenskiy-vetchinnyy-dom-po-shveytsarski-300-g-63486/"
   }
 }
