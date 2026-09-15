@@ -1,17 +1,24 @@
 {
+  "79663": {
+    "name": "Вода питьевая негазированная, 5 л",
+    "price": "70",
+    "old_price": "117",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
+  },
+  "606": {
+    "name": "Морковь",
+    "price": "33",
+    "old_price": "55",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-606/"
+  },
   "18735": {
     "name": "Морковь мытая",
     "price": "51",
     "old_price": "85",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
-  },
-  "41672": {
-    "name": "Эклеры \"Шоколад и ваниль\"",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
   },
   "83537": {
     "name": "Сельдь филе-кусочки Матиас слабосоленая XXL в масле с луком 260 г",
