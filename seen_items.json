@@ -1,38 +1,10 @@
 {
-  "22564": {
-    "name": "Томаты Махитос",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-makhitos-22564/"
-  },
-  "21005": {
-    "name": "Перец красный сладкий",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005/"
-  },
-  "96402": {
-    "name": "Перец сладкий грунтовой",
-    "price": "84",
-    "old_price": "140",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
-  },
   "18735": {
     "name": "Морковь мытая",
     "price": "51",
     "old_price": "85",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
-  },
-  "43031": {
-    "name": "Кукуруза в зернах без доб. сахара",
-    "price": "100",
-    "old_price": "166",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kukuruza-v-zernakh-bez-dob-sakhara-43031/"
   },
   "114432": {
     "name": "Яблоко вишневое",
@@ -110,13 +82,6 @@
     "old_price": "324",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/seld-file-kusochki-matias-slabosolenaya-xxl-v-masle-s-lukom-260-g-83537/"
-  },
-  "98344": {
-    "name": "Торт \"Шоколадный микс\" (муссовый), 500 г",
-    "price": "494",
-    "old_price": "823",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-shokoladnyy-miks-mussovyy-98344/"
   },
   "42028": {
     "name": "Сельдь филе Матиас оригинал в масле 250 г",
