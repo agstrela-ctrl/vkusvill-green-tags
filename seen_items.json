@@ -76,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylya-kurinye-v-marinade-24945/"
   },
-  "76248": {
-    "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
-    "price": "296",
-    "old_price": "494",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-76248/"
-  },
   "102993": {
     "name": "Ассорти х/к из кеты, масляной рыбы, нерки и омуля, 200 г",
     "price": "352",
@@ -110,12 +103,5 @@
     "old_price": "440",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-severnye-nerazdelannye-varenye-podkopchennye-120-150-okhl-125537/"
-  },
-  "65589": {
-    "name": "Грибы шампиньоны для гриля, 700 г",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/griby-shampinony-dlya-grilya-65589/"
   }
 }
