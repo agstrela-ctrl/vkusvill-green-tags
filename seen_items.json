@@ -20,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
   },
+  "122344": {
+    "name": "Котлеты с гречкой для приготовления на пару",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-dlya-prigotovleniya-na-paru-122344/"
+  },
   "63576": {
     "name": "Семга филе-кусок на коже охл., 350 г",
     "price": "720",
@@ -33,20 +40,6 @@
     "old_price": "182",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-s-kapustoy-i-yaytsom-44582/"
-  },
-  "75938": {
-    "name": "Круассан с малиной, кафе",
-    "price": "100",
-    "old_price": "166",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
-  },
-  "98952": {
-    "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
-    "price": "328",
-    "old_price": "546",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylya-tsyplenka-broylera-v-souse-teriyaki-98952/"
   },
   "119818": {
     "name": "Лепешка \"Тортилья\" с сыром",
@@ -75,13 +68,6 @@
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
-  },
-  "122344": {
-    "name": "Котлеты с гречкой для приготовления на пару",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-dlya-prigotovleniya-na-paru-122344/"
   },
   "51823": {
     "name": "Ролл с лососем",
@@ -145,13 +131,6 @@
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
-  "55577": {
-    "name": "Фарш из свинины и говядины Ближние Горки по-домашнему охлажденный 400 г",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-svininy-i-govyadiny-blizhnie-gorki-po-domashnemu-okhlazhdennyy-400-g-55577/"
   },
   "94222": {
     "name": "Палочки из форели радужной холодного копчения, 100 г",
