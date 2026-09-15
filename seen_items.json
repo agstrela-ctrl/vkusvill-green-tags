@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-112645/"
   },
+  "115131": {
+    "name": "Хлеб \"Двухсолодовый\" с пророщенным зерном, нарезка",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-dvukhsolodovyy-s-proroshchennym-zernom-115131/"
+  },
   "83512": {
     "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
     "price": "71",
@@ -20,12 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-s-indeykoy-i-slivochnym-syrom-100069/"
   },
-  "122910": {
-    "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
-    "price": "174",
-    "old_price": "290",
+  "115254": {
+    "name": "Стейк из мраморной свинины на кости \"Ти-Боун\"",
+    "price": "335",
+    "old_price": "558",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/fruktovyy-miks-ananas-122910/"
+    "link": "https://vkusvill.ru/goods/steyk-iz-mramornoy-svininy-na-kosti-ti-boun-115254/"
   },
   "83491": {
     "name": "Набор пирожных \"Крепвиль\" шоколад-сливки, 2 шт",
