@@ -34,6 +34,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-s-kapustoy-i-yaytsom-44582/"
   },
+  "75991": {
+    "name": "Микс салатный \"Витамикс\" , 150 г",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
+  },
   "119818": {
     "name": "Лепешка \"Тортилья\" с сыром",
     "price": "47",
@@ -48,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-mramornoy-svininy-na-kosti-ti-boun-115254/"
   },
-  "121195": {
-    "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
-  },
   "122742": {
     "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
     "price": "257",
@@ -62,33 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   },
-  "51823": {
-    "name": "Ролл с лососем",
-    "price": "294",
-    "old_price": "490",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-lososem-51823/"
-  },
-  "83456": {
-    "name": "Креветки \"Королевские\" неразделанные вареные 50/60 охл., 250 г",
-    "price": "281",
-    "old_price": "468",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-nerazdelannye-varenye-50-60-okhl-83456/"
-  },
   "118906": {
     "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
     "price": "197",
     "old_price": "328",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
-  },
-  "98344": {
-    "name": "Торт \"Шоколадный микс\" (муссовый), 500 г",
-    "price": "494",
-    "old_price": "823",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-shokoladnyy-miks-mussovyy-98344/"
   },
   "125771": {
     "name": "Шаурма с лисичками, говядиной и горчичным соусом",
