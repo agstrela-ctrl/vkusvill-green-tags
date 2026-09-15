@@ -1,4 +1,18 @@
 {
+  "46785": {
+    "name": "Йогурт питьевой с черникой без доб. сахара 2,5%",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-chernikoy-bez-dob-sakhara-2-46785/"
+  },
+  "36208": {
+    "name": "Желе фруктовое мандарин, виноград, яблоко, ананас",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-fruktovoe-mandarin-36208/"
+  },
   "75991": {
     "name": "Микс салатный \"Витамикс\" , 150 г",
     "price": "159",
@@ -33,20 +47,6 @@
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
-  "94222": {
-    "name": "Палочки из форели радужной холодного копчения, 100 г",
-    "price": "129",
-    "old_price": "215",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/palochki-iz-foreli-raduzhnoy-kholodnogo-kopcheniya-94222/"
-  },
-  "1076": {
-    "name": "Кумыс, 500 г",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kumys-1076/"
   },
   "121250": {
     "name": "Сосиски \"Трюфельные\"",
