@@ -1,4 +1,11 @@
 {
+  "61602": {
+    "name": "Суп с куриными фрикадельками и пастой \"Звездочки\"",
+    "price": "124",
+    "old_price": "206",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-kurinymi-frikadelkami-i-pastoy-zvezdochki-61602/"
+  },
   "112645": {
     "name": "Арбуз сердцевина, 1000 г",
     "price": "414",
@@ -6,26 +13,40 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-112645/"
   },
-  "115131": {
-    "name": "Хлеб \"Двухсолодовый\" с пророщенным зерном, нарезка",
-    "price": "89",
-    "old_price": "148",
+  "97844": {
+    "name": "Крем-суп тыквенный",
+    "price": "120",
+    "old_price": "200",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-dvukhsolodovyy-s-proroshchennym-zernom-115131/"
+    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
   },
-  "83512": {
-    "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
-    "price": "71",
-    "old_price": "118",
+  "44582": {
+    "name": "Пирожки с капустой и яйцом, 140 г (2 шт)",
+    "price": "109",
+    "old_price": "182",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
+    "link": "https://vkusvill.ru/goods/pirozhki-s-kapustoy-i-yaytsom-44582/"
   },
-  "100069": {
-    "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
-    "price": "239",
-    "old_price": "399",
+  "95321": {
+    "name": "Эклеры \"Пломбир\", 3 шт.",
+    "price": "214",
+    "old_price": "357",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-s-indeykoy-i-slivochnym-syrom-100069/"
+    "link": "https://vkusvill.ru/goods/eklery-plombir-95321/"
+  },
+  "75938": {
+    "name": "Круассан с малиной, кафе",
+    "price": "100",
+    "old_price": "166",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
+  },
+  "119818": {
+    "name": "Лепешка \"Тортилья\" с сыром",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
   },
   "115254": {
     "name": "Стейк из мраморной свинины на кости \"Ти-Боун\"",
@@ -34,12 +55,47 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-mramornoy-svininy-na-kosti-ti-boun-115254/"
   },
+  "121195": {
+    "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
+  },
   "83491": {
     "name": "Набор пирожных \"Крепвиль\" шоколад-сливки, 2 шт",
     "price": "240",
     "old_price": "400",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nabor-pirozhnykh-krepvil-shokolad-slivki-83491/"
+  },
+  "122742": {
+    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
+  },
+  "51823": {
+    "name": "Ролл с лососем",
+    "price": "294",
+    "old_price": "490",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/roll-s-lososem-51823/"
+  },
+  "118906": {
+    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
+  },
+  "98344": {
+    "name": "Торт \"Шоколадный микс\" (муссовый), 500 г",
+    "price": "494",
+    "old_price": "823",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-shokoladnyy-miks-mussovyy-98344/"
   },
   "125771": {
     "name": "Шаурма с лисичками, говядиной и горчичным соусом",
