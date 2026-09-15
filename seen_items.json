@@ -1,9 +1,163 @@
 {
-  "65425": {
-    "name": "Креветки жареные, 150 г",
-    "price": "348",
-    "old_price": "580",
+  "22564": {
+    "name": "Томаты Махитос",
+    "price": "162",
+    "old_price": "270",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
+    "link": "https://vkusvill.ru/goods/tomaty-makhitos-22564/"
+  },
+  "21005": {
+    "name": "Перец красный сладкий",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005/"
+  },
+  "96402": {
+    "name": "Перец сладкий грунтовой",
+    "price": "84",
+    "old_price": "140",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
+  },
+  "18735": {
+    "name": "Морковь мытая",
+    "price": "51",
+    "old_price": "85",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
+  },
+  "27215": {
+    "name": "Вода минеральная \"Псыж\" газ., 1 л",
+    "price": "44",
+    "old_price": "74",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/voda-mineralnaya-psyzh-gaz-27215/"
+  },
+  "43031": {
+    "name": "Кукуруза в зернах без доб. сахара",
+    "price": "100",
+    "old_price": "166",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kukuruza-v-zernakh-bez-dob-sakhara-43031/"
+  },
+  "114432": {
+    "name": "Яблоко вишневое",
+    "price": "141",
+    "old_price": "235",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-vishnevoe-114432/"
+  },
+  "23549": {
+    "name": "Хамса без головы непотрошеная в масле, 200 г",
+    "price": "117",
+    "old_price": "195",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khamsa-bez-golovy-nepotroshenaya-v-masle-23549/"
+  },
+  "20324": {
+    "name": "Котлеты из трески охл., 300 г",
+    "price": "172",
+    "old_price": "287",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-treski-okhl-20324/"
+  },
+  "107823": {
+    "name": "Брецель на сливочном масле с кунжутом",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
+  },
+  "105483": {
+    "name": "Форель филе-кусок (хвост. часть) с кожей малосоленая зам., 500 г",
+    "price": "598",
+    "old_price": "997",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/forel-file-kusok-khvost-chast-s-kozhey-malosolenaya-zam-105483/"
+  },
+  "41672": {
+    "name": "Эклеры \"Шоколад и ваниль\"",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
+  },
+  "122742": {
+    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
+  },
+  "83456": {
+    "name": "Креветки \"Королевские\" неразделанные вареные 50/60 охл., 250 г",
+    "price": "281",
+    "old_price": "468",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-nerazdelannye-varenye-50-60-okhl-83456/"
+  },
+  "79305": {
+    "name": "Биточки из говядины паровые, зам.",
+    "price": "366",
+    "old_price": "610",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-govyadiny-parovye-79305/"
+  },
+  "98321": {
+    "name": "Основа быстрозам. \"Глинтвейн\", 300 г",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/osnova-bystrozam-glintveyn-98321/"
+  },
+  "23411": {
+    "name": "Треска тихоокеанская филе без кожи зам.",
+    "price": "960",
+    "old_price": "1600",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/treska-tikhookeanskaya-file-bez-kozhi-zam-23411/"
+  },
+  "46360": {
+    "name": "Уксус Дядя Ваня столовый 9% 1 л",
+    "price": "91",
+    "old_price": "151",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/uksus-dyadya-vanya-stolovyy-9-1-l-46360/"
+  },
+  "83537": {
+    "name": "Сельдь филе-кусочки Матиас слабосоленая XXL в масле с луком 260 г",
+    "price": "194",
+    "old_price": "324",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/seld-file-kusochki-matias-slabosolenaya-xxl-v-masle-s-lukom-260-g-83537/"
+  },
+  "98344": {
+    "name": "Торт \"Шоколадный микс\" (муссовый), 500 г",
+    "price": "494",
+    "old_price": "823",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-shokoladnyy-miks-mussovyy-98344/"
+  },
+  "114219": {
+    "name": "Ассорти из цыпленка-бройлера на зерновом откорме",
+    "price": "410",
+    "old_price": "683",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-iz-tsyplenka-broylera-na-zernovom-otkorme-114219/"
+  },
+  "42028": {
+    "name": "Сельдь филе Матиас оригинал в масле 250 г",
+    "price": "157",
+    "old_price": "261",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/seld-file-matias-original-v-masle-250-g-42028/"
+  },
+  "63486": {
+    "name": "Ветчина Знаменский ветчинный дом по-швейцарски 300 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vetchina-znamenskiy-vetchinnyy-dom-po-shveytsarski-300-g-63486/"
   }
 }
