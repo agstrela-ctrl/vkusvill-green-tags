@@ -6,47 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
   },
-  "114432": {
-    "name": "Яблоко вишневое",
-    "price": "141",
-    "old_price": "235",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yabloko-vishnevoe-114432/"
-  },
-  "23549": {
-    "name": "Хамса без головы непотрошеная в масле, 200 г",
-    "price": "117",
-    "old_price": "195",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khamsa-bez-golovy-nepotroshenaya-v-masle-23549/"
-  },
-  "105483": {
-    "name": "Форель филе-кусок (хвост. часть) с кожей малосоленая зам., 500 г",
-    "price": "598",
-    "old_price": "997",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-file-kusok-khvost-chast-s-kozhey-malosolenaya-zam-105483/"
-  },
   "41672": {
     "name": "Эклеры \"Шоколад и ваниль\"",
     "price": "178",
     "old_price": "297",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
-  },
-  "122742": {
-    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
-  },
-  "23411": {
-    "name": "Треска тихоокеанская филе без кожи зам.",
-    "price": "960",
-    "old_price": "1600",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/treska-tikhookeanskaya-file-bez-kozhi-zam-23411/"
   },
   "83537": {
     "name": "Сельдь филе-кусочки Матиас слабосоленая XXL в масле с луком 260 г",
@@ -61,5 +26,12 @@
     "old_price": "261",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/seld-file-matias-original-v-masle-250-g-42028/"
+  },
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/banany-731/"
   }
 }
