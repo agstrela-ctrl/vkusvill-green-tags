@@ -20,11 +20,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
   },
-  "83537": {
-    "name": "Сельдь филе-кусочки Матиас слабосоленая XXL в масле с луком 260 г",
-    "price": "194",
-    "old_price": "324",
+  "20832": {
+    "name": "Свекла молодая",
+    "price": "35",
+    "old_price": "58",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/seld-file-kusochki-matias-slabosolenaya-xxl-v-masle-s-lukom-260-g-83537/"
+    "link": "https://vkusvill.ru/goods/svekla-molodaya-20832/"
+  },
+  "96401": {
+    "name": "Баклажаны грунтовые",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baklazhany-gruntovye-96401/"
   }
 }
