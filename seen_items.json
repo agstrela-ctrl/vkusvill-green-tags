@@ -1,11 +1,4 @@
 {
-  "64336": {
-    "name": "Картофель молодой",
-    "price": "35",
-    "old_price": "58",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-molodoy-64336/"
-  },
   "79663": {
     "name": "Вода питьевая негазированная, 5 л",
     "price": "70",
@@ -20,12 +13,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
   },
-  "20832": {
-    "name": "Свекла молодая",
-    "price": "35",
-    "old_price": "58",
+  "26944": {
+    "name": "Томаты сливка грунтовая",
+    "price": "66",
+    "old_price": "110",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/svekla-molodaya-20832/"
+    "link": "https://vkusvill.ru/goods/tomaty-slivka-gruntovaya-26944/"
+  },
+  "69912": {
+    "name": "Микс салатный \"Цезарь\" 140 г",
+    "price": "96",
+    "old_price": "160",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
   },
   "96401": {
     "name": "Баклажаны грунтовые",
@@ -33,5 +33,19 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baklazhany-gruntovye-96401/"
+  },
+  "95089": {
+    "name": "Вода детская \"Наш родничок\" родниковая негаз., 1,5 л",
+    "price": "40",
+    "old_price": "66",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/voda-detskaya-nash-rodnichok-rodnikovaya-negaz-95089/"
+  },
+  "69753": {
+    "name": "Шаурма грузинская",
+    "price": "204",
+    "old_price": "340",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-gruzinskaya-69753/"
   }
 }
