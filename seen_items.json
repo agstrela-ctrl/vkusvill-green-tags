@@ -1,11 +1,4 @@
 {
-  "64567": {
-    "name": "Полутушка цыпленка-бройлера на зерновом откорме",
-    "price": "334",
-    "old_price": "556",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/polutushka-tsyplenka-broylera-na-zernovom-otkorme-64567/"
-  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
@@ -48,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-nori-s-ovoshchami-i-kunzhutnym-sousom-109045/"
   },
-  "39543": {
-    "name": "Котлета куриная в панировке из сухарей с картофельным пюре",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-v-panirovke-iz-sukharey-s-kartofelnym-pyure-39543/"
-  },
   "122839": {
     "name": "Куриное филе гриль",
     "price": "167",
@@ -76,26 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
   },
-  "80732": {
-    "name": "Рогалик сдобный \"Абрикос-курага\"",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rogalik-sdobnyy-abrikos-kuraga-80732/"
-  },
   "12304": {
     "name": "Котлеты из кролика",
     "price": "310",
     "old_price": "516",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-krolika-12304/"
-  },
-  "71177": {
-    "name": "Лепешка с зеленью и сыром, 2 шт",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-zelenyu-i-syrom-71177/"
   },
   "99743": {
     "name": "Завтрак боул с хашбрауном, кафе",
@@ -124,13 +96,6 @@
     "old_price": "276",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
-  },
-  "98614": {
-    "name": "Филе минтая жареное в кляре с картофельным пюре",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-mintaya-zharenoe-v-klyare-s-kartofelnym-pyure-98614/"
   },
   "100069": {
     "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
@@ -236,13 +201,6 @@
     "old_price": "560",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-so-svyekloy-113558/"
-  },
-  "123603": {
-    "name": "Колбаски \"Шашлычные\" (из мяса цыпленка-бройлера)",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-shashlychnye-iz-myasa-tsyplenka-broylera-123603/"
   },
   "117805": {
     "name": "Фарш из филе цыпленка-бройлера на зерновом откорме",
