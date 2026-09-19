@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
   },
-  "16943": {
-    "name": "Блины с творогом, 210 г",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-tvorogom-16943/"
-  },
   "64567": {
     "name": "Полутушка цыпленка-бройлера на зерновом откорме",
     "price": "334",
@@ -40,13 +33,6 @@
     "old_price": "188",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
-  },
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
   },
   "16942": {
     "name": "Блины с яблоком, 210 г",
@@ -104,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "46785": {
-    "name": "Йогурт питьевой с черникой без доб. сахара 2,5%",
-    "price": "61",
-    "old_price": "102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-chernikoy-bez-dob-sakhara-2-46785/"
-  },
   "62806": {
     "name": "Фарш из говядины и свинины, 360 г",
     "price": "206",
@@ -139,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-rizoni-s-kurinymi-frikadelkami-i-tomatnym-sousom-117219/"
   },
-  "52515": {
-    "name": "Омлет белковый с куриным филе, овощами и мягким сыром",
-    "price": "172",
-    "old_price": "287",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-belkovyy-s-kurinym-file-52515/"
-  },
   "83512": {
     "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
     "price": "71",
@@ -159,13 +131,6 @@
     "old_price": "98",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rogalik-sdobnyy-abrikos-kuraga-80732/"
-  },
-  "106628": {
-    "name": "Ролл \"Симфония классики\" с сёмгой и творожным сыром",
-    "price": "264",
-    "old_price": "440",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
   },
   "12304": {
     "name": "Котлеты из кролика",
@@ -314,13 +279,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
   },
-  "119390": {
-    "name": "Сосиски из курицы с брокколи и сыром",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-s-brokkoli-i-syrom-119390/"
-  },
   "114372": {
     "name": "Фетучини с курицей и лисичками",
     "price": "198",
@@ -405,13 +363,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-file-tsyplenka-broylera-na-zernovom-otkorme-117805/"
   },
-  "12196": {
-    "name": "Холодец из говядины и свинины",
-    "price": "194",
-    "old_price": "324",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kholodets-iz-govyadiny-i-svininy-12196/"
-  },
   "49769": {
     "name": "Окрошка овощная, 400 г",
     "price": "257",
@@ -460,13 +411,6 @@
     "old_price": "748",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-tryufelnyy-postnyy-60064/"
-  },
-  "83736": {
-    "name": "Торт \"Медовик карамельный с черной смородиной\"",
-    "price": "419",
-    "old_price": "699",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-medovik-karamelnyy-s-chernoy-smorodinoy-83736/"
   },
   "115075": {
     "name": "Фарш из свиного окорока",
