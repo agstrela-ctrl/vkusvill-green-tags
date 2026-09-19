@@ -1,24 +1,10 @@
 {
-  "1768": {
-    "name": "Сырок творожный со сгущённым молоком 5%",
-    "price": "39",
-    "old_price": "65",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-so-sgushchyennym-molokom-5-1768/"
-  },
   "46785": {
     "name": "Йогурт питьевой с черникой без доб. сахара 2,5%",
     "price": "61",
     "old_price": "102",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-chernikoy-bez-dob-sakhara-2-46785/"
-  },
-  "112155": {
-    "name": "Ряженка \"Морошка\", 250 г",
-    "price": "44",
-    "old_price": "74",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/ryazhenka-moroshka-112155/"
   },
   "17394": {
     "name": "Сливки 30%",
@@ -33,33 +19,5 @@
     "old_price": "107",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-s-grushey-bez-dob-sakhara-2-119535/"
-  },
-  "70754": {
-    "name": "Творог с черной смородиной 5%",
-    "price": "94",
-    "old_price": "156",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-s-chernoy-smorodinoy-5-70754/"
-  },
-  "123932": {
-    "name": "Йогурт питьевой \"Яблоко-тархун\" 1,7%",
-    "price": "58",
-    "old_price": "97",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-yabloko-tarkhun-1-123932/"
-  },
-  "64558": {
-    "name": "Сырок А. Ростагрокомплекс Молочный шоколад 5% 50 г",
-    "price": "59",
-    "old_price": "99",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrok-a-rostagrokompleks-molochnyy-shokolad-5-50-g-64558/"
-  },
-  "23994": {
-    "name": "Сыр козий \"Валансе\" с белой плесенью в золе, 150 г",
-    "price": "322",
-    "old_price": "537",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-koziy-valanse-s-beloy-plesenyu-v-zole-23994/"
   }
 }
