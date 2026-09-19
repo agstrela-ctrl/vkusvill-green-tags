@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-nori-s-ovoshchami-i-kunzhutnym-sousom-109045/"
   },
-  "44309": {
-    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
-    "price": "60",
-    "old_price": "100",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
   "62806": {
     "name": "Фарш из говядины и свинины, 360 г",
     "price": "206",
@@ -110,13 +103,6 @@
     "old_price": "516",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-krolika-12304/"
-  },
-  "67171": {
-    "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
-    "price": "229",
-    "old_price": "382",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
   },
   "71177": {
     "name": "Лепешка с зеленью и сыром, 2 шт",
@@ -306,13 +292,6 @@
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
-  },
-  "115075": {
-    "name": "Фарш из свиного окорока",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-svinogo-okoroka-115075/"
   },
   "115652": {
     "name": "Бедро индейки по-азиатски с картофелем",
