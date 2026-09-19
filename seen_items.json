@@ -1,11 +1,4 @@
 {
-  "489": {
-    "name": "Голень цыпленка-бройлера",
-    "price": "254",
-    "old_price": "423",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-489/"
-  },
   "64567": {
     "name": "Полутушка цыпленка-бройлера на зерновом откорме",
     "price": "334",
@@ -54,13 +47,6 @@
     "old_price": "240",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-nori-s-ovoshchami-i-kunzhutnym-sousom-109045/"
-  },
-  "62806": {
-    "name": "Фарш из говядины и свинины, 360 г",
-    "price": "206",
-    "old_price": "343",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-svininy-62806/"
   },
   "39543": {
     "name": "Котлета куриная в панировке из сухарей с картофельным пюре",
@@ -131,13 +117,6 @@
     "old_price": "430",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-telyatiny-54880/"
-  },
-  "112839": {
-    "name": "Огурчики \"Вкусвилльчики\", 450 г",
-    "price": "117",
-    "old_price": "195",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurchiki-vkusvillchiki-112839/"
   },
   "88563": {
     "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
@@ -258,13 +237,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-so-svyekloy-113558/"
   },
-  "113684": {
-    "name": "Опята маринованные по-корейски",
-    "price": "145",
-    "old_price": "242",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/opyata-marinovannye-po-koreyski-113684/"
-  },
   "123603": {
     "name": "Колбаски \"Шашлычные\" (из мяса цыпленка-бройлера)",
     "price": "191",
@@ -299,20 +271,6 @@
     "old_price": "880",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
-  },
-  "122667": {
-    "name": "Колбаски \"Улитки\" куриные с сыром",
-    "price": "148",
-    "old_price": "246",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-ulitki-kurinye-s-syrom-122667/"
-  },
-  "120919": {
-    "name": "Сосиски с соусом \"Карбонелли\"",
-    "price": "224",
-    "old_price": "374",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-s-sousom-karbonelli-120919/"
   },
   "125193": {
     "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
