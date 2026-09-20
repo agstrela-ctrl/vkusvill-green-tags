@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
   },
-  "24513": {
-    "name": "Бефстроганов из говядины с картофельным пюре",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/befstroganov-iz-govyadiny-s-kartofelnym-pyure-24513/"
-  },
   "53516": {
     "name": "Курица в сливочном соусе с гречкой",
     "price": "174",
@@ -76,20 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
   },
-  "88563": {
-    "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
-    "price": "166",
-    "old_price": "276",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
-  },
-  "118941": {
-    "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
-  },
   "59710": {
     "name": "Колбаса \"Классика растительная\"",
     "price": "231",
@@ -97,33 +76,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-klassika-rastitelnaya-59710/"
   },
-  "51294": {
-    "name": "Штрудель яблочный, веган",
-    "price": "101",
-    "old_price": "169",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shtrudel-yablochnyy-51294/"
-  },
-  "15309": {
-    "name": "Щавель, 100г",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchavel-15309/"
-  },
   "63579": {
     "name": "Нерка слабосоленая ломтик, 100 г",
     "price": "220",
     "old_price": "367",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nerka-slabosolenaya-lomtik-63579/"
-  },
-  "76038": {
-    "name": "Джекфрут очищенный, 150 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
   },
   "125768": {
     "name": "Котлеты из курицы и индейки",
