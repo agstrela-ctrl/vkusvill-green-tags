@@ -1,9 +1,16 @@
 {
-  "97288": {
-    "name": "Напиток кисломолочный PROTEIN+ \"Манго-персик\", 200 г",
-    "price": "111",
-    "old_price": "185",
+  "50147": {
+    "name": "Кефир безлактозный с клубникой без доб. сахара 2,5%",
+    "price": "62",
+    "old_price": "104",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-kislomolochnyy-protein-mango-persik-97288/"
+    "link": "https://vkusvill.ru/goods/kefir-bezlaktoznyy-s-klubnikoy-bez-dob-sakhara-2-50147/"
+  },
+  "20231": {
+    "name": "Творог \"Зернышко\" обезжиренный",
+    "price": "92",
+    "old_price": "154",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-zernyshko-obezzhirennyy-20231/"
   }
 }
