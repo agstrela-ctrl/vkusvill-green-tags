@@ -1,16 +1,16 @@
 {
-  "97288": {
-    "name": "Напиток кисломолочный PROTEIN+ \"Манго-персик\", 200 г",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-kislomolochnyy-protein-mango-persik-97288/"
-  },
   "92779": {
     "name": "Квас Царские припасы Традиционный 2 л",
     "price": "189",
     "old_price": "315",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kvas-tsarskie-pripasy-traditsionnyy-2-l-92779/"
+  },
+  "97288": {
+    "name": "Напиток кисломолочный PROTEIN+ \"Манго-персик\", 200 г",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-kislomolochnyy-protein-mango-persik-97288/"
   }
 }
