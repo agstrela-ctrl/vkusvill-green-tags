@@ -6,20 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
   },
-  "75244": {
-    "name": "Котлета куриная с фарфалле",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244/"
-  },
-  "53516": {
-    "name": "Курица в сливочном соусе с гречкой",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
-  },
   "119541": {
     "name": "Ароматный цыпленок-бройлер с овощами и стручковой фасолью",
     "price": "305",
@@ -40,13 +26,6 @@
     "old_price": "95",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-yablochnaya-sharlotka-118875/"
-  },
-  "123730": {
-    "name": "Суши-салат \"Филадельфия\"",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sushi-salat-filadelfiya-123730/"
   },
   "118200": {
     "name": "Торт Город \"М\"",
