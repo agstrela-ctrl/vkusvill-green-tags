@@ -1,24 +1,10 @@
 {
-  "58728": {
-    "name": "Хлеб цельнозерновой с отрубями",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
-  },
   "89458": {
     "name": "Салат \"Коул Слоу\" постный",
     "price": "113",
     "old_price": "188",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
-  },
-  "16942": {
-    "name": "Блины с яблоком, 210 г",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-yablokom-16942/"
   },
   "59710": {
     "name": "Колбаса \"Классика растительная\"",
@@ -55,33 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-po-baltiyski-so-skumbriey-125535/"
   },
-  "122736": {
-    "name": "Филе индейки гриль с кускусом и брокколи",
-    "price": "233",
-    "old_price": "388",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-kuskusom-i-brokkoli-122736/"
-  },
-  "98527": {
-    "name": "Овощи микс на пару",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
-  },
   "26582": {
     "name": "Стрипсы в панировке",
     "price": "181",
     "old_price": "301",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
-  "122742": {
-    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   },
   "49769": {
     "name": "Окрошка овощная, 400 г",
