@@ -13,40 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244/"
   },
-  "89458": {
-    "name": "Салат \"Коул Слоу\" постный",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
-  },
   "53516": {
     "name": "Курица в сливочном соусе с гречкой",
     "price": "174",
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
-  },
-  "115477": {
-    "name": "Батон без добавления сахара нарезанный, половинка",
-    "price": "35",
-    "old_price": "58",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-bez-dobavleniya-sakhara-narezannyy-115477/"
-  },
-  "121881": {
-    "name": "Котлеты для бургера из мяса цыплят-бройлеров \"Формула фитнеса\"",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-dlya-burgera-iz-myasa-tsyplyat-broylerov-formula-fitnesa-121881/"
-  },
-  "62414": {
-    "name": "Котлеты куриные",
-    "price": "252",
-    "old_price": "420",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-62414/"
   },
   "119541": {
     "name": "Ароматный цыпленок-бройлер с овощами и стручковой фасолью",
@@ -62,27 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-klassika-rastitelnaya-59710/"
   },
-  "63579": {
-    "name": "Нерка слабосоленая ломтик, 100 г",
-    "price": "220",
-    "old_price": "367",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nerka-slabosolenaya-lomtik-63579/"
-  },
-  "20231": {
-    "name": "Творог \"Зернышко\" обезжиренный",
-    "price": "92",
-    "old_price": "154",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-zernyshko-obezzhirennyy-20231/"
-  },
-  "118200": {
-    "name": "Торт Город \"М\"",
-    "price": "929",
-    "old_price": "1548",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-gorod-m-118200/"
-  },
   "118875": {
     "name": "Десерт кокосовый \"Яблочная шарлотка\"",
     "price": "57",
@@ -96,5 +47,12 @@
     "old_price": "398",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sushi-salat-filadelfiya-123730/"
+  },
+  "118200": {
+    "name": "Торт Город \"М\"",
+    "price": "929",
+    "old_price": "1548",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-gorod-m-118200/"
   }
 }
