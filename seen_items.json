@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244/"
   },
-  "71190": {
-    "name": "Ролл \"Симфония классики\" с крабовыми палочками",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-krabovymi-palochkami-71190/"
-  },
   "89458": {
     "name": "Салат \"Коул Слоу\" постный",
     "price": "113",
@@ -62,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/aromatnyy-tsyplenok-broyler-s-ovoshchami-i-struchkovoy-fasolyu-119541/"
   },
-  "100821": {
-    "name": "Печень жареная с луком с гречкой",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
-  },
   "59710": {
     "name": "Колбаса \"Классика растительная\"",
     "price": "231",
@@ -83,12 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nerka-slabosolenaya-lomtik-63579/"
   },
-  "125768": {
-    "name": "Котлеты из курицы и индейки",
-    "price": "191",
-    "old_price": "318",
+  "20231": {
+    "name": "Творог \"Зернышко\" обезжиренный",
+    "price": "92",
+    "old_price": "154",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-kuritsy-i-indeyki-125768/"
+    "link": "https://vkusvill.ru/goods/tvorog-zernyshko-obezzhirennyy-20231/"
   },
   "118200": {
     "name": "Торт Город \"М\"",
@@ -103,13 +89,6 @@
     "old_price": "95",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-yablochnaya-sharlotka-118875/"
-  },
-  "20231": {
-    "name": "Творог \"Зернышко\" обезжиренный",
-    "price": "92",
-    "old_price": "154",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-zernyshko-obezzhirennyy-20231/"
   },
   "123730": {
     "name": "Суши-салат \"Филадельфия\"",
