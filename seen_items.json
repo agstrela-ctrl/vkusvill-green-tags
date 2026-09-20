@@ -1,31 +1,10 @@
 {
-  "113856": {
-    "name": "Салат из запеченной свеклы с сыром фета",
-    "price": "137",
-    "old_price": "229",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
-  },
-  "119541": {
-    "name": "Ароматный цыпленок-бройлер с овощами и стручковой фасолью",
-    "price": "305",
-    "old_price": "508",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/aromatnyy-tsyplenok-broyler-s-ovoshchami-i-struchkovoy-fasolyu-119541/"
-  },
   "59710": {
     "name": "Колбаса \"Классика растительная\"",
     "price": "231",
     "old_price": "385",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-klassika-rastitelnaya-59710/"
-  },
-  "118875": {
-    "name": "Десерт кокосовый \"Яблочная шарлотка\"",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-kokosovyy-yablochnaya-sharlotka-118875/"
   },
   "118200": {
     "name": "Торт Город \"М\"",
