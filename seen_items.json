@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-yablokom-16942/"
   },
-  "98527": {
-    "name": "Овощи микс на пару",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
-  },
   "59710": {
     "name": "Колбаса \"Классика растительная\"",
     "price": "231",
@@ -41,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ruletiki-iz-tsyplenka-broylera-s-syrom-feta-i-shpinatom-111345/"
   },
-  "122742": {
-    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
-  },
   "124581": {
     "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
     "price": "36",
@@ -55,26 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
-  "119383": {
-    "name": "Салат \"Цезарь\" легкий",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
-  },
   "74914": {
     "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
     "price": "503",
     "old_price": "838",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-myasa-bedra-tsyplenka-broylera-po-derevenski-74914/"
-  },
-  "75991": {
-    "name": "Микс салатный \"Витамикс\" , 150 г",
-    "price": "159",
-    "old_price": "265",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
   },
   "125535": {
     "name": "Шаурма по-балтийски со скумбрией",
@@ -97,12 +69,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-kuskusom-i-brokkoli-122736/"
   },
+  "98527": {
+    "name": "Овощи микс на пару",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
+  },
   "26582": {
     "name": "Стрипсы в панировке",
     "price": "181",
     "old_price": "301",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
+  },
+  "122742": {
+    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   },
   "118102": {
     "name": "Шашлык из свиного окорока с аджапсандали",
@@ -117,19 +103,5 @@
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-ovoshchnaya-49769/"
-  },
-  "115652": {
-    "name": "Бедро индейки по-азиатски с картофелем",
-    "price": "528",
-    "old_price": "880",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bedro-indeyki-po-aziatski-s-kartofelem-115652/"
-  },
-  "125193": {
-    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
-    "price": "401",
-    "old_price": "668",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
   }
 }
