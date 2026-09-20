@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-yablokom-16942/"
   },
-  "122344": {
-    "name": "Котлеты с гречкой для приготовления на пару",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-dlya-prigotovleniya-na-paru-122344/"
-  },
   "98527": {
     "name": "Овощи микс на пару",
     "price": "138",
@@ -55,6 +48,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ruletiki-iz-tsyplenka-broylera-s-syrom-feta-i-shpinatom-111345/"
   },
+  "122742": {
+    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
+  },
   "124581": {
     "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
     "price": "36",
@@ -62,12 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
-  "122742": {
-    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
-    "price": "257",
-    "old_price": "428",
+  "119383": {
+    "name": "Салат \"Цезарь\" легкий",
+    "price": "214",
+    "old_price": "356",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
+    "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
   },
   "74914": {
     "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
@@ -82,13 +82,6 @@
     "old_price": "265",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
-  },
-  "119383": {
-    "name": "Салат \"Цезарь\" легкий",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
   },
   "125535": {
     "name": "Шаурма по-балтийски со скумбрией",
@@ -124,6 +117,13 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
+  },
+  "122344": {
+    "name": "Котлеты с гречкой для приготовления на пару",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-dlya-prigotovleniya-na-paru-122344/"
   },
   "49769": {
     "name": "Окрошка овощная, 400 г",
