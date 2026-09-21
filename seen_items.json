@@ -1,4 +1,11 @@
 {
+  "21005": {
+    "name": "Перец красный сладкий",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005/"
+  },
   "96402": {
     "name": "Перец сладкий грунтовой",
     "price": "89",
@@ -6,12 +13,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
   },
-  "67188": {
-    "name": "Лук зеленый, 50 г",
-    "price": "47",
-    "old_price": "78",
+  "373": {
+    "name": "Вода родниковая негазированная, 1,5 л",
+    "price": "38",
+    "old_price": "63",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-zelenyy-67188/"
+    "link": "https://vkusvill.ru/goods/voda-rodnikovaya-negazirovannaya-373/"
+  },
+  "53645": {
+    "name": "Яблоко молодое Пирус",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-molodoe-pirus-53645/"
+  },
+  "33138": {
+    "name": "Вода минеральная Borjomi газированная пэт 1,25 л",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-mineralnaya-borjomi-gazirovannaya-pet-1-33138/"
   },
   "50147": {
     "name": "Кефир безлактозный с клубникой без доб. сахара 2,5%",
@@ -34,11 +55,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shariki-pikantnye-s-tvorozhnym-syrom-104067/"
   },
-  "118965": {
-    "name": "\"Грейнсы\" с семенами тыквы, чиа и конопли",
-    "price": "157",
-    "old_price": "262",
+  "122695": {
+    "name": "Напиток травяной с грушей и черной смородиной витаминизированный, 330 мл",
+    "price": "108",
+    "old_price": "180",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/greynsy-s-semenami-tykvy-118965/"
+    "link": "https://vkusvill.ru/goods/napitok-travyanoy-s-grushey-i-chernoy-smorodinoy-vitaminizirovannyy-122695/"
   }
 }
