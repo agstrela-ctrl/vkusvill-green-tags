@@ -1,9 +1,44 @@
 {
-  "110444": {
-    "name": "Шаурма с курицей и томатным соусом на гриле, кафе",
-    "price": "179",
-    "old_price": "298",
+  "96402": {
+    "name": "Перец сладкий грунтовой",
+    "price": "89",
+    "old_price": "148",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-tomatnym-sousom-na-grile-110444/"
+    "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
+  },
+  "67188": {
+    "name": "Лук зеленый, 50 г",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-zelenyy-67188/"
+  },
+  "50147": {
+    "name": "Кефир безлактозный с клубникой без доб. сахара 2,5%",
+    "price": "62",
+    "old_price": "104",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-bezlaktoznyy-s-klubnikoy-bez-dob-sakhara-2-50147/"
+  },
+  "59710": {
+    "name": "Колбаса \"Классика растительная\"",
+    "price": "231",
+    "old_price": "385",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-klassika-rastitelnaya-59710/"
+  },
+  "104067": {
+    "name": "Шарики \"Пикантные\" с творожным сыром",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shariki-pikantnye-s-tvorozhnym-syrom-104067/"
+  },
+  "118965": {
+    "name": "\"Грейнсы\" с семенами тыквы, чиа и конопли",
+    "price": "157",
+    "old_price": "262",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/greynsy-s-semenami-tykvy-118965/"
   }
 }
