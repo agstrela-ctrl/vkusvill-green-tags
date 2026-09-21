@@ -1,11 +1,4 @@
 {
-  "93666": {
-    "name": "Грудка цыплят-бройлеров без кожи",
-    "price": "328",
-    "old_price": "547",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-bez-kozhi-93666/"
-  },
   "119435": {
     "name": "Лапша удон с кальмарами, креветками и овощами",
     "price": "233",
@@ -96,6 +89,13 @@
     "old_price": "325",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eklery-ya-lyublyu-leto-mango-marakuyya-125013/"
+  },
+  "119124": {
+    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
+    "price": "273",
+    "old_price": "455",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
   },
   "65513": {
     "name": "Биточки из мяса индейки",
