@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005/"
   },
-  "96402": {
-    "name": "Перец сладкий грунтовой",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
-  },
   "373": {
     "name": "Вода родниковая негазированная, 1,5 л",
     "price": "38",
@@ -47,19 +40,5 @@
     "old_price": "385",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-klassika-rastitelnaya-59710/"
-  },
-  "104067": {
-    "name": "Шарики \"Пикантные\" с творожным сыром",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shariki-pikantnye-s-tvorozhnym-syrom-104067/"
-  },
-  "122695": {
-    "name": "Напиток травяной с грушей и черной смородиной витаминизированный, 330 мл",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-travyanoy-s-grushey-i-chernoy-smorodinoy-vitaminizirovannyy-122695/"
   }
 }
