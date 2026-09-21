@@ -1,23 +1,9 @@
 {
-  "59710": {
-    "name": "Колбаса \"Классика растительная\"",
-    "price": "231",
-    "old_price": "385",
+  "110444": {
+    "name": "Шаурма с курицей и томатным соусом на гриле, кафе",
+    "price": "179",
+    "old_price": "298",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-klassika-rastitelnaya-59710/"
-  },
-  "118965": {
-    "name": "\"Грейнсы\" с семенами тыквы, чиа и конопли",
-    "price": "157",
-    "old_price": "262",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/greynsy-s-semenami-tykvy-118965/"
-  },
-  "115207": {
-    "name": "Сырники с начинкой из клубники, зам., 600 г",
-    "price": "400",
-    "old_price": "667",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-s-nachinkoy-iz-klubniki-115207/"
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-tomatnym-sousom-na-grile-110444/"
   }
 }
