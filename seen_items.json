@@ -1,11 +1,4 @@
 {
-  "105270": {
-    "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
-  },
   "93666": {
     "name": "Грудка цыплят-бройлеров без кожи",
     "price": "328",
@@ -20,26 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lapsha-udon-s-kalmarami-119435/"
   },
-  "69649": {
-    "name": "Оладьи печеночные, 300 г",
-    "price": "264",
-    "old_price": "440",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-pechenochnye-69649/"
-  },
   "114890": {
     "name": "Мини-чиабатта с курицей, сыром \"Гауда\" и соусом барбекю",
     "price": "186",
     "old_price": "310",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kuritsey-114890/"
-  },
-  "58080": {
-    "name": "Салат сельдь под шубой, 500 г",
-    "price": "305",
-    "old_price": "508",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-seld-pod-shuboy-58080/"
   },
   "77153": {
     "name": "Свекольник на кефире",
@@ -90,20 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
   },
-  "71935": {
-    "name": "Йогурт питьевой \"Красная смородина\" без доб. сахара 2,5%",
-    "price": "55",
-    "old_price": "92",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-krasnaya-smorodina-bez-dob-sakhara-2-71935/"
-  },
-  "72834": {
-    "name": "Торт \"Светлые ночи\" с сырным кремом, 500 г",
-    "price": "485",
-    "old_price": "808",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-svetlye-nochi-s-syrnym-kremom-72834/"
-  },
   "124387": {
     "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
     "price": "701",
@@ -132,26 +97,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tefteli-iz-myasa-tsyplyat-broylerov-s-risom-114226/"
   },
-  "119946": {
-    "name": "Лапша из батата с говядиной и овощами",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-s-govyadinoy-i-ovoshchami-119946/"
-  },
   "125013": {
     "name": "Эклеры \"Я люблю лето\" манго-маракуйя, малина, ваниль",
     "price": "195",
     "old_price": "325",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eklery-ya-lyublyu-leto-mango-marakuyya-125013/"
-  },
-  "121339": {
-    "name": "Кесадилья с курицей, шпинатом и моцареллой",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-121339/"
   },
   "65513": {
     "name": "Биточки из мяса индейки",
