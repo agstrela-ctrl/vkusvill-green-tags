@@ -1,9 +1,23 @@
 {
-  "373": {
-    "name": "Вода родниковая негазированная, 1,5 л",
-    "price": "38",
-    "old_price": "63",
+  "48589": {
+    "name": "Вода минеральная \"Легенда гор Архыз\", негаз., 5 л",
+    "price": "87",
+    "old_price": "145",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-rodnikovaya-negazirovannaya-373/"
+    "link": "https://vkusvill.ru/goods/voda-mineralnaya-legenda-gor-arkhyz-48589/"
+  },
+  "104067": {
+    "name": "Шарики \"Пикантные\" с творожным сыром",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shariki-pikantnye-s-tvorozhnym-syrom-104067/"
+  },
+  "122695": {
+    "name": "Напиток травяной с грушей и черной смородиной витаминизированный, 330 мл",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-travyanoy-s-grushey-i-chernoy-smorodinoy-vitaminizirovannyy-122695/"
   }
 }
