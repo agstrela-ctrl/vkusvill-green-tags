@@ -97,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
   },
-  "65513": {
-    "name": "Биточки из мяса индейки",
-    "price": "215",
-    "old_price": "358",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
-  },
   "120529": {
     "name": "Гнезда из свинины и говядины с грибами и сыром",
     "price": "221",
@@ -124,6 +117,13 @@
     "old_price": "408",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-110062/"
+  },
+  "65513": {
+    "name": "Биточки из мяса индейки",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
   },
   "113869": {
     "name": "Шпинат крупнолистовой, 100 г",
