@@ -1,9 +1,65 @@
 {
-  "21621": {
-    "name": "Апельсины крупные",
-    "price": "156",
-    "old_price": "260",
+  "24513": {
+    "name": "Бефстроганов из говядины с картофельным пюре",
+    "price": "204",
+    "old_price": "340",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/apelsiny-krupnye-21621/"
+    "link": "https://vkusvill.ru/goods/befstroganov-iz-govyadiny-s-kartofelnym-pyure-24513/"
+  },
+  "21005": {
+    "name": "Перец красный сладкий",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005/"
+  },
+  "22680": {
+    "name": "Томаты розовые Краснодар",
+    "price": "201",
+    "old_price": "335",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-rozovye-krasnodar-22680/"
+  },
+  "96402": {
+    "name": "Перец сладкий грунтовой",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
+  },
+  "1334": {
+    "name": "Салат Рукола, 50 г",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-rukola-1334/"
+  },
+  "120236": {
+    "name": "Вода питьевая \"ТБАУ. ДЕТСКАЯ\", 330 мл",
+    "price": "25",
+    "old_price": "41",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-tbau-detskaya-120236/"
+  },
+  "64258": {
+    "name": "Сок томатный прямого отжима с солью, 1 л",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sok-tomatnyy-pryamogo-otzhima-s-solyu-64258/"
+  },
+  "23167": {
+    "name": "Базилик зеленый в горшочке",
+    "price": "93",
+    "old_price": "155",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bazilik-zelenyy-v-gorshochke-23167/"
+  },
+  "123617": {
+    "name": "Сыр \"Буррата\" безлактозная, 100г",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syr-burrata-bezlaktoznaya-123617/"
   }
 }
