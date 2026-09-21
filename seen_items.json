@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-bez-kozhi-93666/"
   },
-  "39295": {
-    "name": "Творог \"Пластовой\" 5%, 350 г",
-    "price": "142",
-    "old_price": "237",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-5-39295/"
-  },
   "119435": {
     "name": "Лапша удон с кальмарами, креветками и овощами",
     "price": "233",
@@ -48,47 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-seld-pod-shuboy-58080/"
   },
-  "98731": {
-    "name": "Арбуз сердцевина, 300 г",
-    "price": "213",
-    "old_price": "355",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
   "77153": {
     "name": "Свекольник на кефире",
     "price": "119",
     "old_price": "198",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
-  },
-  "61936": {
-    "name": "Фарш из мяса курицы, индейки и кролика",
-    "price": "305",
-    "old_price": "509",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
-  },
-  "34511": {
-    "name": "Пенне с грибами и овощами",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
-  },
-  "79208": {
-    "name": "Салат из свеклы с черносливом и грецкими орехами",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-svekly-s-chernoslivom-i-gretskimi-orekhami-79208/"
-  },
-  "63774": {
-    "name": "Минтай жареный филе, 200 г",
-    "price": "211",
-    "old_price": "352",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mintay-zharenyy-file-63774/"
   },
   "83606": {
     "name": "Ананас очищенный, 500 г",
@@ -124,13 +82,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-apelsinovoy-myakotyu-i-tsukatami-118668/"
-  },
-  "103988": {
-    "name": "Кета холодного копчения ломтики, 100 г",
-    "price": "171",
-    "old_price": "285",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keta-kholodnogo-kopcheniya-lomtiki-103988/"
   },
   "113634": {
     "name": "Корейка на кости из мраморной свинины",
@@ -188,13 +139,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lapsha-iz-batata-s-govyadinoy-i-ovoshchami-119946/"
   },
-  "46784": {
-    "name": "Йогурт питьевой с финиками без доб. сахара 2,5%",
-    "price": "61",
-    "old_price": "102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-finikami-bez-dob-sakhara-2-46784/"
-  },
   "125013": {
     "name": "Эклеры \"Я люблю лето\" манго-маракуйя, малина, ваниль",
     "price": "195",
@@ -215,13 +159,6 @@
     "old_price": "358",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
-  },
-  "60605": {
-    "name": "Пирожное \"Картошка\" веган, 80 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-kartoshka-vegan-60605/"
   },
   "120529": {
     "name": "Гнезда из свинины и говядины с грибами и сыром",
@@ -244,25 +181,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okroshka-s-govyadinoy-110062/"
   },
-  "125030": {
-    "name": "Пирожное бисквитно-йогуртов. \"Манго-маракуйя\", 2 шт.",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-biskvitno-yogurtov-mango-marakuyya-125030/"
-  },
   "113869": {
     "name": "Шпинат крупнолистовой, 100 г",
     "price": "105",
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
-  },
-  "55577": {
-    "name": "Фарш из свинины и говядины Ближние Горки по-домашнему охлажденный 400 г",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-svininy-i-govyadiny-blizhnie-gorki-po-domashnemu-okhlazhdennyy-400-g-55577/"
   }
 }
