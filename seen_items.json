@@ -1,4 +1,32 @@
 {
+  "52": {
+    "name": "Сметана 25%, 350 г",
+    "price": "104",
+    "old_price": "173",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/smetana-25-52/"
+  },
+  "23956": {
+    "name": "Салат Ромэн в горшочке",
+    "price": "78",
+    "old_price": "130",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-romen-v-gorshochke-23956/"
+  },
+  "298": {
+    "name": "Бифилайф детский \"Черника\" 2,5%",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bifilayf-detskiy-chernika-2-298/"
+  },
+  "122910": {
+    "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/fruktovyy-miks-ananas-122910/"
+  },
   "122741": {
     "name": "Стик солнцезащитный SPF 50+",
     "price": "125",
