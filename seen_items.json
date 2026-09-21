@@ -1,9 +1,37 @@
 {
-  "122741": {
-    "name": "Стик солнцезащитный SPF 50+",
-    "price": "125",
-    "old_price": "208",
+  "39295": {
+    "name": "Творог \"Пластовой\" 5%, 350 г",
+    "price": "142",
+    "old_price": "237",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/stik-solntsezashchitnyy-spf-50-122741/"
+    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-5-39295/"
+  },
+  "46784": {
+    "name": "Йогурт питьевой с финиками без доб. сахара 2,5%",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-finikami-bez-dob-sakhara-2-46784/"
+  },
+  "41146": {
+    "name": "Сливки 10%, 200 г",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/slivki-10-41146/"
+  },
+  "116704": {
+    "name": "Сыр \"Буррата копченая\", 100 г",
+    "price": "177",
+    "old_price": "295",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syr-burrata-kopchenaya-116704/"
+  },
+  "71935": {
+    "name": "Йогурт питьевой \"Красная смородина\" без доб. сахара 2,5%",
+    "price": "55",
+    "old_price": "92",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-krasnaya-smorodina-bez-dob-sakhara-2-71935/"
   }
 }
