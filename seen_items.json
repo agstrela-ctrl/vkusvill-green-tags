@@ -1,23 +1,16 @@
 {
-  "48589": {
-    "name": "Вода минеральная \"Легенда гор Архыз\", негаз., 5 л",
-    "price": "87",
-    "old_price": "145",
+  "96402": {
+    "name": "Перец сладкий грунтовой",
+    "price": "89",
+    "old_price": "148",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-mineralnaya-legenda-gor-arkhyz-48589/"
+    "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
   },
-  "43031": {
-    "name": "Кукуруза в зернах без доб. сахара",
-    "price": "100",
-    "old_price": "166",
+  "15817": {
+    "name": "Яблоко Слава победителям",
+    "price": "126",
+    "old_price": "210",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kukuruza-v-zernakh-bez-dob-sakhara-43031/"
-  },
-  "122695": {
-    "name": "Напиток травяной с грушей и черной смородиной витаминизированный, 330 мл",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-travyanoy-s-grushey-i-chernoy-smorodinoy-vitaminizirovannyy-122695/"
+    "link": "https://vkusvill.ru/goods/yabloko-slava-pobeditelyam-15817/"
   }
 }
