@@ -1,44 +1,16 @@
 {
-  "112645": {
-    "name": "Арбуз сердцевина, 1000 г",
-    "price": "414",
-    "old_price": "690",
+  "605": {
+    "name": "Лук репчатый",
+    "price": "35",
+    "old_price": "58",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-112645/"
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
-  "77153": {
-    "name": "Свекольник на кефире",
-    "price": "119",
-    "old_price": "198",
+  "15489": {
+    "name": "Яблоко молодое Женева",
+    "price": "135",
+    "old_price": "225",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
-  },
-  "119541": {
-    "name": "Ароматный цыпленок-бройлер с овощами и стручковой фасолью",
-    "price": "305",
-    "old_price": "508",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/aromatnyy-tsyplenok-broyler-s-ovoshchami-i-struchkovoy-fasolyu-119541/"
-  },
-  "113057": {
-    "name": "Дыня резаная полукольца, 300 г",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dynya-rezanaya-polukoltsa-113057/"
-  },
-  "113634": {
-    "name": "Корейка на кости из мраморной свинины",
-    "price": "263",
-    "old_price": "438",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
-  },
-  "113709": {
-    "name": "Чак-Чак на топленом масле с соленым миндалем",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chak-chak-na-toplenom-masle-s-solenym-mindalem-113709/"
+    "link": "https://vkusvill.ru/goods/yabloko-molodoe-zheneva-15489/"
   }
 }
