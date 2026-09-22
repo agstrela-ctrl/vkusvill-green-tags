@@ -1,11 +1,4 @@
 {
-  "119435": {
-    "name": "Лапша удон с кальмарами, креветками и овощами",
-    "price": "233",
-    "old_price": "388",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-udon-s-kalmarami-119435/"
-  },
   "77153": {
     "name": "Свекольник на кефире",
     "price": "119",
@@ -55,26 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tefteli-iz-myasa-tsyplyat-broylerov-s-risom-114226/"
   },
-  "125013": {
-    "name": "Эклеры \"Я люблю лето\" манго-маракуйя, малина, ваниль",
-    "price": "195",
-    "old_price": "325",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-ya-lyublyu-leto-mango-marakuyya-125013/"
-  },
   "119124": {
     "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
     "price": "273",
     "old_price": "455",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
-  },
-  "120529": {
-    "name": "Гнезда из свинины и говядины с грибами и сыром",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gnezda-iz-svininy-i-govyadiny-s-gribami-i-syrom-120529/"
   },
   "123128": {
     "name": "Стейк капустный для микробиоты",
