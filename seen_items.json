@@ -1,52 +1,10 @@
 {
-  "21626": {
-    "name": "Фарш из цыпленка-бройлера \"Премиум\"",
-    "price": "193",
-    "old_price": "321",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-tsyplenka-broylera-premium-21626/"
-  },
-  "118284": {
-    "name": "Крем-суп картофельный с шампиньонами и трюфельным маслом",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-kartofelnyy-s-shampinonami-i-tryufelnym-maslom-118284/"
-  },
-  "62798": {
-    "name": "Фарш из говядины \"Постный по стандарту ВВ\", 360 г",
-    "price": "249",
-    "old_price": "415",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-postnyy-po-standartu-vv-62798/"
-  },
-  "58178": {
-    "name": "Крем-суп с тыквой и индейкой",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
-  },
-  "21159": {
-    "name": "Блины с начинкой \"Жюльен\"",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-nachinkoy-zhyulen-21159/"
-  },
   "122344": {
     "name": "Котлеты с гречкой для приготовления на пару",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-dlya-prigotovleniya-na-paru-122344/"
-  },
-  "37744": {
-    "name": "Сердце цыплят-бройлеров",
-    "price": "254",
-    "old_price": "424",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/serdtse-tsyplyat-broylerov-37744/"
   },
   "72271": {
     "name": "Вырезка говяжья охл",
@@ -55,61 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vyrezka-govyazhya-okhl-72271/"
   },
-  "14844": {
-    "name": "Котлеты \"Домашние\"",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-domashnie-14844/"
-  },
-  "67171": {
-    "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
-    "price": "229",
-    "old_price": "382",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
-  },
-  "93910": {
-    "name": "Сэндвич ролл с говядиной су-вид",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-govyadinoy-su-vid-93910/"
-  },
-  "88563": {
-    "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
-    "price": "166",
-    "old_price": "276",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
-  },
-  "107822": {
-    "name": "Брецель на сливочном масле с семечками",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
-  },
-  "92067": {
-    "name": "Капкейки с вишневой начинкой",
-    "price": "152",
-    "old_price": "254",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapkeyki-s-vishnevoy-nachinkoy-92067/"
-  },
   "124452": {
     "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
-  },
-  "98344": {
-    "name": "Торт \"Шоколадный микс\" (муссовый), 500 г",
-    "price": "494",
-    "old_price": "823",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-shokoladnyy-miks-mussovyy-98344/"
   },
   "124931": {
     "name": "Стейк Рамп в маринаде",
@@ -118,33 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-ramp-v-marinade-124931/"
   },
-  "83028": {
-    "name": "Бедро цыпленка-бройлера на зерновом откорме",
-    "price": "347",
-    "old_price": "578",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bedro-tsyplenka-broylera-na-zernovom-otkorme-83028/"
-  },
-  "119777": {
-    "name": "Йогурт питьевой \"Абрикос\" 1,8%",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-abrikos-1-119777/"
-  },
   "120563": {
     "name": "Десерт кокосовый питьевой с йогуртовой закваской \"Вишня\"",
     "price": "97",
     "old_price": "162",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-vishnya-120563/"
-  },
-  "125279": {
-    "name": "Салат зеленый с дайконом и кунжутным соусом",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-zelenyy-s-daykonom-i-kunzhutnym-sousom-125279/"
   },
   "118364": {
     "name": "Микс салатный \"Нежный\", 200 г",
