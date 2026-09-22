@@ -1,11 +1,4 @@
 {
-  "122344": {
-    "name": "Котлеты с гречкой для приготовления на пару",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-dlya-prigotovleniya-na-paru-122344/"
-  },
   "72271": {
     "name": "Вырезка говяжья охл",
     "price": "1974",
@@ -33,12 +26,5 @@
     "old_price": "162",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-vishnya-120563/"
-  },
-  "118364": {
-    "name": "Микс салатный \"Нежный\", 200 г",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
   }
 }
