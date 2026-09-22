@@ -1,72 +1,86 @@
 {
-  "77153": {
-    "name": "Свекольник на кефире",
-    "price": "119",
-    "old_price": "198",
+  "18361": {
+    "name": "Борщ \"Украинский\"",
+    "price": "134",
+    "old_price": "223",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
+    "link": "https://vkusvill.ru/goods/borshch-ukrainskiy-18361/"
   },
-  "63899": {
-    "name": "Котлеты из свинины и говядины, 300 г",
-    "price": "276",
-    "old_price": "460",
+  "126384": {
+    "name": "Сэндвич со шпротами, огурцом и яйцом",
+    "price": "191",
+    "old_price": "318",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-63899/"
+    "link": "https://vkusvill.ru/goods/sendvich-so-shprotami-126384/"
   },
-  "119541": {
-    "name": "Ароматный цыпленок-бройлер с овощами и стручковой фасолью",
-    "price": "305",
-    "old_price": "508",
+  "38977": {
+    "name": "Салат свекольный с грецким орехом",
+    "price": "120",
+    "old_price": "200",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/aromatnyy-tsyplenok-broyler-s-ovoshchami-i-struchkovoy-fasolyu-119541/"
+    "link": "https://vkusvill.ru/goods/salat-svekolnyy-s-gretskim-orekhom-38977/"
   },
-  "122780": {
-    "name": "Микс салатный \"Тулон\", 180г",
-    "price": "105",
-    "old_price": "175",
+  "117305": {
+    "name": "Боул \"Азиатский\" с говядиной, рисом и битыми огурцами",
+    "price": "245",
+    "old_price": "408",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-tulon-122780/"
+    "link": "https://vkusvill.ru/goods/boul-aziatskiy-s-govyadinoy-117305/"
   },
-  "98336": {
-    "name": "Окорочок утиный с соевым соусом и чесноком",
-    "price": "661",
-    "old_price": "1102",
+  "71215": {
+    "name": "Биточек куриный с капустой и картофельным пюре",
+    "price": "142",
+    "old_price": "236",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/okorochok-utinyy-s-soevym-sousom-i-chesnokom-98336/"
+    "link": "https://vkusvill.ru/goods/bitochek-kurinyy-s-kapustoy-i-kartofelnym-pyure-71215/"
   },
-  "118959": {
-    "name": "Салат-боул с креветкой, авокадо и кукурузой",
-    "price": "234",
-    "old_price": "390",
+  "124387": {
+    "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
+    "price": "701",
+    "old_price": "1168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
+    "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
   },
-  "73318": {
-    "name": "Котлеты рубленые говяжьи",
-    "price": "215",
-    "old_price": "359",
+  "113856": {
+    "name": "Салат из запеченной свеклы с сыром фета",
+    "price": "137",
+    "old_price": "229",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-rublenye-govyazhi-73318/"
+    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
   },
-  "121195": {
-    "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
+  "89186": {
+    "name": "Хлеб \"На кефире с сывороткой\", нарезка",
+    "price": "57",
+    "old_price": "95",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-na-kefire-s-syvorotkoy-89186/"
+  },
+  "98697": {
+    "name": "Шаурма с курицей и соусом \"Гриль\"",
     "price": "192",
     "old_price": "320",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-gril-98697/"
   },
-  "113634": {
-    "name": "Корейка на кости из мраморной свинины",
-    "price": "263",
-    "old_price": "438",
+  "105824": {
+    "name": "Суп \"Мисо-рамен\" с морепродуктами",
+    "price": "300",
+    "old_price": "500",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
+    "link": "https://vkusvill.ru/goods/sup-miso-ramen-s-moreproduktami-105824/"
   },
-  "113869": {
-    "name": "Шпинат крупнолистовой, 100 г",
-    "price": "105",
-    "old_price": "175",
+  "102723": {
+    "name": "Запеканка пастушья с тыквой и индейкой",
+    "price": "299",
+    "old_price": "498",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
+    "link": "https://vkusvill.ru/goods/zapekanka-pastushya-s-tykvoy-i-indeykoy-102723/"
+  },
+  "70454": {
+    "name": "Суп \"Рамен\" с индейкой",
+    "price": "227",
+    "old_price": "378",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-ramen-s-indeykoy-70454/"
   }
 }
