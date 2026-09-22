@@ -13,26 +13,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-112645/"
   },
+  "21096": {
+    "name": "Коржик молочный",
+    "price": "50",
+    "old_price": "83",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/korzhik-molochnyy-21096/"
+  },
   "77153": {
     "name": "Свекольник на кефире",
     "price": "119",
     "old_price": "198",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
-  },
-  "1768": {
-    "name": "Сырок творожный со сгущённым молоком 5%",
-    "price": "39",
-    "old_price": "65",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-so-sgushchyennym-molokom-5-1768/"
-  },
-  "124375": {
-    "name": "Клаб-сэндвич с курицей и творожным сыром",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-tvorozhnym-syrom-124375/"
   },
   "63899": {
     "name": "Котлеты из свинины и говядины, 300 г",
@@ -89,12 +82,5 @@
     "old_price": "438",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
-  },
-  "113869": {
-    "name": "Шпинат крупнолистовой, 100 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
   }
 }
