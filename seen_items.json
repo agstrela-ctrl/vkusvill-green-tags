@@ -1,58 +1,86 @@
 {
-  "96587": {
-    "name": "Салат винегрет, 180 г",
-    "price": "102",
-    "old_price": "170",
+  "112440": {
+    "name": "Паста Ризони с сырным соусом и курицей",
+    "price": "180",
+    "old_price": "300",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-96587/"
+    "link": "https://vkusvill.ru/goods/pasta-rizoni-s-syrnym-sousom-i-kuritsey-112440/"
   },
-  "77153": {
-    "name": "Свекольник на кефире",
-    "price": "119",
-    "old_price": "198",
+  "18361": {
+    "name": "Борщ \"Украинский\"",
+    "price": "134",
+    "old_price": "223",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
+    "link": "https://vkusvill.ru/goods/borshch-ukrainskiy-18361/"
   },
-  "63899": {
-    "name": "Котлеты из свинины и говядины, 300 г",
-    "price": "276",
-    "old_price": "460",
+  "114317": {
+    "name": "Сациви по-грузински",
+    "price": "179",
+    "old_price": "298",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-63899/"
+    "link": "https://vkusvill.ru/goods/satsivi-po-gruzinski-114317/"
   },
-  "122780": {
-    "name": "Микс салатный \"Тулон\", 180г",
-    "price": "105",
-    "old_price": "175",
+  "82232": {
+    "name": "Торт \"Белые ночи\" с сырным кремом, 1,1 кг",
+    "price": "684",
+    "old_price": "1140",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-tulon-122780/"
+    "link": "https://vkusvill.ru/goods/tort-belye-nochi-s-syrnym-kremom-82232/"
   },
-  "118959": {
-    "name": "Салат-боул с креветкой, авокадо и кукурузой",
-    "price": "234",
-    "old_price": "390",
+  "29906": {
+    "name": "Торт блинный шоколадный",
+    "price": "458",
+    "old_price": "764",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
+    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-29906/"
   },
-  "121195": {
-    "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
-    "price": "192",
-    "old_price": "320",
+  "126384": {
+    "name": "Сэндвич со шпротами, огурцом и яйцом",
+    "price": "191",
+    "old_price": "318",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
+    "link": "https://vkusvill.ru/goods/sendvich-so-shprotami-126384/"
   },
-  "113634": {
-    "name": "Корейка на кости из мраморной свинины",
-    "price": "263",
-    "old_price": "438",
+  "38977": {
+    "name": "Салат свекольный с грецким орехом",
+    "price": "120",
+    "old_price": "200",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
+    "link": "https://vkusvill.ru/goods/salat-svekolnyy-s-gretskim-orekhom-38977/"
   },
-  "113869": {
-    "name": "Шпинат крупнолистовой, 100 г",
-    "price": "105",
-    "old_price": "175",
+  "22920": {
+    "name": "Рулет фисташковый с малиной",
+    "price": "311",
+    "old_price": "518",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
+    "link": "https://vkusvill.ru/goods/rulet-fistashkovyy-s-malinoy-22920/"
+  },
+  "96649": {
+    "name": "Онигири с запеченным тунцом",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
+  },
+  "117305": {
+    "name": "Боул \"Азиатский\" с говядиной, рисом и битыми огурцами",
+    "price": "245",
+    "old_price": "408",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-aziatskiy-s-govyadinoy-117305/"
+  },
+  "71215": {
+    "name": "Биточек куриный с капустой и картофельным пюре",
+    "price": "142",
+    "old_price": "236",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochek-kurinyy-s-kapustoy-i-kartofelnym-pyure-71215/"
+  },
+  "124387": {
+    "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
+    "price": "701",
+    "old_price": "1168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
   }
 }
