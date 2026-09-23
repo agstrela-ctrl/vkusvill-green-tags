@@ -1,4 +1,18 @@
 {
+  "113083": {
+    "name": "Шаурма с курицей на гриле по-домашнему, кафе",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-na-grile-po-domashnemu-113083/"
+  },
+  "39249": {
+    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
+  },
   "109310": {
     "name": "Тушка перепела",
     "price": "720",
@@ -19,5 +33,26 @@
     "old_price": "883",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vareniki-s-mango-i-tvorozhnym-syrom-66265/"
+  },
+  "39250": {
+    "name": "Чиабатта с курицей, пармезаном и соусом цезарь, кафе",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39250/"
+  },
+  "123729": {
+    "name": "Чиабатта оливковая с ветчиной из индейки, омлетом и сырным соусом, кафе",
+    "price": "168",
+    "old_price": "280",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-olivkovaya-s-vetchinoy-iz-indeyki-123729/"
+  },
+  "122489": {
+    "name": "Чиабатта с куриной ветчиной и соусом \"Цезарь\", кафе",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinoy-vetchinoy-i-sousom-tsezar-122489/"
   }
 }
