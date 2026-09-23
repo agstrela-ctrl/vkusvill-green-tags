@@ -1,9 +1,51 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
+  "86566": {
+    "name": "Сельдь тихоокеан. филе без кожи соленая с петрушкой, 200 г",
+    "price": "135",
+    "old_price": "225",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
+    "link": "https://vkusvill.ru/goods/seld-tikhookean-file-bez-kozhi-solenaya-s-petrushkoy-86566/"
+  },
+  "119874": {
+    "name": "Икра минтая соленая в масле, 150 г",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ikra-mintaya-solenaya-v-masle-119874/"
+  },
+  "91647": {
+    "name": "Икра ястычная сельди подкопченная в масле, 180 г",
+    "price": "176",
+    "old_price": "294",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ikra-yastychnaya-seldi-podkopchennaya-v-masle-91647/"
+  },
+  "17718": {
+    "name": "Горбуша филе кусочки в масле, 180 г",
+    "price": "201",
+    "old_price": "335",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/gorbusha-file-kusochki-v-masle-17718/"
+  },
+  "115149": {
+    "name": "Сельдь атлантич. филе-кусочки в пряной заливке ст/б., 210 г",
+    "price": "142",
+    "old_price": "237",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/seld-atlantich-file-kusochki-v-pryanoy-zalivke-st-b-115149/"
+  },
+  "121184": {
+    "name": "\"Ассорти рыбное\" из сельди и горбуши холодного копчения, 90 г",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-rybnoe-iz-seldi-i-gorbushi-kholodnogo-kopcheniya-121184/"
+  },
+  "124945": {
+    "name": "Форель Форель Горная филе-кусок на коже охл., 300 г",
+    "price": "444",
+    "old_price": "740",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/forel-forel-gornaya-file-kusok-na-kozhe-okhl-124945/"
   }
 }
