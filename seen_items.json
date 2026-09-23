@@ -1,11 +1,4 @@
 {
-  "71190": {
-    "name": "Ролл \"Симфония классики\" с крабовыми палочками",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-krabovymi-palochkami-71190/"
-  },
   "32931": {
     "name": "Тартин пшенично-ржаной, половинка",
     "price": "50",
@@ -34,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-s-tsvetochkom-119570/"
   },
-  "69912": {
-    "name": "Микс салатный \"Цезарь\" 140 г",
-    "price": "96",
-    "old_price": "160",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
-  },
   "95811": {
     "name": "Сэндвич ролл с тигровыми креветками",
     "price": "168",
@@ -61,13 +47,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-baffalo-124466/"
-  },
-  "61936": {
-    "name": "Фарш из мяса курицы, индейки и кролика",
-    "price": "305",
-    "old_price": "509",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
   },
   "116225": {
     "name": "Киви красное сердце, 2 шт",
@@ -146,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gnezda-iz-tsyplenka-broylera-i-indeyki-po-italyanski-121009/"
   },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
   "23010": {
     "name": "Тимьян, 30 г",
     "price": "82",
@@ -202,20 +174,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-zhyulenom-iz-kuritsy-i-gribov-115004/"
   },
-  "79391": {
-    "name": "Сердце индейки, 500 г",
-    "price": "288",
-    "old_price": "480",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/serdtse-indeyki-79391/"
-  },
-  "100714": {
-    "name": "Лапша из батата в соусе терияки с куриным филе",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-v-souse-teriyaki-s-kurinym-file-100714/"
-  },
   "115089": {
     "name": "Шаурма с курицей и луком фри",
     "price": "179",
@@ -229,19 +187,5 @@
     "old_price": "370",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
-  },
-  "124452": {
-    "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
-  },
-  "94645": {
-    "name": "Свиная корейка гриль с бэби-картофелем с шашлычным соусом",
-    "price": "281",
-    "old_price": "468",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/svinaya-koreyka-gril-s-bebi-kartofelem-s-shashlychnym-sousom-94645/"
   }
 }
