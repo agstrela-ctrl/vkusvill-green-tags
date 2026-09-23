@@ -1,9 +1,16 @@
 {
-  "67859": {
-    "name": "Розы кустовые в горшочке",
-    "price": "270",
-    "old_price": "450",
+  "79663": {
+    "name": "Вода питьевая негазированная, 5 л",
+    "price": "70",
+    "old_price": "117",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/rozy-kustovye-v-gorshochke-67859/"
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
+  },
+  "33215": {
+    "name": "Вода минеральная \"Тарханская №3\" газированная, 1,5 л",
+    "price": "48",
+    "old_price": "80",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-mineralnaya-tarkhanskaya-3-gazirovannaya-33215/"
   }
 }
