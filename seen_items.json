@@ -1,9 +1,23 @@
 {
-  "88414": {
-    "name": "Торт блинный шоколадный, 1 кг",
-    "price": "747",
-    "old_price": "1245",
+  "24293": {
+    "name": "Фрикадельки мини из телятины",
+    "price": "298",
+    "old_price": "497",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-88414/"
+    "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
+  },
+  "109310": {
+    "name": "Тушка перепела",
+    "price": "720",
+    "old_price": "1200",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
+  },
+  "112643": {
+    "name": "Бедра цыплят-бройлеров в чесночном маринаде",
+    "price": "342",
+    "old_price": "570",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bedra-tsyplyat-broylerov-v-chesnochnom-marinade-112643/"
   }
 }
