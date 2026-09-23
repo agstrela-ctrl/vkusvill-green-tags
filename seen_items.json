@@ -1,9 +1,23 @@
 {
-  "72271": {
-    "name": "Вырезка говяжья охл",
-    "price": "1974",
-    "old_price": "3290",
+  "88414": {
+    "name": "Торт блинный шоколадный, 1 кг",
+    "price": "747",
+    "old_price": "1245",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/vyrezka-govyazhya-okhl-72271/"
+    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-88414/"
+  },
+  "117903": {
+    "name": "Блины с яблоком, маскарпоне и карамелью",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-yablokom-117903/"
+  },
+  "125475": {
+    "name": "Биф-болл с бифштексом, сыром и овощами, 270 г",
+    "price": "209",
+    "old_price": "348",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bif-boll-s-bifshteksom-125475/"
   }
 }
