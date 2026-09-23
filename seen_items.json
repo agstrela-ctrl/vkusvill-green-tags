@@ -27,26 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-34100/"
   },
-  "124466": {
-    "name": "Сэндвич ролл с курицей \"Баффало\"",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-baffalo-124466/"
-  },
   "88563": {
     "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
     "price": "166",
     "old_price": "276",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
-  },
-  "123603": {
-    "name": "Колбаски \"Шашлычные\" (из мяса цыпленка-бройлера)",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-shashlychnye-iz-myasa-tsyplenka-broylera-123603/"
   },
   "37284": {
     "name": "Блины шоколадные с маскарпоне и вишней",
@@ -68,13 +54,6 @@
     "old_price": "137",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/timyan-23010/"
-  },
-  "90138": {
-    "name": "Морковь желтая (для плова) , 600 г",
-    "price": "77",
-    "old_price": "128",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-zheltaya-dlya-plova--90138/"
   },
   "119818": {
     "name": "Лепешка \"Тортилья\" с сыром",
