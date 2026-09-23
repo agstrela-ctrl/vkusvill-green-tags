@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
   },
-  "98697": {
-    "name": "Шаурма с курицей и соусом \"Гриль\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-gril-98697/"
-  },
   "112645": {
     "name": "Арбуз сердцевина, 1000 г",
     "price": "414",
@@ -27,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-s-tsvetochkom-119570/"
   },
-  "95811": {
-    "name": "Сэндвич ролл с тигровыми креветками",
-    "price": "168",
-    "old_price": "280",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-tigrovymi-krevetkami-95811/"
-  },
   "34100": {
     "name": "Грудка цыплят-бройлеров",
     "price": "312",
@@ -47,48 +33,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-baffalo-124466/"
-  },
-  "116225": {
-    "name": "Киви красное сердце, 2 шт",
-    "price": "112",
-    "old_price": "187",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kivi-krasnoe-serdtse-116225/"
-  },
-  "123897": {
-    "name": "Сэндвич \"ВкусМаффин\" с курицей",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-vkusmaffin-s-kuritsey-123897/"
-  },
-  "26305": {
-    "name": "Хлеб \"Романовский\", нарезка",
-    "price": "181",
-    "old_price": "302",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
-  },
-  "101871": {
-    "name": "Мини-чиабатта с курицей, пармезаном и соусом копченый Айоли",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kuritsey-101871/"
-  },
-  "104701": {
-    "name": "Закрытый омлет с ветчиной и сыром, кафе",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
-  },
-  "83595": {
-    "name": "Кесадилья с ветчиной из индейки и сыром",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-vetchinoy-iz-indeyki-i-syrom-83595/"
   },
   "88563": {
     "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
@@ -110,13 +54,6 @@
     "old_price": "260",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
-  },
-  "61707": {
-    "name": "Кексы-мини ванильно-сливочные",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-61707/"
   },
   "121009": {
     "name": "Гнезда из цыпленка-бройлера и индейки \"По-итальянски\"",
@@ -146,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
   },
-  "119506": {
-    "name": "Сэндвич-ролл с люля-кебабом из курицы",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-lyulya-kebabom-iz-kuritsy-119506/"
-  },
   "106756": {
     "name": "Хлеб \"Монж\", нарезка",
     "price": "77",
@@ -173,19 +103,5 @@
     "old_price": "288",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-zhyulenom-iz-kuritsy-i-gribov-115004/"
-  },
-  "115089": {
-    "name": "Шаурма с курицей и луком фри",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-lukom-fri-115089/"
-  },
-  "99925": {
-    "name": "Шаурма с креветкой, соусом тысяча островов и салатом Романо",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
   }
 }
