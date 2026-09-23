@@ -1,16 +1,9 @@
 {
-  "79663": {
-    "name": "Вода питьевая негазированная, 5 л",
-    "price": "70",
-    "old_price": "117",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
-  },
-  "33215": {
-    "name": "Вода минеральная \"Тарханская №3\" газированная, 1,5 л",
-    "price": "48",
-    "old_price": "80",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-mineralnaya-tarkhanskaya-3-gazirovannaya-33215/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
   }
 }
