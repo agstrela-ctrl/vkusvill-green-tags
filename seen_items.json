@@ -13,11 +13,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
   },
-  "112643": {
-    "name": "Бедра цыплят-бройлеров в чесночном маринаде",
-    "price": "342",
-    "old_price": "570",
+  "89637": {
+    "name": "Перец болгарский красный \"ВВ Отборное\", шт",
+    "price": "132",
+    "old_price": "220",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bedra-tsyplyat-broylerov-v-chesnochnom-marinade-112643/"
+    "link": "https://vkusvill.ru/goods/perets-bolgarskiy-krasnyy-vv-otbornoe-89637/"
+  },
+  "112601": {
+    "name": "Мармелад \"Апельсин и Вишня\", ассорти",
+    "price": "96",
+    "old_price": "160",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/marmelad-apelsin-i-vishnya-112601/"
+  },
+  "109645": {
+    "name": "Яйцо куриное Ешь хорошее С0 белое 10 шт",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-esh-khoroshee-s0-beloe-10-sht-109645/"
   }
 }
