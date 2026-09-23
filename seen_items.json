@@ -1,11 +1,4 @@
 {
-  "24293": {
-    "name": "Фрикадельки мини из телятины",
-    "price": "298",
-    "old_price": "497",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
-  },
   "109310": {
     "name": "Тушка перепела",
     "price": "720",
@@ -19,19 +12,5 @@
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-bolgarskiy-krasnyy-vv-otbornoe-89637/"
-  },
-  "112601": {
-    "name": "Мармелад \"Апельсин и Вишня\", ассорти",
-    "price": "96",
-    "old_price": "160",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/marmelad-apelsin-i-vishnya-112601/"
-  },
-  "109645": {
-    "name": "Яйцо куриное Ешь хорошее С0 белое 10 шт",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-esh-khoroshee-s0-beloe-10-sht-109645/"
   }
 }
