@@ -1,16 +1,86 @@
 {
-  "106756": {
-    "name": "Хлеб \"Монж\", нарезка",
-    "price": "77",
-    "old_price": "128",
+  "114317": {
+    "name": "Сациви по-грузински",
+    "price": "179",
+    "old_price": "298",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
+    "link": "https://vkusvill.ru/goods/satsivi-po-gruzinski-114317/"
   },
-  "121599": {
-    "name": "Булочки для хот-дога, 3 шт",
-    "price": "58",
-    "old_price": "96",
+  "121878": {
+    "name": "Торт профитролевый \"Черный лес\"",
+    "price": "358",
+    "old_price": "597",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-dlya-khot-doga-121599/"
+    "link": "https://vkusvill.ru/goods/tort-profitrolevyy-chernyy-les-121878/"
+  },
+  "484": {
+    "name": "Тушка цыпленка-бройлера, охлажденная",
+    "price": "176",
+    "old_price": "294",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-484/"
+  },
+  "58728": {
+    "name": "Хлеб цельнозерновой с отрубями",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+  },
+  "32931": {
+    "name": "Тартин пшенично-ржаной, половинка",
+    "price": "50",
+    "old_price": "84",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
+  },
+  "125038": {
+    "name": "Шримп-ролл с креветками и соусом Амай Терияки",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shrimp-roll-s-krevetkami-i-sousom-amay-teriyaki-125038/"
+  },
+  "115539": {
+    "name": "Торт \"Рикейк\" с черносливом и грецким орехом",
+    "price": "581",
+    "old_price": "968",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-rikeyk-s-chernoslivom-i-gretskim-orekhom-115539/"
+  },
+  "105824": {
+    "name": "Суп \"Мисо-рамен\" с морепродуктами",
+    "price": "300",
+    "old_price": "500",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-miso-ramen-s-moreproduktami-105824/"
+  },
+  "117305": {
+    "name": "Боул \"Азиатский\" с говядиной, рисом и битыми огурцами",
+    "price": "245",
+    "old_price": "408",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-aziatskiy-s-govyadinoy-117305/"
+  },
+  "102350": {
+    "name": "Торт \"Бонфуа\" с клубникой и крем-чиз",
+    "price": "659",
+    "old_price": "1098",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-bonfua-s-klubnikoy-i-krem-chiz-102350/"
+  },
+  "112775": {
+    "name": "Изделие х/б \"Зерновой\" с куркумой",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
+  },
+  "125662": {
+    "name": "Булочка сдобная с вишней",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochka-sdobnaya-s-vishney-125662/"
   }
 }
