@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
   },
-  "92210": {
-    "name": "Шницель из мяса цыплят-бройлеров в кукурузной панировке",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-iz-myasa-tsyplyat-broylerov-v-kukuruznoy-panirovke-92210/"
-  },
   "113574": {
     "name": "Батон \"Сдобный\" на сливочном масле",
     "price": "47",
@@ -97,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-file-grudki-indeyki-s-olivkovym-maslom-109072/"
   },
-  "61707": {
-    "name": "Кексы-мини ванильно-сливочные",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-61707/"
-  },
   "74914": {
     "name": "Шашлык из мяса бедра цыпленка-бройлера \"По-деревенски\"",
     "price": "503",
@@ -180,12 +166,5 @@
     "old_price": "187",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
-  },
-  "121745": {
-    "name": "Колбаски из курицы и индейки \"Трюфельные\" для жарки",
-    "price": "233",
-    "old_price": "388",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-iz-kuritsy-i-indeyki-tryufelnye-dlya-zharki-121745/"
   }
 }
