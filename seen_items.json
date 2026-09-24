@@ -76,19 +76,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-kuritsey-124723/"
   },
-  "66863": {
-    "name": "Сосиски \"Из курицы и индейки с сыром\"",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-i-indeyki-s-syrom-66863/"
-  },
   "123524": {
     "name": "Клаб-сэндвич с салатом из нерки",
     "price": "209",
     "old_price": "348",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klab-sendvich-s-salatom-iz-nerki-123524/"
+  },
+  "66863": {
+    "name": "Сосиски \"Из курицы и индейки с сыром\"",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-i-indeyki-s-syrom-66863/"
   },
   "120538": {
     "name": "Колбаски куриные для жарки с лисичками",
@@ -110,12 +110,5 @@
     "old_price": "219",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-aromatnaya-egorevskaya-fkg-100-g-124054/"
-  },
-  "88800": {
-    "name": "Тофу с белыми грибами, 250 г",
-    "price": "112",
-    "old_price": "187",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
   }
 }
