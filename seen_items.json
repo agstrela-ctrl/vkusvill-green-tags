@@ -27,13 +27,6 @@
     "discount": "41",
     "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
   },
-  "67713": {
-    "name": "Хлеб \"Тостовый\" нарезка, 250 г",
-    "price": "62",
-    "old_price": "104",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tostovyy-narezka-67713/"
-  },
   "115622": {
     "name": "Батон \"Молочный\" на опаре и закваске, нарезка",
     "price": "44",
@@ -47,13 +40,6 @@
     "old_price": "58",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
-  },
-  "80397": {
-    "name": "Кабачки фаршированные мясом и рисом",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kabachki-farshirovannye-myasom-i-risom-80397/"
   },
   "106756": {
     "name": "Хлеб \"Монж\", нарезка",
@@ -103,13 +89,6 @@
     "old_price": "387",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-varenaya-velkom-telyachya-400-g-109764/"
-  },
-  "120064": {
-    "name": "Курица с зеленым рисом карри",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-zelenym-risom-karri-120064/"
   },
   "109072": {
     "name": "Шашлык из филе грудки индейки с оливковым маслом",
@@ -167,13 +146,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaski-kurinye-dlya-zharki-s-lisichkami-120538/"
   },
-  "124524": {
-    "name": "Лаваш с начинкой \"Картофель и сыр\"",
-    "price": "122",
-    "old_price": "203",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lavash-s-nachinkoy-kartofel-i-syr-124524/"
-  },
   "121939": {
     "name": "Сэндвич ролл с курицей и фасолью",
     "price": "173",
@@ -194,6 +166,13 @@
     "old_price": "219",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-aromatnaya-egorevskaya-fkg-100-g-124054/"
+  },
+  "120064": {
+    "name": "Курица с зеленым рисом карри",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-s-zelenym-risom-karri-120064/"
   },
   "88800": {
     "name": "Тофу с белыми грибами, 250 г",
