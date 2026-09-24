@@ -12,5 +12,47 @@
     "old_price": "360",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005/"
+  },
+  "62618": {
+    "name": "Пастила с черной смородиной (без добавления сахара), ВЕС",
+    "price": "1036",
+    "old_price": "1726",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pastila-s-chernoy-smorodinoy-bez-dobavleniya-sakhara-62618/"
+  },
+  "122234": {
+    "name": "Пряник имбирный \"Преданное сердце\" на палочке, 1 шт.",
+    "price": "127",
+    "old_price": "212",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pryanik-imbirnyy-predannoe-serdtse-na-palochke-122234/"
+  },
+  "76265": {
+    "name": "Карамель \"Зверюшки\" на палочке, 1 шт",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/karamel-zveryushki-na-palochke-76265/"
+  },
+  "81029": {
+    "name": "Шоколад ассорти \"Палитра вкусов\"",
+    "price": "233",
+    "old_price": "388",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shokolad-assorti-palitra-vkusov-81029/"
+  },
+  "99413": {
+    "name": "Фундук обжаренный в сахаре с клубникой",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/funduk-obzharennyy-v-sakhare-s-klubnikoy-99413/"
+  },
+  "50130": {
+    "name": "Конфеты в коробке Merci Ассорти 250 г",
+    "price": "431",
+    "old_price": "718",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konfety-v-korobke-merci-assorti-250-g-50130/"
   }
 }
