@@ -20,12 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-484/"
   },
-  "58728": {
-    "name": "Хлеб цельнозерновой с отрубями",
-    "price": "180",
-    "old_price": "300",
+  "29906": {
+    "name": "Торт блинный шоколадный",
+    "price": "458",
+    "old_price": "764",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-29906/"
   },
   "32931": {
     "name": "Тартин пшенично-ржаной, половинка",
@@ -55,6 +55,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-miso-ramen-s-moreproduktami-105824/"
   },
+  "15275": {
+    "name": "Заливное из индейки",
+    "price": "191",
+    "old_price": "319",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zalivnoe-iz-indeyki-15275/"
+  },
+  "105024": {
+    "name": "Люля-кебаб из курицы, жареный",
+    "price": "238",
+    "old_price": "397",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lyulya-kebab-iz-kuritsy-105024/"
+  },
   "117305": {
     "name": "Боул \"Азиатский\" с говядиной, рисом и битыми огурцами",
     "price": "245",
@@ -68,19 +82,5 @@
     "old_price": "1098",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-bonfua-s-klubnikoy-i-krem-chiz-102350/"
-  },
-  "112775": {
-    "name": "Изделие х/б \"Зерновой\" с куркумой",
-    "price": "61",
-    "old_price": "102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
-  },
-  "125662": {
-    "name": "Булочка сдобная с вишней",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-sdobnaya-s-vishney-125662/"
   }
 }
