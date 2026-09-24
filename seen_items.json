@@ -1,9 +1,37 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
+  "26958": {
+    "name": "Персик Крым",
+    "price": "234",
+    "old_price": "390",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
+    "link": "https://vkusvill.ru/goods/persik-krym-26958/"
+  },
+  "22564": {
+    "name": "Томаты Махитос",
+    "price": "177",
+    "old_price": "295",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-makhitos-22564/"
+  },
+  "26944": {
+    "name": "Томаты сливка грунтовая",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-slivka-gruntovaya-26944/"
+  },
+  "602": {
+    "name": "Капуста белокочанная",
+    "price": "29",
+    "old_price": "48",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-602/"
+  },
+  "96402": {
+    "name": "Перец сладкий грунтовой",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
   }
 }
