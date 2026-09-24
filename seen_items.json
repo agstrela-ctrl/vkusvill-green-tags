@@ -1,11 +1,4 @@
 {
-  "26958": {
-    "name": "Персик Крым",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/persik-krym-26958/"
-  },
   "22564": {
     "name": "Томаты Махитос",
     "price": "177",
@@ -19,12 +12,5 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tomaty-slivka-gruntovaya-26944/"
-  },
-  "96402": {
-    "name": "Перец сладкий грунтовой",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-sladkiy-gruntovoy-96402/"
   }
 }
