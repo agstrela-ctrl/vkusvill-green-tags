@@ -1,16 +1,9 @@
 {
-  "93904": {
-    "name": "Печенье \"Бархатное\"",
-    "price": "173",
-    "old_price": "288",
+  "91179": {
+    "name": "Панини с курицей-гриль, моцареллой и огуречным релишем, кафе",
+    "price": "161",
+    "old_price": "268",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-barkhatnoe-93904/"
-  },
-  "116836": {
-    "name": "Конфеты суфле манго-маракуйя в белом шоколаде",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konfety-sufle-mango-marakuyya-v-belom-shokolade-116836/"
+    "link": "https://vkusvill.ru/goods/panini-s-kuritsey-gril-91179/"
   }
 }
