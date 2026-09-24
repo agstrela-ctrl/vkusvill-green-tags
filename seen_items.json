@@ -1,11 +1,4 @@
 {
-  "32931": {
-    "name": "Тартин пшенично-ржаной, половинка",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
-  },
   "106756": {
     "name": "Хлеб \"Монж\", нарезка",
     "price": "77",
@@ -19,12 +12,5 @@
     "old_price": "96",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-dlya-khot-doga-121599/"
-  },
-  "72200": {
-    "name": "Курабье с апельсином, 140 г (веган)",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurabe-s-apelsinom-72200/"
   }
 }
