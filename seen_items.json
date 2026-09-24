@@ -1,86 +1,30 @@
 {
-  "114317": {
-    "name": "Сациви по-грузински",
-    "price": "179",
-    "old_price": "298",
+  "106756": {
+    "name": "Хлеб \"Монж\", нарезка",
+    "price": "77",
+    "old_price": "128",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/satsivi-po-gruzinski-114317/"
+    "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
   },
-  "121878": {
-    "name": "Торт профитролевый \"Черный лес\"",
-    "price": "358",
-    "old_price": "597",
+  "93904": {
+    "name": "Печенье \"Бархатное\"",
+    "price": "173",
+    "old_price": "288",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-profitrolevyy-chernyy-les-121878/"
+    "link": "https://vkusvill.ru/goods/pechene-barkhatnoe-93904/"
   },
-  "484": {
-    "name": "Тушка цыпленка-бройлера, охлажденная",
-    "price": "176",
-    "old_price": "294",
+  "108239": {
+    "name": "Шоколад Ritter Sport DUO Особый Соленая карамель Шоколадный брауни 218 г",
+    "price": "376",
+    "old_price": "627",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-484/"
+    "link": "https://vkusvill.ru/goods/shokolad-ritter-sport-duo-osobyy-solenaya-karamel-shokoladnyy-brauni-218-g-108239/"
   },
-  "29906": {
-    "name": "Торт блинный шоколадный",
-    "price": "458",
-    "old_price": "764",
+  "116836": {
+    "name": "Конфеты суфле манго-маракуйя в белом шоколаде",
+    "price": "186",
+    "old_price": "310",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-29906/"
-  },
-  "32931": {
-    "name": "Тартин пшенично-ржаной, половинка",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
-  },
-  "125038": {
-    "name": "Шримп-ролл с креветками и соусом Амай Терияки",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shrimp-roll-s-krevetkami-i-sousom-amay-teriyaki-125038/"
-  },
-  "115539": {
-    "name": "Торт \"Рикейк\" с черносливом и грецким орехом",
-    "price": "581",
-    "old_price": "968",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-rikeyk-s-chernoslivom-i-gretskim-orekhom-115539/"
-  },
-  "105824": {
-    "name": "Суп \"Мисо-рамен\" с морепродуктами",
-    "price": "300",
-    "old_price": "500",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-miso-ramen-s-moreproduktami-105824/"
-  },
-  "15275": {
-    "name": "Заливное из индейки",
-    "price": "191",
-    "old_price": "319",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zalivnoe-iz-indeyki-15275/"
-  },
-  "105024": {
-    "name": "Люля-кебаб из курицы, жареный",
-    "price": "238",
-    "old_price": "397",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lyulya-kebab-iz-kuritsy-105024/"
-  },
-  "117305": {
-    "name": "Боул \"Азиатский\" с говядиной, рисом и битыми огурцами",
-    "price": "245",
-    "old_price": "408",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-aziatskiy-s-govyadinoy-117305/"
-  },
-  "102350": {
-    "name": "Торт \"Бонфуа\" с клубникой и крем-чиз",
-    "price": "659",
-    "old_price": "1098",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-bonfua-s-klubnikoy-i-krem-chiz-102350/"
+    "link": "https://vkusvill.ru/goods/konfety-sufle-mango-marakuyya-v-belom-shokolade-116836/"
   }
 }
