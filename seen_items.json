@@ -1,9 +1,16 @@
 {
-  "26944": {
-    "name": "Томаты сливка грунтовая",
-    "price": "66",
-    "old_price": "110",
+  "22911": {
+    "name": "Слива Краснодар",
+    "price": "90",
+    "old_price": "150",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-slivka-gruntovaya-26944/"
+    "link": "https://vkusvill.ru/goods/sliva-krasnodar-22911/"
+  },
+  "21005": {
+    "name": "Перец красный сладкий",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-krasnyy-sladkiy-21005/"
   }
 }
