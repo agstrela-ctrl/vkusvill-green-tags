@@ -20,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-s-tsvetochkom-119570/"
   },
+  "76466": {
+    "name": "Кейс-торт \"Наполеон молочный\"",
+    "price": "224",
+    "old_price": "374",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keys-tort-napoleon-molochnyy-76466/"
+  },
   "121599": {
     "name": "Булочки для хот-дога, 3 шт",
     "price": "58",
@@ -34,12 +41,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
   },
+  "121195": {
+    "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
+  },
   "106756": {
     "name": "Хлеб \"Монж\", нарезка",
     "price": "77",
     "old_price": "128",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
+  },
+  "68839": {
+    "name": "Конвертики с творогом и зеленью",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konvertiki-s-tvorogom-i-zelenyu-68839/"
   },
   "115004": {
     "name": "Чиабатта с жюльеном из курицы и грибов",
