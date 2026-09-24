@@ -1,9 +1,16 @@
 {
-  "58844": {
-    "name": "Пирожное \"Канелли\"",
-    "price": "130",
-    "old_price": "216",
+  "124400": {
+    "name": "Ассорти макарон \"Мохито, Кр. смородина/Чили, Ананас/Кокос\"",
+    "price": "169",
+    "old_price": "282",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-kanelli-58844/"
+    "link": "https://vkusvill.ru/goods/assorti-makaron-mokhito-124400/"
+  },
+  "109892": {
+    "name": "Пирожное \"НеМедовик\" с малиной, веган",
+    "price": "110",
+    "old_price": "184",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-s-malinoy-109892/"
   }
 }
