@@ -1,4 +1,235 @@
 {
+  "95582": {
+    "name": "Мини-чиабатта с куриной ветчиной, омлетом и сыром (2 шт)",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
+  },
+  "102082": {
+    "name": "Омлет с томатами и моцареллой",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/omlet-s-tomatami-i-motsarelloy-102082/"
+  },
+  "93666": {
+    "name": "Грудка цыплят-бройлеров без кожи",
+    "price": "328",
+    "old_price": "547",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-bez-kozhi-93666/"
+  },
+  "22664": {
+    "name": "Сэндвич ролл с горбушей и яйцом",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
+  },
+  "53516": {
+    "name": "Курица в сливочном соусе с гречкой",
+    "price": "178",
+    "old_price": "296",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
+  },
+  "22459": {
+    "name": "Хлебцы \"Зерновые\"",
+    "price": "85",
+    "old_price": "141",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khlebtsy-zernovye-22459/"
+  },
+  "69185": {
+    "name": "Микс укроп, петрушка, 50 г",
+    "price": "58",
+    "old_price": "96",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-ukrop-69185/"
+  },
+  "29587": {
+    "name": "Котлеты из цыпленка-бройлера со сливочным маслом и укропом",
+    "price": "292",
+    "old_price": "486",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-so-slivochnym-maslom-i-ukropom-29587/"
+  },
+  "105477": {
+    "name": "Набор пирожных \"Суфле, Медовик, Эклер\"",
+    "price": "164",
+    "old_price": "273",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/nabor-pirozhnykh-sufle-105477/"
+  },
+  "106904": {
+    "name": "Макароны с тушёной говядиной",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
+  },
+  "62414": {
+    "name": "Котлеты куриные",
+    "price": "252",
+    "old_price": "420",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-kurinye-62414/"
+  },
+  "24132": {
+    "name": "Блины с вишней",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-vishney-24132/"
+  },
+  "72271": {
+    "name": "Вырезка говяжья охл",
+    "price": "1974",
+    "old_price": "3290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vyrezka-govyazhya-okhl-72271/"
+  },
+  "44310": {
+    "name": "Морковь резаная \"Сочная морковь\"",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+  },
+  "122909": {
+    "name": "Ленивые голубцы из свинины и говядины, 400г",
+    "price": "206",
+    "old_price": "344",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lenivye-golubtsy-iz-svininy-i-govyadiny-122909/"
+  },
+  "73020": {
+    "name": "Стейк Филе Миньон из говядины",
+    "price": "684",
+    "old_price": "1140",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-file-minon-iz-govyadiny-73020/"
+  },
+  "44582": {
+    "name": "Пирожки с капустой и яйцом, 140 г (2 шт)",
+    "price": "109",
+    "old_price": "182",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-s-kapustoy-i-yaytsom-44582/"
+  },
+  "93910": {
+    "name": "Сэндвич ролл с говядиной су-вид",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-govyadinoy-su-vid-93910/"
+  },
+  "80397": {
+    "name": "Кабачки фаршированные мясом и рисом",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kabachki-farshirovannye-myasom-i-risom-80397/"
+  },
+  "78481": {
+    "name": "Чиабатта с куриным филе и соусом \"Песто\"",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
+  },
+  "288": {
+    "name": "Молоко козье 2,8-4%",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-koze-2-288/"
+  },
+  "62324": {
+    "name": "Стейк мачете в устрично-луковом маринаде",
+    "price": "272",
+    "old_price": "453",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-machete-v-ustrichno-lukovom-marinade-62324/"
+  },
+  "118668": {
+    "name": "Кекс с апельсиновой мякотью и цукатами",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-s-apelsinovoy-myakotyu-i-tsukatami-118668/"
+  },
+  "118094": {
+    "name": "Оладьи из кабачков",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/oladi-iz-kabachkov-118094/"
+  },
+  "110785": {
+    "name": "Наринэ напиток кисломолочный 3,5%, 450 мл",
+    "price": "86",
+    "old_price": "144",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/narine-napitok-kislomolochnyy-3-110785/"
+  },
+  "23954": {
+    "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
+    "price": "156",
+    "old_price": "260",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
+  },
+  "86772": {
+    "name": "Творог безлактозный 5%, 350 г",
+    "price": "136",
+    "old_price": "227",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-bezlaktoznyy-5-86772/"
+  },
+  "18825": {
+    "name": "Торт \"Маракуйя\"",
+    "price": "383",
+    "old_price": "638",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-marakuyya-18825/"
+  },
+  "125193": {
+    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
+    "price": "401",
+    "old_price": "668",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
+  },
+  "125132": {
+    "name": "Рулетики из цукини с творожным сыром и базиликом",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsukini-s-tvorozhnym-syrom-i-bazilikom-125132/"
+  },
+  "77531": {
+    "name": "Филе форели на пару с овощами",
+    "price": "270",
+    "old_price": "450",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-foreli-na-paru-s-ovoshchami-77531/"
+  },
+  "63414": {
+    "name": "\"Кебаб\" из мраморной говядины, 400 г",
+    "price": "359",
+    "old_price": "598",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kebab-iz-mramornoy-govyadiny-63414/"
+  },
+  "78933": {
+    "name": "Котлетки из грудки цыпленка-бройлера с маслом",
+    "price": "299",
+    "old_price": "499",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
+  },
   "122129": {
     "name": "Сыр \"Пармезан\" стик, 29 г",
     "price": "64",
@@ -6,11 +237,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syr-parmezan-stik-122129/"
   },
-  "124695": {
-    "name": "Карбонад Знаменский ветчинный дом Скатертный нарезка 100 г",
-    "price": "137",
-    "old_price": "229",
+  "120554": {
+    "name": "Десерт кокосовый питьевой с йогуртовой закваской \"Апельсин-манго\"",
+    "price": "97",
+    "old_price": "162",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/karbonad-znamenskiy-vetchinnyy-dom-skatertnyy-narezka-100-g-124695/"
+    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-apelsin-mango-120554/"
+  },
+  "91598": {
+    "name": "Филе грудки утенка без кожи",
+    "price": "367",
+    "old_price": "612",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-utenka-bez-kozhi-91598/"
   }
 }
