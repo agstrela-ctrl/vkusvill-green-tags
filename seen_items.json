@@ -1,4 +1,39 @@
 {
+  "82233": {
+    "name": "Пирожное блинное шоколадное",
+    "price": "107",
+    "old_price": "178",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-shokoladnoe-82233/"
+  },
+  "1713": {
+    "name": "Картофель",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-1713/"
+  },
+  "96401": {
+    "name": "Баклажаны грунтовые",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baklazhany-gruntovye-96401/"
+  },
+  "39540": {
+    "name": "Сок апельсиновый прямого отжима, 330 мл",
+    "price": "147",
+    "old_price": "245",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sok-apelsinovyy-pryamogo-otzhima-39540/"
+  },
+  "112688": {
+    "name": "Лимонад \"Лимон\", 320 мл",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/limonad-limon-112688/"
+  },
   "124387": {
     "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
     "price": "701",
