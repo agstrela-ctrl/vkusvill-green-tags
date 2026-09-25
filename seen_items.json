@@ -1,11 +1,4 @@
 {
-  "82233": {
-    "name": "Пирожное блинное шоколадное",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-shokoladnoe-82233/"
-  },
   "1713": {
     "name": "Картофель",
     "price": "35",
@@ -33,12 +26,5 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/limonad-limon-112688/"
-  },
-  "124387": {
-    "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
-    "price": "701",
-    "old_price": "1168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
   }
 }
