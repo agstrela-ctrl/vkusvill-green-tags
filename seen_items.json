@@ -1,18 +1,4 @@
 {
-  "102082": {
-    "name": "Омлет с томатами и моцареллой",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-s-tomatami-i-motsarelloy-102082/"
-  },
-  "22664": {
-    "name": "Сэндвич ролл с горбушей и яйцом",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
-  },
   "53516": {
     "name": "Курица в сливочном соусе с гречкой",
     "price": "178",
@@ -33,13 +19,6 @@
     "old_price": "486",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-so-slivochnym-maslom-i-ukropom-29587/"
-  },
-  "105477": {
-    "name": "Набор пирожных \"Суфле, Медовик, Эклер\"",
-    "price": "164",
-    "old_price": "273",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-pirozhnykh-sufle-105477/"
   },
   "62414": {
     "name": "Котлеты куриные",
@@ -76,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-govyadinoy-su-vid-93910/"
   },
-  "80397": {
-    "name": "Кабачки фаршированные мясом и рисом",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kabachki-farshirovannye-myasom-i-risom-80397/"
-  },
   "78481": {
     "name": "Чиабатта с куриным филе и соусом \"Песто\"",
     "price": "180",
@@ -103,27 +75,6 @@
     "old_price": "180",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moloko-koze-2-288/"
-  },
-  "62324": {
-    "name": "Стейк мачете в устрично-луковом маринаде",
-    "price": "272",
-    "old_price": "453",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-machete-v-ustrichno-lukovom-marinade-62324/"
-  },
-  "118668": {
-    "name": "Кекс с апельсиновой мякотью и цукатами",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keks-s-apelsinovoy-myakotyu-i-tsukatami-118668/"
-  },
-  "110785": {
-    "name": "Наринэ напиток кисломолочный 3,5%, 450 мл",
-    "price": "86",
-    "old_price": "144",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/narine-napitok-kislomolochnyy-3-110785/"
   },
   "23954": {
     "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
@@ -180,12 +131,5 @@
     "old_price": "162",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-apelsin-mango-120554/"
-  },
-  "91598": {
-    "name": "Филе грудки утенка без кожи",
-    "price": "367",
-    "old_price": "612",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-utenka-bez-kozhi-91598/"
   }
 }
