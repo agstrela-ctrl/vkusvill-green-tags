@@ -1,86 +1,23 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
-  },
-  "121878": {
-    "name": "Торт профитролевый \"Черный лес\"",
-    "price": "358",
-    "old_price": "597",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-profitrolevyy-chernyy-les-121878/"
-  },
-  "34217": {
-    "name": "Батон нарезной, половинка",
-    "price": "28",
-    "old_price": "46",
-    "discount": "39",
-    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
-  },
-  "22564": {
-    "name": "Томаты Махитос",
-    "price": "177",
-    "old_price": "295",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-makhitos-22564/"
-  },
-  "125068": {
-    "name": "Круассан \"Калининградский\" с марципановой начинкой",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
-  },
-  "24513": {
-    "name": "Бефстроганов из говядины с картофельным пюре",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/befstroganov-iz-govyadiny-s-kartofelnym-pyure-24513/"
-  },
-  "61688": {
-    "name": "Котлета рыбная с картофельным пюре",
+  "39249": {
+    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
     "price": "173",
     "old_price": "288",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-rybnaya-s-kartofelnym-pyure-61688/"
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
   },
-  "58728": {
-    "name": "Хлеб цельнозерновой с отрубями",
-    "price": "180",
-    "old_price": "300",
+  "68303": {
+    "name": "Сэндвич с курицей и печеным перцем, кафе",
+    "price": "142",
+    "old_price": "236",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+    "link": "https://vkusvill.ru/goods/sendvich-s-kuritsey-i-pechenym-pertsem-68303/"
   },
-  "15275": {
-    "name": "Заливное из индейки",
-    "price": "191",
-    "old_price": "319",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zalivnoe-iz-indeyki-15275/"
-  },
-  "66903": {
-    "name": "Гречка по-купечески",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-po-kupecheski-66903/"
-  },
-  "36801": {
-    "name": "Биточки курин. с цукини с пюре из батата",
+  "123729": {
+    "name": "Чиабатта оливковая с ветчиной из индейки, омлетом и сырным соусом, кафе",
     "price": "168",
     "old_price": "280",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-kurin-s-tsukini-s-pyure-iz-batata-36801/"
-  },
-  "89458": {
-    "name": "Салат \"Коул Слоу\" постный",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
+    "link": "https://vkusvill.ru/goods/chiabatta-olivkovaya-s-vetchinoy-iz-indeyki-123729/"
   }
 }
