@@ -1,44 +1,86 @@
 {
-  "125475": {
-    "name": "Биф-болл с бифштексом, сыром и овощами, 270 г",
-    "price": "209",
-    "old_price": "348",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bif-boll-s-bifshteksom-125475/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
   },
-  "100714": {
-    "name": "Лапша из батата в соусе терияки с куриным филе",
-    "price": "186",
-    "old_price": "310",
+  "121878": {
+    "name": "Торт профитролевый \"Черный лес\"",
+    "price": "358",
+    "old_price": "597",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-v-souse-teriyaki-s-kurinym-file-100714/"
+    "link": "https://vkusvill.ru/goods/tort-profitrolevyy-chernyy-les-121878/"
   },
-  "75938": {
-    "name": "Круассан с малиной, кафе",
-    "price": "100",
-    "old_price": "166",
+  "34217": {
+    "name": "Батон нарезной, половинка",
+    "price": "28",
+    "old_price": "46",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
+  },
+  "22564": {
+    "name": "Томаты Махитос",
+    "price": "177",
+    "old_price": "295",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
+    "link": "https://vkusvill.ru/goods/tomaty-makhitos-22564/"
   },
-  "110086": {
-    "name": "Пиццета \"Овощная\"",
-    "price": "102",
-    "old_price": "170",
+  "125068": {
+    "name": "Круассан \"Калининградский\" с марципановой начинкой",
+    "price": "107",
+    "old_price": "178",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstseta-ovoshchnaya-110086/"
+    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
   },
-  "112959": {
-    "name": "Хлеб пшеничный \"Ремесленный\" на закваске, нарезка",
-    "price": "44",
-    "old_price": "74",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/khleb-pshenichnyy-remeslennyy-na-zakvaske-112959/"
-  },
-  "65499": {
-    "name": "Вареники c манго и творожным сыром",
-    "price": "232",
-    "old_price": "387",
+  "24513": {
+    "name": "Бефстроганов из говядины с картофельным пюре",
+    "price": "204",
+    "old_price": "340",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/vareniki-c-mango-i-tvorozhnym-syrom-65499/"
+    "link": "https://vkusvill.ru/goods/befstroganov-iz-govyadiny-s-kartofelnym-pyure-24513/"
+  },
+  "61688": {
+    "name": "Котлета рыбная с картофельным пюре",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-rybnaya-s-kartofelnym-pyure-61688/"
+  },
+  "58728": {
+    "name": "Хлеб цельнозерновой с отрубями",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+  },
+  "15275": {
+    "name": "Заливное из индейки",
+    "price": "191",
+    "old_price": "319",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zalivnoe-iz-indeyki-15275/"
+  },
+  "66903": {
+    "name": "Гречка по-купечески",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grechka-po-kupecheski-66903/"
+  },
+  "36801": {
+    "name": "Биточки курин. с цукини с пюре из батата",
+    "price": "168",
+    "old_price": "280",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-kurin-s-tsukini-s-pyure-iz-batata-36801/"
+  },
+  "89458": {
+    "name": "Салат \"Коул Слоу\" постный",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
   }
 }
