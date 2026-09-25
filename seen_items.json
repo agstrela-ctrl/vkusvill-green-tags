@@ -1,31 +1,10 @@
 {
-  "1713": {
-    "name": "Картофель",
-    "price": "35",
-    "old_price": "58",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-1713/"
-  },
-  "119135": {
-    "name": "Напиток безалкогольный ЧАЙ ПИ Жасминовый с грейпфрутом 500 мл",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-chay-pi-zhasminovyy-s-greypfrutom-500-ml-119135/"
-  },
   "122129": {
     "name": "Сыр \"Пармезан\" стик, 29 г",
     "price": "64",
     "old_price": "107",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syr-parmezan-stik-122129/"
-  },
-  "118814": {
-    "name": "Печенье песочное \"Эфин\"",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-pesochnoe-efin-118814/"
   },
   "23232": {
     "name": "Слива крупная",
