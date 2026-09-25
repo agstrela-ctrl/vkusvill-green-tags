@@ -1,10 +1,10 @@
 {
-  "17243": {
-    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
-    "price": "38",
-    "old_price": "63",
+  "122344": {
+    "name": "Котлеты с гречкой для приготовления на пару",
+    "price": "179",
+    "old_price": "298",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
+    "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-dlya-prigotovleniya-na-paru-122344/"
   },
   "106756": {
     "name": "Хлеб \"Монж\", нарезка",
@@ -13,19 +13,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
   },
+  "67171": {
+    "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
+    "price": "229",
+    "old_price": "382",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
+  },
+  "112839": {
+    "name": "Огурчики \"Вкусвилльчики\", 450 г",
+    "price": "117",
+    "old_price": "195",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ogurchiki-vkusvillchiki-112839/"
+  },
   "69495": {
     "name": "Батон \"Весенний\", половинка, нарезка",
     "price": "35",
     "old_price": "58",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
-  },
-  "46493": {
-    "name": "Сосиски куриные с цукини",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-tsukini-46493/"
   },
   "112959": {
     "name": "Хлеб пшеничный \"Ремесленный\" на закваске, нарезка",
@@ -34,18 +41,25 @@
     "discount": "41",
     "link": "https://vkusvill.ru/goods/khleb-pshenichnyy-remeslennyy-na-zakvaske-112959/"
   },
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
+  },
+  "31906": {
+    "name": "Пирожное \"НеМедовик\", веган",
+    "price": "128",
+    "old_price": "214",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-31906/"
+  },
   "120538": {
     "name": "Колбаски куриные для жарки с лисичками",
     "price": "329",
     "old_price": "549",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaski-kurinye-dlya-zharki-s-lisichkami-120538/"
-  },
-  "96795": {
-    "name": "Мясные чипсы",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myasnye-chipsy-96795/"
   }
 }
