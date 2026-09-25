@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-1713/"
   },
+  "119135": {
+    "name": "Напиток безалкогольный ЧАЙ ПИ Жасминовый с грейпфрутом 500 мл",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-chay-pi-zhasminovyy-s-greypfrutom-500-ml-119135/"
+  },
   "122129": {
     "name": "Сыр \"Пармезан\" стик, 29 г",
     "price": "64",
@@ -20,20 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-pesochnoe-efin-118814/"
   },
-  "123524": {
-    "name": "Клаб-сэндвич с салатом из нерки",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-salatom-iz-nerki-123524/"
-  },
-  "53278": {
-    "name": "Игра магнитная развивающая \"Зоопарк\", ВП",
-    "price": "188",
-    "old_price": "314",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/igra-magnitnaya-razvivayushchaya-zoopark-53278/"
-  },
   "23232": {
     "name": "Слива крупная",
     "price": "225",
@@ -41,11 +34,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sliva-krupnaya-23232/"
   },
-  "119135": {
-    "name": "Напиток безалкогольный ЧАЙ ПИ Жасминовый с грейпфрутом 500 мл",
-    "price": "158",
-    "old_price": "264",
+  "53278": {
+    "name": "Игра магнитная развивающая \"Зоопарк\", ВП",
+    "price": "188",
+    "old_price": "314",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-chay-pi-zhasminovyy-s-greypfrutom-500-ml-119135/"
+    "link": "https://vkusvill.ru/goods/igra-magnitnaya-razvivayushchaya-zoopark-53278/"
   }
 }
