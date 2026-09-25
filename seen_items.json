@@ -1,11 +1,4 @@
 {
-  "53516": {
-    "name": "Курица в сливочном соусе с гречкой",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
-  },
   "69185": {
     "name": "Микс укроп, петрушка, 50 г",
     "price": "58",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
   },
-  "109679": {
-    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
-  },
   "288": {
     "name": "Молоко козье 2,8-4%",
     "price": "108",
@@ -83,20 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-bezlaktoznyy-5-86772/"
   },
-  "125193": {
-    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
-    "price": "401",
-    "old_price": "668",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
-  },
-  "125132": {
-    "name": "Рулетики из цукини с творожным сыром и базиликом",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsukini-s-tvorozhnym-syrom-i-bazilikom-125132/"
-  },
   "78933": {
     "name": "Котлетки из грудки цыпленка-бройлера с маслом",
     "price": "299",
@@ -117,5 +89,12 @@
     "old_price": "162",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-apelsin-mango-120554/"
+  },
+  "125193": {
+    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
+    "price": "401",
+    "old_price": "668",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
   }
 }
