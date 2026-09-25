@@ -1,24 +1,31 @@
 {
-  "15350": {
-    "name": "Сыр \"Моццарелла пикколо\" мягкий, 120 г",
-    "price": "110",
-    "old_price": "184",
+  "125475": {
+    "name": "Биф-болл с бифштексом, сыром и овощами, 270 г",
+    "price": "209",
+    "old_price": "348",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-motstsarella-pikkolo-myagkiy-15350/"
+    "link": "https://vkusvill.ru/goods/bif-boll-s-bifshteksom-125475/"
   },
-  "106756": {
-    "name": "Хлеб \"Монж\", нарезка",
-    "price": "77",
-    "old_price": "128",
+  "100714": {
+    "name": "Лапша из батата в соусе терияки с куриным филе",
+    "price": "186",
+    "old_price": "310",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
+    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-v-souse-teriyaki-s-kurinym-file-100714/"
   },
-  "112839": {
-    "name": "Огурчики \"Вкусвилльчики\", 450 г",
-    "price": "117",
-    "old_price": "195",
+  "75938": {
+    "name": "Круассан с малиной, кафе",
+    "price": "100",
+    "old_price": "166",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurchiki-vkusvillchiki-112839/"
+    "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
+  },
+  "110086": {
+    "name": "Пиццета \"Овощная\"",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pitstseta-ovoshchnaya-110086/"
   },
   "112959": {
     "name": "Хлеб пшеничный \"Ремесленный\" на закваске, нарезка",
