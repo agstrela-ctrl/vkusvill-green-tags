@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
   },
-  "53516": {
-    "name": "Курица в сливочном соусе с гречкой",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
-  },
   "31712": {
     "name": "Сэндвич \"Нежный\" с курицей, омлетом и моцареллой",
     "price": "156",
@@ -257,12 +250,5 @@
     "old_price": "149",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/riet-baltiyskiy-bereg-s-tuntsom-i-mintaem-klassicheskiy-150-g-110642/"
-  },
-  "59022": {
-    "name": "Шашлык из индейки 4 перца",
-    "price": "586",
-    "old_price": "976",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-indeyki-4-pertsa-59022/"
   }
 }
