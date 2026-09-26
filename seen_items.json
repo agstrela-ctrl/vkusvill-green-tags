@@ -1,4 +1,11 @@
 {
+  "32936": {
+    "name": "Тартин пшеничный, половинка",
+    "price": "50",
+    "old_price": "84",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
+  },
   "120057": {
     "name": "Тортилья с отрубями и льном",
     "price": "41",
@@ -6,12 +13,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
   },
-  "32936": {
-    "name": "Тартин пшеничный, половинка",
-    "price": "50",
-    "old_price": "84",
+  "16416": {
+    "name": "Суп с фрикадельками из индейки",
+    "price": "126",
+    "old_price": "210",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
+    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
+  },
+  "69912": {
+    "name": "Микс салатный \"Цезарь\" 140 г",
+    "price": "96",
+    "old_price": "160",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
   },
   "72271": {
     "name": "Вырезка говяжья охл",
@@ -26,6 +40,20 @@
     "old_price": "105",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+  },
+  "122839": {
+    "name": "Куриное филе гриль",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurinoe-file-gril-122839/"
+  },
+  "103754": {
+    "name": "Сосиски куриные с картофельным пюре и салат винегрет, 390 г",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-i-salat-vinegret-103754/"
   },
   "31906": {
     "name": "Пирожное \"НеМедовик\", веган",
@@ -62,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
   },
-  "23954": {
-    "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
-  },
   "124359": {
     "name": "Сэндвич со скрэмблом, беконом и сыром чеддер",
     "price": "105",
@@ -76,12 +97,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-so-skremblom-124359/"
   },
-  "113634": {
-    "name": "Корейка на кости из мраморной свинины",
-    "price": "263",
-    "old_price": "438",
+  "23954": {
+    "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
+    "price": "156",
+    "old_price": "260",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
   },
   "109892": {
     "name": "Пирожное \"НеМедовик\" с малиной, веган",
@@ -89,6 +110,13 @@
     "old_price": "184",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-s-malinoy-109892/"
+  },
+  "113634": {
+    "name": "Корейка на кости из мраморной свинины",
+    "price": "263",
+    "old_price": "438",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
   },
   "95427": {
     "name": "Кесадилья с курицей, 220 г",
@@ -103,13 +131,6 @@
     "old_price": "499",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
-  },
-  "16416": {
-    "name": "Суп с фрикадельками из индейки",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
   },
   "125193": {
     "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
