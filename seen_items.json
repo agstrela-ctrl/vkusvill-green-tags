@@ -1,18 +1,4 @@
 {
-  "117305": {
-    "name": "Боул \"Азиатский\" с говядиной, рисом и битыми огурцами",
-    "price": "245",
-    "old_price": "408",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-aziatskiy-s-govyadinoy-117305/"
-  },
-  "72271": {
-    "name": "Вырезка говяжья охл",
-    "price": "1974",
-    "old_price": "3290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vyrezka-govyazhya-okhl-72271/"
-  },
   "79208": {
     "name": "Салат из свеклы с черносливом и грецкими орехами",
     "price": "114",
@@ -47,6 +33,13 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
+  },
+  "117305": {
+    "name": "Боул \"Азиатский\" с говядиной, рисом и битыми огурцами",
+    "price": "245",
+    "old_price": "408",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-aziatskiy-s-govyadinoy-117305/"
   },
   "125193": {
     "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
