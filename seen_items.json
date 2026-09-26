@@ -34,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-bez-kozhi-93666/"
   },
-  "22664": {
-    "name": "Сэндвич ролл с горбушей и яйцом",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
-  },
   "31712": {
     "name": "Сэндвич \"Нежный\" с курицей, омлетом и моцареллой",
     "price": "156",
     "old_price": "260",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-nezhnyy-s-kuritsey-31712/"
-  },
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
   },
   "68474": {
     "name": "Ветчина \"Из индейки\" высший сорт, нарезка",
@@ -125,20 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-iz-indeyki-i-govyadiny-115246/"
   },
-  "125492": {
-    "name": "Осетр филе-кусочки без кожи охл., 400 г",
-    "price": "954",
-    "old_price": "1590",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/osetr-file-kusochki-bez-kozhi-okhl-125492/"
-  },
-  "69744": {
-    "name": "Люля-кебаб \"Классический\"",
-    "price": "231",
-    "old_price": "385",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lyulya-kebab-klassicheskiy-69744/"
-  },
   "99648": {
     "name": "Торт \"Бернау\" со свежими ягодами и творожным сыром, 1 кг",
     "price": "965",
@@ -153,20 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-bedra-indeyki-48018/"
   },
-  "122688": {
-    "name": "Торт бисквитный \"Приэльбрусье\" со смородиной",
-    "price": "353",
-    "old_price": "588",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-biskvitnyy-prielbruse-so-smorodinoy-122688/"
-  },
-  "83736": {
-    "name": "Торт \"Медовик карамельный с черной смородиной\"",
-    "price": "419",
-    "old_price": "699",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-medovik-karamelnyy-s-chernoy-smorodinoy-83736/"
-  },
   "116883": {
     "name": "Биойогурт питьевой ПРОБИОТИК+ 1,7%",
     "price": "51",
@@ -180,6 +138,20 @@
     "old_price": "468",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svinaya-koreyka-gril-s-bebi-kartofelem-s-shashlychnym-sousom-94645/"
+  },
+  "125492": {
+    "name": "Осетр филе-кусочки без кожи охл., 400 г",
+    "price": "954",
+    "old_price": "1590",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/osetr-file-kusochki-bez-kozhi-okhl-125492/"
+  },
+  "83736": {
+    "name": "Торт \"Медовик карамельный с черной смородиной\"",
+    "price": "419",
+    "old_price": "699",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-medovik-karamelnyy-s-chernoy-smorodinoy-83736/"
   },
   "90217": {
     "name": "Оливки Monini с косточкой 300 г",
