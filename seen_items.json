@@ -20,20 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
-  "122909": {
-    "name": "Ленивые голубцы из свинины и говядины, 400г",
-    "price": "206",
-    "old_price": "344",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lenivye-golubtsy-iz-svininy-i-govyadiny-122909/"
-  },
-  "93910": {
-    "name": "Сэндвич ролл с говядиной су-вид",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-govyadinoy-su-vid-93910/"
-  },
   "23954": {
     "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
     "price": "156",
@@ -47,12 +33,5 @@
     "old_price": "499",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
-  },
-  "125193": {
-    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
-    "price": "401",
-    "old_price": "668",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
   }
 }
