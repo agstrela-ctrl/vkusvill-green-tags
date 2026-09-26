@@ -1,4 +1,11 @@
 {
+  "117305": {
+    "name": "Боул \"Азиатский\" с говядиной, рисом и битыми огурцами",
+    "price": "245",
+    "old_price": "408",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-aziatskiy-s-govyadinoy-117305/"
+  },
   "72271": {
     "name": "Вырезка говяжья охл",
     "price": "1974",
@@ -6,19 +13,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vyrezka-govyazhya-okhl-72271/"
   },
-  "103754": {
-    "name": "Сосиски куриные с картофельным пюре и салат винегрет, 390 г",
-    "price": "228",
-    "old_price": "380",
+  "79208": {
+    "name": "Салат из свеклы с черносливом и грецкими орехами",
+    "price": "114",
+    "old_price": "190",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-i-salat-vinegret-103754/"
+    "link": "https://vkusvill.ru/goods/salat-iz-svekly-s-chernoslivom-i-gretskimi-orekhami-79208/"
   },
-  "124723": {
-    "name": "Салат с курицей, брынзой и соусом песто с тыквенными семечками",
-    "price": "221",
-    "old_price": "368",
+  "111702": {
+    "name": "Салат \"Цезарь\" с креветками",
+    "price": "287",
+    "old_price": "478",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-124723/"
+    "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
+  },
+  "35710": {
+    "name": "Набор: Салат Витаминный + Плов с курицей",
+    "price": "240",
+    "old_price": "400",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/nabor-salat-vitaminnyy-plov-s-kuritsey-35710/"
+  },
+  "122742": {
+    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   },
   "118102": {
     "name": "Шашлык из свиного окорока с аджапсандали",
@@ -26,20 +47,6 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
-  },
-  "124359": {
-    "name": "Сэндвич со скрэмблом, беконом и сыром чеддер",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-so-skremblom-124359/"
-  },
-  "95427": {
-    "name": "Кесадилья с курицей, 220 г",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-95427/"
   },
   "125193": {
     "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
