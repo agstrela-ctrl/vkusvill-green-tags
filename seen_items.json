@@ -1,30 +1,9 @@
 {
-  "79208": {
-    "name": "Салат из свеклы с черносливом и грецкими орехами",
-    "price": "114",
-    "old_price": "190",
+  "121794": {
+    "name": "Грибы соленые Шиитаке",
+    "price": "138",
+    "old_price": "230",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-svekly-s-chernoslivom-i-gretskimi-orekhami-79208/"
-  },
-  "122742": {
-    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
-  },
-  "118102": {
-    "name": "Шашлык из свиного окорока с аджапсандали",
-    "price": "498",
-    "old_price": "830",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
-  },
-  "117305": {
-    "name": "Боул \"Азиатский\" с говядиной, рисом и битыми огурцами",
-    "price": "245",
-    "old_price": "408",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-aziatskiy-s-govyadinoy-117305/"
+    "link": "https://vkusvill.ru/goods/griby-solenye-shiitake-121794/"
   }
 }
