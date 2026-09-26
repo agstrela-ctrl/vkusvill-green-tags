@@ -34,12 +34,54 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-govyadinoy-su-vid-93910/"
   },
+  "118104": {
+    "name": "Мясо по-французски",
+    "price": "505",
+    "old_price": "842",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
+  },
+  "115112": {
+    "name": "Жаркое из кролика со сметаной",
+    "price": "499",
+    "old_price": "832",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
+  },
+  "119818": {
+    "name": "Лепешка \"Тортилья\" с сыром",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
+  },
+  "115111": {
+    "name": "Запеканка картофельная с курицей, томатами и соусом песто",
+    "price": "349",
+    "old_price": "582",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-115111/"
+  },
+  "118102": {
+    "name": "Шашлык из свиного окорока с аджапсандали",
+    "price": "498",
+    "old_price": "830",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
+  },
   "23954": {
     "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
     "price": "156",
     "old_price": "260",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
+  },
+  "124359": {
+    "name": "Сэндвич со скрэмблом, беконом и сыром чеддер",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-so-skremblom-124359/"
   },
   "113634": {
     "name": "Корейка на кости из мраморной свинины",
@@ -48,12 +90,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
   },
+  "95427": {
+    "name": "Кесадилья с курицей, 220 г",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-95427/"
+  },
   "78933": {
     "name": "Котлетки из грудки цыпленка-бройлера с маслом",
     "price": "299",
     "old_price": "499",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
+  },
+  "16416": {
+    "name": "Суп с фрикадельками из индейки",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
   },
   "125193": {
     "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
