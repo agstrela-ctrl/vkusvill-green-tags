@@ -1,10 +1,10 @@
 {
-  "69185": {
-    "name": "Микс укроп, петрушка, 50 г",
-    "price": "58",
-    "old_price": "96",
+  "32936": {
+    "name": "Тартин пшеничный, половинка",
+    "price": "50",
+    "old_price": "84",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-ukrop-69185/"
+    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
   },
   "72271": {
     "name": "Вырезка говяжья охл",
@@ -20,6 +20,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
+  "122909": {
+    "name": "Ленивые голубцы из свинины и говядины, 400г",
+    "price": "206",
+    "old_price": "344",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lenivye-golubtsy-iz-svininy-i-govyadiny-122909/"
+  },
+  "93910": {
+    "name": "Сэндвич ролл с говядиной су-вид",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-govyadinoy-su-vid-93910/"
+  },
   "23954": {
     "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
     "price": "156",
@@ -27,11 +41,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
   },
+  "113634": {
+    "name": "Корейка на кости из мраморной свинины",
+    "price": "263",
+    "old_price": "438",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
+  },
   "78933": {
     "name": "Котлетки из грудки цыпленка-бройлера с маслом",
     "price": "299",
     "old_price": "499",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
+  },
+  "125193": {
+    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
+    "price": "401",
+    "old_price": "668",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
   }
 }
