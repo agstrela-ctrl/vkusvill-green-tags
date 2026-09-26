@@ -1,11 +1,4 @@
 {
-  "120057": {
-    "name": "Тортилья с отрубями и льном",
-    "price": "41",
-    "old_price": "68",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
-  },
   "16416": {
     "name": "Суп с фрикадельками из индейки",
     "price": "126",
@@ -13,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
   },
-  "69912": {
-    "name": "Микс салатный \"Цезарь\" 140 г",
-    "price": "96",
-    "old_price": "160",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
-  },
   "72271": {
     "name": "Вырезка говяжья охл",
     "price": "1974",
     "old_price": "3290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vyrezka-govyazhya-okhl-72271/"
-  },
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
   "122839": {
     "name": "Куриное филе гриль",
@@ -103,6 +82,13 @@
     "old_price": "438",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
+  },
+  "94594": {
+    "name": "Семга ребра холодного копчения, 100 г",
+    "price": "57",
+    "old_price": "95",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/semga-rebra-kholodnogo-kopcheniya-94594/"
   },
   "95427": {
     "name": "Кесадилья с курицей, 220 г",
