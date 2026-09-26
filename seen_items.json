@@ -13,40 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vyrezka-govyazhya-okhl-72271/"
   },
-  "122839": {
-    "name": "Куриное филе гриль",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-gril-122839/"
-  },
   "103754": {
     "name": "Сосиски куриные с картофельным пюре и салат винегрет, 390 г",
     "price": "228",
     "old_price": "380",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-i-salat-vinegret-103754/"
-  },
-  "118104": {
-    "name": "Мясо по-французски",
-    "price": "505",
-    "old_price": "842",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
-  },
-  "115112": {
-    "name": "Жаркое из кролика со сметаной",
-    "price": "499",
-    "old_price": "832",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
-  },
-  "119818": {
-    "name": "Лепешка \"Тортилья\" с сыром",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
   },
   "118102": {
     "name": "Шашлык из свиного окорока с аджапсандали",
@@ -83,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
   },
-  "94594": {
-    "name": "Семга ребра холодного копчения, 100 г",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/semga-rebra-kholodnogo-kopcheniya-94594/"
-  },
   "95427": {
     "name": "Кесадилья с курицей, 220 г",
     "price": "180",
@@ -103,6 +68,13 @@
     "old_price": "499",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
+  },
+  "94594": {
+    "name": "Семга ребра холодного копчения, 100 г",
+    "price": "57",
+    "old_price": "95",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/semga-rebra-kholodnogo-kopcheniya-94594/"
   },
   "125193": {
     "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
