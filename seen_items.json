@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-filadelfiya-40527/"
   },
-  "95582": {
-    "name": "Мини-чиабатта с куриной ветчиной, омлетом и сыром (2 шт)",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
-  },
   "96587": {
     "name": "Салат винегрет, 180 г",
     "price": "102",
@@ -76,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
-  "271": {
-    "name": "Кефир детский 3,2%, 210 г",
-    "price": "32",
-    "old_price": "53",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-detskiy-3-271/"
-  },
   "14501": {
     "name": "Наггетсы куриные, 250 г",
     "price": "158",
@@ -97,12 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/befstroganov-62810/"
   },
-  "96006": {
-    "name": "Филе-миньон из индейки",
-    "price": "257",
-    "old_price": "428",
+  "112952": {
+    "name": "Спагетти \"Том ям\" с морепродуктами",
+    "price": "222",
+    "old_price": "370",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-minon-iz-indeyki-96006/"
+    "link": "https://vkusvill.ru/goods/spagetti-tom-yam-s-moreproduktami-112952/"
   },
   "121009": {
     "name": "Гнезда из цыпленка-бройлера и индейки \"По-итальянски\"",
@@ -153,13 +139,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/osetr-file-kusochki-bez-kozhi-okhl-125492/"
   },
-  "125198": {
-    "name": "Форшмак из сельди",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forshmak-iz-seldi-125198/"
-  },
   "69744": {
     "name": "Люля-кебаб \"Классический\"",
     "price": "231",
@@ -173,13 +152,6 @@
     "old_price": "1608",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-bernau-so-svezhimi-yagodami-i-tvorozhnym-syrom-99648/"
-  },
-  "122769": {
-    "name": "Суп \"Легкий\" с птитимом и креветками",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
   },
   "48018": {
     "name": "Шашлык из бедра индейки",
