@@ -1,4 +1,11 @@
 {
+  "120057": {
+    "name": "Тортилья с отрубями и льном",
+    "price": "41",
+    "old_price": "68",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
+  },
   "32936": {
     "name": "Тартин пшеничный, половинка",
     "price": "50",
@@ -19,20 +26,6 @@
     "old_price": "105",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
-  },
-  "122909": {
-    "name": "Ленивые голубцы из свинины и говядины, 400г",
-    "price": "206",
-    "old_price": "344",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lenivye-golubtsy-iz-svininy-i-govyadiny-122909/"
-  },
-  "93910": {
-    "name": "Сэндвич ролл с говядиной су-вид",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-govyadinoy-su-vid-93910/"
   },
   "31906": {
     "name": "Пирожное \"НеМедовик\", веган",
@@ -61,13 +54,6 @@
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
-  },
-  "115111": {
-    "name": "Запеканка картофельная с курицей, томатами и соусом песто",
-    "price": "349",
-    "old_price": "582",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-115111/"
   },
   "118102": {
     "name": "Шашлык из свиного окорока с аджапсандали",
