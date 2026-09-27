@@ -20,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-foreli-na-paru-75130/"
   },
+  "125068": {
+    "name": "Круассан \"Калининградский\" с марципановой начинкой",
+    "price": "107",
+    "old_price": "178",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
+  },
   "96587": {
     "name": "Салат винегрет, 180 г",
     "price": "102",
@@ -69,12 +76,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
   },
-  "43719": {
-    "name": "Ежики мясные с отварной гречкой",
-    "price": "150",
-    "old_price": "250",
+  "125813": {
+    "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
+    "price": "89",
+    "old_price": "148",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
+    "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
+  },
+  "125662": {
+    "name": "Булочка сдобная с вишней",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochka-sdobnaya-s-vishney-125662/"
+  },
+  "124528": {
+    "name": "Плюшка \"Домашняя\" с маком, 150 г",
+    "price": "70",
+    "old_price": "116",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/plyushka-domashnyaya-s-makom-124528/"
   },
   "50389": {
     "name": "Ролл \"Симфония классики\" с креветкой",
@@ -139,12 +160,54 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
+  "65460": {
+    "name": "Изделие х/б из зеленой гречки (на закваске)",
+    "price": "86",
+    "old_price": "144",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
+  },
+  "108605": {
+    "name": "Гата миндальная",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/gata-mindalnaya-108605/"
+  },
   "117337": {
     "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
     "price": "361",
     "old_price": "602",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
+  },
+  "124581": {
+    "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
+  },
+  "117204": {
+    "name": "Печенье сдобное с начинкой \"Черная смородина\"",
+    "price": "116",
+    "old_price": "193",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-s-nachinkoy-chernaya-smorodina-117204/"
+  },
+  "117222": {
+    "name": "Корзиночки песочные \"Манго-маракуйя\"",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/korzinochki-pesochnye-mango-marakuyya-117222/"
+  },
+  "73186": {
+    "name": "Кекс \"Свердловский\" (с изюмом на сгущенном молоке)",
+    "price": "163",
+    "old_price": "272",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-sverdlovskiy-s-izyumom-na-sgushchennom-moloke-73186/"
   },
   "125311": {
     "name": "Поке-боул с креветками и соусом Манго-Юдзу",
@@ -180,12 +243,5 @@
     "old_price": "122",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-myagkiy-iz-tselnogo-kozego-moloka-36293/"
-  },
-  "124524": {
-    "name": "Лаваш с начинкой \"Картофель и сыр\"",
-    "price": "122",
-    "old_price": "203",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lavash-s-nachinkoy-kartofel-i-syr-124524/"
   }
 }
