@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
   },
-  "125038": {
-    "name": "Шримп-ролл с креветками и соусом Амай Терияки",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shrimp-roll-s-krevetkami-i-sousom-amay-teriyaki-125038/"
-  },
   "22664": {
     "name": "Сэндвич ролл с горбушей и яйцом",
     "price": "161",
@@ -160,13 +153,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
   },
-  "123011": {
-    "name": "Йогурт термостатный \"Вишня-брусника\" 2,5% 125 г",
-    "price": "46",
-    "old_price": "77",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-termostatnyy-vishnya-brusnika-2-123011/"
-  },
   "125311": {
     "name": "Поке-боул с креветками и соусом Манго-Юдзу",
     "price": "299",
@@ -188,26 +174,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-121339/"
   },
-  "89957": {
-    "name": "Голубика гигант, 125 г",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-gigant-89957/"
-  },
   "122641": {
     "name": "Холодец из курицы",
     "price": "118",
     "old_price": "196",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kholodets-iz-kuritsy-122641/"
-  },
-  "114226": {
-    "name": "Тефтели из мяса цыплят-бройлеров с рисом",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tefteli-iz-myasa-tsyplyat-broylerov-s-risom-114226/"
   },
   "36293": {
     "name": "Творог мягкий из цельного козьего молока",
