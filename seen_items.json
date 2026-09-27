@@ -6,6 +6,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-tsukini-i-motsarelloy-111212/"
   },
+  "100149": {
+    "name": "Каша гречневая \"по-драгомировски\" на бульоне из грибов",
+    "price": "120",
+    "old_price": "200",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kasha-grechnevaya-po-dragomirovski-na-bulone-iz-gribov-100149/"
+  },
+  "61688": {
+    "name": "Котлета рыбная с картофельным пюре",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-rybnaya-s-kartofelnym-pyure-61688/"
+  },
   "30084": {
     "name": "Котлетки рыбные с запеченными овощами",
     "price": "180",
@@ -19,13 +33,6 @@
     "old_price": "547",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-bez-kozhi-93666/"
-  },
-  "23160": {
-    "name": "Микс салатный \"Грасс\"",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
   },
   "31712": {
     "name": "Сэндвич \"Нежный\" с курицей, омлетом и моцареллой",
@@ -55,12 +62,40 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
+  "23954": {
+    "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
+    "price": "156",
+    "old_price": "260",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
+  },
   "15196": {
     "name": "Петрушка, 50 г",
     "price": "42",
     "old_price": "70",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/petrushka-15196/"
+  },
+  "97552": {
+    "name": "Котлеты из мяса цыплёнка-бройлера и индейки с моцареллой",
+    "price": "235",
+    "old_price": "392",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyenka-broylera-i-indeyki-s-motsarelloy-97552/"
+  },
+  "26305": {
+    "name": "Хлеб \"Романовский\", нарезка",
+    "price": "181",
+    "old_price": "302",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
+  },
+  "36430": {
+    "name": "Биточки из мяса цыплят-бройлеров с сыром",
+    "price": "253",
+    "old_price": "422",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-tsyplyat-broylerov-s-syrom-36430/"
   },
   "83055": {
     "name": "Изделие х/б \"Полбяной цельнозер. мультизлак.\", нарезка",
@@ -117,12 +152,5 @@
     "old_price": "1590",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/osetr-file-kusochki-bez-kozhi-okhl-125492/"
-  },
-  "90217": {
-    "name": "Оливки Monini с косточкой 300 г",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/olivki-monini-s-kostochkoy-300-g-90217/"
   }
 }
