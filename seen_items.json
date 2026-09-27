@@ -27,6 +27,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-nezhnyy-s-kuritsey-31712/"
   },
+  "96748": {
+    "name": "Фарш из говядины и индейки, 360 г",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-indeyki-96748/"
+  },
   "68474": {
     "name": "Ветчина \"Из индейки\" высший сорт, нарезка",
     "price": "172",
@@ -34,12 +41,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-indeyki-vysshiy-sort-68474/"
   },
+  "122740": {
+    "name": "Шницель куриный в сырной панировке",
+    "price": "203",
+    "old_price": "338",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-122740/"
+  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
     "old_price": "355",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
+  },
+  "1680": {
+    "name": "Бифштекс рубленый, 400 г",
+    "price": "274",
+    "old_price": "456",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bifshteks-rublenyy-1680/"
   },
   "14501": {
     "name": "Наггетсы куриные, 250 г",
@@ -54,6 +75,13 @@
     "old_price": "633",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/befstroganov-62810/"
+  },
+  "14844": {
+    "name": "Котлеты \"Домашние\"",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-domashnie-14844/"
   },
   "121009": {
     "name": "Гнезда из цыпленка-бройлера и индейки \"По-итальянски\"",
