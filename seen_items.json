@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotletki-rybnye-s-zapechennymi-ovoshchami-30084/"
   },
-  "93666": {
-    "name": "Грудка цыплят-бройлеров без кожи",
-    "price": "328",
-    "old_price": "547",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-bez-kozhi-93666/"
-  },
   "31712": {
     "name": "Сэндвич \"Нежный\" с курицей, омлетом и моцареллой",
     "price": "156",
@@ -75,27 +68,6 @@
     "old_price": "70",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/petrushka-15196/"
-  },
-  "97552": {
-    "name": "Котлеты из мяса цыплёнка-бройлера и индейки с моцареллой",
-    "price": "235",
-    "old_price": "392",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyenka-broylera-i-indeyki-s-motsarelloy-97552/"
-  },
-  "26305": {
-    "name": "Хлеб \"Романовский\", нарезка",
-    "price": "181",
-    "old_price": "302",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
-  },
-  "36430": {
-    "name": "Биточки из мяса цыплят-бройлеров с сыром",
-    "price": "253",
-    "old_price": "422",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-tsyplyat-broylerov-s-syrom-36430/"
   },
   "83055": {
     "name": "Изделие х/б \"Полбяной цельнозер. мультизлак.\", нарезка",
