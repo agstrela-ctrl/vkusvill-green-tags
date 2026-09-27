@@ -62,6 +62,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bifshteks-rublenyy-1680/"
   },
+  "58433": {
+    "name": "Торт \"Тирамису\", веган",
+    "price": "376",
+    "old_price": "627",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-tiramisu-58433/"
+  },
   "14501": {
     "name": "Наггетсы куриные, 250 г",
     "price": "158",
@@ -75,6 +82,13 @@
     "old_price": "633",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/befstroganov-62810/"
+  },
+  "81777": {
+    "name": "Онигири с крабом",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-krabom-81777/"
   },
   "14844": {
     "name": "Котлеты \"Домашние\"",
@@ -103,6 +117,13 @@
     "old_price": "456",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-grilburger-124264/"
+  },
+  "685": {
+    "name": "Пряник \"Паломник\"",
+    "price": "189",
+    "old_price": "315",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pryanik-palomnik-685/"
   },
   "99648": {
     "name": "Торт \"Бернау\" со свежими ягодами и творожным сыром, 1 кг",
