@@ -13,12 +13,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-tsukini-i-motsarelloy-111212/"
   },
+  "30084": {
+    "name": "Котлетки рыбные с запеченными овощами",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotletki-rybnye-s-zapechennymi-ovoshchami-30084/"
+  },
   "93666": {
     "name": "Грудка цыплят-бройлеров без кожи",
     "price": "328",
     "old_price": "547",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-bez-kozhi-93666/"
+  },
+  "23160": {
+    "name": "Микс салатный \"Грасс\"",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
   },
   "31712": {
     "name": "Сэндвич \"Нежный\" с курицей, омлетом и моцареллой",
@@ -83,12 +97,54 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/befstroganov-62810/"
   },
+  "88264": {
+    "name": "Микс салатный \"Римини\" 120 г",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-rimini-120-g-88264/"
+  },
+  "112952": {
+    "name": "Спагетти \"Том ям\" с морепродуктами",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/spagetti-tom-yam-s-moreproduktami-112952/"
+  },
+  "100821": {
+    "name": "Печень жареная с луком с гречкой",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
+  },
+  "83055": {
+    "name": "Изделие х/б \"Полбяной цельнозер. мультизлак.\", нарезка",
+    "price": "80",
+    "old_price": "134",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
+  },
+  "35710": {
+    "name": "Набор: Салат Витаминный + Плов с курицей",
+    "price": "240",
+    "old_price": "400",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/nabor-salat-vitaminnyy-plov-s-kuritsey-35710/"
+  },
   "14844": {
     "name": "Котлеты \"Домашние\"",
     "price": "222",
     "old_price": "370",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-domashnie-14844/"
+  },
+  "69185": {
+    "name": "Микс укроп, петрушка, 50 г",
+    "price": "58",
+    "old_price": "96",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-ukrop-69185/"
   },
   "121009": {
     "name": "Гнезда из цыпленка-бройлера и индейки \"По-итальянски\"",
@@ -117,6 +173,20 @@
     "old_price": "315",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pryanik-palomnik-685/"
+  },
+  "119124": {
+    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
+    "price": "273",
+    "old_price": "455",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
+  },
+  "15196": {
+    "name": "Петрушка, 50 г",
+    "price": "42",
+    "old_price": "70",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/petrushka-15196/"
   },
   "81777": {
     "name": "Онигири с крабом",
