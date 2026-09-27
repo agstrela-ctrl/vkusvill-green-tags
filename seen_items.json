@@ -76,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
   },
-  "31712": {
-    "name": "Сэндвич \"Нежный\" с курицей, омлетом и моцареллой",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-nezhnyy-s-kuritsey-31712/"
-  },
   "50389": {
     "name": "Ролл \"Симфония классики\" с креветкой",
     "price": "222",
@@ -194,12 +187,5 @@
     "old_price": "203",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-s-nachinkoy-kartofel-i-syr-124524/"
-  },
-  "73318": {
-    "name": "Котлеты рубленые говяжьи",
-    "price": "215",
-    "old_price": "359",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-rublenye-govyazhi-73318/"
   }
 }
