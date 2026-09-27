@@ -83,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/befstroganov-62810/"
   },
-  "81777": {
-    "name": "Онигири с крабом",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-krabom-81777/"
-  },
   "14844": {
     "name": "Котлеты \"Домашние\"",
     "price": "222",
@@ -124,6 +117,13 @@
     "old_price": "315",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pryanik-palomnik-685/"
+  },
+  "81777": {
+    "name": "Онигири с крабом",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-krabom-81777/"
   },
   "99648": {
     "name": "Торт \"Бернау\" со свежими ягодами и творожным сыром, 1 кг",
