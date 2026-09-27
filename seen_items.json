@@ -1,9 +1,58 @@
 {
-  "81642": {
-    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
+  "105270": {
+    "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
+  },
+  "20122": {
+    "name": "Огурцы короткоплодные, 450 г",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
+  },
+  "43719": {
+    "name": "Ежики мясные с отварной гречкой",
     "price": "150",
     "old_price": "250",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
+    "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
+  },
+  "125188": {
+    "name": "Рулька \"Калининградская\" с квашенной капустой и брусникой",
+    "price": "407",
+    "old_price": "678",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashennoy-kapustoy-i-brusnikoy-125188/"
+  },
+  "40564": {
+    "name": "Салат оливье с колбасой, 600 г",
+    "price": "372",
+    "old_price": "620",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-olive-s-kolbasoy-40564/"
+  },
+  "117337": {
+    "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
+    "price": "361",
+    "old_price": "602",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
+  },
+  "76626": {
+    "name": "Роллы \"Филадельфия\" с филе семги и речного угря",
+    "price": "360",
+    "old_price": "600",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rolly-filadelfiya-s-file-semgi-i-rechnogo-ugrya-76626/"
+  },
+  "124967": {
+    "name": "Напиток безалкогольный газированный Pepsi Zero Strawberries & Cream ж/б 330 мл",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-gazirovannyy-pepsi-zero-strawberries-cream-zh-b-330-ml-124967/"
   }
 }
