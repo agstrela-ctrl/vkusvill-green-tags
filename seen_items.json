@@ -27,6 +27,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
   },
+  "113856": {
+    "name": "Салат из запеченной свеклы с сыром фета",
+    "price": "137",
+    "old_price": "229",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
+  },
   "22664": {
     "name": "Сэндвич ролл с горбушей и яйцом",
     "price": "161",
@@ -41,12 +48,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-ribay-iz-govyadiny-zernovogo-otkorma-92975/"
   },
+  "125188": {
+    "name": "Рулька \"Калининградская\" с квашенной капустой и брусникой",
+    "price": "407",
+    "old_price": "678",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashennoy-kapustoy-i-brusnikoy-125188/"
+  },
+  "70530": {
+    "name": "Онигири \"Филадельфия\"",
+    "price": "146",
+    "old_price": "244",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-filadelfiya-70530/"
+  },
   "118941": {
     "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
     "price": "222",
     "old_price": "370",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
+  },
+  "65425": {
+    "name": "Креветки жареные, 150 г",
+    "price": "348",
+    "old_price": "580",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
   "124264": {
     "name": "Котлета \"Грильбургер\"",
@@ -68,6 +96,20 @@
     "old_price": "137",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/timyan-23010/"
+  },
+  "122742": {
+    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
+  },
+  "124723": {
+    "name": "Салат с курицей, брынзой и соусом песто с тыквенными семечками",
+    "price": "221",
+    "old_price": "368",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-124723/"
   },
   "125311": {
     "name": "Поке-боул с креветками и соусом Манго-Юдзу",
