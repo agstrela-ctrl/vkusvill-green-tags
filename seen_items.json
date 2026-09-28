@@ -6,20 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
   },
-  "20542": {
-    "name": "Сэндвич ролл \"Цезарь\"",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-20542/"
-  },
-  "125068": {
-    "name": "Круассан \"Калининградский\" с марципановой начинкой",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
-  },
   "96587": {
     "name": "Салат винегрет, 180 г",
     "price": "102",
@@ -68,13 +54,6 @@
     "old_price": "170",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
-  },
-  "125813": {
-    "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
   },
   "124528": {
     "name": "Плюшка \"Домашняя\" с маком, 150 г",
@@ -132,13 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
-  "117204": {
-    "name": "Печенье сдобное с начинкой \"Черная смородина\"",
-    "price": "116",
-    "old_price": "193",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-s-nachinkoy-chernaya-smorodina-117204/"
-  },
   "73186": {
     "name": "Кекс \"Свердловский\" (с изюмом на сгущенном молоке)",
     "price": "163",
@@ -153,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/poke-boul-s-krevetkami-i-sousom-mango-yudzu-125311/"
   },
-  "122641": {
-    "name": "Холодец из курицы",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kholodets-iz-kuritsy-122641/"
-  },
   "124581": {
     "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
     "price": "36",
@@ -173,12 +138,5 @@
     "old_price": "122",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-myagkiy-iz-tselnogo-kozego-moloka-36293/"
-  },
-  "117222": {
-    "name": "Корзиночки песочные \"Манго-маракуйя\"",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/korzinochki-pesochnye-mango-marakuyya-117222/"
   }
 }
