@@ -1,10 +1,38 @@
 {
+  "606": {
+    "name": "Морковь",
+    "price": "30",
+    "old_price": "50",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-606/"
+  },
+  "16591": {
+    "name": "Авокадо Хасс, шт",
+    "price": "93",
+    "old_price": "155",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/avokado-khass-16591/"
+  },
+  "619": {
+    "name": "Кабачки",
+    "price": "87",
+    "old_price": "145",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kabachki-619/"
+  },
   "24643": {
     "name": "Напиток \"Лимон-Имбирь\", 500 мл",
     "price": "50",
     "old_price": "84",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-limon-imbir-24643/"
+  },
+  "95470": {
+    "name": "Таблетки для посудомоечной машины BioMio Bio-tabs mini бергамот и юдзу 25 шт",
+    "price": "365",
+    "old_price": "608",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tabletki-dlya-posudomoechnoy-mashiny-biomio-bio-tabs-mini-bergamot-i-yudzu-25-sht-95470/"
   },
   "53083": {
     "name": "Зефир воздушный \"Косичка\"",
