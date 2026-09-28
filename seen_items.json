@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-konservirovannym-tuntsom-i-yablokom-108186/"
   },
-  "96649": {
-    "name": "Онигири с запеченным тунцом",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
-  },
   "111102": {
     "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
     "price": "204",
@@ -48,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
   },
-  "98700": {
-    "name": "Оладьи на кефире, 7 шт",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-na-kefire-98700/"
-  },
   "78288": {
     "name": "Каша пшенно-рисовая на молоке, 270 г",
     "price": "120",
@@ -68,20 +54,6 @@
     "old_price": "240",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kabachki-gril-so-smetanno-chesnochnym-sousom-96044/"
-  },
-  "54391": {
-    "name": "Мясо по-французски с печеным картофелем",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-54391/"
-  },
-  "118563": {
-    "name": "Щи из свежей капусты с говядиной",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchi-iz-svezhey-kapusty-s-govyadinoy-118563/"
   },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
@@ -118,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-rizoni-s-kurinymi-frikadelkami-i-tomatnym-sousom-117219/"
   },
-  "99375": {
-    "name": "Жаркое из говядины с грибами",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zharkoe-iz-govyadiny-s-gribami-99375/"
-  },
   "1225": {
     "name": "Сливки 10%, 450 мл",
     "price": "91",
@@ -139,33 +104,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-orzo-s-kurinymi-frikadelkami-98052/"
   },
-  "15038": {
-    "name": "Пирожное \"Картошка\" обсыпная",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-kartoshka-obsypnaya-15038/"
-  },
-  "100354": {
-    "name": "Суп Фо Бо, 580 г",
-    "price": "304",
-    "old_price": "506",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-fo-bo-100354/"
-  },
   "70874": {
     "name": "Шаурма с курицей, 230 г",
     "price": "192",
     "old_price": "320",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-70874/"
-  },
-  "84817": {
-    "name": "Салат из баклажанов и моркови по-корейски",
-    "price": "128",
-    "old_price": "214",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-baklazhanov-i-morkovi-po-koreyski-84817/"
   },
   "98527": {
     "name": "Овощи микс на пару",
@@ -188,26 +132,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-kurinaya-na-paru-farshirovannaya-brokkoli-68288/"
   },
-  "108138": {
-    "name": "Шаурма с грибным жюльеном и курицей",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-gribnym-zhyulenom-i-kuritsey-108138/"
-  },
   "115822": {
     "name": "Онигири с тунцом в соево-кунжутном соусе",
     "price": "131",
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
-  },
-  "69753": {
-    "name": "Шаурма грузинская",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-gruzinskaya-69753/"
   },
   "24312": {
     "name": "Грибы Эноки, шт",
@@ -230,6 +160,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lapsha-iz-batata-v-souse-teriyaki-s-kurinym-file-100714/"
   },
+  "118364": {
+    "name": "Микс салатный \"Нежный\", 200 г",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
+  },
   "125132": {
     "name": "Рулетики из цукини с творожным сыром и базиликом",
     "price": "173",
@@ -244,33 +181,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-falafel-babaganush-s-syrnym-mussom-125620/"
   },
-  "99925": {
-    "name": "Шаурма с креветкой, соусом тысяча островов и салатом Романо",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
-  },
-  "121195": {
-    "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
-  },
   "120588": {
     "name": "Шанежка \"Домашняя\" с картофелем на слив. масле, 2 шт",
     "price": "101",
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shanezhka-domashnyaya-s-kartofelem-na-sliv-masle-120588/"
-  },
-  "66833": {
-    "name": "Набор для супа из индейки",
-    "price": "196",
-    "old_price": "327",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-dlya-supa-iz-indeyki-66833/"
   },
   "121939": {
     "name": "Сэндвич ролл с курицей и фасолью",
@@ -279,25 +195,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-fasolyu-121939/"
   },
-  "118364": {
-    "name": "Микс салатный \"Нежный\", 200 г",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
-  },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
     "price": "499",
     "old_price": "832",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
-  },
-  "53083": {
-    "name": "Зефир воздушный \"Косичка\"",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zefir-vozdushnyy-kosichka-53083/"
   }
 }
