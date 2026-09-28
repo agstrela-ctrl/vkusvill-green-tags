@@ -27,20 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
   },
-  "113856": {
-    "name": "Салат из запеченной свеклы с сыром фета",
-    "price": "137",
-    "old_price": "229",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
-  },
-  "22664": {
-    "name": "Сэндвич ролл с горбушей и яйцом",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
-  },
   "92975": {
     "name": "Стейк Рибай из говядины зернового откорма, 250 г",
     "price": "611",
@@ -76,6 +62,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
+  "40564": {
+    "name": "Салат оливье с колбасой, 600 г",
+    "price": "372",
+    "old_price": "620",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-olive-s-kolbasoy-40564/"
+  },
   "124264": {
     "name": "Котлета \"Грильбургер\"",
     "price": "274",
@@ -103,13 +96,6 @@
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
-  },
-  "124723": {
-    "name": "Салат с курицей, брынзой и соусом песто с тыквенными семечками",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-124723/"
   },
   "125311": {
     "name": "Поке-боул с креветками и соусом Манго-Юдзу",
