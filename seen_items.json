@@ -111,13 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-76248/"
   },
-  "118364": {
-    "name": "Микс салатный \"Нежный\", 200 г",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
-  },
   "125620": {
     "name": "Сэндвич ролл \"Фалафель - бабагануш\" с сырным муссом",
     "price": "185",
@@ -131,6 +124,13 @@
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shanezhka-domashnyaya-s-kartofelem-na-sliv-masle-120588/"
+  },
+  "118364": {
+    "name": "Микс салатный \"Нежный\", 200 г",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
   },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
