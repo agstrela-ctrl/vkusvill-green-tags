@@ -20,25 +20,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-grilburger-124264/"
   },
-  "23010": {
-    "name": "Тимьян, 30 г",
-    "price": "82",
-    "old_price": "137",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/timyan-23010/"
-  },
   "125311": {
     "name": "Поке-боул с креветками и соусом Манго-Юдзу",
     "price": "299",
     "old_price": "498",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/poke-boul-s-krevetkami-i-sousom-mango-yudzu-125311/"
-  },
-  "113869": {
-    "name": "Шпинат крупнолистовой, 100 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
   }
 }
