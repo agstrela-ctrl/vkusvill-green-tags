@@ -55,6 +55,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
+  "124264": {
+    "name": "Котлета \"Грильбургер\"",
+    "price": "274",
+    "old_price": "456",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-grilburger-124264/"
+  },
   "103754": {
     "name": "Сосиски куриные с картофельным пюре и салат винегрет, 390 г",
     "price": "228",
@@ -62,12 +69,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-i-salat-vinegret-103754/"
   },
+  "112643": {
+    "name": "Бедра цыплят-бройлеров в чесночном маринаде",
+    "price": "342",
+    "old_price": "570",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bedra-tsyplyat-broylerov-v-chesnochnom-marinade-112643/"
+  },
   "23010": {
     "name": "Тимьян, 30 г",
     "price": "82",
     "old_price": "137",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/timyan-23010/"
+  },
+  "65513": {
+    "name": "Биточки из мяса индейки",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
   },
   "125311": {
     "name": "Поке-боул с креветками и соусом Манго-Юдзу",
