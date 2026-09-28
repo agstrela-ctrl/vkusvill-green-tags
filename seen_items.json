@@ -1,11 +1,4 @@
 {
-  "96587": {
-    "name": "Салат винегрет, 180 г",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-96587/"
-  },
   "105270": {
     "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
     "price": "228",
@@ -20,26 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-ribay-iz-govyadiny-zernovogo-otkorma-92975/"
   },
-  "70530": {
-    "name": "Онигири \"Филадельфия\"",
-    "price": "146",
-    "old_price": "244",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-filadelfiya-70530/"
-  },
   "65425": {
     "name": "Креветки жареные, 150 г",
     "price": "348",
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
-  "40564": {
-    "name": "Салат оливье с колбасой, 600 г",
-    "price": "372",
-    "old_price": "620",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-olive-s-kolbasoy-40564/"
   },
   "124264": {
     "name": "Котлета \"Грильбургер\"",
