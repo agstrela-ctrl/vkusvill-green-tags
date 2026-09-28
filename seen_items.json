@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-konservirovannym-tuntsom-i-yablokom-108186/"
   },
-  "50163": {
-    "name": "Суп-пюре \"Сырный\" с гренками, 260 г",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-pyure-syrnyy-s-grenkami-50163/"
-  },
   "96649": {
     "name": "Онигири с запеченным тунцом",
     "price": "126",
@@ -76,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kabachki-gril-so-smetanno-chesnochnym-sousom-96044/"
   },
-  "58173": {
-    "name": "Котлета куриная с картофельным пюре, 400 г",
-    "price": "270",
-    "old_price": "450",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-58173/"
-  },
   "54391": {
     "name": "Мясо по-французски с печеным картофелем",
     "price": "198",
@@ -103,13 +89,6 @@
     "old_price": "355",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
-  "48189": {
-    "name": "Плов \"Узбекский\" с говядиной, 500 г",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-48189/"
   },
   "92975": {
     "name": "Стейк Рибай из говядины зернового откорма, 250 г",
@@ -216,13 +195,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-gribnym-zhyulenom-i-kuritsey-108138/"
   },
-  "106398": {
-    "name": "Стейк Денвер",
-    "price": "583",
-    "old_price": "972",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-denver-106398/"
-  },
   "115822": {
     "name": "Онигири с тунцом в соево-кунжутном соусе",
     "price": "131",
@@ -243,13 +215,6 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/griby-enoki-24312/"
-  },
-  "39456": {
-    "name": "Салат с курицей и жареными шампиньонами",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-zharenymi-shampinonami-39456/"
   },
   "76248": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
@@ -327,20 +292,6 @@
     "old_price": "832",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
-  },
-  "115802": {
-    "name": "Биточки из индейки с сыром",
-    "price": "171",
-    "old_price": "285",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-indeyki-s-syrom-115802/"
-  },
-  "115254": {
-    "name": "Стейк из мраморной свинины на кости \"Ти-Боун\"",
-    "price": "335",
-    "old_price": "558",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-iz-mramornoy-svininy-na-kosti-ti-boun-115254/"
   },
   "53083": {
     "name": "Зефир воздушный \"Косичка\"",
