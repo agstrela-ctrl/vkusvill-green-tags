@@ -6,6 +6,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-tselnozernovaya-s-tuntsom-i-zapechennymi-tomatami-122564/"
   },
+  "26199": {
+    "name": "Круассан миндальный",
+    "price": "113",
+    "old_price": "189",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-26199/"
+  },
+  "22300": {
+    "name": "Круассан на масле",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
+  },
   "111102": {
     "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
     "price": "204",
@@ -26,6 +40,20 @@
     "old_price": "240",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kabachki-gril-so-smetanno-chesnochnym-sousom-96044/"
+  },
+  "116341": {
+    "name": "Брецель \"Миндальный\" на сливочном масле",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-mindalnyy-na-slivochnom-masle-116341/"
+  },
+  "125813": {
+    "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
   },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
@@ -48,6 +76,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladi-iz-tykvy-99858/"
   },
+  "20994": {
+    "name": "Рулет с маковой начинкой, половинка",
+    "price": "100",
+    "old_price": "167",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulet-s-makovoy-nachinkoy-20994/"
+  },
+  "65460": {
+    "name": "Изделие х/б из зеленой гречки (на закваске)",
+    "price": "86",
+    "old_price": "144",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
+  },
   "109679": {
     "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
     "price": "167",
@@ -55,12 +97,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
   },
+  "75938": {
+    "name": "Круассан с малиной, кафе",
+    "price": "100",
+    "old_price": "166",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
+  },
   "115822": {
     "name": "Онигири с тунцом в соево-кунжутном соусе",
     "price": "131",
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
+  },
+  "119801": {
+    "name": "Палочки сдобные с варёной сгущенкой",
+    "price": "82",
+    "old_price": "136",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/palochki-sdobnye-s-varyenoy-sgushchenkoy-119801/"
+  },
+  "117430": {
+    "name": "Улитка с маком, 120 г",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ulitka-s-makom-117430/"
   },
   "76248": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
