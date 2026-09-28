@@ -97,6 +97,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
+  "23010": {
+    "name": "Тимьян, 30 г",
+    "price": "82",
+    "old_price": "137",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/timyan-23010/"
+  },
+  "118202": {
+    "name": "Микрозелень (ростки) брокколи, 30 г",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mikrozelen-rostki-brokkoli-118202/"
+  },
   "125311": {
     "name": "Поке-боул с креветками и соусом Манго-Юдзу",
     "price": "299",
@@ -110,5 +124,12 @@
     "old_price": "60",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
+  },
+  "113869": {
+    "name": "Шпинат крупнолистовой, 100 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
   }
 }
