@@ -1,24 +1,10 @@
 {
-  "122737": {
-    "name": "Куриное филе гриль с киноа и овощами",
-    "price": "245",
-    "old_price": "408",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
-  },
   "96587": {
     "name": "Салат винегрет, 180 г",
     "price": "102",
     "old_price": "170",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vinegret-96587/"
-  },
-  "53515": {
-    "name": "Котлеты куриные с моцареллой с булгуром, киноа и овощами",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-s-motsarelloy-s-bulgurom-53515/"
   },
   "105270": {
     "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
@@ -47,13 +33,6 @@
     "old_price": "244",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-filadelfiya-70530/"
-  },
-  "118941": {
-    "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
   "65425": {
     "name": "Креветки жареные, 150 г",
@@ -89,13 +68,6 @@
     "old_price": "137",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/timyan-23010/"
-  },
-  "122742": {
-    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   },
   "125311": {
     "name": "Поке-боул с креветками и соусом Манго-Юдзу",
