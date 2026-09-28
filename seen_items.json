@@ -1,9 +1,93 @@
 {
+  "79663": {
+    "name": "Вода питьевая негазированная, 5 л",
+    "price": "70",
+    "old_price": "117",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
+  },
+  "26958": {
+    "name": "Персик Крым",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/persik-krym-26958/"
+  },
+  "70541": {
+    "name": "Форель стейк зам., 500 г",
+    "price": "712",
+    "old_price": "1187",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/forel-steyk-zam-70541/"
+  },
+  "53448": {
+    "name": "Салат латук Романо, шт",
+    "price": "117",
+    "old_price": "195",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-latuk-romano-53448/"
+  },
+  "92975": {
+    "name": "Стейк Рибай из говядины зернового откорма, 250 г",
+    "price": "611",
+    "old_price": "1018",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-ribay-iz-govyadiny-zernovogo-otkorma-92975/"
+  },
+  "29706": {
+    "name": "Горошек зеленый, замороженный",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/goroshek-zelenyy-29706/"
+  },
+  "103573": {
+    "name": "Палтус синекорый стейк зам., 600 г",
+    "price": "892",
+    "old_price": "1487",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/paltus-sinekoryy-steyk-zam-103573/"
+  },
+  "1173": {
+    "name": "Мидии мясо вареные 200/300 зам., 500 г",
+    "price": "393",
+    "old_price": "655",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/midii-myaso-varenye-200-300-zam-1173/"
+  },
+  "24643": {
+    "name": "Напиток \"Лимон-Имбирь\", 500 мл",
+    "price": "50",
+    "old_price": "84",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-limon-imbir-24643/"
+  },
+  "95019": {
+    "name": "Фрикадельки из семги с судаком зам., 240 г",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/frikadelki-iz-semgi-s-sudakom-zam-95019/"
+  },
   "53083": {
     "name": "Зефир воздушный \"Косичка\"",
     "price": "50",
     "old_price": "84",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zefir-vozdushnyy-kosichka-53083/"
+  },
+  "105739": {
+    "name": "Чипсы картофельные Lay`s со вкусом сыра 140 г",
+    "price": "139",
+    "old_price": "231",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chipsy-kartofelnye-lay-s-so-vkusom-syra-140-g-105739/"
+  },
+  "83476": {
+    "name": "Лимонад Borjomi Limonati by Тархун ж/б 330 мл",
+    "price": "114",
+    "old_price": "190",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/limonad-borjomi-limonati-by-tarkhun-zh-b-330-ml-83476/"
   }
 }
