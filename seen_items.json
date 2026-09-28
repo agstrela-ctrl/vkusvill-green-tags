@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-tselnozernovaya-s-tuntsom-i-zapechennymi-tomatami-122564/"
   },
-  "108186": {
-    "name": "Салат с консервированным тунцом и яблоком",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-konservirovannym-tuntsom-i-yablokom-108186/"
-  },
   "111102": {
     "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
     "price": "204",
@@ -26,13 +19,6 @@
     "old_price": "240",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grechka-po-kupecheski-66903/"
-  },
-  "89458": {
-    "name": "Салат \"Коул Слоу\" постный",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
   },
   "96044": {
     "name": "Кабачки \"Гриль\" со сметанно-чесночным соусом",
@@ -62,33 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladi-iz-tykvy-99858/"
   },
-  "117219": {
-    "name": "Паста Ризони с куриными фрикадельками и томатным соусом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-rizoni-s-kurinymi-frikadelkami-i-tomatnym-sousom-117219/"
-  },
-  "98527": {
-    "name": "Овощи микс на пару",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
-  },
   "109679": {
     "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
     "price": "167",
     "old_price": "278",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
-  },
-  "68288": {
-    "name": "Котлета куриная на пару фаршированная брокколи",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-na-paru-farshirovannaya-brokkoli-68288/"
   },
   "115822": {
     "name": "Онигири с тунцом в соево-кунжутном соусе",
@@ -97,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
   },
-  "24312": {
-    "name": "Грибы Эноки, шт",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/griby-enoki-24312/"
-  },
   "76248": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
     "price": "296",
@@ -111,26 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-76248/"
   },
-  "100714": {
-    "name": "Лапша из батата в соусе терияки с куриным филе",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-v-souse-teriyaki-s-kurinym-file-100714/"
-  },
   "118364": {
     "name": "Микс салатный \"Нежный\", 200 г",
     "price": "102",
     "old_price": "170",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
-  },
-  "125132": {
-    "name": "Рулетики из цукини с творожным сыром и базиликом",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsukini-s-tvorozhnym-syrom-i-bazilikom-125132/"
   },
   "125620": {
     "name": "Сэндвич ролл \"Фалафель - бабагануш\" с сырным муссом",
@@ -145,13 +89,6 @@
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shanezhka-domashnyaya-s-kartofelem-na-sliv-masle-120588/"
-  },
-  "121939": {
-    "name": "Сэндвич ролл с курицей и фасолью",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-fasolyu-121939/"
   },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
