@@ -1,4 +1,18 @@
 {
+  "42406": {
+    "name": "Кефир 2,5% в бутылке, 900 г",
+    "price": "67",
+    "old_price": "112",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-2-42406/"
+  },
+  "26305": {
+    "name": "Хлеб \"Романовский\", нарезка",
+    "price": "181",
+    "old_price": "302",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
+  },
   "108295": {
     "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
     "price": "174",
