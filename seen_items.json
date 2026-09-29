@@ -1,10 +1,59 @@
 {
+  "99359": {
+    "name": "Шаурма с курицей и соусом \"Бургер\"",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-burger-99359/"
+  },
+  "98700": {
+    "name": "Оладьи на кефире, 7 шт",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/oladi-na-kefire-98700/"
+  },
+  "122325": {
+    "name": "Панкейки с клубничным топпингом, обогащенные белком",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pankeyki-s-klubnichnym-toppingom-122325/"
+  },
+  "61689": {
+    "name": "Биточек сочный с пенне",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochek-sochnyy-s-penne-61689/"
+  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
     "old_price": "355",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
+  },
+  "86669": {
+    "name": "Корюшка жареная, 200 г",
+    "price": "286",
+    "old_price": "477",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/koryushka-zharenaya-86669/"
+  },
+  "108295": {
+    "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
+  },
+  "118941": {
+    "name": "Боул-завтрак с сырным омлетом, креветками и зеленью",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
   "103988": {
     "name": "Кета холодного копчения ломтики, 100 г",
