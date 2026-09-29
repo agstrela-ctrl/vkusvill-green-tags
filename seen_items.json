@@ -1,18 +1,4 @@
 {
-  "36966": {
-    "name": "Масло подсолнечное нераф. высокоолеиновое, стекло",
-    "price": "177",
-    "old_price": "295",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/maslo-podsolnechnoe-neraf-vysokooleinovoe-36966/"
-  },
-  "1173": {
-    "name": "Мидии мясо вареные 200/300 зам., 500 г",
-    "price": "393",
-    "old_price": "655",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/midii-myaso-varenye-200-300-zam-1173/"
-  },
   "96960": {
     "name": "Орехи кедровые очищенные дальневосточные (крупные), 100 г",
     "price": "376",
@@ -40,19 +26,5 @@
     "old_price": "550",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nabor-iz-pryanikov-dlya-raskrashivaniya-vkusnaya-akvarel-106871/"
-  },
-  "84331": {
-    "name": "Масляная рыба холодного копчения ломтики, 100 г",
-    "price": "168",
-    "old_price": "280",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/maslyanaya-ryba-kholodnogo-kopcheniya-lomtiki-84331/"
-  },
-  "33244": {
-    "name": "Вода горная природная питьевая Vita Архыз для детей старше 3-х лет негазированная пэт 1,5 л",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-gornaya-prirodnaya-pitevaya-vita-arkhyz-dlya-detey-starshe-3-kh-let-negazirovannaya-pet-1-33244/"
   }
 }
