@@ -6,19 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
   },
-  "96044": {
-    "name": "Кабачки \"Гриль\" со сметанно-чесночным соусом",
-    "price": "144",
-    "old_price": "240",
+  "58728": {
+    "name": "Хлеб цельнозерновой с отрубями",
+    "price": "180",
+    "old_price": "300",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kabachki-gril-so-smetanno-chesnochnym-sousom-96044/"
-  },
-  "81642": {
-    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
+    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
@@ -34,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-kholodnogo-kopcheniya-lomtiki-38875/"
   },
-  "118202": {
-    "name": "Микрозелень (ростки) брокколи, 30 г",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mikrozelen-rostki-brokkoli-118202/"
-  },
   "103988": {
     "name": "Кета холодного копчения ломтики, 100 г",
     "price": "171",
@@ -48,32 +34,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keta-kholodnogo-kopcheniya-lomtiki-103988/"
   },
-  "84331": {
-    "name": "Масляная рыба холодного копчения ломтики, 100 г",
-    "price": "168",
-    "old_price": "280",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/maslyanaya-ryba-kholodnogo-kopcheniya-lomtiki-84331/"
-  },
   "76248": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
     "price": "296",
     "old_price": "494",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-76248/"
-  },
-  "125620": {
-    "name": "Сэндвич ролл \"Фалафель - бабагануш\" с сырным муссом",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-falafel-babaganush-s-syrnym-mussom-125620/"
-  },
-  "115112": {
-    "name": "Жаркое из кролика со сметаной",
-    "price": "499",
-    "old_price": "832",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
   }
 }
