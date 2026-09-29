@@ -62,18 +62,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keta-kholodnogo-kopcheniya-lomtiki-103988/"
   },
-  "103756": {
-    "name": "Печенье сдобное \"Палочки с шоколадом\"",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-palochki-s-shokoladom-103756/"
-  },
   "51996": {
     "name": "Вареники с абрикосами",
     "price": "199",
     "old_price": "332",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vareniki-s-abrikosami-51996/"
+  },
+  "103756": {
+    "name": "Печенье сдобное \"Палочки с шоколадом\"",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-palochki-s-shokoladom-103756/"
   }
 }
