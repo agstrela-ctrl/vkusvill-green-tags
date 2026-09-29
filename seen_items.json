@@ -1,25 +1,4 @@
 {
-  "99359": {
-    "name": "Шаурма с курицей и соусом \"Бургер\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-burger-99359/"
-  },
-  "122325": {
-    "name": "Панкейки с клубничным топпингом, обогащенные белком",
-    "price": "159",
-    "old_price": "265",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pankeyki-s-klubnichnym-toppingom-122325/"
-  },
-  "61689": {
-    "name": "Биточек сочный с пенне",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochek-sochnyy-s-penne-61689/"
-  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
@@ -48,32 +27,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-zavtrak-s-syrnym-omletom-118941/"
   },
-  "115752": {
-    "name": "Кольцо песочное с вареной сгущенкой и арахисом",
-    "price": "80",
-    "old_price": "133",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koltso-pesochnoe-s-varenoy-sgushchenkoy-i-arakhisom-115752/"
-  },
   "103988": {
     "name": "Кета холодного копчения ломтики, 100 г",
     "price": "171",
     "old_price": "285",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keta-kholodnogo-kopcheniya-lomtiki-103988/"
-  },
-  "51996": {
-    "name": "Вареники с абрикосами",
-    "price": "199",
-    "old_price": "332",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vareniki-s-abrikosami-51996/"
-  },
-  "103756": {
-    "name": "Печенье сдобное \"Палочки с шоколадом\"",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-palochki-s-shokoladom-103756/"
   }
 }
