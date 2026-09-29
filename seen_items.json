@@ -20,19 +20,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
   },
-  "98731": {
-    "name": "Арбуз сердцевина, 300 г",
-    "price": "213",
-    "old_price": "355",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
   "92975": {
     "name": "Стейк Рибай из говядины зернового откорма, 250 г",
     "price": "611",
     "old_price": "1018",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-ribay-iz-govyadiny-zernovogo-otkorma-92975/"
+  },
+  "98731": {
+    "name": "Арбуз сердцевина, 300 г",
+    "price": "213",
+    "old_price": "355",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
   "109679": {
     "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
