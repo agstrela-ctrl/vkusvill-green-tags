@@ -20,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kabachki-gril-so-smetanno-chesnochnym-sousom-96044/"
   },
+  "81642": {
+    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
+  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
@@ -68,13 +75,6 @@
     "old_price": "308",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-falafel-babaganush-s-syrnym-mussom-125620/"
-  },
-  "120588": {
-    "name": "Шанежка \"Домашняя\" с картофелем на слив. масле, 2 шт",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shanezhka-domashnyaya-s-kartofelem-na-sliv-masle-120588/"
   },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
