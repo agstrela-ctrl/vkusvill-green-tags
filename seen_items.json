@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-kurinaya-v-panirovke-iz-sukharey-s-kartofelnym-pyure-39543/"
   },
-  "98731": {
-    "name": "Арбуз сердцевина, 300 г",
-    "price": "213",
-    "old_price": "355",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
   "81722": {
     "name": "Изделие х/б \"Ржаной край\" зерновой, нарезка",
     "price": "82",
@@ -82,13 +75,6 @@
     "old_price": "230",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kasha-risovaya-na-kokosovoy-osnove-s-s-frukt-33785/"
-  },
-  "119016": {
-    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
   },
   "115936": {
     "name": "Филе трески запеченное под маринадом",
@@ -208,12 +194,5 @@
     "old_price": "190",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ikra-mintaya-podkopchenaya-v-masle-119744/"
-  },
-  "124903": {
-    "name": "Форель Форель Горная стейк охл, 400 г",
-    "price": "498",
-    "old_price": "830",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-forel-gornaya-steyk-okhl-124903/"
   }
 }
