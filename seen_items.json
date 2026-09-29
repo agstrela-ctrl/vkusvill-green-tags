@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
   },
-  "92975": {
-    "name": "Стейк Рибай из говядины зернового откорма, 250 г",
-    "price": "611",
-    "old_price": "1018",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-ribay-iz-govyadiny-zernovogo-otkorma-92975/"
-  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
@@ -34,19 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
-  "109679": {
-    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
-    "price": "167",
-    "old_price": "278",
+  "38875": {
+    "name": "Форель холодного копчения ломтики, 150 г",
+    "price": "315",
+    "old_price": "525",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
-  },
-  "75938": {
-    "name": "Круассан с малиной, кафе",
-    "price": "100",
-    "old_price": "166",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
+    "link": "https://vkusvill.ru/goods/forel-kholodnogo-kopcheniya-lomtiki-38875/"
   },
   "118202": {
     "name": "Микрозелень (ростки) брокколи, 30 г",
@@ -54,6 +40,20 @@
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mikrozelen-rostki-brokkoli-118202/"
+  },
+  "103988": {
+    "name": "Кета холодного копчения ломтики, 100 г",
+    "price": "171",
+    "old_price": "285",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keta-kholodnogo-kopcheniya-lomtiki-103988/"
+  },
+  "84331": {
+    "name": "Масляная рыба холодного копчения ломтики, 100 г",
+    "price": "168",
+    "old_price": "280",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/maslyanaya-ryba-kholodnogo-kopcheniya-lomtiki-84331/"
   },
   "76248": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
