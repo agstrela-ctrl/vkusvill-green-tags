@@ -13,20 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "58728": {
-    "name": "Хлеб цельнозерновой с отрубями",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
-  },
-  "68804": {
-    "name": "Каша пшенная молочная с тыквой, 250 г",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-pshennaya-molochnaya-s-tykvoy-68804/"
-  },
   "105840": {
     "name": "Солянка \"по-домашнему\"",
     "price": "164",
@@ -40,6 +26,13 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-dvukhsolodovyy-s-proroshchennym-zernom-115131/"
+  },
+  "15310": {
+    "name": "Кинза, 50 г",
+    "price": "55",
+    "old_price": "92",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kinza-15310/"
   },
   "21482": {
     "name": "Лаваш \"Армянский\" тандырный, 150 г",
@@ -62,6 +55,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
+  "123009": {
+    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
   "82543": {
     "name": "Крыло цыпленка-бройлера, упаковка от 1.3 кг",
     "price": "299",
@@ -76,20 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-kharcho-18360/"
   },
-  "34511": {
-    "name": "Пенне с грибами и овощами",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
-  },
-  "125321": {
-    "name": "Десерт \"Тирамису\" кокосовый с миндалем",
-    "price": "148",
-    "old_price": "247",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-tiramisu-kokosovyy-s-mindalem-125321/"
-  },
   "65460": {
     "name": "Изделие х/б из зеленой гречки (на закваске)",
     "price": "86",
@@ -97,19 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   },
-  "109679": {
-    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
-    "price": "167",
-    "old_price": "278",
+  "125321": {
+    "name": "Десерт \"Тирамису\" кокосовый с миндалем",
+    "price": "148",
+    "old_price": "247",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
-  },
-  "90665": {
-    "name": "Печенье \"Шарики\" с варёной сгущёнкой, кафе",
-    "price": "115",
-    "old_price": "192",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-shariki-s-varyenoy-sgushchyenkoy-90665/"
+    "link": "https://vkusvill.ru/goods/desert-tiramisu-kokosovyy-s-mindalem-125321/"
   },
   "15924": {
     "name": "Котлеты из щуки охл., 300 г",
@@ -125,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-treski-okhl-20324/"
   },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
   "125717": {
     "name": "Онигири с кимчи и свининой",
     "price": "131",
@@ -146,32 +118,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
-  "119539": {
-    "name": "Лепешка Шоти, 300 г",
-    "price": "56",
-    "old_price": "94",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
-  },
-  "122742": {
-    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
-  },
   "99743": {
     "name": "Завтрак боул с хашбрауном, кафе",
     "price": "204",
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
-  },
-  "119744": {
-    "name": "Икра минтая подкопченая в масле, 150 г",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ikra-mintaya-podkopchenaya-v-masle-119744/"
   }
 }
