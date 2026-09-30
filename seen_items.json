@@ -48,18 +48,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-i-svininoy-125717/"
   },
-  "103763": {
-    "name": "Конфеты шоколадные Belgica Seashells с начинкой пралине 190 г",
-    "price": "514",
-    "old_price": "856",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
-  },
   "124581": {
     "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
     "price": "36",
     "old_price": "60",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
+  },
+  "103763": {
+    "name": "Конфеты шоколадные Belgica Seashells с начинкой пралине 190 г",
+    "price": "514",
+    "old_price": "856",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
   }
 }
