@@ -20,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-s-krevetkoy-zapechennyy-pod-syrnoy-shapochkoy-119243/"
   },
-  "46648": {
-    "name": "Ролл Филадельфия",
-    "price": "359",
-    "old_price": "598",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-filadelfiya-46648/"
-  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
-  },
-  "98697": {
-    "name": "Шаурма с курицей и соусом \"Гриль\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-gril-98697/"
   },
   "101898": {
     "name": "Лепешки картофельные с гаудой и пармезаном",
@@ -54,13 +40,6 @@
     "old_price": "122",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-zernyshko-2-69259/"
-  },
-  "100604": {
-    "name": "Картофель мини с чесноком, зеленью запеченный",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-mini-s-chesnokom-100604/"
   },
   "18161": {
     "name": "Лаваш \"Армянский по-деревенски\", 220 г",
@@ -124,13 +103,6 @@
     "old_price": "320",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-vetchinoy-kurinoy-pod-syrom-71621/"
-  },
-  "109665": {
-    "name": "Филе форели радужной на гриле с рисом",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-foreli-raduzhnoy-na-grile-s-risom-109665/"
   },
   "126907": {
     "name": "Пирожное муссовое с ромашкой и персиковой начинкой",
@@ -342,13 +314,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-109046/"
   },
-  "20455": {
-    "name": "Пирожное \"Трюфельное\" постное",
-    "price": "118",
-    "old_price": "197",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-tryufelnoe-postnoe-20455/"
-  },
   "123710": {
     "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
     "price": "167",
@@ -369,13 +334,6 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-lisichkami-125771/"
-  },
-  "81259": {
-    "name": "Десерт \"Черный лес с вишней\", постный",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-chernyy-les-s-vishney-81259/"
   },
   "77063": {
     "name": "Стейк Рибай из говядины с пряным маслом",
