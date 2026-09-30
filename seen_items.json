@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-gril-98697/"
   },
-  "98700": {
-    "name": "Оладьи на кефире, 7 шт",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-na-kefire-98700/"
-  },
   "101898": {
     "name": "Лепешки картофельные с гаудой и пармезаном",
     "price": "155",
@@ -83,26 +76,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-1621/"
   },
-  "83097": {
-    "name": "Манты по-восточному",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/manty-po-vostochnomu-83097/"
-  },
   "92807": {
     "name": "Паста Тортильони с сыром фета и ароматными травами",
     "price": "176",
     "old_price": "294",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-tortiloni-s-syrom-feta-i-aromatnymi-travami-92807/"
-  },
-  "70323": {
-    "name": "Форель малосоленая ломтики с укропом, 100 г",
-    "price": "207",
-    "old_price": "345",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-malosolenaya-lomtiki-s-ukropom-70323/"
   },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
@@ -132,13 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-file-kusok-na-kozhe-okhl-63575/"
   },
-  "61936": {
-    "name": "Фарш из мяса курицы, индейки и кролика",
-    "price": "317",
-    "old_price": "529",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
-  },
   "106628": {
     "name": "Ролл \"Симфония классики\" с сёмгой и творожным сыром",
     "price": "264",
@@ -167,13 +139,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-mussovoe-s-romashkoy-i-persikovoy-nachinkoy-126907/"
   },
-  "63576": {
-    "name": "Семга филе-кусок на коже охл., 350 г",
-    "price": "720",
-    "old_price": "1200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/semga-file-kusok-na-kozhe-okhl-63576/"
-  },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
     "price": "47",
@@ -188,26 +153,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tostovyy-narezka-67713/"
   },
-  "27161": {
-    "name": "Сырники из творога, кафе",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-27161/"
-  },
   "98052": {
     "name": "Паста Орзо с куриными фрикадельками",
     "price": "126",
     "old_price": "210",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-orzo-s-kurinymi-frikadelkami-98052/"
-  },
-  "59515": {
-    "name": "Сосиска в тесте (свинина, говядина), 2 шт.",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiska-v-teste-svinina-59515/"
   },
   "58192": {
     "name": "Кефир 3,2%, 290 г",
@@ -356,13 +307,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-fistashkoy-115466/"
   },
-  "115669": {
-    "name": "Мимоза с горбушей горячего копчения",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mimoza-s-gorbushey-goryachego-kopcheniya-115669/"
-  },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
     "price": "89",
@@ -376,13 +320,6 @@
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-kuritsy-i-indeyki-125768/"
-  },
-  "83788": {
-    "name": "Форель малосоленая \"опаленная\" филе-кусок, 150 г",
-    "price": "310",
-    "old_price": "517",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-malosolenaya-opalennaya-file-kusok-83788/"
   },
   "69649": {
     "name": "Оладьи печеночные, 300 г",
@@ -467,13 +404,6 @@
     "old_price": "130",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-myusli-birkher-po-shveytsarski-s-yablokom-i-mindalem-98002/"
-  },
-  "102993": {
-    "name": "Ассорти х/к из кеты, масляной рыбы, нерки и омуля, 200 г",
-    "price": "352",
-    "old_price": "587",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-kety-102993/"
   },
   "38813": {
     "name": "Пирожное \"Морковное\", веган",
