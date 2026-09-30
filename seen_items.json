@@ -1,11 +1,4 @@
 {
-  "185": {
-    "name": "Творог 5%, 400 г",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-5-185/"
-  },
   "119243": {
     "name": "Ролл с креветкой запеченный под сырной шапочкой",
     "price": "251",
@@ -26,13 +19,6 @@
     "old_price": "258",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshki-kartofelnye-s-gaudoy-i-parmezanom-101898/"
-  },
-  "69259": {
-    "name": "Творог \"Зернышко\" 2,5%, 200 г",
-    "price": "73",
-    "old_price": "122",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-zernyshko-2-69259/"
   },
   "18161": {
     "name": "Лаваш \"Армянский по-деревенски\", 220 г",
@@ -61,13 +47,6 @@
     "old_price": "355",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
-  "62806": {
-    "name": "Фарш из говядины и свинины, 360 г",
-    "price": "206",
-    "old_price": "343",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-svininy-62806/"
   },
   "63575": {
     "name": "Форель филе-кусок на коже охл., 350 г",
