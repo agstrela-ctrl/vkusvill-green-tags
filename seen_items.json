@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
+  "23595": {
+    "name": "Филе куриной грудки с прованскими травами",
+    "price": "204",
+    "old_price": "340",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-s-provanskimi-travami-23595/"
+  },
   "115131": {
     "name": "Хлеб \"Двухсолодовый\" с пророщенным зерном, нарезка",
     "price": "89",
@@ -27,12 +34,54 @@
     "discount": "41",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-21482/"
   },
+  "68539": {
+    "name": "Колбаса \"Классическая\" вареная, нарезка",
+    "price": "177",
+    "old_price": "295",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-varenaya-68539/"
+  },
+  "123960": {
+    "name": "Сосиски из курицы на безлактозном молоке",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-na-bezlaktoznom-moloke-123960/"
+  },
+  "39219": {
+    "name": "Ветчина из индейки",
+    "price": "350",
+    "old_price": "583",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vetchina-iz-indeyki-39219/"
+  },
+  "74910": {
+    "name": "Сосиски Классические с молоком",
+    "price": "280",
+    "old_price": "467",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-klassicheskie-s-molokom-74910/"
+  },
+  "101555": {
+    "name": "Паштет из яиц классический вареный",
+    "price": "148",
+    "old_price": "247",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pashtet-iz-yaits-klassicheskiy-varenyy-101555/"
+  },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
     "price": "47",
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
+  "118404": {
+    "name": "\"Буженина\" из курицы",
+    "price": "399",
+    "old_price": "665",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/buzhenina-iz-kuritsy-118404/"
   },
   "119445": {
     "name": "Тофу с томатами и базиликом, 250 г",
@@ -41,12 +90,61 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-s-tomatami-i-bazilikom-119445/"
   },
+  "101105": {
+    "name": "Сосиски \"Смышленыши\" для питания детей от 3-х лет",
+    "price": "149",
+    "old_price": "248",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-smyshlenyshi-dlya-pitaniya-detey-ot-3-kh-let-101105/"
+  },
+  "58696": {
+    "name": "Пирожное дайфукумоти \"Клубника\" зам.",
+    "price": "110",
+    "old_price": "184",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-dayfukumoti-klubnika-zam-58696/"
+  },
+  "118115": {
+    "name": "Блинчики с курицей песто в соусе бешамель, зам.",
+    "price": "297",
+    "old_price": "495",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/blinchiki-s-kuritsey-pesto-v-souse-beshamel-118115/"
+  },
   "125717": {
     "name": "Онигири с кимчи и свининой",
     "price": "131",
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-i-svininoy-125717/"
+  },
+  "97859": {
+    "name": "Сосиски Окраина Молочные 420 г",
+    "price": "278",
+    "old_price": "464",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-okraina-molochnye-420-g-97859/"
+  },
+  "63223": {
+    "name": "Сосиски Ближние горки Баварские 450 г",
+    "price": "209",
+    "old_price": "349",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-blizhnie-gorki-bavarskie-450-g-63223/"
+  },
+  "94041": {
+    "name": "Колбаса \"Улитка\" куриная жареная, высший сорт",
+    "price": "266",
+    "old_price": "443",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-ulitka-kurinaya-zharenaya-94041/"
+  },
+  "75750": {
+    "name": "Ветчина куриная Для тостов, нарезка",
+    "price": "164",
+    "old_price": "274",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vetchina-kurinaya-dlya-tostov-75750/"
   },
   "124581": {
     "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
@@ -55,11 +153,46 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
+  "76753": {
+    "name": "Колбаса вареная Языковая, 300 г",
+    "price": "245",
+    "old_price": "408",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-yazykovaya-76753/"
+  },
+  "118425": {
+    "name": "Колбаса варёная из курицы и кусочками филе индейки",
+    "price": "356",
+    "old_price": "593",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-varyenaya-iz-kuritsy-i-kusochkami-file-indeyki-118425/"
+  },
+  "116863": {
+    "name": "Колбаса вареная Casademont Мортадела нарезка 90 г",
+    "price": "146",
+    "old_price": "244",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-casademont-mortadela-narezka-90-g-116863/"
+  },
   "103763": {
     "name": "Конфеты шоколадные Belgica Seashells с начинкой пралине 190 г",
     "price": "514",
     "old_price": "856",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
+  },
+  "119681": {
+    "name": "Колбаса вареная без яйца, Халяль",
+    "price": "271",
+    "old_price": "452",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-bez-yaytsa-119681/"
+  },
+  "119390": {
+    "name": "Сосиски из курицы с брокколи и сыром",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-s-brokkoli-i-syrom-119390/"
   }
 }
