@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "111102": {
-    "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
-  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
@@ -48,26 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
-  "81722": {
-    "name": "Изделие х/б \"Ржаной край\" зерновой, нарезка",
-    "price": "82",
-    "old_price": "137",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-rzhanoy-kray-zernovoy-81722/"
-  },
   "34511": {
     "name": "Пенне с грибами и овощами",
     "price": "125",
     "old_price": "208",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
-  },
-  "115936": {
-    "name": "Филе трески запеченное под маринадом",
-    "price": "364",
-    "old_price": "606",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-treski-zapechennoe-pod-marinadom-115936/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
@@ -82,13 +61,6 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-i-svininoy-125717/"
-  },
-  "117219": {
-    "name": "Паста Ризони с куриными фрикадельками и томатным соусом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-rizoni-s-kurinymi-frikadelkami-i-tomatnym-sousom-117219/"
   },
   "124581": {
     "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
@@ -124,13 +96,6 @@
     "old_price": "171",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-s-fistashkovoy-nachinkoy-92590/"
-  },
-  "65513": {
-    "name": "Биточки из мяса индейки",
-    "price": "215",
-    "old_price": "358",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
   },
   "119744": {
     "name": "Икра минтая подкопченая в масле, 150 г",
