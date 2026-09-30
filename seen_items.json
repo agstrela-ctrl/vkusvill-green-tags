@@ -27,26 +27,19 @@
     "discount": "41",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-21482/"
   },
-  "123818": {
-    "name": "Крем-суп сырный в бутылке",
-    "price": "195",
-    "old_price": "325",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-syrnyy-v-butylke-123818/"
-  },
-  "109471": {
-    "name": "Тартин \"Зерновой\", нарезка, 250 г",
-    "price": "62",
-    "old_price": "104",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
-  },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
     "price": "47",
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
+  "119445": {
+    "name": "Тофу с томатами и базиликом, 250 г",
+    "price": "109",
+    "old_price": "182",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tofu-s-tomatami-i-bazilikom-119445/"
   },
   "125717": {
     "name": "Онигири с кимчи и свининой",
