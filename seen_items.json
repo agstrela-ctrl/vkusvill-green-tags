@@ -6,11 +6,32 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
   },
+  "34217": {
+    "name": "Батон нарезной, половинка",
+    "price": "28",
+    "old_price": "46",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
+  },
   "101555": {
     "name": "Паштет из яиц классический вареный",
     "price": "148",
     "old_price": "247",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pashtet-iz-yaits-klassicheskiy-varenyy-101555/"
+  },
+  "103763": {
+    "name": "Конфеты шоколадные Belgica Seashells с начинкой пралине 190 г",
+    "price": "514",
+    "old_price": "856",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
+  },
+  "119390": {
+    "name": "Сосиски из курицы с брокколи и сыром",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-s-brokkoli-i-syrom-119390/"
   }
 }
