@@ -13,27 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "23595": {
-    "name": "Филе куриной грудки с прованскими травами",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-s-provanskimi-travami-23595/"
-  },
-  "115131": {
-    "name": "Хлеб \"Двухсолодовый\" с пророщенным зерном, нарезка",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-dvukhsolodovyy-s-proroshchennym-zernom-115131/"
-  },
-  "68539": {
-    "name": "Колбаса \"Классическая\" вареная, нарезка",
-    "price": "177",
-    "old_price": "295",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-varenaya-68539/"
-  },
   "123960": {
     "name": "Сосиски из курицы на безлактозном молоке",
     "price": "179",
@@ -62,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pashtet-iz-yaits-klassicheskiy-varenyy-101555/"
   },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
   "77382": {
     "name": "Капкейк с начинкой сгущенное молоко",
     "price": "142",
@@ -83,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/buzhenina-iz-kuritsy-118404/"
   },
-  "96413": {
-    "name": "Печенье сдобное \"Сгущенные лепестки\"",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-sgushchennye-lepestki-96413/"
-  },
   "119445": {
     "name": "Тофу с томатами и базиликом, 250 г",
     "price": "109",
@@ -103,13 +68,6 @@
     "old_price": "248",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-smyshlenyshi-dlya-pitaniya-detey-ot-3-kh-let-101105/"
-  },
-  "58696": {
-    "name": "Пирожное дайфукумоти \"Клубника\" зам.",
-    "price": "110",
-    "old_price": "184",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-dayfukumoti-klubnika-zam-58696/"
   },
   "118115": {
     "name": "Блинчики с курицей песто в соусе бешамель, зам.",
@@ -131,20 +89,6 @@
     "old_price": "464",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-okraina-molochnye-420-g-97859/"
-  },
-  "63223": {
-    "name": "Сосиски Ближние горки Баварские 450 г",
-    "price": "209",
-    "old_price": "349",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-blizhnie-gorki-bavarskie-450-g-63223/"
-  },
-  "94041": {
-    "name": "Колбаса \"Улитка\" куриная жареная, высший сорт",
-    "price": "266",
-    "old_price": "443",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-ulitka-kurinaya-zharenaya-94041/"
   },
   "75750": {
     "name": "Ветчина куриная Для тостов, нарезка",
