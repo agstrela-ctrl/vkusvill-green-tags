@@ -13,26 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "123960": {
-    "name": "Сосиски из курицы на безлактозном молоке",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-na-bezlaktoznom-moloke-123960/"
-  },
   "39219": {
     "name": "Ветчина из индейки",
     "price": "350",
     "old_price": "583",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-indeyki-39219/"
-  },
-  "74910": {
-    "name": "Сосиски Классические с молоком",
-    "price": "280",
-    "old_price": "467",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-klassicheskie-s-molokom-74910/"
   },
   "101555": {
     "name": "Паштет из яиц классический вареный",
@@ -41,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pashtet-iz-yaits-klassicheskiy-varenyy-101555/"
   },
-  "77382": {
-    "name": "Капкейк с начинкой сгущенное молоко",
-    "price": "142",
-    "old_price": "237",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapkeyk-s-nachinkoy-sgushchennoe-moloko-77382/"
-  },
   "118404": {
     "name": "\"Буженина\" из курицы",
     "price": "399",
@@ -55,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/buzhenina-iz-kuritsy-118404/"
   },
-  "119445": {
-    "name": "Тофу с томатами и базиликом, 250 г",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tofu-s-tomatami-i-bazilikom-119445/"
-  },
   "101105": {
     "name": "Сосиски \"Смышленыши\" для питания детей от 3-х лет",
     "price": "149",
     "old_price": "248",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-smyshlenyshi-dlya-pitaniya-detey-ot-3-kh-let-101105/"
-  },
-  "118115": {
-    "name": "Блинчики с курицей песто в соусе бешамель, зам.",
-    "price": "297",
-    "old_price": "495",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blinchiki-s-kuritsey-pesto-v-souse-beshamel-118115/"
   },
   "125717": {
     "name": "Онигири с кимчи и свининой",
