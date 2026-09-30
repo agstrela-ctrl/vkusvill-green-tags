@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
-  "39543": {
-    "name": "Котлета куриная в панировке из сухарей с картофельным пюре",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-v-panirovke-iz-sukharey-s-kartofelnym-pyure-39543/"
-  },
   "81722": {
     "name": "Изделие х/б \"Ржаной край\" зерновой, нарезка",
     "price": "82",
@@ -68,13 +61,6 @@
     "old_price": "208",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
-  },
-  "33849": {
-    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
-    "price": "81",
-    "old_price": "135",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
   },
   "115936": {
     "name": "Филе трески запеченное под маринадом",
@@ -111,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
-  "92590": {
-    "name": "Круассан с фисташковой начинкой",
-    "price": "103",
-    "old_price": "171",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-s-fistashkovoy-nachinkoy-92590/"
-  },
   "119539": {
     "name": "Лепешка Шоти, 300 г",
     "price": "56",
@@ -138,6 +117,13 @@
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
+  },
+  "92590": {
+    "name": "Круассан с фисташковой начинкой",
+    "price": "103",
+    "old_price": "171",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-s-fistashkovoy-nachinkoy-92590/"
   },
   "65513": {
     "name": "Биточки из мяса индейки",
