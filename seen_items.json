@@ -27,18 +27,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koryushka-aziatskaya-kholodnogo-kopcheniya-117285/"
   },
-  "120751": {
-    "name": "Батон-мини \"Брецель\"",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
   "115478": {
     "name": "Булочка \"Бородинская\", 4 шт",
     "price": "53",
     "old_price": "88",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
+  },
+  "120751": {
+    "name": "Батон-мини \"Брецель\"",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
   }
 }
