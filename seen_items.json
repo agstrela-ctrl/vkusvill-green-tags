@@ -1,9 +1,23 @@
 {
-  "114995": {
-    "name": "Баклажаны \"Пармиджано\" с соусом Болоньезе и моцареллой",
-    "price": "384",
-    "old_price": "640",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/baklazhany-parmidzhano-s-sousom-boloneze-i-motsarelloy-114995/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "32",
+    "old_price": "54",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "15817": {
+    "name": "Яблоко Слава победителям",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-slava-pobeditelyam-15817/"
   }
 }
