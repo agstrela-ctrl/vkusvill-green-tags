@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-pechenyy-po-baltiyski-s-kuritsey-i-ugrem-126060/"
   },
-  "61602": {
-    "name": "Суп с куриными фрикадельками и пастой \"Звездочки\"",
-    "price": "124",
-    "old_price": "206",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-s-kurinymi-frikadelkami-i-pastoy-zvezdochki-61602/"
-  },
   "124649": {
     "name": "Сосиска в тесте фило, 2 шт",
     "price": "160",
@@ -40,13 +33,6 @@
     "old_price": "210",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
-  },
-  "102082": {
-    "name": "Омлет с томатами и моцареллой",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-s-tomatami-i-motsarelloy-102082/"
   },
   "120063": {
     "name": "Курица в сливочно-шпинатном соусе с рисом",
@@ -90,6 +76,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
   },
+  "113057": {
+    "name": "Дыня резаная полукольца, 300 г",
+    "price": "231",
+    "old_price": "385",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dynya-rezanaya-polukoltsa-113057/"
+  },
   "67713": {
     "name": "Хлеб \"Тостовый\" нарезка, 250 г",
     "price": "62",
@@ -110,6 +103,13 @@
     "old_price": "342",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-mini-volshebnaya-istoriya-109332/"
+  },
+  "104701": {
+    "name": "Закрытый омлет с ветчиной и сыром, кафе",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
   },
   "26136": {
     "name": "Манго Кейт",
@@ -152,6 +152,13 @@
     "old_price": "842",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
+  },
+  "102259": {
+    "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
   },
   "109184": {
     "name": "Жюльен грибной с картофелем бэби постный",
