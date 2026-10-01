@@ -1,9 +1,51 @@
 {
-  "113083": {
-    "name": "Шаурма с курицей на гриле по-домашнему, кафе",
-    "price": "173",
-    "old_price": "288",
+  "118098": {
+    "name": "Паста \"Карбонара\" со сливками",
+    "price": "221",
+    "old_price": "368",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-na-grile-po-domashnemu-113083/"
+    "link": "https://vkusvill.ru/goods/pasta-karbonara-so-slivkami-118098/"
+  },
+  "83510": {
+    "name": "Изделие х/б \"Ржаной цельнозерновой\"",
+    "price": "53",
+    "old_price": "88",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-rzhanoy-tselnozernovoy-83510/"
+  },
+  "18161": {
+    "name": "Лаваш \"Армянский по-деревенски\", 220 г",
+    "price": "48",
+    "old_price": "80",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
+  },
+  "98731": {
+    "name": "Арбуз сердцевина, 300 г",
+    "price": "213",
+    "old_price": "355",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
+  },
+  "112770": {
+    "name": "Хлеб \"Свекольно-морковный\"",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
+  },
+  "111433": {
+    "name": "Чизкейк \"Японский\", 140 г",
+    "price": "157",
+    "old_price": "262",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chizkeyk-yaponskiy-111433/"
+  },
+  "125599": {
+    "name": "Вертута \"Три сыра\"",
+    "price": "170",
+    "old_price": "284",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vertuta-tri-syra-125599/"
   }
 }
