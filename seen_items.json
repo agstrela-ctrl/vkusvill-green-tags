@@ -1,4 +1,25 @@
 {
+  "126060": {
+    "name": "Картофель печеный по-балтийски с курицей и угрем",
+    "price": "186",
+    "old_price": "310",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-pechenyy-po-baltiyski-s-kuritsey-i-ugrem-126060/"
+  },
+  "61602": {
+    "name": "Суп с куриными фрикадельками и пастой \"Звездочки\"",
+    "price": "124",
+    "old_price": "206",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-kurinymi-frikadelkami-i-pastoy-zvezdochki-61602/"
+  },
+  "124649": {
+    "name": "Сосиска в тесте фило, 2 шт",
+    "price": "160",
+    "old_price": "267",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiska-v-teste-filo-124649/"
+  },
   "102212": {
     "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
     "price": "222",
@@ -20,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
   },
+  "102082": {
+    "name": "Омлет с томатами и моцареллой",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/omlet-s-tomatami-i-motsarelloy-102082/"
+  },
   "120063": {
     "name": "Курица в сливочно-шпинатном соусе с рисом",
     "price": "155",
@@ -27,12 +55,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-v-slivochno-shpinatnom-souse-s-risom-120063/"
   },
+  "123009": {
+    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
     "price": "62",
     "old_price": "104",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
+  },
+  "121628": {
+    "name": "Пирожки с картофелем и куриной печенью, 3 шт",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-s-kartofelem-i-kurinoy-pechenyu-121628/"
   },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
@@ -48,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
   },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
   "67713": {
     "name": "Хлеб \"Тостовый\" нарезка, 250 г",
     "price": "62",
@@ -69,12 +104,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kefir-3-58192/"
   },
+  "109332": {
+    "name": "Торт-мини \"Волшебная история\", 200 г.",
+    "price": "205",
+    "old_price": "342",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-mini-volshebnaya-istoriya-109332/"
+  },
+  "26136": {
+    "name": "Манго Кейт",
+    "price": "274",
+    "old_price": "456",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-keyt-26136/"
+  },
   "63583": {
     "name": "Семга стейк охл., 450 г",
     "price": "918",
     "old_price": "1530",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/semga-steyk-okhl-63583/"
+  },
+  "92433": {
+    "name": "Пирожное \"НеМедовик\" шоколадный, веган",
+    "price": "124",
+    "old_price": "206",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
   },
   "115478": {
     "name": "Булочка \"Бородинская\", 4 шт",
@@ -90,19 +146,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
   },
-  "92433": {
-    "name": "Пирожное \"НеМедовик\" шоколадный, веган",
-    "price": "124",
-    "old_price": "206",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
-  },
   "118104": {
     "name": "Мясо по-французски",
     "price": "505",
     "old_price": "842",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
+  },
+  "109184": {
+    "name": "Жюльен грибной с картофелем бэби постный",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhyulen-gribnoy-s-kartofelem-bebi-postnyy-109184/"
+  },
+  "115466": {
+    "name": "Десерт \"Бала баяна\" кокосовый с фисташкой",
+    "price": "208",
+    "old_price": "346",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-fistashkoy-115466/"
   },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
@@ -111,13 +174,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
   },
-  "117285": {
-    "name": "Корюшка азиатская холодного копчения, 150 г",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koryushka-aziatskaya-kholodnogo-kopcheniya-117285/"
-  },
   "118102": {
     "name": "Шашлык из свиного окорока с аджапсандали",
     "price": "498",
@@ -125,26 +181,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
   },
+  "117285": {
+    "name": "Корюшка азиатская холодного копчения, 150 г",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/koryushka-aziatskaya-kholodnogo-kopcheniya-117285/"
+  },
   "124400": {
     "name": "Ассорти макарон \"Мохито, Кр. смородина/Чили, Ананас/Кокос\"",
     "price": "169",
     "old_price": "282",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-makaron-mokhito-124400/"
-  },
-  "121628": {
-    "name": "Пирожки с картофелем и куриной печенью, 3 шт",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-s-kartofelem-i-kurinoy-pechenyu-121628/"
-  },
-  "115466": {
-    "name": "Десерт \"Бала баяна\" кокосовый с фисташкой",
-    "price": "208",
-    "old_price": "346",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-fistashkoy-115466/"
   },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
