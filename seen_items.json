@@ -76,12 +76,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tostovyy-narezka-67713/"
   },
-  "58192": {
-    "name": "Кефир 3,2%, 290 г",
-    "price": "43",
-    "old_price": "72",
+  "39781": {
+    "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
+    "price": "156",
+    "old_price": "260",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-3-58192/"
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
   },
   "104701": {
     "name": "Закрытый омлет с ветчиной и сыром, кафе",
@@ -131,13 +131,6 @@
     "old_price": "264",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
-  },
-  "109184": {
-    "name": "Жюльен грибной с картофелем бэби постный",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhyulen-gribnoy-s-kartofelem-bebi-postnyy-109184/"
   },
   "115466": {
     "name": "Десерт \"Бала баяна\" кокосовый с фисташкой",
