@@ -1,4 +1,18 @@
 {
+  "19080": {
+    "name": "Хлеб \"Донской\", нарезка",
+    "price": "30",
+    "old_price": "50",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-donskoy-19080/"
+  },
+  "58173": {
+    "name": "Котлета куриная с картофельным пюре, 400 г",
+    "price": "270",
+    "old_price": "450",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-58173/"
+  },
   "18161": {
     "name": "Лаваш \"Армянский по-деревенски\", 220 г",
     "price": "48",
