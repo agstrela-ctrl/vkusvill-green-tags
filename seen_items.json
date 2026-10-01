@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-19363/"
   },
-  "125279": {
-    "name": "Салат зеленый с дайконом и кунжутным соусом",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-zelenyy-s-daykonom-i-kunzhutnym-sousom-125279/"
-  },
   "114389": {
     "name": "Лобио по-картлийски",
     "price": "143",
@@ -40,13 +33,6 @@
     "old_price": "210",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
-  },
-  "98697": {
-    "name": "Шаурма с курицей и соусом \"Гриль\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-gril-98697/"
   },
   "19435": {
     "name": "Суп-пюре с грибами",
@@ -110,13 +96,6 @@
     "old_price": "346",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
-  },
-  "117135": {
-    "name": "Баклажаны в соусе \"Сладкий Чили\"",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baklazhany-v-souse-sladkiy-chili-117135/"
   },
   "107822": {
     "name": "Брецель на сливочном масле с семечками",
@@ -278,12 +257,5 @@
     "old_price": "582",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-115111/"
-  },
-  "105780": {
-    "name": "Стейк свиной в грибном маринаде",
-    "price": "327",
-    "old_price": "545",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-svinoy-v-gribnom-marinade-105780/"
   }
 }
