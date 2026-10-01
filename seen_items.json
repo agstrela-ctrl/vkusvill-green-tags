@@ -62,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/semga-steyk-okhl-63583/"
   },
-  "72937": {
-    "name": "Картофель отварной с укропом, 500 г",
-    "price": "166",
-    "old_price": "276",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-otvarnoy-s-ukropom-72937/"
-  },
   "115478": {
     "name": "Булочка \"Бородинская\", 4 шт",
     "price": "53",
@@ -83,6 +76,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
+  "27367": {
+    "name": "Напиток малиновый с мятой, 1 л",
+    "price": "156",
+    "old_price": "260",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-malinovyy-s-myatoy-27367/"
+  },
   "123462": {
     "name": "Салат корейский \"Ве-Ча\" с говядиной и огурцами",
     "price": "161",
@@ -90,12 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-koreyskiy-ve-cha-s-govyadinoy-i-ogurtsami-123462/"
   },
-  "121689": {
-    "name": "Винегрет по-грузински с лобио",
-    "price": "84",
-    "old_price": "140",
+  "117953": {
+    "name": "Смузи \"Банан-яблоко\" обогащенный белком, 250 мл",
+    "price": "115",
+    "old_price": "192",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/vinegret-po-gruzinski-s-lobio-121689/"
+    "link": "https://vkusvill.ru/goods/smuzi-banan-yabloko-obogashchennyy-belkom-117953/"
   },
   "65794": {
     "name": "Нерка холодного копчения ломтики, 100 г",
@@ -111,19 +111,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
   },
+  "118159": {
+    "name": "Смузи \"Банан-облепиха-апельсин\" с медом, 250 мл",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/smuzi-banan-oblepikha-apelsin-s-medom-118159/"
+  },
   "120529": {
     "name": "Гнезда из свинины и говядины с грибами и сыром",
     "price": "221",
     "old_price": "368",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gnezda-iz-svininy-i-govyadiny-s-gribami-i-syrom-120529/"
-  },
-  "125953": {
-    "name": "Сырники с фисташковым кремом",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-s-fistashkovym-kremom-125953/"
   },
   "117285": {
     "name": "Корюшка азиатская холодного копчения, 150 г",
@@ -166,13 +166,6 @@
     "old_price": "840",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-ribay-iz-govyadiny-s-pryanym-maslom-77063/"
-  },
-  "125578": {
-    "name": "\"Просто шаурма\" с курицей и морковкой по-корейски",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/prosto-shaurma-s-kuritsey-i-morkovkoy-po-koreyski-125578/"
   },
   "110072": {
     "name": "Вафли \"Десертные\" с халвой",
