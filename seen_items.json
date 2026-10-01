@@ -1,4 +1,11 @@
 {
+  "102212": {
+    "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kombo-nabor-bitochek-sochnyy-s-penne-i-salat-krabovyy-102212/"
+  },
   "23995": {
     "name": "Стейк из филе грудки цыпленка-бройлера",
     "price": "224",
@@ -6,19 +13,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-file-grudki-tsyplenka-broylera-23995/"
   },
-  "66659": {
-    "name": "Горбуша слабосоленая ломтики, 100 г",
-    "price": "187",
-    "old_price": "312",
+  "76931": {
+    "name": "Онигири с креветкой",
+    "price": "126",
+    "old_price": "210",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
+    "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
   },
-  "18161": {
-    "name": "Лаваш \"Армянский по-деревенски\", 220 г",
-    "price": "48",
-    "old_price": "80",
+  "120063": {
+    "name": "Курица в сливочно-шпинатном соусе с рисом",
+    "price": "155",
+    "old_price": "258",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
+    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochno-shpinatnom-souse-s-risom-120063/"
   },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
@@ -33,6 +40,13 @@
     "old_price": "355",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
+  },
+  "98204": {
+    "name": "Сэндвич ролл с индейкой и сладким чили",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
@@ -76,6 +90,27 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
   },
+  "92433": {
+    "name": "Пирожное \"НеМедовик\" шоколадный, веган",
+    "price": "124",
+    "old_price": "206",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
+  },
+  "118104": {
+    "name": "Мясо по-французски",
+    "price": "505",
+    "old_price": "842",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
+  },
+  "118697": {
+    "name": "Хлебцы мягкие ржано-пшеничные с семенами",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
+  },
   "117285": {
     "name": "Корюшка азиатская холодного копчения, 150 г",
     "price": "222",
@@ -83,12 +118,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koryushka-aziatskaya-kholodnogo-kopcheniya-117285/"
   },
+  "118102": {
+    "name": "Шашлык из свиного окорока с аджапсандали",
+    "price": "498",
+    "old_price": "830",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
+  },
   "124400": {
     "name": "Ассорти макарон \"Мохито, Кр. смородина/Чили, Ананас/Кокос\"",
     "price": "169",
     "old_price": "282",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-makaron-mokhito-124400/"
+  },
+  "121628": {
+    "name": "Пирожки с картофелем и куриной печенью, 3 шт",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-s-kartofelem-i-kurinoy-pechenyu-121628/"
   },
   "115466": {
     "name": "Десерт \"Бала баяна\" кокосовый с фисташкой",
@@ -131,19 +180,5 @@
     "old_price": "856",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
-  },
-  "118159": {
-    "name": "Смузи \"Банан-облепиха-апельсин\" с медом, 250 мл",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/smuzi-banan-oblepikha-apelsin-s-medom-118159/"
-  },
-  "118014": {
-    "name": "Микс из микрозелени гороха, 50 г",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-mikrozeleni-gorokha-118014/"
   }
 }
