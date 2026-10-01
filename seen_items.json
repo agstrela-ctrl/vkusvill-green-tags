@@ -1,11 +1,4 @@
 {
-  "126060": {
-    "name": "Картофель печеный по-балтийски с курицей и угрем",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-pechenyy-po-baltiyski-s-kuritsey-i-ugrem-126060/"
-  },
   "102212": {
     "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
     "price": "222",
@@ -19,13 +12,6 @@
     "old_price": "373",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-file-grudki-tsyplenka-broylera-23995/"
-  },
-  "76931": {
-    "name": "Онигири с креветкой",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
   },
   "120063": {
     "name": "Курица в сливочно-шпинатном соусе с рисом",
@@ -55,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
-  "98204": {
-    "name": "Сэндвич ролл с индейкой и сладким чили",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
-  },
   "113057": {
     "name": "Дыня резаная полукольца, 300 г",
     "price": "231",
@@ -75,13 +54,6 @@
     "old_price": "258",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
-  },
-  "26136": {
-    "name": "Манго Кейт",
-    "price": "274",
-    "old_price": "456",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-keyt-26136/"
   },
   "92433": {
     "name": "Пирожное \"НеМедовик\" шоколадный, веган",
@@ -103,13 +75,6 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
-  },
-  "118104": {
-    "name": "Мясо по-французски",
-    "price": "505",
-    "old_price": "842",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
   },
   "102259": {
     "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
