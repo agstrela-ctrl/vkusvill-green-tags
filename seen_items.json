@@ -1,23 +1,9 @@
 {
-  "111616": {
-    "name": "Паста \"Тальятелле\" с лимонной курицей",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-talyatelle-s-limonnoy-kuritsey-111616/"
-  },
   "125362": {
     "name": "Тарт \"Саона\" с сырно-кокосовым кремом",
     "price": "395",
     "old_price": "658",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tart-saona-s-syrno-kokosovym-kremom-125362/"
-  },
-  "109109": {
-    "name": "Пирожное \"Канелли\", 340 г.",
-    "price": "311",
-    "old_price": "518",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-kanelli-109109/"
   }
 }
