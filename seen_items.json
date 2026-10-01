@@ -76,20 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
-  "27367": {
-    "name": "Напиток малиновый с мятой, 1 л",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-malinovyy-s-myatoy-27367/"
-  },
-  "123462": {
-    "name": "Салат корейский \"Ве-Ча\" с говядиной и огурцами",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-koreyskiy-ve-cha-s-govyadinoy-i-ogurtsami-123462/"
-  },
   "117953": {
     "name": "Смузи \"Банан-яблоко\" обогащенный белком, 250 мл",
     "price": "115",
@@ -97,26 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/smuzi-banan-yabloko-obogashchennyy-belkom-117953/"
   },
-  "65794": {
-    "name": "Нерка холодного копчения ломтики, 100 г",
-    "price": "250",
-    "old_price": "417",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nerka-kholodnogo-kopcheniya-lomtiki-65794/"
-  },
   "123944": {
     "name": "Шаверма \"Как в Питере\" с курицей и овощами",
     "price": "183",
     "old_price": "305",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
-  },
-  "118159": {
-    "name": "Смузи \"Банан-облепиха-апельсин\" с медом, 250 мл",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/smuzi-banan-oblepikha-apelsin-s-medom-118159/"
   },
   "120529": {
     "name": "Гнезда из свинины и говядины с грибами и сыром",
@@ -181,6 +153,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-morkovnoe-38813/"
   },
+  "103763": {
+    "name": "Конфеты шоколадные Belgica Seashells с начинкой пралине 190 г",
+    "price": "514",
+    "old_price": "856",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
+  },
   "114375": {
     "name": "Флан французский \"Кокос - ваниль\" из заварного крема",
     "price": "157",
@@ -188,11 +167,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/flan-frantsuzskiy-kokos-vanil-iz-zavarnogo-krema-114375/"
   },
-  "103763": {
-    "name": "Конфеты шоколадные Belgica Seashells с начинкой пралине 190 г",
-    "price": "514",
-    "old_price": "856",
+  "118159": {
+    "name": "Смузи \"Банан-облепиха-апельсин\" с медом, 250 мл",
+    "price": "105",
+    "old_price": "175",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
+    "link": "https://vkusvill.ru/goods/smuzi-banan-oblepikha-apelsin-s-medom-118159/"
   }
 }
