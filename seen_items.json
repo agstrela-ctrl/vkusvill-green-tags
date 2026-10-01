@@ -76,6 +76,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
+  "105788": {
+    "name": "Овощной микс \"Витаминное трио\", 250 г",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
+  },
+  "119016": {
+    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
+  },
   "117953": {
     "name": "Смузи \"Банан-яблоко\" обогащенный белком, 250 мл",
     "price": "115",
@@ -173,5 +187,12 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/smuzi-banan-oblepikha-apelsin-s-medom-118159/"
+  },
+  "118014": {
+    "name": "Микс из микрозелени гороха, 50 г",
+    "price": "90",
+    "old_price": "150",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-iz-mikrozeleni-gorokha-118014/"
   }
 }
