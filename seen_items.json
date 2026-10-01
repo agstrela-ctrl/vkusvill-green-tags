@@ -1,11 +1,4 @@
 {
-  "119243": {
-    "name": "Ролл с креветкой запеченный под сырной шапочкой",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-krevetkoy-zapechennyy-pod-syrnoy-shapochkoy-119243/"
-  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
@@ -139,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nerka-kholodnogo-kopcheniya-lomtiki-65794/"
   },
-  "70125": {
-    "name": "Картофель запеченный с прованскими травами",
-    "price": "148",
-    "old_price": "246",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-provanskimi-travami-70125/"
-  },
   "123944": {
     "name": "Шаверма \"Как в Питере\" с курицей и овощами",
     "price": "183",
@@ -194,20 +180,6 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
-  "125768": {
-    "name": "Котлеты из курицы и индейки",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-kuritsy-i-indeyki-125768/"
-  },
-  "109046": {
-    "name": "Картофель жареный с грибами, 200 г",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-109046/"
   },
   "123710": {
     "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
