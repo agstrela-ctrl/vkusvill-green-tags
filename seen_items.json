@@ -69,20 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
   },
-  "118959": {
-    "name": "Салат-боул с креветкой, авокадо и кукурузой",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
-  },
-  "105788": {
-    "name": "Овощной микс \"Витаминное трио\", 250 г",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
-  },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
     "price": "66",
@@ -96,20 +82,6 @@
     "old_price": "192",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/smuzi-banan-yabloko-obogashchennyy-belkom-117953/"
-  },
-  "123944": {
-    "name": "Шаверма \"Как в Питере\" с курицей и овощами",
-    "price": "183",
-    "old_price": "305",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
-  },
-  "120529": {
-    "name": "Гнезда из свинины и говядины с грибами и сыром",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gnezda-iz-svininy-i-govyadiny-s-gribami-i-syrom-120529/"
   },
   "117285": {
     "name": "Корюшка азиатская холодного копчения, 150 г",
@@ -173,13 +145,6 @@
     "old_price": "856",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
-  },
-  "114375": {
-    "name": "Флан французский \"Кокос - ваниль\" из заварного крема",
-    "price": "157",
-    "old_price": "262",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/flan-frantsuzskiy-kokos-vanil-iz-zavarnogo-krema-114375/"
   },
   "118159": {
     "name": "Смузи \"Банан-облепиха-апельсин\" с медом, 250 мл",
