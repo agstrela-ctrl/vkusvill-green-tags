@@ -1,17 +1,17 @@
 {
-  "58728": {
-    "name": "Хлеб цельнозерновой с отрубями",
-    "price": "180",
-    "old_price": "300",
+  "23995": {
+    "name": "Стейк из филе грудки цыпленка-бройлера",
+    "price": "224",
+    "old_price": "373",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+    "link": "https://vkusvill.ru/goods/steyk-iz-file-grudki-tsyplenka-broylera-23995/"
   },
-  "101898": {
-    "name": "Лепешки картофельные с гаудой и пармезаном",
-    "price": "155",
-    "old_price": "258",
+  "66659": {
+    "name": "Горбуша слабосоленая ломтики, 100 г",
+    "price": "187",
+    "old_price": "312",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshki-kartofelnye-s-gaudoy-i-parmezanom-101898/"
+    "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
   },
   "18161": {
     "name": "Лаваш \"Армянский по-деревенски\", 220 г",
@@ -40,20 +40,6 @@
     "old_price": "440",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
-  },
-  "71621": {
-    "name": "Картофель запеченный с ветчиной куриной под сыром",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-vetchinoy-kurinoy-pod-syrom-71621/"
-  },
-  "126907": {
-    "name": "Пирожное муссовое с ромашкой и персиковой начинкой",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-mussovoe-s-romashkoy-i-persikovoy-nachinkoy-126907/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
@@ -173,13 +159,6 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
-  "123710": {
-    "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-vetchinoy-i-syrom-chedder-123710/"
   },
   "65276": {
     "name": "Голубцы ленивые из мяса птицы, 600 г",
