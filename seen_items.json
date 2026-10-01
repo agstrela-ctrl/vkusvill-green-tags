@@ -118,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
   },
-  "115466": {
-    "name": "Десерт \"Бала баяна\" кокосовый с фисташкой",
-    "price": "208",
-    "old_price": "346",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-fistashkoy-115466/"
-  },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
     "price": "52",
@@ -166,12 +159,5 @@
     "old_price": "260",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
-  },
-  "103763": {
-    "name": "Конфеты шоколадные Belgica Seashells с начинкой пралине 190 г",
-    "price": "514",
-    "old_price": "856",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
   }
 }
