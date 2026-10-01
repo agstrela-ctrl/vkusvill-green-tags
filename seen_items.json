@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baklazhany-v-souse-sladkiy-chili-117135/"
   },
-  "14844": {
-    "name": "Котлеты \"Домашние\"",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-domashnie-14844/"
-  },
   "93683": {
     "name": "Стейк из индейки с овощами гриль и брокколи",
     "price": "269",
@@ -83,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mini-pitstsa-s-kurinoy-vetchinoy-i-syrom-114007/"
   },
-  "43088": {
-    "name": "Блины с грушей и мягким сыром",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-grushey-i-myagkim-syrom-43088/"
-  },
   "25291": {
     "name": "Салат \"Мимоза\", 180 г",
     "price": "143",
@@ -110,20 +96,6 @@
     "old_price": "301",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
-  "31906": {
-    "name": "Пирожное \"НеМедовик\", веган",
-    "price": "128",
-    "old_price": "214",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-31906/"
-  },
-  "61013": {
-    "name": "Эклеры с заварным кремом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-s-zavarnym-kremom-61013/"
   },
   "106517": {
     "name": "Масса творожная с соленой карамелью и арахисом 12%",
