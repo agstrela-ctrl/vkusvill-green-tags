@@ -6,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-bitochek-sochnyy-s-penne-i-salat-krabovyy-102212/"
   },
-  "23995": {
-    "name": "Стейк из филе грудки цыпленка-бройлера",
-    "price": "224",
-    "old_price": "373",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-iz-file-grudki-tsyplenka-broylera-23995/"
-  },
   "120063": {
     "name": "Курица в сливочно-шпинатном соусе с рисом",
     "price": "155",
     "old_price": "258",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-v-slivochno-shpinatnom-souse-s-risom-120063/"
-  },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
@@ -61,13 +47,6 @@
     "old_price": "264",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
-  },
-  "93904": {
-    "name": "Печенье \"Бархатное\"",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-barkhatnoe-93904/"
   },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
@@ -110,5 +89,12 @@
     "old_price": "88",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
+  },
+  "93904": {
+    "name": "Печенье \"Бархатное\"",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-barkhatnoe-93904/"
   }
 }
