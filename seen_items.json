@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
   },
-  "1621": {
-    "name": "Рулет бисквитный",
-    "price": "237",
-    "old_price": "395",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-1621/"
-  },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
     "price": "62",
@@ -258,26 +251,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vafli-desertnye-s-khalvoy-110072/"
   },
-  "98002": {
-    "name": "Йогурт \"Мюсли Бирхер по-швейцарски\" с яблоком и миндалем",
-    "price": "78",
-    "old_price": "130",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-myusli-birkher-po-shveytsarski-s-yablokom-i-mindalem-98002/"
-  },
   "38813": {
     "name": "Пирожное \"Морковное\", веган",
     "price": "115",
     "old_price": "192",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-morkovnoe-38813/"
-  },
-  "103763": {
-    "name": "Конфеты шоколадные Belgica Seashells с начинкой пралине 190 г",
-    "price": "514",
-    "old_price": "856",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
   },
   "114375": {
     "name": "Флан французский \"Кокос - ваниль\" из заварного крема",
@@ -293,11 +272,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-treski-zapechennoe-pod-marinadom-115936/"
   },
-  "69555": {
-    "name": "Батон Хлебный Дом Утренний нарезанный 400 г",
-    "price": "59",
-    "old_price": "99",
+  "103763": {
+    "name": "Конфеты шоколадные Belgica Seashells с начинкой пралине 190 г",
+    "price": "514",
+    "old_price": "856",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-khlebnyy-dom-utrenniy-narezannyy-400-g-69555/"
+    "link": "https://vkusvill.ru/goods/konfety-shokoladnye-belgica-seashells-s-nachinkoy-praline-190-g-103763/"
   }
 }
