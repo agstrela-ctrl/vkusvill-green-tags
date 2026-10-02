@@ -27,19 +27,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
   },
-  "106756": {
-    "name": "Хлеб \"Монж\", нарезка",
-    "price": "77",
-    "old_price": "128",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
-  },
   "78288": {
     "name": "Каша пшенно-рисовая на молоке, 270 г",
     "price": "120",
     "old_price": "200",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kasha-pshenno-risovaya-na-moloke-78288/"
+  },
+  "106756": {
+    "name": "Хлеб \"Монж\", нарезка",
+    "price": "77",
+    "old_price": "128",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
   },
   "96261": {
     "name": "Конвертики с подкопченой курицей и сыром",
@@ -132,19 +132,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
   },
-  "88563": {
-    "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
-    "price": "166",
-    "old_price": "276",
+  "120495": {
+    "name": "Мак-н-шницель",
+    "price": "209",
+    "old_price": "348",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
-  },
-  "93683": {
-    "name": "Стейк из индейки с овощами гриль и брокколи",
-    "price": "269",
-    "old_price": "448",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-iz-indeyki-s-ovoshchami-gril-i-brokkoli-93683/"
+    "link": "https://vkusvill.ru/goods/mak-n-shnitsel-120495/"
   },
   "69495": {
     "name": "Батон \"Весенний\", половинка, нарезка",
@@ -153,6 +146,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
   },
+  "118959": {
+    "name": "Салат-боул с креветкой, авокадо и кукурузой",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
+  },
   "100069": {
     "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
     "price": "239",
@@ -160,12 +160,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-s-indeykoy-i-slivochnym-syrom-100069/"
   },
-  "120495": {
-    "name": "Мак-н-шницель",
-    "price": "209",
-    "old_price": "348",
+  "122694": {
+    "name": "Творог безлактозный рассыпчатый 5%, 350 г",
+    "price": "129",
+    "old_price": "215",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/mak-n-shnitsel-120495/"
+    "link": "https://vkusvill.ru/goods/tvorog-bezlaktoznyy-rassypchatyy-5-122694/"
+  },
+  "100737": {
+    "name": "Лепешка с сыром и картофелем, 2 шт",
+    "price": "163",
+    "old_price": "272",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-s-syrom-i-kartofelem-100737/"
+  },
+  "123944": {
+    "name": "Шаверма \"Как в Питере\" с курицей и овощами",
+    "price": "183",
+    "old_price": "305",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
   },
   "108667": {
     "name": "Шаурма с курицей и с cоусом \"Тандури\", кафе",
@@ -194,6 +208,13 @@
     "old_price": "225",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pashtet-datskiy-s-utinoy-pechenyu-zapechennyy-126442/"
+  },
+  "95536": {
+    "name": "Куриная котлета-гриль с гречкой",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurinaya-kotleta-gril-s-grechkoy-95536/"
   },
   "100149": {
     "name": "Каша гречневая \"по-драгомировски\" на бульоне из грибов",
@@ -230,6 +251,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
   },
+  "84218": {
+    "name": "Лепешка с чесноком и зеленью 3 шт",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-s-chesnokom-i-zelenyu-3-sht-84218/"
+  },
   "69091": {
     "name": "Изделие цельнозерновое без муки \"Полбяной с пажитником\"",
     "price": "50",
@@ -243,13 +271,6 @@
     "old_price": "94",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
-  },
-  "84218": {
-    "name": "Лепешка с чесноком и зеленью 3 шт",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-chesnokom-i-zelenyu-3-sht-84218/"
   },
   "120902": {
     "name": "Кекс с цедрой апельсина на альтернативной муке, 2 шт",
