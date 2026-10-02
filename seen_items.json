@@ -69,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-podkopchenoy-kuritsey-i-syrom-96261/"
   },
-  "15310": {
-    "name": "Кинза, 50 г",
-    "price": "55",
-    "old_price": "92",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kinza-15310/"
-  },
   "89186": {
     "name": "Хлеб \"На кефире с сывороткой\", нарезка",
     "price": "57",
@@ -104,6 +97,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-zelenyy-67188/"
   },
+  "122909": {
+    "name": "Ленивые голубцы из свинины и говядины, 400г",
+    "price": "206",
+    "old_price": "344",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lenivye-golubtsy-iz-svininy-i-govyadiny-122909/"
+  },
   "25053": {
     "name": "Лаваш \"Армянский\", 160 г",
     "price": "43",
@@ -125,6 +125,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-kukuruznyy-121692/"
   },
+  "67171": {
+    "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
+    "price": "229",
+    "old_price": "382",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
+  },
   "93683": {
     "name": "Стейк из индейки с овощами гриль и брокколи",
     "price": "269",
@@ -138,6 +145,20 @@
     "old_price": "58",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
+  },
+  "100069": {
+    "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
+    "price": "239",
+    "old_price": "399",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-s-indeykoy-i-slivochnym-syrom-100069/"
+  },
+  "115246": {
+    "name": "Фрикадельки из индейки и говядины",
+    "price": "218",
+    "old_price": "364",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/frikadelki-iz-indeyki-i-govyadiny-115246/"
   },
   "108667": {
     "name": "Шаурма с курицей и с cоусом \"Тандури\", кафе",
