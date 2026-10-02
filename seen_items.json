@@ -1,4 +1,11 @@
 {
+  "20665": {
+    "name": "Салат винегрет с маринованной капустой",
+    "price": "112",
+    "old_price": "186",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-vinegret-s-marinovannoy-kapustoy-20665/"
+  },
   "32931": {
     "name": "Тартин пшенично-ржаной, половинка",
     "price": "50",
@@ -19,6 +26,13 @@
     "old_price": "102",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
+  },
+  "76931": {
+    "name": "Онигири с креветкой",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
   },
   "19435": {
     "name": "Суп-пюре с грибами",
@@ -104,6 +118,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
   },
+  "44582": {
+    "name": "Пирожки с капустой и яйцом, 140 г (2 шт)",
+    "price": "109",
+    "old_price": "182",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-s-kapustoy-i-yaytsom-44582/"
+  },
+  "125193": {
+    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
+    "price": "401",
+    "old_price": "668",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
+  },
   "121692": {
     "name": "Хлеб \"Кукурузный\", нарезка",
     "price": "74",
@@ -146,6 +174,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mak-n-shnitsel-120495/"
   },
+  "70125": {
+    "name": "Картофель запеченный с прованскими травами",
+    "price": "148",
+    "old_price": "246",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-provanskimi-travami-70125/"
+  },
   "115246": {
     "name": "Фрикадельки из индейки и говядины",
     "price": "218",
@@ -159,6 +194,13 @@
     "old_price": "296",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-s-cousom-tanduri-108667/"
+  },
+  "119741": {
+    "name": "Навага жареная, 200 г",
+    "price": "165",
+    "old_price": "275",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/navaga-zharenaya-119741/"
   },
   "109892": {
     "name": "Пирожное \"НеМедовик\" с малиной, веган",
@@ -180,6 +222,13 @@
     "old_price": "225",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pashtet-datskiy-s-utinoy-pechenyu-zapechennyy-126442/"
+  },
+  "100149": {
+    "name": "Каша гречневая \"по-драгомировски\" на бульоне из грибов",
+    "price": "120",
+    "old_price": "200",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kasha-grechnevaya-po-dragomirovski-na-bulone-iz-gribov-100149/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
