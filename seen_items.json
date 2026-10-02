@@ -160,19 +160,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-s-zelenym-risom-karri-120064/"
   },
-  "113869": {
-    "name": "Шпинат крупнолистовой, 100 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
-  },
   "122121": {
     "name": "Батон \"Молочный\" на слив. масле, с кунжутом",
     "price": "57",
     "old_price": "95",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molochnyy-na-sliv-masle-122121/"
+  },
+  "113869": {
+    "name": "Шпинат крупнолистовой, 100 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shpinat-krupnolistovoy-113869/"
   },
   "113634": {
     "name": "Корейка на кости из мраморной свинины",
