@@ -1,11 +1,4 @@
 {
-  "20665": {
-    "name": "Салат винегрет с маринованной капустой",
-    "price": "112",
-    "old_price": "186",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-s-marinovannoy-kapustoy-20665/"
-  },
   "32931": {
     "name": "Тартин пшенично-ржаной, половинка",
     "price": "50",
@@ -34,26 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
   },
-  "19435": {
-    "name": "Суп-пюре с грибами",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-pyure-s-gribami-19435/"
-  },
   "106756": {
     "name": "Хлеб \"Монж\", нарезка",
     "price": "77",
     "old_price": "128",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
-  },
-  "58178": {
-    "name": "Крем-суп с тыквой и индейкой",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
   },
   "78288": {
     "name": "Каша пшенно-рисовая на молоке, 270 г",
@@ -75,6 +54,13 @@
     "old_price": "95",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-na-kefire-s-syvorotkoy-89186/"
+  },
+  "118739": {
+    "name": "Йогурт греческий 2%, 250г",
+    "price": "70",
+    "old_price": "117",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-grecheskiy-2-118739/"
   },
   "82834": {
     "name": "Торт \"Половинки Маракуйя-Монтблан\"",
@@ -146,6 +132,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
   },
+  "88563": {
+    "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
+    "price": "166",
+    "old_price": "276",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
+  },
   "93683": {
     "name": "Стейк из индейки с овощами гриль и брокколи",
     "price": "269",
@@ -195,13 +188,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-s-malinoy-109892/"
   },
-  "118342": {
-    "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-s-kuritsey-teriyaki-118342/"
-  },
   "126442": {
     "name": "Паштет Датский с утиной печенью запеченный, 160 г",
     "price": "135",
@@ -250,6 +236,27 @@
     "old_price": "83",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozernovoe-bez-muki-polbyanoy-s-pazhitnikom-69091/"
+  },
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
+  },
+  "84218": {
+    "name": "Лепешка с чесноком и зеленью 3 шт",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-s-chesnokom-i-zelenyu-3-sht-84218/"
+  },
+  "120902": {
+    "name": "Кекс с цедрой апельсина на альтернативной муке, 2 шт",
+    "price": "145",
+    "old_price": "242",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
   },
   "115652": {
     "name": "Бедро индейки по-азиатски с картофелем",
