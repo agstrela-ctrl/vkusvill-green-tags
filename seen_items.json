@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
   },
+  "106756": {
+    "name": "Хлеб \"Монж\", нарезка",
+    "price": "77",
+    "old_price": "128",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
+  },
   "96261": {
     "name": "Конвертики с подкопченой курицей и сыром",
     "price": "145",
@@ -76,12 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-chizkeyk-nyu-york-zam-1-86551/"
   },
-  "123944": {
-    "name": "Шаверма \"Как в Питере\" с курицей и овощами",
-    "price": "183",
-    "old_price": "305",
+  "93908": {
+    "name": "Печенье \"Грильяж кунжутный\" (постный)",
+    "price": "163",
+    "old_price": "272",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
+    "link": "https://vkusvill.ru/goods/pechene-grilyazh-kunzhutnyy-postnyy-93908/"
   },
   "108667": {
     "name": "Шаурма с курицей и с cоусом \"Тандури\", кафе",
@@ -96,13 +103,6 @@
     "old_price": "820",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sudak-file-portsionnoe-zam-37737/"
-  },
-  "109892": {
-    "name": "Пирожное \"НеМедовик\" с малиной, веган",
-    "price": "110",
-    "old_price": "184",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-s-malinoy-109892/"
   },
   "100149": {
     "name": "Каша гречневая \"по-драгомировски\" на бульоне из грибов",
