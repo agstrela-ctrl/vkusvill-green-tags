@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
   },
-  "78288": {
-    "name": "Каша пшенно-рисовая на молоке, 270 г",
-    "price": "120",
-    "old_price": "200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-pshenno-risovaya-na-moloke-78288/"
-  },
   "106756": {
     "name": "Хлеб \"Монж\", нарезка",
     "price": "77",
@@ -40,20 +33,6 @@
     "old_price": "95",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-na-kefire-s-syvorotkoy-89186/"
-  },
-  "118739": {
-    "name": "Йогурт греческий 2%, 250г",
-    "price": "70",
-    "old_price": "117",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-grecheskiy-2-118739/"
-  },
-  "82834": {
-    "name": "Торт \"Половинки Маракуйя-Монтблан\"",
-    "price": "432",
-    "old_price": "720",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-montblan-82834/"
   },
   "113574": {
     "name": "Батон \"Сдобный\" на сливочном масле",
@@ -83,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-25053/"
   },
-  "91332": {
-    "name": "Суп Фо Бо",
-    "price": "208",
-    "old_price": "346",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
-  },
   "44582": {
     "name": "Пирожки с капустой и яйцом, 140 г (2 шт)",
     "price": "109",
@@ -110,13 +82,6 @@
     "old_price": "123",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-kukuruznyy-121692/"
-  },
-  "67171": {
-    "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
-    "price": "229",
-    "old_price": "382",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
   },
   "120495": {
     "name": "Мак-н-шницель",
@@ -167,26 +132,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-s-cousom-tanduri-108667/"
   },
-  "119741": {
-    "name": "Навага жареная, 200 г",
-    "price": "165",
-    "old_price": "275",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/navaga-zharenaya-119741/"
-  },
   "109892": {
     "name": "Пирожное \"НеМедовик\" с малиной, веган",
     "price": "110",
     "old_price": "184",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-s-malinoy-109892/"
-  },
-  "126442": {
-    "name": "Паштет Датский с утиной печенью запеченный, 160 г",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pashtet-datskiy-s-utinoy-pechenyu-zapechennyy-126442/"
   },
   "95536": {
     "name": "Куриная котлета-гриль с гречкой",
@@ -215,13 +166,6 @@
     "old_price": "102",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-dlya-tostov-zernovoe-65384/"
-  },
-  "59848": {
-    "name": "Рулет бисквитный \"Малиновый\" с рикоттой",
-    "price": "233",
-    "old_price": "389",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-malinovyy-s-rikottoy-59848/"
   },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
