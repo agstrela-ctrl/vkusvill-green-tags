@@ -97,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-indeyki-s-ovoshchami-gril-i-brokkoli-93683/"
   },
-  "85529": {
-    "name": "Булочки сдобные с изюмом, 2 шт",
-    "price": "52",
-    "old_price": "86",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-sdobnye-s-izyumom-85529/"
-  },
   "90296": {
     "name": "Котлета для бургера из говядины с сыром",
     "price": "235",
@@ -111,26 +104,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-dlya-burgera-iz-govyadiny-s-syrom-90296/"
   },
-  "114007": {
-    "name": "Мини пицца с куриной ветчиной и сыром, кафе",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-pitstsa-s-kurinoy-vetchinoy-i-syrom-114007/"
-  },
   "115133": {
     "name": "Улитка слоеная сырная",
     "price": "102",
     "old_price": "170",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ulitka-sloenaya-syrnaya-115133/"
-  },
-  "107823": {
-    "name": "Брецель на сливочном масле с кунжутом",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
   },
   "108667": {
     "name": "Шаурма с курицей и с cоусом \"Тандури\", кафе",
