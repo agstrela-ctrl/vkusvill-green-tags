@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
   },
-  "121692": {
-    "name": "Хлеб \"Кукурузный\", нарезка",
-    "price": "74",
-    "old_price": "123",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-kukuruznyy-121692/"
-  },
   "120495": {
     "name": "Мак-н-шницель",
     "price": "209",
@@ -83,12 +76,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
-  "122694": {
-    "name": "Творог безлактозный рассыпчатый 5%, 350 г",
-    "price": "129",
-    "old_price": "215",
+  "84817": {
+    "name": "Салат из баклажанов и моркови по-корейски",
+    "price": "128",
+    "old_price": "214",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-bezlaktoznyy-rassypchatyy-5-122694/"
+    "link": "https://vkusvill.ru/goods/salat-iz-baklazhanov-i-morkovi-po-koreyski-84817/"
   },
   "100737": {
     "name": "Лепешка с сыром и картофелем, 2 шт",
@@ -139,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
-  "65384": {
-    "name": "Изделие х/б \"Для тостов\" зерновое, 250 г",
-    "price": "61",
-    "old_price": "102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-dlya-tostov-zernovoe-65384/"
-  },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
     "price": "66",
@@ -166,13 +152,6 @@
     "old_price": "83",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozernovoe-bez-muki-polbyanoy-s-pazhitnikom-69091/"
-  },
-  "119539": {
-    "name": "Лепешка Шоти, 300 г",
-    "price": "56",
-    "old_price": "94",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
   },
   "120902": {
     "name": "Кекс с цедрой апельсина на альтернативной муке, 2 шт",
