@@ -1,4 +1,11 @@
 {
+  "113571": {
+    "name": "Батон \"Молодежная классика\", нарезка",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+  },
   "125279": {
     "name": "Салат зеленый с дайконом и кунжутным соусом",
     "price": "150",
@@ -34,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mini-14993/"
   },
+  "109471": {
+    "name": "Тартин \"Зерновой\", нарезка, 250 г",
+    "price": "62",
+    "old_price": "104",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
+  },
   "126907": {
     "name": "Пирожное муссовое с ромашкой и персиковой начинкой",
     "price": "113",
@@ -48,12 +62,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-zelenyy-31276/"
   },
+  "85709": {
+    "name": "Круассан с шоколадной начинкой, 75 г",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-s-shokoladnoy-nachinkoy-85709/"
+  },
+  "21194": {
+    "name": "Фарш из цыплят-бройлеров, 500 г",
+    "price": "199",
+    "old_price": "332",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-tsyplyat-broylerov-21194/"
+  },
   "108295": {
     "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
     "price": "174",
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
+  },
+  "52952": {
+    "name": "Пита \"Ливанская\"",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
   },
   "25528": {
     "name": "Авокадо Хасс, 600 г",
@@ -110,6 +145,13 @@
     "old_price": "373",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-vkusnoteevo-9-450-g-75214/"
+  },
+  "60272": {
+    "name": "Лаваш \"Армянский\" тандырный, нарезка, 200 г",
+    "price": "58",
+    "old_price": "96",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-60272/"
   },
   "97844": {
     "name": "Крем-суп тыквенный",
