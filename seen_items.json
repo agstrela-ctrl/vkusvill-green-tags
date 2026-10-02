@@ -118,6 +118,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
   },
+  "36430": {
+    "name": "Биточки из мяса цыплят-бройлеров с сыром",
+    "price": "262",
+    "old_price": "437",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-tsyplyat-broylerov-s-syrom-36430/"
+  },
   "121692": {
     "name": "Хлеб \"Кукурузный\", нарезка",
     "price": "74",
@@ -152,6 +159,13 @@
     "old_price": "399",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-s-indeykoy-i-slivochnym-syrom-100069/"
+  },
+  "120495": {
+    "name": "Мак-н-шницель",
+    "price": "209",
+    "old_price": "348",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mak-n-shnitsel-120495/"
   },
   "115246": {
     "name": "Фрикадельки из индейки и говядины",
@@ -208,13 +222,6 @@
     "old_price": "389",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-malinovyy-s-rikottoy-59848/"
-  },
-  "120495": {
-    "name": "Мак-н-шницель",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mak-n-shnitsel-120495/"
   },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
