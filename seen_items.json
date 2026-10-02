@@ -1,11 +1,4 @@
 {
-  "19363": {
-    "name": "Салат \"Цезарь\"",
-    "price": "205",
-    "old_price": "341",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-19363/"
-  },
   "114389": {
     "name": "Лобио по-картлийски",
     "price": "143",
@@ -19,13 +12,6 @@
     "old_price": "321",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-tsyplenka-broylera-premium-21626/"
-  },
-  "96649": {
-    "name": "Онигири с запеченным тунцом",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
   },
   "19435": {
     "name": "Суп-пюре с грибами",
@@ -61,13 +47,6 @@
     "old_price": "242",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-podkopchenoy-kuritsey-i-syrom-96261/"
-  },
-  "15310": {
-    "name": "Кинза, 50 г",
-    "price": "55",
-    "old_price": "92",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kinza-15310/"
   },
   "82834": {
     "name": "Торт \"Половинки Маракуйя-Монтблан\"",
@@ -110,13 +89,6 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
-  },
-  "90296": {
-    "name": "Котлета для бургера из говядины с сыром",
-    "price": "235",
-    "old_price": "392",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-dlya-burgera-iz-govyadiny-s-syrom-90296/"
   },
   "108667": {
     "name": "Шаурма с курицей и с cоусом \"Тандури\", кафе",
