@@ -62,12 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-podkopchenoy-kuritsey-i-syrom-96261/"
   },
-  "43269": {
-    "name": "Желе фруктово-ягодное голубика, банан, клубника, яблоко",
-    "price": "131",
-    "old_price": "218",
+  "15310": {
+    "name": "Кинза, 50 г",
+    "price": "55",
+    "old_price": "92",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-golubika-43269/"
+    "link": "https://vkusvill.ru/goods/kinza-15310/"
   },
   "82834": {
     "name": "Торт \"Половинки Маракуйя-Монтблан\"",
@@ -75,6 +75,20 @@
     "old_price": "720",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-montblan-82834/"
+  },
+  "15196": {
+    "name": "Петрушка, 50 г",
+    "price": "42",
+    "old_price": "70",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/petrushka-15196/"
+  },
+  "67188": {
+    "name": "Лук зеленый, 50 г",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-zelenyy-67188/"
   },
   "91332": {
     "name": "Суп Фо Бо",
@@ -90,6 +104,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-indeyki-s-ovoshchami-gril-i-brokkoli-93683/"
   },
+  "119016": {
+    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
+  },
   "90296": {
     "name": "Котлета для бургера из говядины с сыром",
     "price": "235",
@@ -103,13 +124,6 @@
     "old_price": "296",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-s-cousom-tanduri-108667/"
-  },
-  "69753": {
-    "name": "Шаурма грузинская",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-gruzinskaya-69753/"
   },
   "118342": {
     "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
