@@ -69,6 +69,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
+  "86551": {
+    "name": "Торт \"Чизкейк Нью-Йорк\" зам. 1,1 кг",
+    "price": "1112",
+    "old_price": "1854",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-chizkeyk-nyu-york-zam-1-86551/"
+  },
   "123944": {
     "name": "Шаверма \"Как в Питере\" с курицей и овощами",
     "price": "183",
@@ -83,19 +90,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-s-cousom-tanduri-108667/"
   },
+  "37737": {
+    "name": "Судак филе порционное зам., 400 г",
+    "price": "492",
+    "old_price": "820",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sudak-file-portsionnoe-zam-37737/"
+  },
   "109892": {
     "name": "Пирожное \"НеМедовик\" с малиной, веган",
     "price": "110",
     "old_price": "184",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-s-malinoy-109892/"
-  },
-  "95536": {
-    "name": "Куриная котлета-гриль с гречкой",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinaya-kotleta-gril-s-grechkoy-95536/"
   },
   "100149": {
     "name": "Каша гречневая \"по-драгомировски\" на бульоне из грибов",
@@ -118,19 +125,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
   },
-  "84218": {
-    "name": "Лепешка с чесноком и зеленью 3 шт",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-chesnokom-i-zelenyu-3-sht-84218/"
-  },
   "120902": {
     "name": "Кекс с цедрой апельсина на альтернативной муке, 2 шт",
     "price": "145",
     "old_price": "242",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
+  },
+  "84218": {
+    "name": "Лепешка с чесноком и зеленью 3 шт",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-s-chesnokom-i-zelenyu-3-sht-84218/"
   },
   "115652": {
     "name": "Бедро индейки по-азиатски с картофелем",
