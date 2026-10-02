@@ -1,16 +1,128 @@
 {
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "63",
-    "old_price": "105",
+  "22300": {
+    "name": "Круассан на масле",
+    "price": "66",
+    "old_price": "110",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
   },
-  "115903": {
-    "name": "Кексы-мини \"Шоколадные\" в форме мишек",
+  "126446": {
+    "name": "Брецель с солью",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
+  },
+  "22459": {
+    "name": "Хлебцы \"Зерновые\"",
+    "price": "85",
+    "old_price": "141",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khlebtsy-zernovye-22459/"
+  },
+  "77145": {
+    "name": "Плюшка сдобная с посыпкой 2 шт",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/plyushka-sdobnaya-s-posypkoy-2-sht-77145/"
+  },
+  "116341": {
+    "name": "Брецель \"Миндальный\" на сливочном масле",
     "price": "135",
     "old_price": "225",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-shokoladnye-v-forme-mishek-115903/"
+    "link": "https://vkusvill.ru/goods/bretsel-mindalnyy-na-slivochnom-masle-116341/"
+  },
+  "21482": {
+    "name": "Лаваш \"Армянский\" тандырный, 150 г",
+    "price": "44",
+    "old_price": "74",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-21482/"
+  },
+  "60272": {
+    "name": "Лаваш \"Армянский\" тандырный, нарезка, 200 г",
+    "price": "58",
+    "old_price": "96",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-60272/"
+  },
+  "112773": {
+    "name": "Хлеб \"Гречневый\" на закваске",
+    "price": "73",
+    "old_price": "122",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-grechnevyy-na-zakvaske-112773/"
+  },
+  "85709": {
+    "name": "Круассан с шоколадной начинкой, 75 г",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-s-shokoladnoy-nachinkoy-85709/"
+  },
+  "52952": {
+    "name": "Пита \"Ливанская\"",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
+  },
+  "104678": {
+    "name": "Рулетики-мини с маком",
+    "price": "121",
+    "old_price": "202",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ruletiki-mini-s-makom-104678/"
+  },
+  "20994": {
+    "name": "Рулет с маковой начинкой, половинка",
+    "price": "100",
+    "old_price": "167",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulet-s-makovoy-nachinkoy-20994/"
+  },
+  "69495": {
+    "name": "Батон \"Весенний\", половинка, нарезка",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
+  },
+  "90665": {
+    "name": "Печенье \"Шарики\" с варёной сгущёнкой, кафе",
+    "price": "115",
+    "old_price": "192",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-shariki-s-varyenoy-sgushchyenkoy-90665/"
+  },
+  "22790": {
+    "name": "Печенье сдобное с апельсиновой начинкой",
+    "price": "110",
+    "old_price": "184",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-s-apelsinovoy-nachinkoy-22790/"
+  },
+  "107823": {
+    "name": "Брецель на сливочном масле с кунжутом",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
+  },
+  "26570": {
+    "name": "Изделие х/б \"Белково- полбяной с изюмом и семечками\"",
+    "price": "103",
+    "old_price": "172",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-belkovo-polbyanoy-s-izyumom-i-semechkami-26570/"
+  },
+  "122121": {
+    "name": "Батон \"Молочный\" на слив. масле, с кунжутом",
+    "price": "57",
+    "old_price": "95",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-molochnyy-na-sliv-masle-122121/"
   }
 }
