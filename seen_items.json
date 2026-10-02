@@ -1,11 +1,4 @@
 {
-  "122564": {
-    "name": "Паста цельнозерновая с тунцом и запеченными томатами",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-tselnozernovaya-s-tuntsom-i-zapechennymi-tomatami-122564/"
-  },
   "125279": {
     "name": "Салат зеленый с дайконом и кунжутным соусом",
     "price": "150",
@@ -19,13 +12,6 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
-  },
-  "27195": {
-    "name": "Суп щавелевый с курицей",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-shchavelevyy-s-kuritsey-27195/"
   },
   "77145": {
     "name": "Плюшка сдобная с посыпкой 2 шт",
@@ -117,13 +103,6 @@
     "old_price": "192",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-shariki-s-varyenoy-sgushchyenkoy-90665/"
-  },
-  "125321": {
-    "name": "Десерт \"Тирамису\" кокосовый с миндалем",
-    "price": "148",
-    "old_price": "247",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-tiramisu-kokosovyy-s-mindalem-125321/"
   },
   "113851": {
     "name": "Капуста очищенная половинка, шт",
