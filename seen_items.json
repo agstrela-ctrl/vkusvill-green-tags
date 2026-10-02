@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-tsyplenka-broylera-premium-21626/"
   },
+  "112775": {
+    "name": "Изделие х/б \"Зерновой\" с куркумой",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
+  },
   "19435": {
     "name": "Суп-пюре с грибами",
     "price": "132",
@@ -26,6 +33,13 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladi-na-kefire-98700/"
+  },
+  "106756": {
+    "name": "Хлеб \"Монж\", нарезка",
+    "price": "77",
+    "old_price": "128",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
   },
   "58178": {
     "name": "Крем-суп с тыквой и индейкой",
@@ -48,12 +62,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-podkopchenoy-kuritsey-i-syrom-96261/"
   },
+  "89186": {
+    "name": "Хлеб \"На кефире с сывороткой\", нарезка",
+    "price": "57",
+    "old_price": "95",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-na-kefire-s-syvorotkoy-89186/"
+  },
   "82834": {
     "name": "Торт \"Половинки Маракуйя-Монтблан\"",
     "price": "432",
     "old_price": "720",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-montblan-82834/"
+  },
+  "113574": {
+    "name": "Батон \"Сдобный\" на сливочном масле",
+    "price": "47",
+    "old_price": "79",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
   },
   "15196": {
     "name": "Петрушка, 50 г",
@@ -69,6 +97,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-zelenyy-67188/"
   },
+  "25053": {
+    "name": "Лаваш \"Армянский\", 160 г",
+    "price": "43",
+    "old_price": "72",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-25053/"
+  },
   "91332": {
     "name": "Суп Фо Бо",
     "price": "208",
@@ -76,12 +111,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
   },
+  "121692": {
+    "name": "Хлеб \"Кукурузный\", нарезка",
+    "price": "74",
+    "old_price": "123",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-kukuruznyy-121692/"
+  },
   "93683": {
     "name": "Стейк из индейки с овощами гриль и брокколи",
     "price": "269",
     "old_price": "448",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-indeyki-s-ovoshchami-gril-i-brokkoli-93683/"
+  },
+  "69495": {
+    "name": "Батон \"Весенний\", половинка, нарезка",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
   },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
