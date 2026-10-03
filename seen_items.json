@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "16943": {
-    "name": "Блины с творогом, 210 г",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-tvorogom-16943/"
-  },
   "96649": {
     "name": "Онигири с запеченным тунцом",
     "price": "126",
@@ -83,20 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
   },
-  "104701": {
-    "name": "Закрытый омлет с ветчиной и сыром, кафе",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
-  },
-  "120070": {
-    "name": "Говядина по-красноярски со сливочно-грибной полбой",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-po-krasnoyarski-so-slivochno-gribnoy-polboy-120070/"
-  },
   "112839": {
     "name": "Огурчики \"Вкусвилльчики\", 450 г",
     "price": "117",
@@ -104,12 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurchiki-vkusvillchiki-112839/"
   },
-  "53640": {
-    "name": "Ассорти эклеров \"Манго, Сырный, Лесные ягоды\"",
-    "price": "212",
-    "old_price": "353",
+  "118364": {
+    "name": "Микс салатный \"Нежный\", 200 г",
+    "price": "83",
+    "old_price": "138",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-eklerov-mango-53640/"
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
   },
   "113851": {
     "name": "Капуста очищенная половинка, шт",
@@ -117,13 +96,6 @@
     "old_price": "85",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-ochishchennaya-polovinka-113851/"
-  },
-  "115083": {
-    "name": "Баклажаны \"Пармиджано\" с соусом песто",
-    "price": "337",
-    "old_price": "562",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baklazhany-parmidzhano-s-sousom-pesto-115083/"
   },
   "122742": {
     "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
@@ -187,19 +159,5 @@
     "old_price": "58",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
-  },
-  "120064": {
-    "name": "Курица с зеленым рисом карри",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-zelenym-risom-karri-120064/"
-  },
-  "113634": {
-    "name": "Корейка на кости из мраморной свинины",
-    "price": "263",
-    "old_price": "438",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koreyka-na-kosti-iz-mramornoy-svininy-113634/"
   }
 }
