@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835/"
   },
-  "126299": {
-    "name": "Чахохбили с рисом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chakhokhbili-s-risom-126299/"
-  },
   "23160": {
     "name": "Микс салатный \"Грасс\"",
     "price": "132",
@@ -104,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochek-sochnyy-s-penne-61689/"
   },
-  "123166": {
-    "name": "Суп \"Том ям\" с креветками и древесными грибами, холодный",
-    "price": "215",
-    "old_price": "358",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-tom-yam-s-krevetkami-i-drevesnymi-gribami-123166/"
-  },
   "121195": {
     "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
     "price": "192",
@@ -131,12 +117,5 @@
     "old_price": "80",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ayran-s-tomatami-i-zelenyu-1-118776/"
-  },
-  "82924": {
-    "name": "Пирожное \"Домашний сметанник\"",
-    "price": "97",
-    "old_price": "161",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-domashniy-smetannik-82924/"
   }
 }
