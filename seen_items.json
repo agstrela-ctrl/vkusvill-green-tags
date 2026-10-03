@@ -6,6 +6,27 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
+  "16943": {
+    "name": "Блины с творогом, 210 г",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-tvorogom-16943/"
+  },
+  "96649": {
+    "name": "Онигири с запеченным тунцом",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
+  },
+  "34249": {
+    "name": "Сливки 15%, 200 г",
+    "price": "59",
+    "old_price": "99",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/slivki-15-34249/"
+  },
   "21482": {
     "name": "Лаваш \"Армянский\" тандырный, 150 г",
     "price": "44",
@@ -20,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mini-14993/"
   },
+  "112773": {
+    "name": "Хлеб \"Гречневый\" на закваске",
+    "price": "73",
+    "old_price": "122",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-grechnevyy-na-zakvaske-112773/"
+  },
   "31276": {
     "name": "Лук зеленый, 100 г",
     "price": "59",
@@ -27,12 +55,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-zelenyy-31276/"
   },
+  "63774": {
+    "name": "Минтай жареный филе, 200 г",
+    "price": "211",
+    "old_price": "352",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mintay-zharenyy-file-63774/"
+  },
   "85709": {
     "name": "Круассан с шоколадной начинкой, 75 г",
     "price": "102",
     "old_price": "170",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-s-shokoladnoy-nachinkoy-85709/"
+  },
+  "122780": {
+    "name": "Микс салатный \"Тулон\", 180г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-tulon-122780/"
   },
   "52952": {
     "name": "Пита \"Ливанская\"",
@@ -62,12 +104,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurchiki-vkusvillchiki-112839/"
   },
+  "53640": {
+    "name": "Ассорти эклеров \"Манго, Сырный, Лесные ягоды\"",
+    "price": "212",
+    "old_price": "353",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-eklerov-mango-53640/"
+  },
   "113851": {
     "name": "Капуста очищенная половинка, шт",
     "price": "51",
     "old_price": "85",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-ochishchennaya-polovinka-113851/"
+  },
+  "115083": {
+    "name": "Баклажаны \"Пармиджано\" с соусом песто",
+    "price": "337",
+    "old_price": "562",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baklazhany-parmidzhano-s-sousom-pesto-115083/"
+  },
+  "122742": {
+    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   },
   "75214": {
     "name": "Творог Вкуснотеево 9% 450 г",
@@ -82,6 +145,13 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
+  },
+  "123009": {
+    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
   "97844": {
     "name": "Крем-суп тыквенный",
