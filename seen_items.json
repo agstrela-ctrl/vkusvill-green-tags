@@ -1,65 +1,9 @@
 {
-  "112773": {
-    "name": "Хлеб \"Гречневый\" на закваске",
-    "price": "73",
-    "old_price": "122",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-grechnevyy-na-zakvaske-112773/"
-  },
-  "52952": {
-    "name": "Пита \"Ливанская\"",
-    "price": "52",
-    "old_price": "87",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
-  },
-  "33849": {
-    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
-    "price": "81",
-    "old_price": "135",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
-  },
   "123729": {
     "name": "Чиабатта оливковая с ветчиной из индейки, омлетом и сырным соусом, кафе",
     "price": "168",
     "old_price": "280",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-olivkovaya-s-vetchinoy-iz-indeyki-123729/"
-  },
-  "22300": {
-    "name": "Круассан на масле",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
-  },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
-  "97844": {
-    "name": "Крем-суп тыквенный",
-    "price": "120",
-    "old_price": "200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
-  },
-  "69495": {
-    "name": "Батон \"Весенний\", половинка, нарезка",
-    "price": "35",
-    "old_price": "58",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
-  },
-  "19124": {
-    "name": "Баранки с маком",
-    "price": "58",
-    "old_price": "97",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baranki-s-makom-19124/"
   }
 }
