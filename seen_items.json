@@ -1,18 +1,4 @@
 {
-  "104394": {
-    "name": "Торт \"Черный лес\" с вишней",
-    "price": "490",
-    "old_price": "816",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-chernyy-les-s-vishney-104394/"
-  },
-  "34217": {
-    "name": "Батон нарезной, половинка",
-    "price": "28",
-    "old_price": "46",
-    "discount": "39",
-    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
-  },
   "115477": {
     "name": "Батон без добавления сахара нарезанный, половинка",
     "price": "35",
@@ -33,20 +19,6 @@
     "old_price": "152",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
-  },
-  "15309": {
-    "name": "Щавель, 100г",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchavel-15309/"
-  },
-  "119818": {
-    "name": "Лепешка \"Тортилья\" с сыром",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
   },
   "122121": {
     "name": "Батон \"Молочный\" на слив. масле, с кунжутом",
