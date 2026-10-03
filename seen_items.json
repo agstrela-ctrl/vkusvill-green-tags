@@ -1,11 +1,4 @@
 {
-  "113571": {
-    "name": "Батон \"Молодежная классика\", нарезка",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
-  },
   "112773": {
     "name": "Хлеб \"Гречневый\" на закваске",
     "price": "73",
@@ -27,12 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
   },
-  "68155": {
-    "name": "Печенье домашнее \"Арахисовая полоска\"",
-    "price": "182",
-    "old_price": "304",
+  "123729": {
+    "name": "Чиабатта оливковая с ветчиной из индейки, омлетом и сырным соусом, кафе",
+    "price": "168",
+    "old_price": "280",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-domashnee-arakhisovaya-poloska-68155/"
+    "link": "https://vkusvill.ru/goods/chiabatta-olivkovaya-s-vetchinoy-iz-indeyki-123729/"
   },
   "22300": {
     "name": "Круассан на масле",
