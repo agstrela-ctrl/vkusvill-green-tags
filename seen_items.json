@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "22300": {
-    "name": "Круассан на масле",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
-  },
   "21482": {
     "name": "Лаваш \"Армянский\" тандырный, 150 г",
     "price": "44",
@@ -40,13 +33,6 @@
     "old_price": "170",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-s-shokoladnoy-nachinkoy-85709/"
-  },
-  "108295": {
-    "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
   },
   "52952": {
     "name": "Пита \"Ливанская\"",
@@ -89,6 +75,13 @@
     "old_price": "373",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-vkusnoteevo-9-450-g-75214/"
+  },
+  "22300": {
+    "name": "Круассан на масле",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
   },
   "97844": {
     "name": "Крем-суп тыквенный",
