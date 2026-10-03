@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
   },
+  "126191": {
+    "name": "Суп корейский с кимчи и свининой \"Кимчи Чиге\"",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-koreyskiy-s-kimchi-i-svininoy-kimchi-chige-126191/"
+  },
   "34249": {
     "name": "Сливки 15%, 200 г",
     "price": "59",
@@ -48,6 +55,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-zelenyy-31276/"
   },
+  "122325": {
+    "name": "Панкейки с клубничным топпингом, обогащенные белком",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pankeyki-s-klubnichnym-toppingom-122325/"
+  },
   "63774": {
     "name": "Минтай жареный филе, 200 г",
     "price": "211",
@@ -75,6 +89,13 @@
     "old_price": "87",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
+  },
+  "89997": {
+    "name": "Капуста тушеная с овощами",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapusta-tushenaya-s-ovoshchami-89997/"
   },
   "112839": {
     "name": "Огурчики \"Вкусвилльчики\", 450 г",
