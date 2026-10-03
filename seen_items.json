@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "96649": {
-    "name": "Онигири с запеченным тунцом",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
-  },
   "126191": {
     "name": "Суп корейский с кимчи и свининой \"Кимчи Чиге\"",
     "price": "185",
@@ -20,33 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-koreyskiy-s-kimchi-i-svininoy-kimchi-chige-126191/"
   },
-  "34249": {
-    "name": "Сливки 15%, 200 г",
-    "price": "59",
-    "old_price": "99",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/slivki-15-34249/"
-  },
-  "14993": {
-    "name": "Морковь-мини",
-    "price": "75",
-    "old_price": "125",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-mini-14993/"
-  },
   "112773": {
     "name": "Хлеб \"Гречневый\" на закваске",
     "price": "73",
     "old_price": "122",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-grechnevyy-na-zakvaske-112773/"
-  },
-  "31276": {
-    "name": "Лук зеленый, 100 г",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-zelenyy-31276/"
   },
   "122325": {
     "name": "Панкейки с клубничным топпингом, обогащенные белком",
@@ -68,13 +40,6 @@
     "old_price": "138",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
-  },
-  "122742": {
-    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   },
   "22300": {
     "name": "Круассан на масле",
