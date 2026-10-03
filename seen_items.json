@@ -20,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-grechnevyy-na-zakvaske-112773/"
   },
-  "122325": {
-    "name": "Панкейки с клубничным топпингом, обогащенные белком",
-    "price": "159",
-    "old_price": "265",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pankeyki-s-klubnichnym-toppingom-122325/"
-  },
   "52952": {
     "name": "Пита \"Ливанская\"",
     "price": "52",
     "old_price": "87",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
-  },
-  "118364": {
-    "name": "Микс салатный \"Нежный\", 200 г",
-    "price": "83",
-    "old_price": "138",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
   },
   "22300": {
     "name": "Круассан на масле",
@@ -68,12 +54,5 @@
     "old_price": "58",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
-  },
-  "93683": {
-    "name": "Стейк из индейки с овощами гриль и брокколи",
-    "price": "269",
-    "old_price": "448",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-iz-indeyki-s-ovoshchami-gril-i-brokkoli-93683/"
   }
 }
