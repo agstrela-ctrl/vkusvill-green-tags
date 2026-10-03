@@ -27,6 +27,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
   },
+  "33849": {
+    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
+    "price": "81",
+    "old_price": "135",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
+  },
   "68155": {
     "name": "Печенье домашнее \"Арахисовая полоска\"",
     "price": "182",
@@ -34,12 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-domashnee-arakhisovaya-poloska-68155/"
   },
-  "19124": {
-    "name": "Баранки с маком",
-    "price": "58",
-    "old_price": "97",
+  "34766": {
+    "name": "Рулет с вареной сгущенкой зам.",
+    "price": "246",
+    "old_price": "410",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/baranki-s-makom-19124/"
+    "link": "https://vkusvill.ru/goods/rulet-s-varenoy-sgushchenkoy-zam-34766/"
   },
   "22300": {
     "name": "Круассан на масле",
@@ -68,5 +75,12 @@
     "old_price": "58",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
+  },
+  "19124": {
+    "name": "Баранки с маком",
+    "price": "58",
+    "old_price": "97",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baranki-s-makom-19124/"
   }
 }
