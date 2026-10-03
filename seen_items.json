@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
   },
-  "111212": {
-    "name": "Куриное филе запеченное с цукини и моцареллой",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-tsukini-i-motsarelloy-111212/"
-  },
   "89299": {
     "name": "Щи из свежей капусты постные",
     "price": "125",
@@ -48,26 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-kurinaya-v-panirovke-iz-sukharey-s-kartofelnym-pyure-39543/"
   },
-  "98204": {
-    "name": "Сэндвич ролл с индейкой и сладким чили",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
-  },
   "24293": {
     "name": "Фрикадельки мини из телятины",
     "price": "298",
     "old_price": "497",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
-  },
-  "92433": {
-    "name": "Пирожное \"НеМедовик\" шоколадный, веган",
-    "price": "124",
-    "old_price": "206",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
   },
   "55261": {
     "name": "Утенок в ягодном соусе",
