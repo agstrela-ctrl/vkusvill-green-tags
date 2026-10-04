@@ -1,31 +1,10 @@
 {
-  "124649": {
-    "name": "Сосиска в тесте фило, 2 шт",
-    "price": "160",
-    "old_price": "267",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiska-v-teste-filo-124649/"
-  },
   "108186": {
     "name": "Салат с консервированным тунцом и яблоком",
     "price": "173",
     "old_price": "288",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-konservirovannym-tuntsom-i-yablokom-108186/"
-  },
-  "28799": {
-    "name": "Плов с курицей",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-s-kuritsey-28799/"
-  },
-  "29522": {
-    "name": "Голубцы ленивые в сметанном соусе",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubtsy-lenivye-v-smetannom-souse-29522/"
   },
   "111102": {
     "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
@@ -69,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-krem-kurinyy-25262/"
   },
-  "63899": {
-    "name": "Котлеты из свинины и говядины, 300 г",
-    "price": "276",
-    "old_price": "460",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-63899/"
-  },
   "61150": {
     "name": "Ролл с огурцом",
     "price": "174",
@@ -97,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zavarnoy-s-solodom-118975/"
   },
-  "34511": {
-    "name": "Пенне с грибами и овощами",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
-  },
   "82232": {
     "name": "Торт \"Белые ночи\" с сырным кремом, 1,1 кг",
     "price": "684",
@@ -124,13 +89,6 @@
     "old_price": "196",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-kapustoy-i-gribami-108518/"
-  },
-  "119506": {
-    "name": "Сэндвич-ролл с люля-кебабом из курицы",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-lyulya-kebabom-iz-kuritsy-119506/"
   },
   "23073": {
     "name": "Салат Кобб с имбирным соусом",
