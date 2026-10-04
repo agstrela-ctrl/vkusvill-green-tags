@@ -48,6 +48,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
+  "24852": {
+    "name": "Тортилья пшеничная",
+    "price": "46",
+    "old_price": "76",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/tortilya-pshenichnaya-24852/"
+  },
   "60272": {
     "name": "Лаваш \"Армянский\" тандырный, нарезка, 200 г",
     "price": "58",
@@ -82,6 +89,13 @@
     "old_price": "102",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-dlya-tostov-zernovoe-65384/"
+  },
+  "112770": {
+    "name": "Хлеб \"Свекольно-морковный\"",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
   },
   "110091": {
     "name": "Изделие х/б \"Рисовый\" с топинамбуром, без глютена",
