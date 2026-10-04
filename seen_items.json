@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835/"
   },
+  "34217": {
+    "name": "Батон нарезной, половинка",
+    "price": "28",
+    "old_price": "46",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
+  },
   "113571": {
     "name": "Батон \"Молодежная классика\", нарезка",
     "price": "36",
@@ -26,13 +33,6 @@
     "old_price": "84",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
-  },
-  "34217": {
-    "name": "Батон нарезной, половинка",
-    "price": "28",
-    "old_price": "46",
-    "discount": "39",
-    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
   },
   "23160": {
     "name": "Микс салатный \"Грасс\"",
@@ -69,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
-  "271": {
-    "name": "Кефир детский 3,2%, 210 г",
-    "price": "32",
-    "old_price": "53",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-detskiy-3-271/"
-  },
   "83512": {
     "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
     "price": "71",
@@ -89,13 +82,6 @@
     "old_price": "102",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-dlya-tostov-zernovoe-65384/"
-  },
-  "112770": {
-    "name": "Хлеб \"Свекольно-морковный\"",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
   },
   "110091": {
     "name": "Изделие х/б \"Рисовый\" с топинамбуром, без глютена",
@@ -124,12 +110,5 @@
     "old_price": "1590",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/osetr-file-kusochki-bez-kozhi-okhl-125492/"
-  },
-  "118776": {
-    "name": "Айран с томатами и зеленью 1,8%, 180 г",
-    "price": "48",
-    "old_price": "80",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ayran-s-tomatami-i-zelenyu-1-118776/"
   }
 }
