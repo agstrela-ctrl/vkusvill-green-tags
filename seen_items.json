@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
-  "24852": {
-    "name": "Тортилья пшеничная",
-    "price": "46",
-    "old_price": "76",
-    "discount": "39",
-    "link": "https://vkusvill.ru/goods/tortilya-pshenichnaya-24852/"
-  },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
     "price": "62",
@@ -69,11 +62,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
   },
-  "125492": {
-    "name": "Осетр филе-кусочки без кожи охл., 400 г",
-    "price": "954",
-    "old_price": "1590",
+  "105910": {
+    "name": "Конфеты кокосовые в шоколаде с начинкой \"Малина\"",
+    "price": "204",
+    "old_price": "340",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/osetr-file-kusochki-bez-kozhi-okhl-125492/"
+    "link": "https://vkusvill.ru/goods/konfety-kokosovye-v-shokolade-s-nachinkoy-malina-105910/"
+  },
+  "33281": {
+    "name": "Соломка Lorenz Junior 60 г",
+    "price": "41",
+    "old_price": "69",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/solomka-lorenz-junior-60-g-33281/"
   }
 }
