@@ -41,17 +41,10 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
   },
-  "99853": {
-    "name": "Суп из печеных томатов с креветками",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-iz-pechenykh-tomatov-s-krevetkami-99853/"
-  },
   "37923": {
     "name": "Куриная грудка с грибами и пенне",
-    "price": "196",
-    "old_price": "326",
+    "price": "204",
+    "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinaya-grudka-s-gribami-i-penne-37923/"
   },
@@ -76,20 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-krem-kurinyy-25262/"
   },
-  "77153": {
-    "name": "Свекольник на кефире",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
-  },
-  "29461": {
-    "name": "Коврижка яблочная постная, кафе",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
-  },
   "63899": {
     "name": "Котлеты из свинины и говядины, 300 г",
     "price": "276",
@@ -106,8 +85,8 @@
   },
   "115459": {
     "name": "Котлеты из мяса цыплят-бройлеров с сыром сулугуни и базиликом",
-    "price": "263",
-    "old_price": "438",
+    "price": "277",
+    "old_price": "462",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyat-broylerov-s-syrom-suluguni-i-bazilikom-115459/"
   },
@@ -181,13 +160,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
   },
-  "61707": {
-    "name": "Кексы-мини ванильно-сливочные",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-61707/"
-  },
   "124581": {
     "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
     "price": "36",
@@ -202,12 +174,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-grudka-kurinaya-s-kartofelem-po-derevenski-i-salat-iz-letnikh-ovoshchey-113281/"
   },
-  "61709": {
-    "name": "Кексы-мини ванильно-сливочные с изюмом",
-    "price": "173",
-    "old_price": "288",
+  "61707": {
+    "name": "Кексы-мини ванильно-сливочные",
+    "price": "172",
+    "old_price": "286",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-s-izyumom-61709/"
+    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-61707/"
   },
   "122742": {
     "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
@@ -215,5 +187,12 @@
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
+  },
+  "61709": {
+    "name": "Кексы-мини ванильно-сливочные с изюмом",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-s-izyumom-61709/"
   }
 }
