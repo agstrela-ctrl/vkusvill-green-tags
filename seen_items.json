@@ -13,12 +13,54 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835/"
   },
+  "113571": {
+    "name": "Батон \"Молодежная классика\", нарезка",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+  },
+  "32931": {
+    "name": "Тартин пшенично-ржаной, половинка",
+    "price": "50",
+    "old_price": "84",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
+  },
+  "34217": {
+    "name": "Батон нарезной, половинка",
+    "price": "28",
+    "old_price": "46",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
+  },
   "23160": {
     "name": "Микс салатный \"Грасс\"",
     "price": "132",
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
+  },
+  "58728": {
+    "name": "Хлеб цельнозерновой с отрубями",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+  },
+  "60272": {
+    "name": "Лаваш \"Армянский\" тандырный, нарезка, 200 г",
+    "price": "58",
+    "old_price": "96",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-60272/"
+  },
+  "109471": {
+    "name": "Тартин \"Зерновой\", нарезка, 250 г",
+    "price": "62",
+    "old_price": "104",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
   "271": {
     "name": "Кефир детский 3,2%, 210 г",
@@ -34,6 +76,27 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
   },
+  "83512": {
+    "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
+    "price": "71",
+    "old_price": "118",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
+  },
+  "80342": {
+    "name": "Рогалик сдобный с вишневой начинкой",
+    "price": "60",
+    "old_price": "100",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rogalik-sdobnyy-s-vishnevoy-nachinkoy-80342/"
+  },
+  "65384": {
+    "name": "Изделие х/б \"Для тостов\" зерновое, 250 г",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-dlya-tostov-zernovoe-65384/"
+  },
   "110091": {
     "name": "Изделие х/б \"Рисовый\" с топинамбуром, без глютена",
     "price": "145",
@@ -47,6 +110,13 @@
     "old_price": "238",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochek-sochnyy-s-penne-61689/"
+  },
+  "92590": {
+    "name": "Круассан с фисташковой начинкой",
+    "price": "103",
+    "old_price": "171",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-s-fistashkovoy-nachinkoy-92590/"
   },
   "121195": {
     "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
