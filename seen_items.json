@@ -1,18 +1,4 @@
 {
-  "124474": {
-    "name": "Трубочка-фило с яйцом, сыром и зеленым луком",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
-  },
-  "67887": {
-    "name": "Шницель куриный в яйце, 360 г",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-yaytse-67887/"
-  },
   "120063": {
     "name": "Курица в сливочно-шпинатном соусе с рисом",
     "price": "155",
@@ -26,13 +12,6 @@
     "old_price": "328",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-s-kuritsey-122604/"
-  },
-  "27158": {
-    "name": "Киш с курицей и грибами, кафе",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kish-s-kuritsey-i-gribami-27158/"
   },
   "123462": {
     "name": "Салат корейский \"Ве-Ча\" с говядиной и огурцами",
