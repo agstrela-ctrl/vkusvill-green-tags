@@ -69,6 +69,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
+  "118342": {
+    "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
+    "price": "203",
+    "old_price": "338",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-s-kuritsey-teriyaki-118342/"
+  },
   "83512": {
     "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
     "price": "71",
@@ -76,12 +83,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
   },
+  "100821": {
+    "name": "Печень жареная с луком с гречкой",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
+  },
   "65384": {
     "name": "Изделие х/б \"Для тостов\" зерновое, 250 г",
     "price": "61",
     "old_price": "102",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-dlya-tostov-zernovoe-65384/"
+  },
+  "45767": {
+    "name": "Салат \"Оливье вегетарианский\"",
+    "price": "142",
+    "old_price": "236",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-olive-vegetarianskiy-45767/"
+  },
+  "25023": {
+    "name": "Блинчики \"Цезарь\"",
+    "price": "152",
+    "old_price": "254",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/blinchiki-tsezar-25023/"
   },
   "110091": {
     "name": "Изделие х/б \"Рисовый\" с топинамбуром, без глютена",
