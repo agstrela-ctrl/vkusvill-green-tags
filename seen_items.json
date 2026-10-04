@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
   },
-  "23160": {
-    "name": "Микс салатный \"Грасс\"",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
-  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
@@ -48,13 +41,6 @@
     "discount": "39",
     "link": "https://vkusvill.ru/goods/tortilya-pshenichnaya-24852/"
   },
-  "95811": {
-    "name": "Сэндвич ролл с тигровыми креветками",
-    "price": "168",
-    "old_price": "280",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-tigrovymi-krevetkami-95811/"
-  },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
     "price": "62",
@@ -62,26 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
-  "82602": {
-    "name": "Профитроли с начинкой в шоколадном соусе",
-    "price": "196",
-    "old_price": "326",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/profitroli-s-nachinkoy-v-shokoladnom-souse-82602/"
-  },
   "118342": {
     "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
     "price": "203",
     "old_price": "338",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-s-kuritsey-teriyaki-118342/"
-  },
-  "83512": {
-    "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
-    "price": "71",
-    "old_price": "118",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
   },
   "100821": {
     "name": "Печень жареная с луком с гречкой",
