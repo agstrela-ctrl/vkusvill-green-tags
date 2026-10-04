@@ -76,6 +76,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
+  "12304": {
+    "name": "Котлеты из кролика",
+    "price": "310",
+    "old_price": "516",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-krolika-12304/"
+  },
   "118342": {
     "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
     "price": "203",
@@ -110,6 +117,13 @@
     "old_price": "236",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-olive-vegetarianskiy-45767/"
+  },
+  "124264": {
+    "name": "Котлета \"Грильбургер\"",
+    "price": "274",
+    "old_price": "456",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-grilburger-124264/"
   },
   "110091": {
     "name": "Изделие х/б \"Рисовый\" с топинамбуром, без глютена",
