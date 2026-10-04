@@ -34,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-bitochek-sochnyy-s-penne-i-salat-krabovyy-102212/"
   },
-  "22929": {
-    "name": "Куриное филе запеченное с овощами",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-ovoshchami-22929/"
-  },
   "111102": {
     "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
     "price": "204",
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
-  },
-  "99857": {
-    "name": "Суп куриный с лапшой и яйцом",
-    "price": "127",
-    "old_price": "212",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-kurinyy-s-lapshoy-i-yaytsom-99857/"
   },
   "113856": {
     "name": "Салат из запеченной свеклы с сыром фета",
@@ -103,13 +89,6 @@
     "old_price": "228",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-krem-kurinyy-25262/"
-  },
-  "62414": {
-    "name": "Котлеты куриные",
-    "price": "252",
-    "old_price": "420",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-62414/"
   },
   "77153": {
     "name": "Свекольник на кефире",
@@ -209,13 +188,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lapsha-iz-batata-s-krevetkami-v-souse-teriyaki-113300/"
   },
-  "117328": {
-    "name": "Лепешка с творожным сыром и грушей",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-tvorozhnym-syrom-i-grushey-117328/"
-  },
   "82232": {
     "name": "Торт \"Белые ночи\" с сырным кремом, 1,1 кг",
     "price": "684",
@@ -229,13 +201,6 @@
     "old_price": "308",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-orzo-s-krevetkami-78100/"
-  },
-  "37867": {
-    "name": "Грудка куриная с картофелем по-деревенски",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grudka-kurinaya-s-kartofelem-po-derevenski-37867/"
   },
   "108518": {
     "name": "Конвертики с капустой и грибами, постные",
@@ -328,11 +293,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
-  "110086": {
-    "name": "Пиццета \"Овощная\"",
-    "price": "102",
-    "old_price": "170",
+  "113281": {
+    "name": "Комбо-набор: Грудка куриная с картофелем по-деревенски и Салат из летних овощей",
+    "price": "228",
+    "old_price": "380",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstseta-ovoshchnaya-110086/"
+    "link": "https://vkusvill.ru/goods/kombo-nabor-grudka-kurinaya-s-kartofelem-po-derevenski-i-salat-iz-letnikh-ovoshchey-113281/"
+  },
+  "61709": {
+    "name": "Кексы-мини ванильно-сливочные с изюмом",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-s-izyumom-61709/"
+  },
+  "122742": {
+    "name": "Паста-салат \"Песто\" с тунцом и соусом из вяленых томатов",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-salat-pesto-s-tuntsom-i-sousom-iz-vyalenykh-tomatov-122742/"
   }
 }
