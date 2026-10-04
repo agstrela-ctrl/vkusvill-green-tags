@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-risovyy-s-topinamburom-110091/"
   },
-  "125492": {
-    "name": "Осетр филе-кусочки без кожи охл., 400 г",
-    "price": "954",
-    "old_price": "1590",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/osetr-file-kusochki-bez-kozhi-okhl-125492/"
-  },
   "61689": {
     "name": "Биточек сочный с пенне",
     "price": "143",
@@ -75,6 +68,13 @@
     "old_price": "320",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
+  },
+  "125492": {
+    "name": "Осетр филе-кусочки без кожи охл., 400 г",
+    "price": "954",
+    "old_price": "1590",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/osetr-file-kusochki-bez-kozhi-okhl-125492/"
   },
   "118776": {
     "name": "Айран с томатами и зеленью 1,8%, 180 г",
