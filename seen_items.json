@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
   },
-  "34835": {
-    "name": "Салат \"Витаминный\" с лимонной заправкой",
-    "price": "130",
-    "old_price": "216",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835/"
-  },
   "34217": {
     "name": "Батон нарезной, половинка",
     "price": "28",
@@ -76,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/profitroli-s-nachinkoy-v-shokoladnom-souse-82602/"
   },
-  "58433": {
-    "name": "Торт \"Тирамису\", веган",
-    "price": "376",
-    "old_price": "627",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-tiramisu-58433/"
-  },
   "118342": {
     "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
     "price": "203",
@@ -104,40 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
   },
-  "45767": {
-    "name": "Салат \"Оливье вегетарианский\"",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-olive-vegetarianskiy-45767/"
-  },
-  "124264": {
-    "name": "Котлета \"Грильбургер\"",
-    "price": "274",
-    "old_price": "456",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-grilburger-124264/"
-  },
   "75991": {
     "name": "Микс салатный \"Витамикс\" , 150 г",
     "price": "159",
     "old_price": "265",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
-  },
-  "61689": {
-    "name": "Биточек сочный с пенне",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochek-sochnyy-s-penne-61689/"
-  },
-  "92590": {
-    "name": "Круассан с фисташковой начинкой",
-    "price": "103",
-    "old_price": "171",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-s-fistashkovoy-nachinkoy-92590/"
   },
   "125492": {
     "name": "Осетр филе-кусочки без кожи охл., 400 г",
