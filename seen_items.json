@@ -1,4 +1,18 @@
 {
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "32",
+    "old_price": "54",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
   "606": {
     "name": "Морковь",
     "price": "30",
@@ -6,12 +20,68 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-606/"
   },
+  "105270": {
+    "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
+  },
+  "102354": {
+    "name": "Салат с баклажанами и крем-чизом в азиатском соусе",
+    "price": "186",
+    "old_price": "310",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-s-baklazhanami-i-krem-chizom-v-aziatskom-souse-102354/"
+  },
   "67859": {
     "name": "Розы кустовые в горшочке",
     "price": "270",
     "old_price": "450",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rozy-kustovye-v-gorshochke-67859/"
+  },
+  "99359": {
+    "name": "Шаурма с курицей и соусом \"Бургер\"",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-burger-99359/"
+  },
+  "101030": {
+    "name": "Говядина тушеная с лисичками и пастой Ризо в сливочно-грибном соусе",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-tushenaya-s-lisichkami-i-pastoy-rizo-v-slivochno-gribnom-souse-101030/"
+  },
+  "33477": {
+    "name": "Биойогурт детский с манго без добавления сахара 2,5%",
+    "price": "38",
+    "old_price": "64",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/bioyogurt-detskiy-s-mango-bez-dobavleniya-sakhara-2-33477/"
+  },
+  "75991": {
+    "name": "Микс салатный \"Витамикс\" , 150 г",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
+  },
+  "110853": {
+    "name": "Десерт \"Бернау\" со свежей ягодой",
+    "price": "358",
+    "old_price": "596",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-bernau-so-svezhey-yagodoy-110853/"
+  },
+  "110470": {
+    "name": "Бифштекс из мраморной говядины",
+    "price": "236",
+    "old_price": "394",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bifshteks-iz-mramornoy-govyadiny-110470/"
   },
   "33281": {
     "name": "Соломка Lorenz Junior 60 г",
