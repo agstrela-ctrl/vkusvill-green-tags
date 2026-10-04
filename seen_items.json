@@ -1,11 +1,4 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
-  },
   "605": {
     "name": "Лук репчатый",
     "price": "32",
@@ -20,12 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
   },
-  "75991": {
-    "name": "Микс салатный \"Витамикс\" , 150 г",
-    "price": "159",
-    "old_price": "265",
+  "15865": {
+    "name": "Дыня Эфиопка",
+    "price": "96",
+    "old_price": "160",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
+    "link": "https://vkusvill.ru/goods/dynya-efiopka-15865/"
   },
   "33281": {
     "name": "Соломка Lorenz Junior 60 г",
