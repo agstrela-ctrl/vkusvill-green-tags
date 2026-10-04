@@ -1,16 +1,149 @@
 {
-  "123462": {
-    "name": "Салат корейский \"Ве-Ча\" с говядиной и огурцами",
-    "price": "161",
-    "old_price": "268",
+  "90429": {
+    "name": "Огурцы Луховицкие, 500 г",
+    "price": "99",
+    "old_price": "165",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-koreyskiy-ve-cha-s-govyadinoy-i-ogurtsami-123462/"
+    "link": "https://vkusvill.ru/goods/ogurtsy-lukhovitskie-90429/"
   },
-  "120063": {
-    "name": "Курица в сливочно-шпинатном соусе с рисом",
-    "price": "155",
-    "old_price": "258",
+  "15197": {
+    "name": "Ассорти из зелени, 100 г",
+    "price": "75",
+    "old_price": "125",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochno-shpinatnom-souse-s-risom-120063/"
+    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
+  },
+  "33473": {
+    "name": "Котлеты \"Пожарские\"",
+    "price": "233",
+    "old_price": "388",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-pozharskie-33473/"
+  },
+  "38215": {
+    "name": "Филе грудки цыпленка-бройлера для запекания в маринаде \"Сливочно-пряный\"",
+    "price": "378",
+    "old_price": "630",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-dlya-zapekaniya-v-marinade-slivochno-pryanyy-38215/"
+  },
+  "28627": {
+    "name": "Окорочок утки, охлажденный",
+    "price": "634",
+    "old_price": "1057",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okorochok-utki-28627/"
+  },
+  "29694": {
+    "name": "Виноград Кишмиш розовый без косточки, 500 г",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vinograd-kishmish-rozovyy-bez-kostochki-29694/"
+  },
+  "109595": {
+    "name": "Рёбрышки в маринаде по-домашнему",
+    "price": "311",
+    "old_price": "518",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ryebryshki-v-marinade-po-domashnemu-109595/"
+  },
+  "25528": {
+    "name": "Авокадо Хасс, 600 г",
+    "price": "345",
+    "old_price": "575",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/avokado-khass-25528/"
+  },
+  "89957": {
+    "name": "Голубика гигант, 125 г",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/golubika-gigant-89957/"
+  },
+  "104525": {
+    "name": "Бедро индейки бескостное \"По-Домашнему\"",
+    "price": "608",
+    "old_price": "1014",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bedro-indeyki-beskostnoe-po-domashnemu-104525/"
+  },
+  "55261": {
+    "name": "Утенок в ягодном соусе",
+    "price": "448",
+    "old_price": "747",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/utenok-v-yagodnom-souse-55261/"
+  },
+  "17128": {
+    "name": "Микс салатный \"Паризьен\"",
+    "price": "93",
+    "old_price": "155",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-parizen-17128/"
+  },
+  "99988": {
+    "name": "Бедро индейки бескостное в ягодном маринаде",
+    "price": "487",
+    "old_price": "812",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bedro-indeyki-beskostnoe-v-yagodnom-marinade-99988/"
+  },
+  "115246": {
+    "name": "Фрикадельки из индейки и говядины",
+    "price": "218",
+    "old_price": "364",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/frikadelki-iz-indeyki-i-govyadiny-115246/"
+  },
+  "15924": {
+    "name": "Котлеты из щуки охл., 300 г",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-shchuki-okhl-15924/"
+  },
+  "78933": {
+    "name": "Котлетки из грудки цыпленка-бройлера с маслом",
+    "price": "299",
+    "old_price": "499",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
+  },
+  "110460": {
+    "name": "Фрикадельки \"Домашние\", 300 г",
+    "price": "196",
+    "old_price": "327",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/frikadelki-domashnie-110460/"
+  },
+  "59665": {
+    "name": "Хурма мини Узбекистан, 500 г",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khurma-mini-uzbekistan-59665/"
+  },
+  "88673": {
+    "name": "Перец Тайский острый , 30 г",
+    "price": "77",
+    "old_price": "128",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-tayskiy-ostryy--88673/"
+  },
+  "65513": {
+    "name": "Биточки из мяса индейки",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
+  },
+  "14962": {
+    "name": "Мясо цыпленка-бройлера на косточке",
+    "price": "331",
+    "old_price": "552",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/myaso-tsyplenka-broylera-na-kostochke-14962/"
   }
 }
