@@ -20,19 +20,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "125068": {
-    "name": "Круассан \"Калининградский\" с марципановой начинкой",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
-  },
   "22300": {
     "name": "Круассан на масле",
     "price": "66",
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
+  },
+  "67243": {
+    "name": "Котлета \"Нежная\" со сливочным маслом и картофельным пюре",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-nezhnaya-so-slivochnym-maslom-i-kartofelnym-pyure-67243/"
+  },
+  "125953": {
+    "name": "Сырники с фисташковым кремом",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-s-fistashkovym-kremom-125953/"
   },
   "65192": {
     "name": "Изделие х/б \"Цельнозерновой\" полбяной с семенами льна",
@@ -41,12 +48,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoy-polbyanoy-s-semenami-lna-65192/"
   },
+  "16416": {
+    "name": "Суп с фрикадельками из индейки",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
+  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+  },
+  "113856": {
+    "name": "Салат из запеченной свеклы с сыром фета",
+    "price": "137",
+    "old_price": "229",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
   },
   "112775": {
     "name": "Изделие х/б \"Зерновой\" с куркумой",
@@ -55,12 +76,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
   },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
+  "124545": {
+    "name": "Лазанья с рикоттой и шпинатом, 270 г",
+    "price": "249",
+    "old_price": "415",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+    "link": "https://vkusvill.ru/goods/lazanya-s-rikottoy-i-shpinatom-124545/"
+  },
+  "22664": {
+    "name": "Сэндвич ролл с горбушей и яйцом",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
   },
   "1039": {
     "name": "Изделие цельнозер. без муки \"Житный\", нарезка",
@@ -76,12 +104,68 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
   },
-  "112773": {
-    "name": "Хлеб \"Гречневый\" на закваске",
-    "price": "73",
-    "old_price": "122",
+  "124133": {
+    "name": "Тарт \"Клубника-земляника\" со сливочно-сырным кремом",
+    "price": "590",
+    "old_price": "984",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-grechnevyy-na-zakvaske-112773/"
+    "link": "https://vkusvill.ru/goods/tart-klubnika-zemlyanika-so-slivochno-syrnym-kremom-124133/"
+  },
+  "117179": {
+    "name": "Торт \"Половинки Медовик-Наполеон\"",
+    "price": "444",
+    "old_price": "740",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-polovinki-medovik-napoleon-117179/"
+  },
+  "19345": {
+    "name": "Блины пшеничные",
+    "price": "114",
+    "old_price": "190",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-pshenichnye-19345/"
+  },
+  "49834": {
+    "name": "Желе ягодное малина, голубика, клубника",
+    "price": "154",
+    "old_price": "256",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-yagodnoe-malina-49834/"
+  },
+  "19435": {
+    "name": "Суп-пюре с грибами",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-pyure-s-gribami-19435/"
+  },
+  "102450": {
+    "name": "Салат \"Гнездо глухаря\" с копченой курицей, 260 г.",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-gnezdo-glukharya-s-kopchenoy-kuritsey-102450/"
+  },
+  "44305": {
+    "name": "Сырники, 210 г",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-44305/"
+  },
+  "24132": {
+    "name": "Блины с вишней",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-vishney-24132/"
+  },
+  "109665": {
+    "name": "Филе форели радужной на гриле с рисом",
+    "price": "282",
+    "old_price": "470",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-foreli-raduzhnoy-na-grile-s-risom-109665/"
   },
   "83055": {
     "name": "Изделие х/б \"Полбяной цельнозер. мультизлак.\", нарезка",
@@ -90,6 +174,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
   },
+  "105824": {
+    "name": "Суп \"Мисо-рамен\" с морепродуктами",
+    "price": "300",
+    "old_price": "500",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-miso-ramen-s-moreproduktami-105824/"
+  },
+  "58742": {
+    "name": "Блины с \"Крем чиз\" и вишней",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-krem-chiz-i-vishney-58742/"
+  },
   "118975": {
     "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
     "price": "53",
@@ -97,12 +195,166 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zavarnoy-s-solodom-118975/"
   },
-  "112770": {
-    "name": "Хлеб \"Свекольно-морковный\"",
-    "price": "66",
-    "old_price": "110",
+  "60199": {
+    "name": "Осетр горячего копчения, 100 г",
+    "price": "365",
+    "old_price": "608",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
+    "link": "https://vkusvill.ru/goods/osetr-goryachego-kopcheniya-60199/"
+  },
+  "22779": {
+    "name": "Творог \"Зернышко\" 9%, 300 г",
+    "price": "110",
+    "old_price": "184",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-zernyshko-9-22779/"
+  },
+  "90938": {
+    "name": "Фарфалле с креветками под сливочным соусом",
+    "price": "258",
+    "old_price": "430",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farfalle-s-krevetkami-pod-slivochnym-sousom-90938/"
+  },
+  "93909": {
+    "name": "Сэндвич ролл с курицей “Терияки”",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-teriyaki-93909/"
+  },
+  "109679": {
+    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
+  },
+  "122532": {
+    "name": "Сырок ванильный в молочном шоколаде с рисовыми шариками 5%",
+    "price": "53",
+    "old_price": "88",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrok-vanilnyy-v-molochnom-shokolade-s-risovymi-sharikami-5-122532/"
+  },
+  "20231": {
+    "name": "Творог \"Зернышко\" обезжиренный",
+    "price": "92",
+    "old_price": "154",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-zernyshko-obezzhirennyy-20231/"
+  },
+  "110470": {
+    "name": "Бифштекс из мраморной говядины",
+    "price": "236",
+    "old_price": "394",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bifshteks-iz-mramornoy-govyadiny-110470/"
+  },
+  "118104": {
+    "name": "Мясо по-французски",
+    "price": "505",
+    "old_price": "842",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
+  },
+  "94222": {
+    "name": "Палочки из форели радужной холодного копчения, 100 г",
+    "price": "129",
+    "old_price": "215",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/palochki-iz-foreli-raduzhnoy-kholodnogo-kopcheniya-94222/"
+  },
+  "102259": {
+    "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
+  },
+  "106055": {
+    "name": "Кальмар гигантский филе горячего копчения, 150 г",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kalmar-gigantskiy-file-goryachego-kopcheniya-106055/"
+  },
+  "124792": {
+    "name": "Ассорти макарон \"Клубника - мята, малина, грейпфрут\"",
+    "price": "169",
+    "old_price": "282",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-makaron-klubnika-myata-124792/"
+  },
+  "118102": {
+    "name": "Шашлык из свиного окорока с аджапсандали",
+    "price": "498",
+    "old_price": "830",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
+  },
+  "119741": {
+    "name": "Навага жареная, 200 г",
+    "price": "165",
+    "old_price": "275",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/navaga-zharenaya-119741/"
+  },
+  "123009": {
+    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
+  "124643": {
+    "name": "Молоко козье безлактозное, 3,0-4,5%, 450мл",
+    "price": "118",
+    "old_price": "197",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-koze-bezlaktoznoe-124643/"
+  },
+  "122413": {
+    "name": "Шашлык из свиной шейки в луковом маринаде",
+    "price": "533",
+    "old_price": "888",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-v-lukovom-marinade-122413/"
+  },
+  "67162": {
+    "name": "Говядина для запекания \"Премиум\", 550 г",
+    "price": "525",
+    "old_price": "875",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-dlya-zapekaniya-premium-67162/"
+  },
+  "122426": {
+    "name": "Слайсы из грудки цыпленка-бройлера в маринаде для жарки",
+    "price": "211",
+    "old_price": "352",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/slaysy-iz-grudki-tsyplenka-broylera-v-marinade-dlya-zharki-122426/"
+  },
+  "24945": {
+    "name": "Крылья куриные в маринаде",
+    "price": "262",
+    "old_price": "436",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylya-kurinye-v-marinade-24945/"
+  },
+  "14844": {
+    "name": "Котлеты \"Домашние\"",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-domashnie-14844/"
+  },
+  "20585": {
+    "name": "Мидии в горчичном соусе, 180 г",
+    "price": "157",
+    "old_price": "262",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/midii-v-gorchichnom-souse-20585/"
   },
   "69091": {
     "name": "Изделие цельнозерновое без муки \"Полбяной с пажитником\"",
@@ -110,13 +362,6 @@
     "old_price": "83",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozernovoe-bez-muki-polbyanoy-s-pazhitnikom-69091/"
-  },
-  "110091": {
-    "name": "Изделие х/б \"Рисовый\" с топинамбуром, без глютена",
-    "price": "145",
-    "old_price": "242",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-risovyy-s-topinamburom-110091/"
   },
   "114345": {
     "name": "Печенье-кукис \"Шоколадная крошка\", кафе",
@@ -132,11 +377,32 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grissini-alyumette-s-syrom-119380/"
   },
-  "119818": {
-    "name": "Лепешка \"Тортилья\" с сыром",
-    "price": "47",
-    "old_price": "78",
+  "118364": {
+    "name": "Микс салатный \"Нежный\", 200 г",
+    "price": "83",
+    "old_price": "138",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
+  },
+  "59082": {
+    "name": "Тушка кролика охлажденная",
+    "price": "643",
+    "old_price": "1072",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tushka-krolika-okhlazhdennaya-59082/"
+  },
+  "110091": {
+    "name": "Изделие х/б \"Рисовый\" с топинамбуром, без глютена",
+    "price": "145",
+    "old_price": "242",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-risovyy-s-topinamburom-110091/"
+  },
+  "124945": {
+    "name": "Форель Форель Горная филе-кусок на коже охл., 300 г",
+    "price": "444",
+    "old_price": "740",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/forel-forel-gornaya-file-kusok-na-kozhe-okhl-124945/"
   }
 }
