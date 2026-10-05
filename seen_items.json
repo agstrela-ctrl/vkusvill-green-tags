@@ -20,20 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-dlya-tostov-zernovoe-65384/"
   },
-  "65996": {
-    "name": "Круассан с сыром",
-    "price": "100",
-    "old_price": "167",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-s-syrom-65996/"
-  },
-  "90076": {
-    "name": "Колбаса вареная \"Классическая\", 400 г",
-    "price": "231",
-    "old_price": "385",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-klassicheskaya-90076/"
-  },
   "124751": {
     "name": "Сосиски Клинский План Б Молочные 250 г",
     "price": "185",
@@ -62,26 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lopatka-vareno-kopchenaya-cherkizovo-mramornaya-narezka-100g-124352/"
   },
-  "66863": {
-    "name": "Сосиски \"Из курицы и индейки с сыром\"",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-i-indeyki-s-syrom-66863/"
-  },
   "23598": {
     "name": "Сосиски из индейки с брокколи и морковью",
     "price": "267",
     "old_price": "445",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-iz-indeyki-s-brokkoli-i-morkovyu-23598/"
-  },
-  "120897": {
-    "name": "Сосиски Клинские 410 г",
-    "price": "263",
-    "old_price": "438",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-klinskie-410-g-120897/"
   },
   "124620": {
     "name": "Колбаса варено-копченая Ближние горки Салями Премьер 300 г",
