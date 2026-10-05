@@ -90,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-pshenichnyy-s-kurinoy-vetchinoy-i-syrom-motsarella-81523/"
   },
-  "94222": {
-    "name": "Палочки из форели радужной холодного копчения, 100 г",
-    "price": "129",
-    "old_price": "215",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/palochki-iz-foreli-raduzhnoy-kholodnogo-kopcheniya-94222/"
-  },
   "106055": {
     "name": "Кальмар гигантский филе горячего копчения, 150 г",
     "price": "234",
@@ -117,13 +110,6 @@
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
-  "124643": {
-    "name": "Молоко козье безлактозное, 3,0-4,5%, 450мл",
-    "price": "118",
-    "old_price": "197",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-koze-bezlaktoznoe-124643/"
   },
   "122413": {
     "name": "Шашлык из свиной шейки в луковом маринаде",
@@ -146,6 +132,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/slaysy-iz-grudki-tsyplenka-broylera-v-marinade-dlya-zharki-122426/"
   },
+  "20585": {
+    "name": "Мидии в горчичном соусе, 180 г",
+    "price": "157",
+    "old_price": "262",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/midii-v-gorchichnom-souse-20585/"
+  },
+  "124793": {
+    "name": "Чизкейк \"Сан-Себастьян\" черника-черная смородина",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chizkeyk-san-sebastyan-chernika-chernaya-smorodina-124793/"
+  },
   "118364": {
     "name": "Микс салатный \"Нежный\", 200 г",
     "price": "83",
@@ -160,19 +160,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-zernyshko-obezzhirennyy-20231/"
   },
-  "20585": {
-    "name": "Мидии в горчичном соусе, 180 г",
-    "price": "157",
-    "old_price": "262",
+  "110091": {
+    "name": "Изделие х/б \"Рисовый\" с топинамбуром, без глютена",
+    "price": "145",
+    "old_price": "242",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/midii-v-gorchichnom-souse-20585/"
-  },
-  "99925": {
-    "name": "Шаурма с креветкой, соусом тысяча островов и салатом Романо",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-risovyy-s-topinamburom-110091/"
   },
   "114345": {
     "name": "Печенье-кукис \"Шоколадная крошка\", кафе",
@@ -187,20 +180,6 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
-  },
-  "124793": {
-    "name": "Чизкейк \"Сан-Себастьян\" черника-черная смородина",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-san-sebastyan-chernika-chernaya-smorodina-124793/"
-  },
-  "110091": {
-    "name": "Изделие х/б \"Рисовый\" с топинамбуром, без глютена",
-    "price": "145",
-    "old_price": "242",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-risovyy-s-topinamburom-110091/"
   },
   "124945": {
     "name": "Форель Форель Горная филе-кусок на коже охл., 300 г",
