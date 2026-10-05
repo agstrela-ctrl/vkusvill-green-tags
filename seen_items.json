@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-22658/"
   },
-  "15544": {
-    "name": "Яйцо куриное С1",
-    "price": "69",
-    "old_price": "115",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s1-15544/"
-  },
   "34217": {
     "name": "Батон нарезной, половинка",
     "price": "28",
@@ -26,13 +19,6 @@
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
-  },
-  "68474": {
-    "name": "Ветчина \"Из индейки\" высший сорт, нарезка",
-    "price": "181",
-    "old_price": "301",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-indeyki-vysshiy-sort-68474/"
   },
   "74910": {
     "name": "Сосиски Классические с молоком",
@@ -61,13 +47,6 @@
     "old_price": "167",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-s-syrom-65996/"
-  },
-  "16425": {
-    "name": "Колбаса ливерная \"Яичная\", ~260 г",
-    "price": "663",
-    "old_price": "1105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-livernaya-yaichnaya-16425/"
   },
   "36208": {
     "name": "Желе фруктовое мандарин, виноград, яблоко, ананас",
@@ -111,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-varenaya-klassicheskaya-90076/"
   },
-  "102655": {
-    "name": "Яйцо куриное Село Зеленое С0 Деревенское столовое 15 шт",
-    "price": "179",
-    "old_price": "299",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-selo-zelenoe-s0-derevenskoe-stolovoe-15-sht-102655/"
-  },
   "125696": {
     "name": "Яйцо куриное Окское С1 10 шт",
     "price": "87",
@@ -146,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-kurinye-supersila-28680/"
   },
-  "42845": {
-    "name": "Хумус классический",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khumus-klassicheskiy-42845/"
-  },
   "97878": {
     "name": "Тофу с нори и грибами шиитаке, 250 г",
     "price": "107",
@@ -173,20 +138,6 @@
     "old_price": "521",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-kosichka-iz-indeyki-zharenaya-119680/"
-  },
-  "124352": {
-    "name": "Лопатка варено-копченая Черкизово Мраморная нарезка 100г",
-    "price": "173",
-    "old_price": "289",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lopatka-vareno-kopchenaya-cherkizovo-mramornaya-narezka-100g-124352/"
-  },
-  "121169": {
-    "name": "Колбаса полусухая Рублевский Брауншвейгская 200 г",
-    "price": "422",
-    "old_price": "704",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-polusukhaya-rublevskiy-braunshveygskaya-200-g-121169/"
   },
   "121259": {
     "name": "Сосиски из курицы и индейки с сыром Халяль",
@@ -209,6 +160,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-iz-indeyki-s-brokkoli-i-morkovyu-23598/"
   },
+  "124352": {
+    "name": "Лопатка варено-копченая Черкизово Мраморная нарезка 100г",
+    "price": "173",
+    "old_price": "289",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lopatka-vareno-kopchenaya-cherkizovo-mramornaya-narezka-100g-124352/"
+  },
   "120897": {
     "name": "Сосиски Клинские 410 г",
     "price": "263",
@@ -222,5 +180,12 @@
     "old_price": "419",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-vareno-kopchenaya-blizhnie-gorki-salyami-premer-300-g-124620/"
+  },
+  "121169": {
+    "name": "Колбаса полусухая Рублевский Брауншвейгская 200 г",
+    "price": "422",
+    "old_price": "704",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-polusukhaya-rublevskiy-braunshveygskaya-200-g-121169/"
   }
 }
