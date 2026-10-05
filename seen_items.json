@@ -83,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-orzo-s-krevetkami-78100/"
   },
-  "108518": {
-    "name": "Конвертики с капустой и грибами, постные",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-kapustoy-i-gribami-108518/"
-  },
   "23073": {
     "name": "Салат Кобб с имбирным соусом",
     "price": "174",
@@ -131,12 +124,5 @@
     "old_price": "286",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-61707/"
-  },
-  "61709": {
-    "name": "Кексы-мини ванильно-сливочные с изюмом",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-s-izyumom-61709/"
   }
 }
