@@ -1,10 +1,31 @@
 {
+  "22658": {
+    "name": "Яйцо куриное С0",
+    "price": "85",
+    "old_price": "141",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-22658/"
+  },
+  "15544": {
+    "name": "Яйцо куриное С1",
+    "price": "69",
+    "old_price": "115",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s1-15544/"
+  },
   "34217": {
     "name": "Батон нарезной, половинка",
     "price": "28",
     "old_price": "46",
     "discount": "39",
     "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
+  },
+  "73760": {
+    "name": "Яйцо куриное высшей категории СВ, 10 шт",
+    "price": "113",
+    "old_price": "189",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-vysshey-kategorii-sv-73760/"
   },
   "20122": {
     "name": "Огурцы короткоплодные, 450 г",
@@ -62,19 +83,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-livernaya-yaichnaya-16425/"
   },
-  "17660": {
-    "name": "Карпаччо из индейки сырокопченое, ~160 г",
-    "price": "1395",
-    "old_price": "2325",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/karpachcho-iz-indeyki-syrokopchenoe-17660/"
-  },
   "36208": {
     "name": "Желе фруктовое мандарин, виноград, яблоко, ананас",
     "price": "111",
     "old_price": "185",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-fruktovoe-mandarin-36208/"
+  },
+  "74906": {
+    "name": "Яйцо куриное С1 белое",
+    "price": "70",
+    "old_price": "117",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s1-beloe-74906/"
   },
   "119980": {
     "name": "Ветчина запеченная с томатами и базиликом, Халяль, ~360 г",
@@ -104,12 +125,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-varenaya-klassicheskaya-90076/"
   },
-  "46592": {
-    "name": "Грудка куриная Троекурово варено-копченая ~ 600 г",
-    "price": "479",
-    "old_price": "799",
+  "102655": {
+    "name": "Яйцо куриное Село Зеленое С0 Деревенское столовое 15 шт",
+    "price": "179",
+    "old_price": "299",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/grudka-kurinaya-troekurovo-vareno-kopchenaya-600-g-46592/"
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-selo-zelenoe-s0-derevenskoe-stolovoe-15-sht-102655/"
+  },
+  "125696": {
+    "name": "Яйцо куриное Окское С1 10 шт",
+    "price": "87",
+    "old_price": "145",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-okskoe-s1-10-sht-125696/"
   },
   "124615": {
     "name": "Грудинка варено-копченая Ближние горки Столичная 300 г",
