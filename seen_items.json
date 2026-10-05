@@ -34,6 +34,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
   },
+  "61785": {
+    "name": "Творожник с черной смородиной",
+    "price": "122",
+    "old_price": "204",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorozhnik-s-chernoy-smorodinoy-61785/"
+  },
   "65384": {
     "name": "Изделие х/б \"Для тостов\" зерновое, 250 г",
     "price": "61",
@@ -48,6 +55,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-s-syrom-65996/"
   },
+  "36208": {
+    "name": "Желе фруктовое мандарин, виноград, яблоко, ананас",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-fruktovoe-mandarin-36208/"
+  },
+  "53640": {
+    "name": "Ассорти эклеров \"Манго, Сырный, Лесные ягоды\"",
+    "price": "212",
+    "old_price": "353",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-eklerov-mango-53640/"
+  },
   "115902": {
     "name": "Кексы-мини ванильные в форме мишек",
     "price": "109",
@@ -61,13 +82,6 @@
     "old_price": "388",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapkeyk-morkovnyy-s-syrnym-kremom-85247/"
-  },
-  "115246": {
-    "name": "Фрикадельки из индейки и говядины",
-    "price": "218",
-    "old_price": "364",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-iz-indeyki-i-govyadiny-115246/"
   },
   "124581": {
     "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
