@@ -1,4 +1,11 @@
 {
+  "34217": {
+    "name": "Батон нарезной, половинка",
+    "price": "28",
+    "old_price": "46",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
+  },
   "32936": {
     "name": "Тартин пшеничный, половинка",
     "price": "50",
@@ -20,6 +27,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-60272/"
   },
+  "109471": {
+    "name": "Тартин \"Зерновой\", нарезка, 250 г",
+    "price": "62",
+    "old_price": "104",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
+  },
   "25262": {
     "name": "Суп-крем куриный",
     "price": "137",
@@ -33,6 +47,27 @@
     "old_price": "118",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
+  },
+  "65384": {
+    "name": "Изделие х/б \"Для тостов\" зерновое, 250 г",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-dlya-tostov-zernovoe-65384/"
+  },
+  "65996": {
+    "name": "Круассан с сыром",
+    "price": "100",
+    "old_price": "167",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-s-syrom-65996/"
+  },
+  "115902": {
+    "name": "Кексы-мини ванильные в форме мишек",
+    "price": "109",
+    "old_price": "182",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keksy-mini-vanilnye-v-forme-mishek-115902/"
   },
   "82232": {
     "name": "Торт \"Белые ночи\" с сырным кремом, 1,1 кг",
