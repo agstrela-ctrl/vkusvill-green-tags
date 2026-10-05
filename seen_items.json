@@ -1,11 +1,4 @@
 {
-  "112310": {
-    "name": "Мясо по-французски \"Традиционное\"",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-traditsionnoe-112310/"
-  },
   "32931": {
     "name": "Тартин пшенично-ржаной, половинка",
     "price": "50",
@@ -69,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-polovinki-medovik-napoleon-117179/"
   },
-  "105477": {
-    "name": "Набор пирожных \"Суфле, Медовик, Эклер\"",
-    "price": "164",
-    "old_price": "273",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-pirozhnykh-sufle-105477/"
-  },
   "86021": {
     "name": "Бутерброд с тунцом и базиликом, 156 г",
     "price": "156",
@@ -90,12 +76,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
   },
-  "117108": {
-    "name": "Котлета \"Крабовая\" с картофельным пюре",
-    "price": "251",
-    "old_price": "418",
+  "58742": {
+    "name": "Блины с \"Крем чиз\" и вишней",
+    "price": "132",
+    "old_price": "220",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-krabovaya-s-kartofelnym-pyure-117108/"
+    "link": "https://vkusvill.ru/goods/bliny-s-krem-chiz-i-vishney-58742/"
   },
   "118975": {
     "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
@@ -103,20 +89,6 @@
     "old_price": "88",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zavarnoy-s-solodom-118975/"
-  },
-  "60199": {
-    "name": "Осетр горячего копчения, 100 г",
-    "price": "365",
-    "old_price": "608",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/osetr-goryachego-kopcheniya-60199/"
-  },
-  "90938": {
-    "name": "Фарфалле с креветками под сливочным соусом",
-    "price": "258",
-    "old_price": "430",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farfalle-s-krevetkami-pod-slivochnym-sousom-90938/"
   },
   "81523": {
     "name": "Круассан пшеничный с куриной ветчиной и сыром \"Моцарелла\"",
@@ -173,13 +145,6 @@
     "old_price": "888",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinoy-sheyki-v-lukovom-marinade-122413/"
-  },
-  "114375": {
-    "name": "Флан французский \"Кокос - ваниль\" из заварного крема",
-    "price": "157",
-    "old_price": "262",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/flan-frantsuzskiy-kokos-vanil-iz-zavarnogo-krema-114375/"
   },
   "122325": {
     "name": "Панкейки с клубничным топпингом, обогащенные белком",
@@ -243,13 +208,6 @@
     "old_price": "370",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
-  },
-  "112906": {
-    "name": "Рулет \"Классический\" с рикоттой, 250 г",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-klassicheskiy-s-rikottoy-112906/"
   },
   "114345": {
     "name": "Печенье-кукис \"Шоколадная крошка\", кафе",
