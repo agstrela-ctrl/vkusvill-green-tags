@@ -13,6 +13,13 @@
     "discount": "39",
     "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
   },
+  "609": {
+    "name": "Огурцы короткоплодные",
+    "price": "129",
+    "old_price": "215",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-609/"
+  },
   "97878": {
     "name": "Тофу с нори и грибами шиитаке, 250 г",
     "price": "107",
@@ -33,19 +40,5 @@
     "old_price": "289",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lopatka-vareno-kopchenaya-cherkizovo-mramornaya-narezka-100g-124352/"
-  },
-  "23598": {
-    "name": "Сосиски из индейки с брокколи и морковью",
-    "price": "267",
-    "old_price": "445",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-indeyki-s-brokkoli-i-morkovyu-23598/"
-  },
-  "124620": {
-    "name": "Колбаса варено-копченая Ближние горки Салями Премьер 300 г",
-    "price": "251",
-    "old_price": "419",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-vareno-kopchenaya-blizhnie-gorki-salyami-premer-300-g-124620/"
   }
 }
