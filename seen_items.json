@@ -20,12 +20,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-60272/"
   },
+  "38215": {
+    "name": "Филе грудки цыпленка-бройлера для запекания в маринаде \"Сливочно-пряный\"",
+    "price": "378",
+    "old_price": "630",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-dlya-zapekaniya-v-marinade-slivochno-pryanyy-38215/"
+  },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
     "price": "62",
     "old_price": "104",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
+  },
+  "106420": {
+    "name": "Торт \"Медовый\", 760 г.",
+    "price": "616",
+    "old_price": "1026",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-medovyy-106420/"
   },
   "83512": {
     "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
