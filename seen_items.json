@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-assorti-110843/"
   },
-  "20122": {
-    "name": "Огурцы короткоплодные, 450 г",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
-  },
   "36208": {
     "name": "Желе фруктовое мандарин, виноград, яблоко, ананас",
     "price": "111",
@@ -27,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-fruktovoe-mandarin-36208/"
   },
-  "74906": {
-    "name": "Яйцо куриное С1 белое",
-    "price": "70",
-    "old_price": "117",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s1-beloe-74906/"
-  },
   "119980": {
     "name": "Ветчина запеченная с томатами и базиликом, Халяль, ~360 г",
     "price": "678",
     "old_price": "1130",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-zapechennaya-s-tomatami-i-bazilikom-119980/"
-  },
-  "16540": {
-    "name": "Сосиски куриные \"Избранные\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-izbrannye-16540/"
   },
   "90076": {
     "name": "Колбаса вареная \"Классическая\", 400 г",
