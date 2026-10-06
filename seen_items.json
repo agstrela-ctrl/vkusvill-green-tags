@@ -34,19 +34,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
-  "62806": {
-    "name": "Фарш из говядины и свинины, 360 г",
-    "price": "206",
-    "old_price": "343",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-svininy-62806/"
-  },
   "29622": {
     "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
     "price": "82",
     "old_price": "136",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
+  },
+  "19072": {
+    "name": "Печенье овсяное с черносливом",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-s-chernoslivom-19072/"
+  },
+  "21013": {
+    "name": "Пряники заварные \"Мятные\"",
+    "price": "78",
+    "old_price": "130",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pryaniki-zavarnye-myatnye-21013/"
   },
   "118975": {
     "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
@@ -61,6 +68,13 @@
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
+  },
+  "27830": {
+    "name": "Печенье сахарное с клюквой и грецким орехом",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sakharnoe-s-klyukvoy-i-gretskim-orekhom-27830/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
@@ -96,12 +110,5 @@
     "old_price": "130",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-kukis-shokoladnaya-kroshka-114345/"
-  },
-  "118102": {
-    "name": "Шашлык из свиного окорока с аджапсандали",
-    "price": "498",
-    "old_price": "830",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
   }
 }
