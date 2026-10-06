@@ -1,11 +1,4 @@
 {
-  "32931": {
-    "name": "Тартин пшенично-ржаной, половинка",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
-  },
   "34217": {
     "name": "Батон нарезной, половинка",
     "price": "28",
@@ -40,6 +33,13 @@
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+  },
+  "62806": {
+    "name": "Фарш из говядины и свинины, 360 г",
+    "price": "206",
+    "old_price": "343",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-svininy-62806/"
   },
   "29622": {
     "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
@@ -82,6 +82,13 @@
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kalmar-gigantskiy-file-goryachego-kopcheniya-106055/"
+  },
+  "34100": {
+    "name": "Грудка цыплят-бройлеров",
+    "price": "339",
+    "old_price": "565",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-34100/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
