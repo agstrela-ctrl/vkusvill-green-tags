@@ -69,26 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
   },
-  "125797": {
-    "name": "Суп Мастава с говядиной",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-mastava-s-govyadinoy-125797/"
-  },
   "38119": {
     "name": "Блин сырный по-голландски",
     "price": "150",
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blin-syrnyy-po-gollandski-38119/"
-  },
-  "120752": {
-    "name": "Булочки-брецель с кунжутом, 2 шт",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-bretsel-s-kunzhutom-120752/"
   },
   "117310": {
     "name": "Торт \"Медово-сметанный\" с черносливом",
@@ -166,5 +152,12 @@
     "old_price": "388",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tashkent-s-govyadinoy-125710/"
+  },
+  "120752": {
+    "name": "Булочки-брецель с кунжутом, 2 шт",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochki-bretsel-s-kunzhutom-120752/"
   }
 }
