@@ -41,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
   },
+  "44305": {
+    "name": "Сырники, 210 г",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-44305/"
+  },
   "83055": {
     "name": "Изделие х/б \"Полбяной цельнозер. мультизлак.\", нарезка",
     "price": "80",
@@ -54,6 +61,13 @@
     "old_price": "88",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zavarnoy-s-solodom-118975/"
+  },
+  "102259": {
+    "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
