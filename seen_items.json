@@ -34,40 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
-  "29622": {
-    "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
-    "price": "82",
-    "old_price": "136",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
-  },
-  "19072": {
-    "name": "Печенье овсяное с черносливом",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-s-chernoslivom-19072/"
-  },
-  "21013": {
-    "name": "Пряники заварные \"Мятные\"",
-    "price": "78",
-    "old_price": "130",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pryaniki-zavarnye-myatnye-21013/"
-  },
   "118975": {
     "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
     "price": "53",
     "old_price": "88",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zavarnoy-s-solodom-118975/"
-  },
-  "119818": {
-    "name": "Лепешка \"Тортилья\" с сыром",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
@@ -96,13 +68,6 @@
     "old_price": "154",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-zernyshko-obezzhirennyy-20231/"
-  },
-  "114345": {
-    "name": "Печенье-кукис \"Шоколадная крошка\", кафе",
-    "price": "78",
-    "old_price": "130",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-kukis-shokoladnaya-kroshka-114345/"
   },
   "27830": {
     "name": "Печенье сахарное с клюквой и грецким орехом",
