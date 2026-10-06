@@ -6,11 +6,18 @@
     "discount": "39",
     "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
   },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
+  "116602": {
+    "name": "Паста \"Болоньезе с соусом свит-чили\"",
+    "price": "186",
+    "old_price": "310",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+    "link": "https://vkusvill.ru/goods/pasta-boloneze-s-sousom-svit-chili-116602/"
+  },
+  "90938": {
+    "name": "Фарфалле с креветками под сливочным соусом",
+    "price": "258",
+    "old_price": "430",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farfalle-s-krevetkami-pod-slivochnym-sousom-90938/"
   }
 }
