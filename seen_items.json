@@ -1,9 +1,72 @@
 {
-  "606": {
-    "name": "Морковь",
-    "price": "30",
-    "old_price": "50",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-606/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "22658": {
+    "name": "Яйцо куриное С0",
+    "price": "85",
+    "old_price": "141",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-22658/"
+  },
+  "34217": {
+    "name": "Батон нарезной, половинка",
+    "price": "28",
+    "old_price": "46",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
+  },
+  "113571": {
+    "name": "Батон \"Молодежная классика\", нарезка",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+  },
+  "22300": {
+    "name": "Круассан на масле",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
+  },
+  "26944": {
+    "name": "Томаты сливка грунтовая",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-slivka-gruntovaya-26944/"
+  },
+  "59833": {
+    "name": "Чизкейк с голубикой, 100 г",
+    "price": "151",
+    "old_price": "251",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chizkeyk-s-golubikoy-59833/"
+  },
+  "23160": {
+    "name": "Микс салатный \"Грасс\"",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
+  },
+  "67322": {
+    "name": "Меренга французская с тыкв. семечками",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/merenga-frantsuzskaya-s-tykv-semechkami-67322/"
+  },
+  "110470": {
+    "name": "Бифштекс из мраморной говядины",
+    "price": "236",
+    "old_price": "394",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bifshteks-iz-mramornoy-govyadiny-110470/"
   }
 }
