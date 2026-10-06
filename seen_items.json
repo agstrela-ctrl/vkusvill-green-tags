@@ -62,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vok-funchoza-s-krevetkami-51915/"
   },
-  "19435": {
-    "name": "Суп-пюре с грибами",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-pyure-s-gribami-19435/"
-  },
   "44305": {
     "name": "Сырники, 210 г",
     "price": "180",
@@ -97,33 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-pshenichnyy-s-kurinoy-vetchinoy-i-syrom-motsarella-81523/"
   },
-  "109679": {
-    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
-  },
-  "123548": {
-    "name": "Клаб-сэндвич \"Цезарь\" с курицей и беконом, 190 г",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-tsezar-s-kuritsey-i-bekonom-123548/"
-  },
   "118104": {
     "name": "Мясо по-французски",
     "price": "505",
     "old_price": "842",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
-  },
-  "102259": {
-    "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
   },
   "119818": {
     "name": "Лепешка \"Тортилья\" с сыром",
