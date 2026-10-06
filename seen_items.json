@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-731/"
   },
-  "22658": {
-    "name": "Яйцо куриное С0",
-    "price": "85",
-    "old_price": "141",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-22658/"
-  },
   "34217": {
     "name": "Батон нарезной, половинка",
     "price": "28",
@@ -41,19 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tomaty-slivka-gruntovaya-26944/"
   },
-  "59833": {
-    "name": "Чизкейк с голубикой, 100 г",
-    "price": "151",
-    "old_price": "251",
+  "53885": {
+    "name": "Пирожное \"Корзиночки с белковым кремом\", 2 шт.",
+    "price": "82",
+    "old_price": "136",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-s-golubikoy-59833/"
-  },
-  "23160": {
-    "name": "Микс салатный \"Грасс\"",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
+    "link": "https://vkusvill.ru/goods/pirozhnoe-korzinochki-s-belkovym-kremom-53885/"
   },
   "67322": {
     "name": "Меренга французская с тыкв. семечками",
