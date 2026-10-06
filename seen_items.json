@@ -69,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
   },
-  "27830": {
-    "name": "Печенье сахарное с клюквой и грецким орехом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sakharnoe-s-klyukvoy-i-gretskim-orekhom-27830/"
-  },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
     "price": "47",
@@ -110,5 +103,12 @@
     "old_price": "130",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-kukis-shokoladnaya-kroshka-114345/"
+  },
+  "27830": {
+    "name": "Печенье сахарное с клюквой и грецким орехом",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sakharnoe-s-klyukvoy-i-gretskim-orekhom-27830/"
   }
 }
