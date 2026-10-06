@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zavarnoy-s-solodom-118975/"
   },
-  "33494": {
-    "name": "Гранадилла, шт",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/granadilla-33494/"
-  },
   "34100": {
     "name": "Грудка цыплят-бройлеров",
     "price": "339",
@@ -96,6 +89,13 @@
     "old_price": "352",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/slaysy-iz-grudki-tsyplenka-broylera-v-marinade-dlya-zharki-122426/"
+  },
+  "33494": {
+    "name": "Гранадилла, шт",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/granadilla-33494/"
   },
   "20585": {
     "name": "Мидии в горчичном соусе, 180 г",
