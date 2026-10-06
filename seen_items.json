@@ -1,18 +1,4 @@
 {
-  "125212": {
-    "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
-  },
-  "126590": {
-    "name": "Курица по-корейски \"Яннем\" с яичной лапшой",
-    "price": "227",
-    "old_price": "378",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-po-koreyski-yannem-s-yaichnoy-lapshoy-126590/"
-  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
@@ -33,13 +19,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-lososem-i-shpinatom-37319/"
-  },
-  "63121": {
-    "name": "Форель стейк охл., 450 г",
-    "price": "744",
-    "old_price": "1240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-steyk-okhl-63121/"
   },
   "81274": {
     "name": "Шаурма классическая",
@@ -69,20 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
   },
-  "78365": {
-    "name": "Фарш говяжий Халяль",
-    "price": "265",
-    "old_price": "442",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-govyazhiy-khalyal-78365/"
-  },
-  "26582": {
-    "name": "Стрипсы в панировке",
-    "price": "181",
-    "old_price": "301",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
   "118698": {
     "name": "Напиток кисломолочный безлактозный ПРОТЕИН+ \"Ананас-кокос\"",
     "price": "116",
@@ -111,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-mastava-s-govyadinoy-125797/"
   },
-  "126458": {
-    "name": "Блины с маскарпоне и облепиховым соусом",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-maskarpone-i-oblepikhovym-sousom-126458/"
-  },
   "38119": {
     "name": "Блин сырный по-голландски",
     "price": "150",
@@ -131,13 +89,6 @@
     "old_price": "198",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-bretsel-s-kunzhutom-120752/"
-  },
-  "37174": {
-    "name": "Торт домашний \"Наполеон\"",
-    "price": "442",
-    "old_price": "736",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-domashniy-napoleon-37174/"
   },
   "117310": {
     "name": "Торт \"Медово-сметанный\" с черносливом",
@@ -167,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/befstroganov-62810/"
   },
-  "125096": {
-    "name": "Лепешка Роти сырная со шпинатом и яйцом",
-    "price": "146",
-    "old_price": "244",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-roti-syrnaya-so-shpinatom-i-yaytsom-125096/"
-  },
   "76248": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
     "price": "296",
@@ -201,20 +145,6 @@
     "old_price": "130",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-so-smorodinoy-12-102659/"
-  },
-  "123553": {
-    "name": "Клаб-сэндвич с индейкой и соусом песто",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-indeykoy-i-sousom-pesto-123553/"
-  },
-  "20324": {
-    "name": "Котлеты из трески охл., 300 г",
-    "price": "172",
-    "old_price": "287",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-treski-okhl-20324/"
   },
   "117221": {
     "name": "Сэндвич ролл \"Цезарь\" с креветками",
