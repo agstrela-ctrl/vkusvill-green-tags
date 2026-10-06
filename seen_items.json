@@ -19,40 +19,5 @@
     "old_price": "60",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
-  },
-  "22300": {
-    "name": "Круассан на масле",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
-  },
-  "26944": {
-    "name": "Томаты сливка грунтовая",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-slivka-gruntovaya-26944/"
-  },
-  "53885": {
-    "name": "Пирожное \"Корзиночки с белковым кремом\", 2 шт.",
-    "price": "82",
-    "old_price": "136",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-korzinochki-s-belkovym-kremom-53885/"
-  },
-  "67322": {
-    "name": "Меренга французская с тыкв. семечками",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/merenga-frantsuzskaya-s-tykv-semechkami-67322/"
-  },
-  "110470": {
-    "name": "Бифштекс из мраморной говядины",
-    "price": "236",
-    "old_price": "394",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bifshteks-iz-mramornoy-govyadiny-110470/"
   }
 }
