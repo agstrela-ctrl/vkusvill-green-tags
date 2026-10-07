@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
   },
-  "37319": {
-    "name": "Сэндвич ролл с лососем и шпинатом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-lososem-i-shpinatom-37319/"
-  },
   "122780": {
     "name": "Микс салатный \"Тулон\", 180г",
     "price": "90",
@@ -41,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
   },
-  "118698": {
-    "name": "Напиток кисломолочный безлактозный ПРОТЕИН+ \"Ананас-кокос\"",
-    "price": "116",
-    "old_price": "194",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-kislomolochnyy-bezlaktoznyy-protein-ananas-kokos-118698/"
-  },
   "62324": {
     "name": "Стейк мачете в устрично-луковом маринаде",
     "price": "272",
     "old_price": "453",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-machete-v-ustrichno-lukovom-marinade-62324/"
-  },
-  "123944": {
-    "name": "Шаверма \"Как в Питере\" с курицей и овощами",
-    "price": "183",
-    "old_price": "305",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
   },
   "117310": {
     "name": "Торт \"Медово-сметанный\" с черносливом",
@@ -75,13 +54,6 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-i-svininoy-125717/"
-  },
-  "271": {
-    "name": "Кефир детский 3,2%, 210 г",
-    "price": "32",
-    "old_price": "53",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-detskiy-3-271/"
   },
   "77565": {
     "name": "Торт муссовый \"Яманго\" с малиновым конфи",
