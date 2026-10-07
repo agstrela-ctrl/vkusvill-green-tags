@@ -1,4 +1,18 @@
 {
+  "58728": {
+    "name": "Хлеб цельнозерновой с отрубями",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+  },
+  "29622": {
+    "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
+    "price": "82",
+    "old_price": "136",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
+  },
   "113574": {
     "name": "Батон \"Сдобный\" на сливочном масле",
     "price": "47",
@@ -13,6 +27,27 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
   },
+  "39387": {
+    "name": "Напиток клубничный с базиликом, 1 л",
+    "price": "129",
+    "old_price": "215",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-klubnichnyy-s-bazilikom-39387/"
+  },
+  "39006": {
+    "name": "Хлебцы ржаные с паприкой",
+    "price": "71",
+    "old_price": "118",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khlebtsy-rzhanye-s-paprikoy-39006/"
+  },
+  "65499": {
+    "name": "Вареники c манго и творожным сыром",
+    "price": "232",
+    "old_price": "387",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vareniki-c-mango-i-tvorozhnym-syrom-65499/"
+  },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
     "price": "52",
@@ -20,12 +55,47 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
   },
+  "122754": {
+    "name": "Корм для взрослых собак \"Диетическая индейка беззерновая\", 100 г",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-dieticheskaya-indeyka-bezzernovaya-122754/"
+  },
+  "118910": {
+    "name": "Пирожное дайфукумоти “Личи” зам.",
+    "price": "112",
+    "old_price": "187",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-dayfukumoti-lichi-zam-118910/"
+  },
+  "122759": {
+    "name": "Корм для взрослых собак \"Сочная говядина беззерновая\", 100 г",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-sochnaya-govyadina-bezzernovaya-122759/"
+  },
+  "122753": {
+    "name": "Корм для взрослых собак \"Сочная говядина беззерновая\", 200 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-sochnaya-govyadina-bezzernovaya-122753/"
+  },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
     "price": "47",
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
+  "112143": {
+    "name": "Торт \"Половинки Маракуйя-Малина\"",
+    "price": "432",
+    "old_price": "720",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-malina-112143/"
   },
   "125710": {
     "name": "Салат \"Ташкент\" с говядиной, яйцом и зеленой редькой",
