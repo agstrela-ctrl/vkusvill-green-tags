@@ -1,17 +1,31 @@
 {
+  "15456": {
+    "name": "Томаты красные",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-krasnye-15456/"
+  },
+  "80499": {
+    "name": "Кефир 3,2% в бутылке, 450 г",
+    "price": "50",
+    "old_price": "83",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-3-80499/"
+  },
+  "121977": {
+    "name": "Мармелад \"По кочану\": ассорти со вкусами кимчи, лайма и яблока",
+    "price": "99",
+    "old_price": "197",
+    "discount": "50",
+    "link": "https://vkusvill.ru/goods/marmelad-po-kochanu-assorti-so-vkusami-kimchi-121977/"
+  },
   "122754": {
     "name": "Корм для взрослых собак \"Диетическая индейка беззерновая\", 100 г",
     "price": "135",
     "old_price": "225",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-dieticheskaya-indeyka-bezzernovaya-122754/"
-  },
-  "122759": {
-    "name": "Корм для взрослых собак \"Сочная говядина беззерновая\", 100 г",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-sochnaya-govyadina-bezzernovaya-122759/"
   },
   "122753": {
     "name": "Корм для взрослых собак \"Сочная говядина беззерновая\", 200 г",
