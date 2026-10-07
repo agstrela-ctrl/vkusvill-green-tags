@@ -20,6 +20,41 @@
     "discount": "41",
     "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
   },
+  "124692": {
+    "name": "Плюшка \"Домашняя\" с сахаром, 150 г",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/plyushka-domashnyaya-s-sakharom-124692/"
+  },
+  "69495": {
+    "name": "Батон \"Весенний\", половинка, нарезка",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
+  },
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
+  },
+  "118697": {
+    "name": "Хлебцы мягкие ржано-пшеничные с семенами",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
+  },
+  "123009": {
+    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
   "125362": {
     "name": "Тарт \"Саона\" с сырно-кокосовым кремом",
     "price": "395",
@@ -27,12 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tart-saona-s-syrno-kokosovym-kremom-125362/"
   },
-  "124692": {
-    "name": "Плюшка \"Домашняя\" с сахаром, 150 г",
-    "price": "61",
-    "old_price": "102",
+  "117310": {
+    "name": "Торт \"Медово-сметанный\" с черносливом",
+    "price": "530",
+    "old_price": "884",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/plyushka-domashnyaya-s-sakharom-124692/"
+    "link": "https://vkusvill.ru/goods/tort-medovo-smetannyy-s-chernoslivom-117310/"
   },
   "81476": {
     "name": "Каша гречневая сливочная",
@@ -55,47 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
   },
-  "69495": {
-    "name": "Батон \"Весенний\", половинка, нарезка",
-    "price": "35",
-    "old_price": "58",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
-  },
-  "119539": {
-    "name": "Лепешка Шоти, 300 г",
-    "price": "56",
-    "old_price": "94",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
-  },
   "115321": {
     "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
     "price": "180",
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
-  },
-  "118697": {
-    "name": "Хлебцы мягкие ржано-пшеничные с семенами",
-    "price": "52",
-    "old_price": "87",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
-  },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
-  "117310": {
-    "name": "Торт \"Медово-сметанный\" с черносливом",
-    "price": "530",
-    "old_price": "884",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-medovo-smetannyy-s-chernoslivom-117310/"
   },
   "125710": {
     "name": "Салат \"Ташкент\" с говядиной, яйцом и зеленой редькой",
