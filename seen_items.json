@@ -1,30 +1,100 @@
 {
-  "39006": {
-    "name": "Хлебцы ржаные с паприкой",
-    "price": "71",
-    "old_price": "118",
+  "1039": {
+    "name": "Изделие цельнозер. без муки \"Житный\", нарезка",
+    "price": "56",
+    "old_price": "93",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khlebtsy-rzhanye-s-paprikoy-39006/"
+    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-zhitnyy-1039/"
   },
-  "34217": {
-    "name": "Батон нарезной, половинка",
-    "price": "28",
-    "old_price": "46",
-    "discount": "39",
-    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
-  },
-  "122754": {
-    "name": "Корм для взрослых собак \"Диетическая индейка беззерновая\", 100 г",
-    "price": "135",
-    "old_price": "225",
+  "21096": {
+    "name": "Коржик молочный",
+    "price": "50",
+    "old_price": "83",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-dieticheskaya-indeyka-bezzernovaya-122754/"
+    "link": "https://vkusvill.ru/goods/korzhik-molochnyy-21096/"
   },
-  "122753": {
-    "name": "Корм для взрослых собак \"Сочная говядина беззерновая\", 200 г",
-    "price": "239",
-    "old_price": "398",
+  "17243": {
+    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
+    "price": "38",
+    "old_price": "63",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-sochnaya-govyadina-bezzernovaya-122753/"
+    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
+  },
+  "69056": {
+    "name": "Улитка слоеная с корицей",
+    "price": "98",
+    "old_price": "164",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ulitka-sloenaya-s-koritsey-69056/"
+  },
+  "83055": {
+    "name": "Изделие х/б \"Полбяной цельнозер. мультизлак.\", нарезка",
+    "price": "80",
+    "old_price": "134",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
+  },
+  "122090": {
+    "name": "Булочки для бургера с кунжутом, 3 шт",
+    "price": "51",
+    "old_price": "85",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-s-kunzhutom-122090/"
+  },
+  "48604": {
+    "name": "Булочки сдобные, 2 шт",
+    "price": "49",
+    "old_price": "82",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochki-sdobnye-48604/"
+  },
+  "90665": {
+    "name": "Печенье \"Шарики\" с варёной сгущёнкой, кафе",
+    "price": "115",
+    "old_price": "192",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-shariki-s-varyenoy-sgushchyenkoy-90665/"
+  },
+  "85529": {
+    "name": "Булочки сдобные с изюмом, 2 шт",
+    "price": "52",
+    "old_price": "86",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochki-sdobnye-s-izyumom-85529/"
+  },
+  "77559": {
+    "name": "Круассаны-мини на масле, 6 шт",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassany-mini-na-masle-77559/"
+  },
+  "124581": {
+    "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
+  },
+  "116302": {
+    "name": "Изделие х/б \"Энергия полбы\"",
+    "price": "122",
+    "old_price": "203",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-energiya-polby-116302/"
+  },
+  "119801": {
+    "name": "Палочки сдобные с варёной сгущенкой",
+    "price": "82",
+    "old_price": "136",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/palochki-sdobnye-s-varyenoy-sgushchenkoy-119801/"
+  },
+  "67713": {
+    "name": "Хлеб \"Тостовый\" нарезка, 250 г",
+    "price": "62",
+    "old_price": "104",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tostovyy-narezka-67713/"
   }
 }
