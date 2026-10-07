@@ -1,38 +1,10 @@
 {
-  "111102": {
-    "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
-  },
   "126191": {
     "name": "Суп корейский с кимчи и свининой \"Кимчи Чиге\"",
     "price": "185",
     "old_price": "308",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-koreyskiy-s-kimchi-i-svininoy-kimchi-chige-126191/"
-  },
-  "21159": {
-    "name": "Блины с начинкой \"Жюльен\"",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-nachinkoy-zhyulen-21159/"
-  },
-  "124423": {
-    "name": "Десерт творожный на сиропе топинамбура 12%",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-na-sirope-topinambura-12-124423/"
-  },
-  "47061": {
-    "name": "Суп \"Том-ям\"",
-    "price": "288",
-    "old_price": "480",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-tom-yam-47061/"
   },
   "24293": {
     "name": "Фрикадельки мини из телятины",
@@ -47,13 +19,6 @@
     "old_price": "206",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
-  },
-  "111702": {
-    "name": "Салат \"Цезарь\" с креветками",
-    "price": "287",
-    "old_price": "478",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
   },
   "86669": {
     "name": "Корюшка жареная, 200 г",
@@ -90,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
   },
-  "38875": {
-    "name": "Форель холодного копчения ломтики, 150 г",
-    "price": "315",
-    "old_price": "525",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-kholodnogo-kopcheniya-lomtiki-38875/"
-  },
   "98952": {
     "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
     "price": "332",
@@ -132,20 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-s-kunzhutom-122090/"
   },
-  "123710": {
-    "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-vetchinoy-i-syrom-chedder-123710/"
-  },
-  "69753": {
-    "name": "Шаурма грузинская",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-gruzinskaya-69753/"
-  },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
     "price": "499",
@@ -166,19 +110,5 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/brokkoli-po-sychuanski-118781/"
-  },
-  "98002": {
-    "name": "Йогурт \"Мюсли Бирхер по-швейцарски\" с яблоком и миндалем",
-    "price": "78",
-    "old_price": "130",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-myusli-birkher-po-shveytsarski-s-yablokom-i-mindalem-98002/"
-  },
-  "104701": {
-    "name": "Закрытый омлет с ветчиной и сыром, кафе",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
   }
 }
