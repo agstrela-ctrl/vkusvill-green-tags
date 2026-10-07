@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
   },
+  "125362": {
+    "name": "Тарт \"Саона\" с сырно-кокосовым кремом",
+    "price": "395",
+    "old_price": "658",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tart-saona-s-syrno-kokosovym-kremom-125362/"
+  },
   "113574": {
     "name": "Батон \"Сдобный\" на сливочном масле",
     "price": "47",
@@ -27,12 +34,54 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-dlya-tostov-zernovoe-65384/"
   },
+  "124375": {
+    "name": "Клаб-сэндвич с курицей и творожным сыром",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-tvorozhnym-syrom-124375/"
+  },
+  "81476": {
+    "name": "Каша гречневая сливочная",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kasha-grechnevaya-slivochnaya-81476/"
+  },
+  "125193": {
+    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
+    "price": "401",
+    "old_price": "668",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
+  },
+  "99743": {
+    "name": "Завтрак боул с хашбрауном, кафе",
+    "price": "204",
+    "old_price": "340",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
+  },
   "69495": {
     "name": "Батон \"Весенний\", половинка, нарезка",
     "price": "35",
     "old_price": "58",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
+  },
+  "100737": {
+    "name": "Лепешка с сыром и картофелем, 2 шт",
+    "price": "163",
+    "old_price": "272",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-s-syrom-i-kartofelem-100737/"
+  },
+  "90938": {
+    "name": "Фарфалле с креветками под сливочным соусом",
+    "price": "258",
+    "old_price": "430",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farfalle-s-krevetkami-pod-slivochnym-sousom-90938/"
   },
   "119539": {
     "name": "Лепешка Шоти, 300 г",
@@ -47,6 +96,13 @@
     "old_price": "87",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
+  },
+  "115321": {
+    "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
   },
   "124692": {
     "name": "Плюшка \"Домашняя\" с сахаром, 150 г",
