@@ -6,12 +6,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
+  "29622": {
+    "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
+    "price": "82",
+    "old_price": "136",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
+  },
   "22664": {
     "name": "Сэндвич ролл с горбушей и яйцом",
     "price": "161",
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
+  },
+  "113574": {
+    "name": "Батон \"Сдобный\" на сливочном масле",
+    "price": "47",
+    "old_price": "79",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
   },
   "65384": {
     "name": "Изделие х/б \"Для тостов\" зерновое, 250 г",
@@ -27,12 +41,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
   },
+  "69495": {
+    "name": "Батон \"Весенний\", половинка, нарезка",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-vesenniy-69495/"
+  },
   "62324": {
     "name": "Стейк мачете в устрично-луковом маринаде",
     "price": "272",
     "old_price": "453",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-machete-v-ustrichno-lukovom-marinade-62324/"
+  },
+  "116536": {
+    "name": "Молоко 3,5-4% со слоем сливок",
+    "price": "85",
+    "old_price": "142",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-3-116536/"
+  },
+  "124692": {
+    "name": "Плюшка \"Домашняя\" с сахаром, 150 г",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/plyushka-domashnyaya-s-sakharom-124692/"
   },
   "117310": {
     "name": "Торт \"Медово-сметанный\" с черносливом",
