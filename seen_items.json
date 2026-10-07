@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-machete-v-ustrichno-lukovom-marinade-62324/"
   },
-  "116536": {
-    "name": "Молоко 3,5-4% со слоем сливок",
-    "price": "85",
-    "old_price": "142",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-3-116536/"
-  },
   "124692": {
     "name": "Плюшка \"Домашняя\" с сахаром, 150 г",
     "price": "61",
@@ -89,6 +82,20 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-s-krevetkami-117221/"
+  },
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
+  },
+  "116536": {
+    "name": "Молоко 3,5-4% со слоем сливок",
+    "price": "85",
+    "old_price": "142",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-3-116536/"
   },
   "115724": {
     "name": "Ассорти мини-чиабатт курица, омлет, сыр + куриная ветчина, сыр",
