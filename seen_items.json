@@ -1,16 +1,9 @@
 {
-  "43060": {
-    "name": "Творог с изюмом без доб. сахара 9%, 90 г",
-    "price": "53",
-    "old_price": "88",
+  "42406": {
+    "name": "Кефир 2,5% в бутылке, 900 г",
+    "price": "67",
+    "old_price": "112",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-s-izyumom-bez-dob-sakhara-9-43060/"
-  },
-  "98527": {
-    "name": "Овощи микс на пару",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
+    "link": "https://vkusvill.ru/goods/kefir-2-42406/"
   }
 }
