@@ -27,6 +27,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
+  "98527": {
+    "name": "Овощи микс на пару",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
+  },
   "98952": {
     "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
     "price": "332",
@@ -47,13 +54,6 @@
     "old_price": "85",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-s-kunzhutom-122090/"
-  },
-  "116302": {
-    "name": "Изделие х/б \"Энергия полбы\"",
-    "price": "122",
-    "old_price": "203",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-energiya-polby-116302/"
   },
   "118781": {
     "name": "Брокколи по-сычуаньски",
