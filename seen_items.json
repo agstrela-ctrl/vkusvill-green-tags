@@ -1,17 +1,24 @@
 {
-  "26199": {
-    "name": "Круассан миндальный",
-    "price": "113",
-    "old_price": "189",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-26199/"
-  },
   "32936": {
     "name": "Тартин пшеничный, половинка",
     "price": "50",
     "old_price": "84",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
+  },
+  "102350": {
+    "name": "Торт \"Бонфуа\" с клубникой и крем-чиз",
+    "price": "659",
+    "old_price": "1098",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-bonfua-s-klubnikoy-i-krem-chiz-102350/"
+  },
+  "119897": {
+    "name": "Торт \"Блинный\" черемуховый с черной смородиной",
+    "price": "578",
+    "old_price": "964",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-blinnyy-cheremukhovyy-s-chernoy-smorodinoy-119897/"
   },
   "65170": {
     "name": "Мойва жареная, 200 г",
