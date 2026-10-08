@@ -20,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-shchavelevyy-s-kuritsey-27195/"
   },
-  "489": {
-    "name": "Голень цыпленка-бройлера",
-    "price": "263",
-    "old_price": "438",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-489/"
-  },
   "97075": {
     "name": "Оладьи куриные с кабачком, 130 г",
     "price": "132",
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladi-kurinye-s-kabachkom-97075/"
-  },
-  "14962": {
-    "name": "Мясо цыпленка-бройлера на косточке",
-    "price": "334",
-    "old_price": "556",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-tsyplenka-broylera-na-kostochke-14962/"
   },
   "17243": {
     "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
@@ -68,13 +54,6 @@
     "old_price": "104",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
-  },
-  "106420": {
-    "name": "Торт \"Медовый\", 760 г.",
-    "price": "616",
-    "old_price": "1026",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-medovyy-106420/"
   },
   "86796": {
     "name": "Ассорти эклеров \"Классика вкусов\", 3 шт",
@@ -111,33 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
   },
-  "108638": {
-    "name": "Торт \"Воздушный полет\"",
-    "price": "503",
-    "old_price": "838",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-vozdushnyy-polet-108638/"
-  },
-  "124375": {
-    "name": "Клаб-сэндвич с курицей и творожным сыром",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-tvorozhnym-syrom-124375/"
-  },
   "114226": {
     "name": "Тефтели из мяса цыплят-бройлеров с рисом",
     "price": "149",
     "old_price": "248",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tefteli-iz-myasa-tsyplyat-broylerov-s-risom-114226/"
-  },
-  "120070": {
-    "name": "Говядина по-красноярски со сливочно-грибной полбой",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-po-krasnoyarski-so-slivochno-gribnoy-polboy-120070/"
   },
   "65461": {
     "name": "Изделие х/б \"Скандинавский\" цельнозерн. на закваске",
@@ -187,6 +145,13 @@
     "old_price": "418",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-krabovaya-s-kartofelnym-pyure-117108/"
+  },
+  "113684": {
+    "name": "Опята маринованные по-корейски",
+    "price": "145",
+    "old_price": "242",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/opyata-marinovannye-po-koreyski-113684/"
   },
   "68288": {
     "name": "Котлета куриная на пару фаршированная брокколи",
