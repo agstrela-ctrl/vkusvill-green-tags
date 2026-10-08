@@ -1,44 +1,86 @@
 {
-  "69185": {
-    "name": "Микс укроп, петрушка, 50 г",
-    "price": "54",
-    "old_price": "90",
+  "125769": {
+    "name": "Пибимпаб с курицей",
+    "price": "197",
+    "old_price": "328",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-ukrop-69185/"
+    "link": "https://vkusvill.ru/goods/pibimpab-s-kuritsey-125769/"
   },
-  "119897": {
-    "name": "Торт \"Блинный\" черемуховый с черной смородиной",
-    "price": "578",
-    "old_price": "964",
+  "23995": {
+    "name": "Стейк из филе грудки цыпленка-бройлера",
+    "price": "224",
+    "old_price": "373",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-blinnyy-cheremukhovyy-s-chernoy-smorodinoy-119897/"
+    "link": "https://vkusvill.ru/goods/steyk-iz-file-grudki-tsyplenka-broylera-23995/"
   },
-  "67713": {
-    "name": "Хлеб \"Тостовый\" нарезка, 250 г",
-    "price": "62",
-    "old_price": "104",
+  "111616": {
+    "name": "Паста \"Тальятелле\" с лимонной курицей",
+    "price": "198",
+    "old_price": "330",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tostovyy-narezka-67713/"
+    "link": "https://vkusvill.ru/goods/pasta-talyatelle-s-limonnoy-kuritsey-111616/"
   },
-  "98527": {
-    "name": "Овощи микс на пару",
-    "price": "138",
-    "old_price": "230",
+  "123372": {
+    "name": "Торт \"Сливочный пломбир\"",
+    "price": "621",
+    "old_price": "1035",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
+    "link": "https://vkusvill.ru/goods/tort-slivochnyy-plombir-123372/"
   },
-  "122090": {
-    "name": "Булочки для бургера с кунжутом, 3 шт",
-    "price": "51",
-    "old_price": "85",
+  "75130": {
+    "name": "Филе форели на пару",
+    "price": "353",
+    "old_price": "588",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-s-kunzhutom-122090/"
+    "link": "https://vkusvill.ru/goods/file-foreli-na-paru-75130/"
   },
-  "118781": {
-    "name": "Брокколи по-сычуаньски",
-    "price": "179",
-    "old_price": "298",
+  "34217": {
+    "name": "Батон нарезной, половинка",
+    "price": "28",
+    "old_price": "46",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
+  },
+  "50163": {
+    "name": "Суп-пюре \"Сырный\" с гренками, 260 г",
+    "price": "180",
+    "old_price": "300",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/brokkoli-po-sychuanski-118781/"
+    "link": "https://vkusvill.ru/goods/sup-pyure-syrnyy-s-grenkami-50163/"
+  },
+  "1067": {
+    "name": "Филе бедра индейки",
+    "price": "544",
+    "old_price": "907",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-bedra-indeyki-1067/"
+  },
+  "125212": {
+    "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
+  },
+  "96649": {
+    "name": "Онигири с запеченным тунцом",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
+  },
+  "65192": {
+    "name": "Изделие х/б \"Цельнозерновой\" полбяной с семенами льна",
+    "price": "85",
+    "old_price": "142",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoy-polbyanoy-s-semenami-lna-65192/"
+  },
+  "58728": {
+    "name": "Хлеб цельнозерновой с отрубями",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   }
 }
