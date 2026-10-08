@@ -1,31 +1,10 @@
 {
-  "99998": {
-    "name": "Бескостное мясо бедра цыпленка-бройлера в маринаде \"Сладкий чили\"",
-    "price": "389",
-    "old_price": "648",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/beskostnoe-myaso-bedra-tsyplenka-broylera-v-marinade-sladkiy-chili-99998/"
-  },
-  "34217": {
-    "name": "Батон нарезной, половинка",
-    "price": "28",
-    "old_price": "46",
-    "discount": "39",
-    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
-  },
   "27195": {
     "name": "Суп щавелевый с курицей",
     "price": "131",
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-shchavelevyy-s-kuritsey-27195/"
-  },
-  "97075": {
-    "name": "Оладьи куриные с кабачком, 130 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-kurinye-s-kabachkom-97075/"
   },
   "17243": {
     "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
@@ -55,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-eklerov-klassika-vkusov-86796/"
   },
-  "83348": {
-    "name": "Котлеты из индейки и цыпленка с сыром чеддер",
-    "price": "243",
-    "old_price": "405",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-indeyki-i-tsyplenka-s-syrom-chedder-83348/"
-  },
   "25053": {
     "name": "Лаваш \"Армянский\", 160 г",
     "price": "43",
@@ -82,13 +54,6 @@
     "old_price": "134",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
-  },
-  "114226": {
-    "name": "Тефтели из мяса цыплят-бройлеров с рисом",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tefteli-iz-myasa-tsyplyat-broylerov-s-risom-114226/"
   },
   "65461": {
     "name": "Изделие х/б \"Скандинавский\" цельнозерн. на закваске",
@@ -111,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-zharenymi-krevetkami-113296/"
   },
-  "26582": {
-    "name": "Стрипсы в панировке",
-    "price": "181",
-    "old_price": "301",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
   "99192": {
     "name": "Филе грудки утенка в ягодном соусе",
     "price": "419",
@@ -138,13 +96,6 @@
     "old_price": "418",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-krabovaya-s-kartofelnym-pyure-117108/"
-  },
-  "113684": {
-    "name": "Опята маринованные по-корейски",
-    "price": "145",
-    "old_price": "242",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/opyata-marinovannye-po-koreyski-113684/"
   },
   "68288": {
     "name": "Котлета куриная на пару фаршированная брокколи",
