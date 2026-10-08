@@ -20,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-blinnyy-cheremukhovyy-s-chernoy-smorodinoy-119897/"
   },
+  "67713": {
+    "name": "Хлеб \"Тостовый\" нарезка, 250 г",
+    "price": "62",
+    "old_price": "104",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tostovyy-narezka-67713/"
+  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
@@ -27,12 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
-  "98527": {
-    "name": "Овощи микс на пару",
-    "price": "138",
-    "old_price": "230",
+  "125034": {
+    "name": "Блины с бананом и ореховой пастой",
+    "price": "155",
+    "old_price": "258",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
+    "link": "https://vkusvill.ru/goods/bliny-s-bananom-i-orekhovoy-pastoy-125034/"
   },
   "98952": {
     "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
@@ -41,12 +48,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylya-tsyplenka-broylera-v-souse-teriyaki-98952/"
   },
-  "67713": {
-    "name": "Хлеб \"Тостовый\" нарезка, 250 г",
-    "price": "62",
-    "old_price": "104",
+  "98527": {
+    "name": "Овощи микс на пару",
+    "price": "138",
+    "old_price": "230",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tostovyy-narezka-67713/"
+    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
+  },
+  "123462": {
+    "name": "Салат корейский \"Ве-Ча\" с говядиной и огурцами",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-koreyskiy-ve-cha-s-govyadinoy-i-ogurtsami-123462/"
   },
   "122090": {
     "name": "Булочки для бургера с кунжутом, 3 шт",
