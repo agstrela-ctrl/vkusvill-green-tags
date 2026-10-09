@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-koreyskiy-s-kimchi-i-svininoy-kimchi-chige-126191/"
   },
-  "17243": {
-    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
-    "price": "38",
-    "old_price": "63",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
-  },
   "21482": {
     "name": "Лаваш \"Армянский\" тандырный, 150 г",
     "price": "44",
@@ -41,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-25053/"
   },
-  "58433": {
-    "name": "Торт \"Тирамису\", веган",
-    "price": "376",
-    "old_price": "627",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-tiramisu-58433/"
-  },
   "125188": {
     "name": "Рулька \"Калининградская\" с квашеной капустой и брусникой",
     "price": "407",
     "old_price": "678",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
-  },
-  "99743": {
-    "name": "Завтрак боул с хашбрауном, кафе",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
   },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
@@ -75,13 +54,6 @@
     "old_price": "228",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-krepvil-chernoe-119501/"
-  },
-  "74326": {
-    "name": "Суп \"Рассольник\" вегетарианский с грибами и сельдереем",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326/"
   },
   "119445": {
     "name": "Тофу с томатами и базиликом, 250 г",
@@ -104,20 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-svininy-rublevskiy-dlya-zavtraka-400-g-74328/"
   },
-  "124798": {
-    "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tofu-protein-s-semenami-lna-124798/"
-  },
-  "18640": {
-    "name": "Ежевика, 125 г",
-    "price": "262",
-    "old_price": "436",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ezhevika-18640/"
-  },
   "123275": {
     "name": "Ветчина Черный кабан Парме сырокопченая нарезка 95г",
     "price": "132",
@@ -131,5 +89,19 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
+  },
+  "124798": {
+    "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
+    "price": "109",
+    "old_price": "182",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tofu-protein-s-semenami-lna-124798/"
+  },
+  "18640": {
+    "name": "Ежевика, 125 г",
+    "price": "262",
+    "old_price": "436",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ezhevika-18640/"
   }
 }
