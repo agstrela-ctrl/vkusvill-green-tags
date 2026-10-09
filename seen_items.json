@@ -1,93 +1,58 @@
 {
-  "32931": {
-    "name": "Тартин пшенично-ржаной, половинка",
-    "price": "50",
-    "old_price": "84",
+  "50717": {
+    "name": "Сочник с творогом, 2 шт",
+    "price": "134",
+    "old_price": "224",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
+    "link": "https://vkusvill.ru/goods/sochnik-s-tvorogom-50717/"
   },
-  "126191": {
-    "name": "Суп корейский с кимчи и свининой \"Кимчи Чиге\"",
-    "price": "185",
-    "old_price": "308",
+  "115735": {
+    "name": "Конфеты \"Фисташковое удовольствие\" с катаифи в шок.",
+    "price": "472",
+    "old_price": "786",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-koreyskiy-s-kimchi-i-svininoy-kimchi-chige-126191/"
+    "link": "https://vkusvill.ru/goods/konfety-fistashkovoe-udovolstvie-s-kataifi-v-shok-115735/"
   },
-  "21482": {
-    "name": "Лаваш \"Армянский\" тандырный, 150 г",
-    "price": "44",
-    "old_price": "74",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-21482/"
-  },
-  "14993": {
-    "name": "Морковь-мини",
-    "price": "75",
-    "old_price": "125",
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-mini-14993/"
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
   },
-  "25053": {
-    "name": "Лаваш \"Армянский\", 160 г",
-    "price": "43",
-    "old_price": "72",
+  "58829": {
+    "name": "Печенье \"Кокосовое воздушное\"",
+    "price": "114",
+    "old_price": "190",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-25053/"
+    "link": "https://vkusvill.ru/goods/pechene-kokosovoe-vozdushnoe-58829/"
   },
-  "125188": {
-    "name": "Рулька \"Калининградская\" с квашеной капустой и брусникой",
-    "price": "407",
-    "old_price": "678",
+  "111316": {
+    "name": "Смесь орехово-фруктовая с воздушными шариками в шоколаде \"Матча\"",
+    "price": "161",
+    "old_price": "268",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
+    "link": "https://vkusvill.ru/goods/smes-orekhovo-fruktovaya-s-vozdushnymi-sharikami-v-shokolade-matcha-111316/"
   },
-  "105788": {
-    "name": "Овощной микс \"Витаминное трио\", 250 г",
-    "price": "72",
-    "old_price": "120",
+  "122754": {
+    "name": "Корм для взрослых собак \"Диетическая индейка беззерновая\", 100 г",
+    "price": "135",
+    "old_price": "225",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
+    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-dieticheskaya-indeyka-bezzernovaya-122754/"
   },
-  "119445": {
-    "name": "Тофу с томатами и базиликом, 250 г",
-    "price": "109",
-    "old_price": "182",
+  "122700": {
+    "name": "Корм для взрослых собак \"Нежная курица беззерновая\", 100 г",
+    "price": "129",
+    "old_price": "215",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tofu-s-tomatami-i-bazilikom-119445/"
+    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-nezhnaya-kuritsa-bezzernovaya-122700/"
   },
-  "74328": {
-    "name": "Ветчина из свинины Рублевский для завтрака 400 г",
-    "price": "359",
-    "old_price": "599",
+  "122756": {
+    "name": "Корм для взрослых собак \"Нежная курица беззерновая\", 200 г",
+    "price": "232",
+    "old_price": "387",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-svininy-rublevskiy-dlya-zavtraka-400-g-74328/"
-  },
-  "123275": {
-    "name": "Ветчина Черный кабан Парме сырокопченая нарезка 95г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-chernyy-kaban-parme-syrokopchenaya-narezka-95g-123275/"
-  },
-  "123943": {
-    "name": "Десерт \"Ореховый\" с карамелью, веган",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
-  },
-  "124798": {
-    "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tofu-protein-s-semenami-lna-124798/"
-  },
-  "18640": {
-    "name": "Ежевика, 125 г",
-    "price": "262",
-    "old_price": "436",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ezhevika-18640/"
+    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-nezhnaya-kuritsa-bezzernovaya-122756/"
   }
 }
