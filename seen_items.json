@@ -76,26 +76,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
   },
-  "90069": {
-    "name": "Ветчина из мяса индейки без глютена",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-myasa-indeyki-bez-glyutena-90069/"
-  },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
     "price": "72",
     "old_price": "120",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
-  },
-  "37284": {
-    "name": "Блины шоколадные с маскарпоне и вишней",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
   },
   "119501": {
     "name": "Пирожное блинное \"Крепвиль\" (черное), 1 шт.",
@@ -146,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-svininy-rublevskiy-dlya-zavtraka-400-g-74328/"
   },
-  "123943": {
-    "name": "Десерт \"Ореховый\" с карамелью, веган",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
-  },
   "124798": {
     "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
     "price": "109",
@@ -167,19 +146,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ezhevika-18640/"
   },
-  "121262": {
-    "name": "Филе куриной грудки в беконе, запеченное",
-    "price": "241",
-    "old_price": "401",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-v-bekone-121262/"
-  },
   "123275": {
     "name": "Ветчина Черный кабан Парме сырокопченая нарезка 95г",
     "price": "132",
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-chernyy-kaban-parme-syrokopchenaya-narezka-95g-123275/"
+  },
+  "123943": {
+    "name": "Десерт \"Ореховый\" с карамелью, веган",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
   },
   "120918": {
     "name": "Сосиски из курицы со шпинатом и сыром Фета",
