@@ -1,11 +1,4 @@
 {
-  "26199": {
-    "name": "Круассан миндальный",
-    "price": "113",
-    "old_price": "189",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-26199/"
-  },
   "32931": {
     "name": "Тартин пшенично-ржаной, половинка",
     "price": "50",
@@ -13,12 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
   },
-  "126191": {
-    "name": "Суп корейский с кимчи и свининой \"Кимчи Чиге\"",
-    "price": "185",
-    "old_price": "308",
+  "26199": {
+    "name": "Круассан миндальный",
+    "price": "113",
+    "old_price": "189",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-koreyskiy-s-kimchi-i-svininoy-kimchi-chige-126191/"
+    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-26199/"
   },
   "66659": {
     "name": "Горбуша слабосоленая ломтики, 100 г",
@@ -27,19 +20,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
   },
+  "126191": {
+    "name": "Суп корейский с кимчи и свининой \"Кимчи Чиге\"",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-koreyskiy-s-kimchi-i-svininoy-kimchi-chige-126191/"
+  },
   "17243": {
     "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
     "price": "38",
     "old_price": "63",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
-  },
-  "16942": {
-    "name": "Блины с яблоком, 210 г",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-yablokom-16942/"
   },
   "21482": {
     "name": "Лаваш \"Армянский\" тандырный, 150 г",
@@ -55,19 +48,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
-  "58433": {
-    "name": "Торт \"Тирамису\", веган",
-    "price": "376",
-    "old_price": "627",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-tiramisu-58433/"
-  },
   "25053": {
     "name": "Лаваш \"Армянский\", 160 г",
     "price": "43",
     "old_price": "72",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-25053/"
+  },
+  "58433": {
+    "name": "Торт \"Тирамису\", веган",
+    "price": "376",
+    "old_price": "627",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-tiramisu-58433/"
   },
   "83055": {
     "name": "Изделие х/б \"Полбяной цельнозер. мультизлак.\", нарезка",
@@ -104,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
   },
-  "37284": {
-    "name": "Блины шоколадные с маскарпоне и вишней",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
-  },
   "113296": {
     "name": "Крем-суп с тыквой и жареными креветками",
     "price": "168",
@@ -118,12 +104,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-zharenymi-krevetkami-113296/"
   },
-  "74326": {
-    "name": "Суп \"Рассольник\" вегетарианский с грибами и сельдереем",
-    "price": "107",
-    "old_price": "178",
+  "37284": {
+    "name": "Блины шоколадные с маскарпоне и вишней",
+    "price": "156",
+    "old_price": "260",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326/"
+    "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
+  },
+  "119501": {
+    "name": "Пирожное блинное \"Крепвиль\" (черное), 1 шт.",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-krepvil-chernoe-119501/"
   },
   "117130": {
     "name": "Трубочки вафельные с белковым кремом, 2 шт.",
@@ -131,6 +124,13 @@
     "old_price": "210",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/trubochki-vafelnye-s-belkovym-kremom-117130/"
+  },
+  "74326": {
+    "name": "Суп \"Рассольник\" вегетарианский с грибами и сельдереем",
+    "price": "107",
+    "old_price": "178",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326/"
   },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
@@ -145,13 +145,6 @@
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
-  },
-  "119501": {
-    "name": "Пирожное блинное \"Крепвиль\" (черное), 1 шт.",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-krepvil-chernoe-119501/"
   },
   "123943": {
     "name": "Десерт \"Ореховый\" с карамелью, веган",
