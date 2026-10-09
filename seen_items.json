@@ -41,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
+  "58433": {
+    "name": "Торт \"Тирамису\", веган",
+    "price": "376",
+    "old_price": "627",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-tiramisu-58433/"
+  },
   "25053": {
     "name": "Лаваш \"Армянский\", 160 г",
     "price": "43",
@@ -62,11 +69,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-zharenymi-krevetkami-113296/"
   },
+  "117130": {
+    "name": "Трубочки вафельные с белковым кремом, 2 шт.",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/trubochki-vafelnye-s-belkovym-kremom-117130/"
+  },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
     "price": "52",
     "old_price": "87",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
+  },
+  "119501": {
+    "name": "Пирожное блинное \"Крепвиль\" (черное), 1 шт.",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-krepvil-chernoe-119501/"
   }
 }
