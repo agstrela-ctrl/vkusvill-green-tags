@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
   },
+  "126191": {
+    "name": "Суп корейский с кимчи и свининой \"Кимчи Чиге\"",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-koreyskiy-s-kimchi-i-svininoy-kimchi-chige-126191/"
+  },
   "66659": {
     "name": "Горбуша слабосоленая ломтики, 100 г",
     "price": "212",
@@ -76,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
   },
-  "59515": {
-    "name": "Сосиска в тесте (свинина, говядина), 2 шт.",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiska-v-teste-svinina-59515/"
-  },
   "99743": {
     "name": "Завтрак боул с хашбрауном, кафе",
     "price": "204",
@@ -96,6 +96,20 @@
     "old_price": "204",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorozhnik-s-chernoy-smorodinoy-61785/"
+  },
+  "78481": {
+    "name": "Чиабатта с куриным филе и соусом \"Песто\"",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
+  },
+  "37284": {
+    "name": "Блины шоколадные с маскарпоне и вишней",
+    "price": "156",
+    "old_price": "260",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
   },
   "113296": {
     "name": "Крем-суп с тыквой и жареными креветками",
