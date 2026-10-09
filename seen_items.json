@@ -1,37 +1,9 @@
 {
-  "58829": {
-    "name": "Печенье \"Кокосовое воздушное\"",
-    "price": "114",
-    "old_price": "190",
+  "105788": {
+    "name": "Овощной микс \"Витаминное трио\", 250 г",
+    "price": "72",
+    "old_price": "120",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-kokosovoe-vozdushnoe-58829/"
-  },
-  "115735": {
-    "name": "Конфеты \"Фисташковое удовольствие\" с катаифи в шок.",
-    "price": "472",
-    "old_price": "786",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konfety-fistashkovoe-udovolstvie-s-kataifi-v-shok-115735/"
-  },
-  "122700": {
-    "name": "Корм для взрослых собак \"Нежная курица беззерновая\", 100 г",
-    "price": "129",
-    "old_price": "215",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-nezhnaya-kuritsa-bezzernovaya-122700/"
-  },
-  "122754": {
-    "name": "Корм для взрослых собак \"Диетическая индейка беззерновая\", 100 г",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-dieticheskaya-indeyka-bezzernovaya-122754/"
-  },
-  "122756": {
-    "name": "Корм для взрослых собак \"Нежная курица беззерновая\", 200 г",
-    "price": "232",
-    "old_price": "387",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/korm-dlya-vzroslykh-sobak-nezhnaya-kuritsa-bezzernovaya-122756/"
+    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
   }
 }
