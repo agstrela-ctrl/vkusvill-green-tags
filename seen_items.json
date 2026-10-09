@@ -1,11 +1,4 @@
 {
-  "27195": {
-    "name": "Суп щавелевый с курицей",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-shchavelevyy-s-kuritsey-27195/"
-  },
   "17243": {
     "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
     "price": "38",
@@ -47,19 +40,5 @@
     "old_price": "280",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-zharenymi-krevetkami-113296/"
-  },
-  "65513": {
-    "name": "Биточки из мяса индейки",
-    "price": "215",
-    "old_price": "358",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
-  },
-  "79681": {
-    "name": "Кейс-торт \"Манго-маракуйя\"",
-    "price": "233",
-    "old_price": "388",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keys-tort-mango-marakuyya-79681/"
   }
 }
