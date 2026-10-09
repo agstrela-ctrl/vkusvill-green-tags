@@ -62,6 +62,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
   },
+  "61785": {
+    "name": "Творожник с черной смородиной",
+    "price": "122",
+    "old_price": "204",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorozhnik-s-chernoy-smorodinoy-61785/"
+  },
   "113296": {
     "name": "Крем-суп с тыквой и жареными креветками",
     "price": "168",
@@ -89,5 +96,12 @@
     "old_price": "228",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-krepvil-chernoe-119501/"
+  },
+  "123943": {
+    "name": "Десерт \"Ореховый\" с карамелью, веган",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
   }
 }
