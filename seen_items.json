@@ -1,24 +1,10 @@
 {
-  "14526": {
-    "name": "Сметана 15%, 250 г",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/smetana-15-14526/"
-  },
   "32931": {
     "name": "Тартин пшенично-ржаной, половинка",
     "price": "50",
     "old_price": "84",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
-  },
-  "66659": {
-    "name": "Горбуша слабосоленая ломтики, 100 г",
-    "price": "212",
-    "old_price": "353",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
   },
   "126191": {
     "name": "Суп корейский с кимчи и свининой \"Кимчи Чиге\"",
@@ -41,13 +27,6 @@
     "discount": "41",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-21482/"
   },
-  "82402": {
-    "name": "Паштет из куриной печени с лисичками",
-    "price": "145",
-    "old_price": "242",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pashtet-iz-kurinoy-pecheni-s-lisichkami-82402/"
-  },
   "14993": {
     "name": "Морковь-мини",
     "price": "75",
@@ -61,13 +40,6 @@
     "old_price": "104",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
-  },
-  "124798": {
-    "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tofu-protein-s-semenami-lna-124798/"
   },
   "25053": {
     "name": "Лаваш \"Армянский\", 160 г",
@@ -90,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
   },
-  "81236": {
-    "name": "Говядина копчено-варёная Премиум категории А",
-    "price": "229",
-    "old_price": "382",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-kopcheno-varyenaya-premium-kategorii-a-81236/"
-  },
   "125188": {
     "name": "Рулька \"Калининградская\" с квашеной капустой и брусникой",
     "price": "407",
@@ -118,26 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-myasa-indeyki-bez-glyutena-90069/"
   },
-  "95543": {
-    "name": "Колбаса вареная из курицы и филе индейки Легкая",
-    "price": "303",
-    "old_price": "505",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-iz-kuritsy-i-file-indeyki-legkaya-95543/"
-  },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
     "price": "72",
     "old_price": "120",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
-  },
-  "18640": {
-    "name": "Ежевика, 125 г",
-    "price": "262",
-    "old_price": "436",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ezhevika-18640/"
   },
   "37284": {
     "name": "Блины шоколадные с маскарпоне и вишней",
@@ -152,20 +103,6 @@
     "old_price": "228",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-blinnoe-krepvil-chernoe-119501/"
-  },
-  "115353": {
-    "name": "Лавровый лист свежий, 20 г",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lavrovyy-list-svezhiy-115353/"
-  },
-  "121262": {
-    "name": "Филе куриной грудки в беконе, запеченное",
-    "price": "241",
-    "old_price": "401",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-v-bekone-121262/"
   },
   "117130": {
     "name": "Трубочки вафельные с белковым кремом, 2 шт.",
@@ -188,33 +125,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-s-tomatami-i-bazilikom-119445/"
   },
-  "120918": {
-    "name": "Сосиски из курицы со шпинатом и сыром Фета",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-so-shpinatom-i-syrom-feta-120918/"
-  },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
     "price": "52",
     "old_price": "87",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
-  },
-  "112416": {
-    "name": "Колбаса вареная \"Мортаделла Трюфельная\", нарезка 120 г",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-mortadella-tryufelnaya-112416/"
-  },
-  "20471": {
-    "name": "Грудка индейки сыровяленая, нарезка",
-    "price": "304",
-    "old_price": "506",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grudka-indeyki-syrovyalenaya-20471/"
   },
   "119818": {
     "name": "Лепешка \"Тортилья\" с сыром",
@@ -230,6 +146,34 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-svininy-rublevskiy-dlya-zavtraka-400-g-74328/"
   },
+  "123943": {
+    "name": "Десерт \"Ореховый\" с карамелью, веган",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
+  },
+  "124798": {
+    "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
+    "price": "109",
+    "old_price": "182",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tofu-protein-s-semenami-lna-124798/"
+  },
+  "18640": {
+    "name": "Ежевика, 125 г",
+    "price": "262",
+    "old_price": "436",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ezhevika-18640/"
+  },
+  "121262": {
+    "name": "Филе куриной грудки в беконе, запеченное",
+    "price": "241",
+    "old_price": "401",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-v-bekone-121262/"
+  },
   "123275": {
     "name": "Ветчина Черный кабан Парме сырокопченая нарезка 95г",
     "price": "132",
@@ -237,11 +181,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-chernyy-kaban-parme-syrokopchenaya-narezka-95g-123275/"
   },
-  "123943": {
-    "name": "Десерт \"Ореховый\" с карамелью, веган",
-    "price": "131",
-    "old_price": "218",
+  "120918": {
+    "name": "Сосиски из курицы со шпинатом и сыром Фета",
+    "price": "185",
+    "old_price": "308",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
+    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-so-shpinatom-i-syrom-feta-120918/"
+  },
+  "112416": {
+    "name": "Колбаса вареная \"Мортаделла Трюфельная\", нарезка 120 г",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-mortadella-tryufelnaya-112416/"
   }
 }
