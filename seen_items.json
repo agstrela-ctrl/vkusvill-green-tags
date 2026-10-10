@@ -1,11 +1,4 @@
 {
-  "75244": {
-    "name": "Котлета куриная с фарфалле",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244/"
-  },
   "102212": {
     "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
     "price": "222",
@@ -34,20 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
   },
-  "114787": {
-    "name": "Комбо-набор: Котлета рыбная с картофельным пюре и Салат \"Коул Слоу\" постный",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-rybnaya-s-kartofelnym-pyure-i-salat-koul-slou-postnyy-114787/"
-  },
-  "65425": {
-    "name": "Креветки жареные, 150 г",
-    "price": "348",
-    "old_price": "580",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
   "81525": {
     "name": "Салат по-гречески с сыром \"Фета\"",
     "price": "191",
@@ -61,13 +40,6 @@
     "old_price": "418",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sudak-po-kurshski-s-lisichkami-i-kartofelnym-pyure-125650/"
-  },
-  "126458": {
-    "name": "Блины с маскарпоне и облепиховым соусом",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-maskarpone-i-oblepikhovym-sousom-126458/"
   },
   "126191": {
     "name": "Суп корейский с кимчи и свининой \"Кимчи Чиге\"",
@@ -90,47 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
   },
-  "115873": {
-    "name": "Мак-н-чеддер с сосисками",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mak-n-chedder-s-sosiskami-115873/"
-  },
-  "70125": {
-    "name": "Картофель запеченный с прованскими травами",
-    "price": "148",
-    "old_price": "246",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-provanskimi-travami-70125/"
-  },
-  "117312": {
-    "name": "Шампиньоны фаршированные сыром и соусом бешамель",
-    "price": "361",
-    "old_price": "602",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shampinony-farshirovannye-syrom-i-sousom-beshamel-117312/"
-  },
   "115822": {
     "name": "Онигири с тунцом в соево-кунжутном соусе",
     "price": "131",
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
-  },
-  "121195": {
-    "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
-  },
-  "125724": {
-    "name": "Ролл \"Маки\" с кимчи и сыром",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-maki-s-kimchi-i-syrom-125724/"
   },
   "123016": {
     "name": "\"Пицца-кот\" с ветчиной и сыром",
