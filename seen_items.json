@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/smetana-20-143/"
   },
-  "16943": {
-    "name": "Блины с творогом, 210 г",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-tvorogom-16943/"
-  },
   "19363": {
     "name": "Салат \"Цезарь\"",
     "price": "205",
@@ -118,13 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-kalmarovyy-23760/"
   },
-  "113701": {
-    "name": "Торт блинный шоколадный \"Малина-жимолость\"",
-    "price": "476",
-    "old_price": "794",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-malina-zhimolost-113701/"
-  },
   "59996": {
     "name": "Блины овсяные, 6 шт",
     "price": "165",
@@ -146,26 +132,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-s-kartofelem-i-kurinoy-pechenyu-121628/"
   },
-  "65395": {
-    "name": "Сочники с творогом (набор 250 г)",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sochniki-s-tvorogom-nabor-250-g-65395/"
-  },
   "71367": {
     "name": "Йогурт питьевой с клубникой и бананом без доб.сахара 2,5%",
     "price": "61",
     "old_price": "102",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-klubnikoy-i-bananom-bez-dob-sakhara-2-71367/"
-  },
-  "82086": {
-    "name": "Суп \"Уха\" (с горбушей, судаком, палтусом), 270 г",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-ukha-s-gorbushey-82086/"
   },
   "20744": {
     "name": "Десерт молочный \"Наполеон\"",
@@ -215,13 +187,6 @@
     "old_price": "230",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-vishney-24132/"
-  },
-  "89997": {
-    "name": "Капуста тушеная с овощами",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-tushenaya-s-ovoshchami-89997/"
   },
   "22639": {
     "name": "Курица \"Терияки\" с рисом по-сингапурски",
@@ -342,13 +307,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
-  "113296": {
-    "name": "Крем-суп с тыквой и жареными креветками",
-    "price": "168",
-    "old_price": "280",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-zharenymi-krevetkami-113296/"
-  },
   "117387": {
     "name": "Творог зерненый \"Черная смородина\" 5%",
     "price": "65",
@@ -383,13 +341,6 @@
     "old_price": "100",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-pitevoy-lesnaya-yagoda-bez-dob-sakhara-1-55223/"
-  },
-  "70519": {
-    "name": "Салат с курицей, ананасами и сельдереем",
-    "price": "141",
-    "old_price": "235",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-70519/"
   },
   "70754": {
     "name": "Творог с черной смородиной 5%",
@@ -440,13 +391,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sushi-salat-filadelfiya-123730/"
   },
-  "59833": {
-    "name": "Чизкейк с голубикой, 100 г",
-    "price": "151",
-    "old_price": "251",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-s-golubikoy-59833/"
-  },
   "118906": {
     "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
     "price": "197",
@@ -474,6 +418,13 @@
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
+  "113701": {
+    "name": "Торт блинный шоколадный \"Малина-жимолость\"",
+    "price": "476",
+    "old_price": "794",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-malina-zhimolost-113701/"
   },
   "124423": {
     "name": "Десерт творожный на сиропе топинамбура 12%",
