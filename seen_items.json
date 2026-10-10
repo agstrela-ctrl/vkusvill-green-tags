@@ -6,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244/"
   },
-  "97095": {
-    "name": "Печень говяжья по-строгановски с грибами",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechen-govyazhya-po-stroganovski-s-gribami-97095/"
-  },
   "102212": {
     "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
     "price": "222",
     "old_price": "370",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-bitochek-sochnyy-s-penne-i-salat-krabovyy-102212/"
-  },
-  "125183": {
-    "name": "Омлет \"Школьный\"",
-    "price": "117",
-    "old_price": "195",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-shkolnyy-125183/"
   },
   "58173": {
     "name": "Котлета куриная с картофельным пюре, 400 г",
@@ -40,27 +26,6 @@
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-s-makaronami-59037/"
-  },
-  "18161": {
-    "name": "Лаваш \"Армянский по-деревенски\", 220 г",
-    "price": "48",
-    "old_price": "80",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
-  },
-  "98204": {
-    "name": "Сэндвич ролл с индейкой и сладким чили",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
-  },
-  "70074": {
-    "name": "Котлеты \"По-киевски\" с сырной начинкой с картофельным пюре, 270 г",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-70074/"
   },
   "114787": {
     "name": "Комбо-набор: Котлета рыбная с картофельным пюре и Салат \"Коул Слоу\" постный",
@@ -104,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-koreyskiy-s-kimchi-i-svininoy-kimchi-chige-126191/"
   },
-  "101030": {
-    "name": "Говядина тушеная с лисичками и пастой Ризо в сливочно-грибном соусе",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-tushenaya-s-lisichkami-i-pastoy-rizo-v-slivochno-gribnom-souse-101030/"
-  },
   "125768": {
     "name": "Котлеты из курицы и индейки",
     "price": "191",
@@ -138,13 +96,6 @@
     "old_price": "246",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-provanskimi-travami-70125/"
-  },
-  "121339": {
-    "name": "Кесадилья с курицей, шпинатом и моцареллой",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-121339/"
   },
   "117312": {
     "name": "Шампиньоны фаршированные сыром и соусом бешамель",
