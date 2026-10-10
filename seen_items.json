@@ -20,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/smetana-20-143/"
   },
-  "19363": {
-    "name": "Салат \"Цезарь\"",
-    "price": "205",
-    "old_price": "341",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-19363/"
-  },
   "88589": {
     "name": "Голубика \"ВВ Отборное\", 125 г",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/golubika-vv-otbornoe-88589/"
-  },
-  "124310": {
-    "name": "Полоска песочная со смородиной, веган",
-    "price": "115",
-    "old_price": "192",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/poloska-pesochnaya-so-smorodinoy-124310/"
   },
   "23760": {
     "name": "Салат \"Кальмаровый\"",
@@ -76,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-so-svininoy-i-gribami-v-smetannom-souse-68461/"
   },
-  "108518": {
-    "name": "Конвертики с капустой и грибами, постные",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-kapustoy-i-gribami-108518/"
-  },
   "83512": {
     "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
     "price": "71",
@@ -90,19 +69,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
   },
-  "24132": {
-    "name": "Блины с вишней",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-vishney-24132/"
-  },
   "22639": {
     "name": "Курица \"Терияки\" с рисом по-сингапурски",
     "price": "196",
     "old_price": "326",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-teriyaki-s-risom-po-singapurski-22639/"
+  },
+  "108518": {
+    "name": "Конвертики с капустой и грибами, постные",
+    "price": "118",
+    "old_price": "196",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konvertiki-s-kapustoy-i-gribami-108518/"
   },
   "23073": {
     "name": "Салат Кобб с имбирным соусом",
@@ -132,12 +111,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-s-malinoy-5-70755/"
   },
-  "115478": {
-    "name": "Булочка \"Бородинская\", 4 шт",
-    "price": "53",
-    "old_price": "88",
+  "18570": {
+    "name": "Катык 4%, 350 г",
+    "price": "70",
+    "old_price": "117",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
+    "link": "https://vkusvill.ru/goods/katyk-4-18570/"
   },
   "108688": {
     "name": "Картофель жареный с грибами, 500 г",
@@ -146,26 +125,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
   },
-  "18570": {
-    "name": "Катык 4%, 350 г",
-    "price": "70",
-    "old_price": "117",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/katyk-4-18570/"
-  },
   "55223": {
     "name": "Йогурт питьевой \"Лесная ягода\" без доб. сахара 1,2%",
     "price": "60",
     "old_price": "100",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-pitevoy-lesnaya-yagoda-bez-dob-sakhara-1-55223/"
-  },
-  "41672": {
-    "name": "Эклеры \"Шоколад и ваниль\"",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
   },
   "118906": {
     "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
