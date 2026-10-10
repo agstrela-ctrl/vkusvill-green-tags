@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-19363/"
   },
-  "22929": {
-    "name": "Куриное филе запеченное с овощами",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-ovoshchami-22929/"
-  },
   "39295": {
     "name": "Творог \"Пластовой\" 5%, 350 г",
     "price": "142",
@@ -139,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-ovsyanye-59996/"
   },
-  "97844": {
-    "name": "Крем-суп тыквенный",
-    "price": "120",
-    "old_price": "200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
-  },
   "125362": {
     "name": "Тарт \"Саона\" с сырно-кокосовым кремом",
     "price": "395",
@@ -166,13 +152,6 @@
     "old_price": "368",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sochniki-s-tvorogom-nabor-250-g-65395/"
-  },
-  "118284": {
-    "name": "Крем-суп картофельный с шампиньонами и трюфельным маслом",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-kartofelnyy-s-shampinonami-i-tryufelnym-maslom-118284/"
   },
   "71367": {
     "name": "Йогурт питьевой с клубникой и бананом без доб.сахара 2,5%",
@@ -250,13 +229,6 @@
     "old_price": "326",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-teriyaki-s-risom-po-singapurski-22639/"
-  },
-  "29461": {
-    "name": "Коврижка яблочная постная, кафе",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
   },
   "96522": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом",
@@ -489,13 +461,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/produkt-kislomolochnyy-exponenta-high-pro-so-vkusom-vishnya-plombir-obezzhirennyy-160-g-99950/"
   },
-  "97075": {
-    "name": "Оладьи куриные с кабачком, 130 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-kurinye-s-kabachkom-97075/"
-  },
   "126299": {
     "name": "Чахохбили с рисом",
     "price": "221",
@@ -579,13 +544,6 @@
     "old_price": "208",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-ugrem-i-tvorozhnym-syrom-101080/"
-  },
-  "94990": {
-    "name": "Трайфл \"Морковный\" с сырно-сливочным кремом",
-    "price": "141",
-    "old_price": "235",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trayfl-morkovnyy-s-syrno-slivochnym-kremom-94990/"
   },
   "115724": {
     "name": "Ассорти мини-чиабатт курица, омлет, сыр + куриная ветчина, сыр",
