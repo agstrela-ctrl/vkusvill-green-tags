@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechen-govyazhya-po-stroganovski-s-gribami-97095/"
   },
-  "50717": {
-    "name": "Сочник с творогом, 2 шт",
-    "price": "134",
-    "old_price": "224",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sochnik-s-tvorogom-50717/"
-  },
   "102212": {
     "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
     "price": "222",
@@ -54,13 +47,6 @@
     "old_price": "80",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
-  },
-  "65409": {
-    "name": "Салат \"Витаминный\" с лимонной заправкой, 500 г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
   },
   "48191": {
     "name": "Запеканка картофельная с мясом, 600 г",
@@ -181,13 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-provanskimi-travami-70125/"
   },
-  "123016": {
-    "name": "\"Пицца-кот\" с ветчиной и сыром",
-    "price": "300",
-    "old_price": "500",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstsa-kot-s-vetchinoy-i-syrom-123016/"
-  },
   "121339": {
     "name": "Кесадилья с курицей, шпинатом и моцареллой",
     "price": "173",
@@ -201,13 +180,6 @@
     "old_price": "602",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shampinony-farshirovannye-syrom-i-sousom-beshamel-117312/"
-  },
-  "121626": {
-    "name": "Ватрушки-мини с творогом и смородиной, 4 шт",
-    "price": "151",
-    "old_price": "252",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vatrushki-mini-s-tvorogom-i-smorodinoy-121626/"
   },
   "115822": {
     "name": "Онигири с тунцом в соево-кунжутном соусе",
@@ -236,5 +208,12 @@
     "old_price": "278",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-maki-s-kimchi-i-syrom-125724/"
+  },
+  "123016": {
+    "name": "\"Пицца-кот\" с ветчиной и сыром",
+    "price": "300",
+    "old_price": "500",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pitstsa-kot-s-vetchinoy-i-syrom-123016/"
   }
 }
