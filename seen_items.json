@@ -13,19 +13,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechen-govyazhya-po-stroganovski-s-gribami-97095/"
   },
+  "50717": {
+    "name": "Сочник с творогом, 2 шт",
+    "price": "134",
+    "old_price": "224",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sochnik-s-tvorogom-50717/"
+  },
   "102212": {
     "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
     "price": "222",
     "old_price": "370",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-bitochek-sochnyy-s-penne-i-salat-krabovyy-102212/"
-  },
-  "86806": {
-    "name": "Печеночный пирог с морковью",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechenochnyy-pirog-s-morkovyu-86806/"
   },
   "125183": {
     "name": "Омлет \"Школьный\"",
@@ -54,6 +54,13 @@
     "old_price": "80",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
+  },
+  "65409": {
+    "name": "Салат \"Витаминный\" с лимонной заправкой, 500 г",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
   },
   "48191": {
     "name": "Запеканка картофельная с мясом, 600 г",
@@ -97,27 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-rybnaya-s-kartofelnym-pyure-i-salat-koul-slou-postnyy-114787/"
   },
-  "61751": {
-    "name": "Гречка отварная с овощами, 200 г",
-    "price": "84",
-    "old_price": "140",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
-  },
-  "61599": {
-    "name": "Салат из летних овощей",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-letnikh-ovoshchey-61599/"
-  },
-  "104701": {
-    "name": "Закрытый омлет с ветчиной и сыром, кафе",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
-  },
   "65425": {
     "name": "Креветки жареные, 150 г",
     "price": "348",
@@ -125,89 +111,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
-  "98527": {
-    "name": "Овощи микс на пару",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
-  },
   "81525": {
     "name": "Салат по-гречески с сыром \"Фета\"",
     "price": "191",
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-po-grecheski-s-syrom-feta-81525/"
-  },
-  "101030": {
-    "name": "Говядина тушеная с лисичками и пастой Ризо в сливочно-грибном соусе",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-tushenaya-s-lisichkami-i-pastoy-rizo-v-slivochno-gribnom-souse-101030/"
-  },
-  "23073": {
-    "name": "Салат Кобб с имбирным соусом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
-  },
-  "115873": {
-    "name": "Мак-н-чеддер с сосисками",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mak-n-chedder-s-sosiskami-115873/"
-  },
-  "70125": {
-    "name": "Картофель запеченный с прованскими травами",
-    "price": "148",
-    "old_price": "246",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-provanskimi-travami-70125/"
-  },
-  "123016": {
-    "name": "\"Пицца-кот\" с ветчиной и сыром",
-    "price": "300",
-    "old_price": "500",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstsa-kot-s-vetchinoy-i-syrom-123016/"
-  },
-  "117312": {
-    "name": "Шампиньоны фаршированные сыром и соусом бешамель",
-    "price": "361",
-    "old_price": "602",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shampinony-farshirovannye-syrom-i-sousom-beshamel-117312/"
-  },
-  "115822": {
-    "name": "Онигири с тунцом в соево-кунжутном соусе",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
-  },
-  "50070": {
-    "name": "Рис азиатский с креветками аргентинскими и овощами",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-aziatskiy-s-krevetkami-argentinskimi-i-ovoshchami-50070/"
-  },
-  "47413": {
-    "name": "Салат с мясом индейки и гранатовым соусом",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-myasom-indeyki-i-granatovym-sousom-47413/"
-  },
-  "125724": {
-    "name": "Ролл \"Маки\" с кимчи и сыром",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-maki-s-kimchi-i-syrom-125724/"
   },
   "125650": {
     "name": "Судак по-куршски с лисичками и картофельным пюре",
@@ -237,12 +146,47 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladushki-s-vanilnym-sousom-125635/"
   },
+  "101030": {
+    "name": "Говядина тушеная с лисичками и пастой Ризо в сливочно-грибном соусе",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-tushenaya-s-lisichkami-i-pastoy-rizo-v-slivochno-gribnom-souse-101030/"
+  },
   "125768": {
     "name": "Котлеты из курицы и индейки",
     "price": "191",
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-kuritsy-i-indeyki-125768/"
+  },
+  "23073": {
+    "name": "Салат Кобб с имбирным соусом",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
+  },
+  "115873": {
+    "name": "Мак-н-чеддер с сосисками",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mak-n-chedder-s-sosiskami-115873/"
+  },
+  "70125": {
+    "name": "Картофель запеченный с прованскими травами",
+    "price": "148",
+    "old_price": "246",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-provanskimi-travami-70125/"
+  },
+  "123016": {
+    "name": "\"Пицца-кот\" с ветчиной и сыром",
+    "price": "300",
+    "old_price": "500",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pitstsa-kot-s-vetchinoy-i-syrom-123016/"
   },
   "121339": {
     "name": "Кесадилья с курицей, шпинатом и моцареллой",
@@ -251,11 +195,46 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-121339/"
   },
+  "117312": {
+    "name": "Шампиньоны фаршированные сыром и соусом бешамель",
+    "price": "361",
+    "old_price": "602",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shampinony-farshirovannye-syrom-i-sousom-beshamel-117312/"
+  },
+  "121626": {
+    "name": "Ватрушки-мини с творогом и смородиной, 4 шт",
+    "price": "151",
+    "old_price": "252",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vatrushki-mini-s-tvorogom-i-smorodinoy-121626/"
+  },
+  "115822": {
+    "name": "Онигири с тунцом в соево-кунжутном соусе",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
+  },
+  "50070": {
+    "name": "Рис азиатский с креветками аргентинскими и овощами",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ris-aziatskiy-s-krevetkami-argentinskimi-i-ovoshchami-50070/"
+  },
   "121195": {
     "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
     "price": "192",
     "old_price": "320",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
+  },
+  "125724": {
+    "name": "Ролл \"Маки\" с кимчи и сыром",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/roll-maki-s-kimchi-i-syrom-125724/"
   }
 }
