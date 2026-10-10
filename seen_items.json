@@ -27,33 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-19363/"
   },
-  "71190": {
-    "name": "Ролл \"Симфония классики\" с крабовыми палочками",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-krabovymi-palochkami-71190/"
-  },
   "88589": {
     "name": "Голубика \"ВВ Отборное\", 125 г",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/golubika-vv-otbornoe-88589/"
-  },
-  "112616": {
-    "name": "Творог обезжиренный высокобелковый, 200 г",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-obezzhirennyy-vysokobelkovyy-112616/"
-  },
-  "96332": {
-    "name": "Сырники на миндальной муке с сиропом топинамбура",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-na-mindalnoy-muke-s-siropom-topinambura-96332/"
   },
   "59996": {
     "name": "Блины овсяные, 6 шт",
@@ -82,13 +61,6 @@
     "old_price": "188",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blinchiki-s-makovoy-nachinkoy-94474/"
-  },
-  "30290": {
-    "name": "Суп \"Рассольник\" с курицей",
-    "price": "148",
-    "old_price": "246",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-rassolnik-s-kuritsey-30290/"
   },
   "53470": {
     "name": "Ассорти эклеров \"Ваниль, Фисташка, Шоколад\"",
@@ -132,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/katyk-4-18570/"
   },
-  "70754": {
-    "name": "Творог с черной смородиной 5%",
-    "price": "94",
-    "old_price": "156",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-s-chernoy-smorodinoy-5-70754/"
-  },
   "102259": {
     "name": "Желе фруктово-ягодное Манго, клубника, голубика, 200 г",
     "price": "158",
@@ -152,20 +117,6 @@
     "old_price": "83",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kefir-3-80499/"
-  },
-  "118635": {
-    "name": "Йогурт питьевой \"Мадагаскарская ваниль\", 1,7%",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-madagaskarskaya-vanil-118635/"
-  },
-  "99950": {
-    "name": "Продукт кисломолочный Exponenta High-Pro со вкусом вишня-пломбир обезжиренный 160 г",
-    "price": "91",
-    "old_price": "151",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/produkt-kislomolochnyy-exponenta-high-pro-so-vkusom-vishnya-plombir-obezzhirennyy-160-g-99950/"
   },
   "126299": {
     "name": "Чахохбили с рисом",
@@ -222,13 +173,6 @@
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-zlakovaya-s-kurinym-file-123388/"
-  },
-  "115111": {
-    "name": "Запеканка картофельная с курицей, томатами и соусом песто",
-    "price": "349",
-    "old_price": "582",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-115111/"
   },
   "101080": {
     "name": "Онигири с угрем и творожным сыром",
