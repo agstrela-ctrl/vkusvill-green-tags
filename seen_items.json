@@ -1,18 +1,4 @@
 {
-  "119014": {
-    "name": "Яйцо куриное С0 Селен и Йод, 10 шт",
-    "price": "113",
-    "old_price": "189",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-selen-i-yod-119014/"
-  },
-  "123897": {
-    "name": "Сэндвич \"ВкусМаффин\" с курицей",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-vkusmaffin-s-kuritsey-123897/"
-  },
   "118906": {
     "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
     "price": "197",
@@ -26,5 +12,12 @@
     "old_price": "155",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-mango-marakuyya-s-myakotyu-99315/"
+  },
+  "119014": {
+    "name": "Яйцо куриное С0 Селен и Йод, 10 шт",
+    "price": "113",
+    "old_price": "189",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-selen-i-yod-119014/"
   }
 }
