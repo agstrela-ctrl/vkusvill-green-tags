@@ -34,12 +34,103 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/golubika-vv-otbornoe-88589/"
   },
+  "124310": {
+    "name": "Полоска песочная со смородиной, веган",
+    "price": "115",
+    "old_price": "192",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/poloska-pesochnaya-so-smorodinoy-124310/"
+  },
+  "23760": {
+    "name": "Салат \"Кальмаровый\"",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-kalmarovyy-23760/"
+  },
+  "125362": {
+    "name": "Тарт \"Саона\" с сырно-кокосовым кремом",
+    "price": "395",
+    "old_price": "658",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tart-saona-s-syrno-kokosovym-kremom-125362/"
+  },
+  "121628": {
+    "name": "Пирожки с картофелем и куриной печенью, 3 шт",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-s-kartofelem-i-kurinoy-pechenyu-121628/"
+  },
+  "106420": {
+    "name": "Торт \"Медовый\", 760 г.",
+    "price": "616",
+    "old_price": "1026",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-medovyy-106420/"
+  },
+  "68461": {
+    "name": "Картофель жареный со свининой и грибами в сметанном соусе",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-so-svininoy-i-gribami-v-smetannom-souse-68461/"
+  },
+  "108518": {
+    "name": "Конвертики с капустой и грибами, постные",
+    "price": "118",
+    "old_price": "196",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konvertiki-s-kapustoy-i-gribami-108518/"
+  },
   "83512": {
     "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
     "price": "71",
     "old_price": "118",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
+  },
+  "24132": {
+    "name": "Блины с вишней",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-vishney-24132/"
+  },
+  "22639": {
+    "name": "Курица \"Терияки\" с рисом по-сингапурски",
+    "price": "196",
+    "old_price": "326",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-teriyaki-s-risom-po-singapurski-22639/"
+  },
+  "23073": {
+    "name": "Салат Кобб с имбирным соусом",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
+  },
+  "123897": {
+    "name": "Сэндвич \"ВкусМаффин\" с курицей",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-vkusmaffin-s-kuritsey-123897/"
+  },
+  "120070": {
+    "name": "Говядина по-красноярски со сливочно-грибной полбой",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-po-krasnoyarski-so-slivochno-gribnoy-polboy-120070/"
+  },
+  "70755": {
+    "name": "Творог с малиной 5%",
+    "price": "94",
+    "old_price": "156",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-s-malinoy-5-70755/"
   },
   "115478": {
     "name": "Булочка \"Бородинская\", 4 шт",
@@ -61,6 +152,27 @@
     "old_price": "117",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/katyk-4-18570/"
+  },
+  "55223": {
+    "name": "Йогурт питьевой \"Лесная ягода\" без доб. сахара 1,2%",
+    "price": "60",
+    "old_price": "100",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-lesnaya-yagoda-bez-dob-sakhara-1-55223/"
+  },
+  "41672": {
+    "name": "Эклеры \"Шоколад и ваниль\"",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
+  },
+  "118906": {
+    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
   },
   "126299": {
     "name": "Чахохбили с рисом",
