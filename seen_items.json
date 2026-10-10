@@ -48,20 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
   },
-  "48191": {
-    "name": "Запеканка картофельная с мясом, 600 г",
-    "price": "312",
-    "old_price": "520",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-myasom-48191/"
-  },
-  "23954": {
-    "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
-  },
   "98204": {
     "name": "Сэндвич ролл с индейкой и сладким чили",
     "price": "162",
@@ -75,13 +61,6 @@
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-70074/"
-  },
-  "125813": {
-    "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
   },
   "114787": {
     "name": "Комбо-набор: Котлета рыбная с картофельным пюре и Салат \"Коул Слоу\" постный",
@@ -124,13 +103,6 @@
     "old_price": "308",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-koreyskiy-s-kimchi-i-svininoy-kimchi-chige-126191/"
-  },
-  "125635": {
-    "name": "Оладушки с ванильным соусом",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladushki-s-vanilnym-sousom-125635/"
   },
   "101030": {
     "name": "Говядина тушеная с лисичками и пастой Ризо в сливочно-грибном соусе",
@@ -187,13 +159,6 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
-  },
-  "50070": {
-    "name": "Рис азиатский с креветками аргентинскими и овощами",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-aziatskiy-s-krevetkami-argentinskimi-i-ovoshchami-50070/"
   },
   "121195": {
     "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
