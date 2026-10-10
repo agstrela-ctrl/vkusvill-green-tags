@@ -1,16 +1,16 @@
 {
-  "99315": {
-    "name": "Желе \"Манго-маракуйя\" с мякотью",
-    "price": "93",
-    "old_price": "155",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-mango-marakuyya-s-myakotyu-99315/"
-  },
   "119014": {
     "name": "Яйцо куриное С0 Селен и Йод, 10 шт",
     "price": "113",
     "old_price": "189",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-selen-i-yod-119014/"
+  },
+  "99315": {
+    "name": "Желе \"Манго-маракуйя\" с мякотью",
+    "price": "93",
+    "old_price": "155",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-mango-marakuyya-s-myakotyu-99315/"
   }
 }
