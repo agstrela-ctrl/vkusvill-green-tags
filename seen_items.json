@@ -62,26 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blinchiki-s-makovoy-nachinkoy-94474/"
   },
-  "53470": {
-    "name": "Ассорти эклеров \"Ваниль, Фисташка, Шоколад\"",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-eklerov-vanil-53470/"
-  },
   "47413": {
     "name": "Салат с мясом индейки и гранатовым соусом",
     "price": "197",
     "old_price": "328",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-myasom-indeyki-i-granatovym-sousom-47413/"
-  },
-  "53190": {
-    "name": "Пирожки слоеные с капустой",
-    "price": "127",
-    "old_price": "212",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-sloenye-s-kapustoy-53190/"
   },
   "115478": {
     "name": "Булочка \"Бородинская\", 4 шт",
@@ -139,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-na-sirope-topinambura-12-124423/"
   },
-  "1225": {
-    "name": "Сливки 10%, 450 мл",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/slivki-10-1225/"
-  },
   "99375": {
     "name": "Жаркое из говядины с грибами",
     "price": "198",
@@ -201,12 +180,5 @@
     "old_price": "699",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-medovik-karamelnyy-s-chernoy-smorodinoy-83736/"
-  },
-  "71935": {
-    "name": "Йогурт питьевой \"Красная смородина\" без доб. сахара 2,5%",
-    "price": "55",
-    "old_price": "92",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-krasnaya-smorodina-bez-dob-sakhara-2-71935/"
   }
 }
