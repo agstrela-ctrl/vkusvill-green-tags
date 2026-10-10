@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-ovoshchami-22929/"
   },
-  "28799": {
-    "name": "Плов с курицей",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-s-kuritsey-28799/"
-  },
   "39295": {
     "name": "Творог \"Пластовой\" 5%, 350 г",
     "price": "142",
@@ -61,13 +54,6 @@
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-krabovymi-palochkami-71190/"
-  },
-  "58178": {
-    "name": "Крем-суп с тыквой и индейкой",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
   },
   "29622": {
     "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
@@ -138,13 +124,6 @@
     "old_price": "337",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/maslo-toplenoe-gkhi-20038/"
-  },
-  "19345": {
-    "name": "Блины пшеничные",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-pshenichnye-19345/"
   },
   "96332": {
     "name": "Сырники на миндальной муке с сиропом топинамбура",
@@ -222,20 +201,6 @@
     "old_price": "260",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-ukha-s-gorbushey-82086/"
-  },
-  "63727": {
-    "name": "Клаб-сэндвич с курицей и яйцом",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-yaytsom-63727/"
-  },
-  "39543": {
-    "name": "Котлета куриная в панировке из сухарей с картофельным пюре",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-v-panirovke-iz-sukharey-s-kartofelnym-pyure-39543/"
   },
   "20744": {
     "name": "Десерт молочный \"Наполеон\"",
@@ -335,13 +300,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-vozdushnyy-polet-108638/"
   },
-  "44582": {
-    "name": "Пирожки с капустой и яйцом, 140 г (2 шт)",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-s-kapustoy-i-yaytsom-44582/"
-  },
   "71521": {
     "name": "Йогурт \"Черника-малина-манго\" 5%",
     "price": "69",
@@ -384,13 +342,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-myasom-indeyki-i-granatovym-sousom-47413/"
   },
-  "94646": {
-    "name": "Рис с куриной бризолью, 400 г",
-    "price": "247",
-    "old_price": "412",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-s-kurinoy-brizolyu-94646/"
-  },
   "53190": {
     "name": "Пирожки слоеные с капустой",
     "price": "127",
@@ -426,13 +377,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-s-malinoy-5-70755/"
   },
-  "123017": {
-    "name": "Хачапури с сыром и шпинатом",
-    "price": "187",
-    "old_price": "312",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khachapuri-s-syrom-i-shpinatom-123017/"
-  },
   "118959": {
     "name": "Салат-боул с креветкой, авокадо и кукурузой",
     "price": "234",
@@ -447,13 +391,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-zharenymi-krevetkami-113296/"
   },
-  "115873": {
-    "name": "Мак-н-чеддер с сосисками",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mak-n-chedder-s-sosiskami-115873/"
-  },
   "117387": {
     "name": "Творог зерненый \"Черная смородина\" 5%",
     "price": "65",
@@ -467,13 +404,6 @@
     "old_price": "88",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
-  },
-  "34063": {
-    "name": "Пирог осетинский с сыром, 250 г",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirog-osetinskiy-s-syrom-34063/"
   },
   "108688": {
     "name": "Картофель жареный с грибами, 500 г",
@@ -587,13 +517,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chakhokhbili-s-risom-126299/"
   },
-  "125152": {
-    "name": "Лепешка Роти с моцареллой",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-roti-s-motsarelloy-125152/"
-  },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
     "price": "47",
@@ -628,13 +551,6 @@
     "old_price": "230",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vkusmaffin-s-vetchinoy-110403/"
-  },
-  "26904": {
-    "name": "Сэндвич с форелью.",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
   },
   "125796": {
     "name": "Клопсы \"Кенигсбергские\" с картофелем и каперсами",
