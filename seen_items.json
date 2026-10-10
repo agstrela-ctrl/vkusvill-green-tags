@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bonfua-s-tselnoy-klubnikoy-i-krem-chiz-102917/"
   },
-  "22664": {
-    "name": "Сэндвич ролл с горбушей и яйцом",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
-  },
   "112616": {
     "name": "Творог обезжиренный высокобелковый, 200 г",
     "price": "91",
@@ -146,13 +139,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-sloenye-s-kapustoy-53190/"
   },
-  "118959": {
-    "name": "Салат-боул с креветкой, авокадо и кукурузой",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
-  },
   "117387": {
     "name": "Творог зерненый \"Черная смородина\" 5%",
     "price": "65",
@@ -195,13 +181,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-mango-102259/"
   },
-  "113300": {
-    "name": "Лапша из батата с креветками в соусе терияки",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-s-krevetkami-v-souse-teriyaki-113300/"
-  },
   "80499": {
     "name": "Кефир 3,2% в бутылке, 450 г",
     "price": "50",
@@ -215,13 +194,6 @@
     "old_price": "95",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-pitevoy-madagaskarskaya-vanil-118635/"
-  },
-  "123730": {
-    "name": "Суши-салат \"Филадельфия\"",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sushi-salat-filadelfiya-123730/"
   },
   "99950": {
     "name": "Продукт кисломолочный Exponenta High-Pro со вкусом вишня-пломбир обезжиренный 160 г",
@@ -244,19 +216,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
-  "113701": {
-    "name": "Торт блинный шоколадный \"Малина-жимолость\"",
-    "price": "476",
-    "old_price": "794",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-malina-zhimolost-113701/"
-  },
   "124423": {
     "name": "Десерт творожный на сиропе топинамбура 12%",
     "price": "105",
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-na-sirope-topinambura-12-124423/"
+  },
+  "1225": {
+    "name": "Сливки 10%, 450 мл",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/slivki-10-1225/"
   },
   "99375": {
     "name": "Жаркое из говядины с грибами",
@@ -293,6 +265,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-zlakovaya-s-kurinym-file-123388/"
   },
+  "121709": {
+    "name": "Пироги \"По-корейски\" со свининой, капустой и специями",
+    "price": "175",
+    "old_price": "292",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirogi-po-koreyski-so-svininoy-121709/"
+  },
   "115111": {
     "name": "Запеканка картофельная с курицей, томатами и соусом песто",
     "price": "349",
@@ -313,6 +292,13 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-mini-chiabatt-kuritsa-115724/"
+  },
+  "108645": {
+    "name": "Творожник с клубникой, 140 г",
+    "price": "104",
+    "old_price": "174",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorozhnik-s-klubnikoy-108645/"
   },
   "99315": {
     "name": "Желе \"Манго-маракуйя\" с мякотью",
