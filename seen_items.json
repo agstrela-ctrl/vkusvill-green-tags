@@ -1,16 +1,9 @@
 {
-  "109290": {
-    "name": "Штрудель \"Яблочный\" веган зам. 600 г",
-    "price": "490",
-    "old_price": "817",
+  "123897": {
+    "name": "Сэндвич \"ВкусМаффин\" с курицей",
+    "price": "138",
+    "old_price": "230",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shtrudel-yablochnyy-vegan-zam-600-g-109290/"
-  },
-  "98425": {
-    "name": "Вафли шпинатные веган, зам.",
-    "price": "231",
-    "old_price": "385",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vafli-shpinatnye-vegan-98425/"
+    "link": "https://vkusvill.ru/goods/sendvich-vkusmaffin-s-kuritsey-123897/"
   }
 }
