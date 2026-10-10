@@ -34,33 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/golubika-vv-otbornoe-88589/"
   },
-  "59996": {
-    "name": "Блины овсяные, 6 шт",
-    "price": "165",
-    "old_price": "275",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-ovsyanye-59996/"
-  },
   "83512": {
     "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
     "price": "71",
     "old_price": "118",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
-  },
-  "18354": {
-    "name": "Рис \"По-тайски\"",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-po-tayski-18354/"
-  },
-  "94474": {
-    "name": "Блинчики с маковой начинкой",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blinchiki-s-makovoy-nachinkoy-94474/"
   },
   "115478": {
     "name": "Булочка \"Бородинская\", 4 шт",
@@ -125,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vkusmaffin-s-vetchinoy-110403/"
   },
-  "125796": {
-    "name": "Клопсы \"Кенигсбергские\" с картофелем и каперсами",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klopsy-kenigsbergskie-s-kartofelem-i-kapersami-125796/"
-  },
   "123388": {
     "name": "Чиабатта злаковая с куриным филе, соусом песто и томатным айоли",
     "price": "191",
@@ -152,12 +124,5 @@
     "old_price": "155",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-mango-marakuyya-s-myakotyu-99315/"
-  },
-  "83736": {
-    "name": "Торт \"Медовик карамельный с черной смородиной\"",
-    "price": "419",
-    "old_price": "699",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-medovik-karamelnyy-s-chernoy-smorodinoy-83736/"
   }
 }
