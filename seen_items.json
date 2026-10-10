@@ -62,19 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-ovsyanye-59996/"
   },
-  "71367": {
-    "name": "Йогурт питьевой с клубникой и бананом без доб.сахара 2,5%",
-    "price": "61",
-    "old_price": "102",
+  "83512": {
+    "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
+    "price": "71",
+    "old_price": "118",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-klubnikoy-i-bananom-bez-dob-sakhara-2-71367/"
-  },
-  "25053": {
-    "name": "Лаваш \"Армянский\", 160 г",
-    "price": "43",
-    "old_price": "72",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-25053/"
+    "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
   },
   "18354": {
     "name": "Рис \"По-тайски\"",
@@ -89,13 +82,6 @@
     "old_price": "188",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blinchiki-s-makovoy-nachinkoy-94474/"
-  },
-  "71521": {
-    "name": "Йогурт \"Черника-малина-манго\" 5%",
-    "price": "69",
-    "old_price": "115",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-chernika-malina-mango-5-71521/"
   },
   "30290": {
     "name": "Суп \"Рассольник\" с курицей",
