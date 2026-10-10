@@ -34,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-krabovymi-palochkami-71190/"
   },
-  "29622": {
-    "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
-    "price": "82",
-    "old_price": "136",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
-  },
   "88589": {
     "name": "Голубика \"ВВ Отборное\", 125 г",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/golubika-vv-otbornoe-88589/"
-  },
-  "102917": {
-    "name": "Десерт \"Бонфуа\" с цельной клубникой и крем-чиз",
-    "price": "171",
-    "old_price": "285",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bonfua-s-tselnoy-klubnikoy-i-krem-chiz-102917/"
   },
   "112616": {
     "name": "Творог обезжиренный высокобелковый, 200 г",
@@ -138,13 +124,6 @@
     "old_price": "212",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-sloenye-s-kapustoy-53190/"
-  },
-  "117387": {
-    "name": "Творог зерненый \"Черная смородина\" 5%",
-    "price": "65",
-    "old_price": "108",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-zernenyy-chernaya-smorodina-5-117387/"
   },
   "115478": {
     "name": "Булочка \"Бородинская\", 4 шт",
@@ -251,26 +230,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klopsy-kenigsbergskie-s-kartofelem-i-kapersami-125796/"
   },
-  "122119": {
-    "name": "Йогурт питьевой \"Вишня\" 1,7%",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-vishnya-1-122119/"
-  },
   "123388": {
     "name": "Чиабатта злаковая с куриным филе, соусом песто и томатным айоли",
     "price": "191",
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-zlakovaya-s-kurinym-file-123388/"
-  },
-  "121709": {
-    "name": "Пироги \"По-корейски\" со свининой, капустой и специями",
-    "price": "175",
-    "old_price": "292",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirogi-po-koreyski-so-svininoy-121709/"
   },
   "115111": {
     "name": "Запеканка картофельная с курицей, томатами и соусом песто",
@@ -292,13 +257,6 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-mini-chiabatt-kuritsa-115724/"
-  },
-  "108645": {
-    "name": "Творожник с клубникой, 140 г",
-    "price": "104",
-    "old_price": "174",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorozhnik-s-klubnikoy-108645/"
   },
   "99315": {
     "name": "Желе \"Манго-маракуйя\" с мякотью",
