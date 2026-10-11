@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
   },
-  "116187": {
-    "name": "Печенье овсяное с яблоком, брусникой, грецким орехом, веган",
-    "price": "154",
-    "old_price": "257",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-s-yablokom-116187/"
-  },
   "112643": {
     "name": "Бедра цыплят-бройлеров в чесночном маринаде",
     "price": "342",
@@ -97,19 +90,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
   },
-  "115246": {
-    "name": "Фрикадельки из индейки и говядины",
-    "price": "218",
-    "old_price": "364",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-iz-indeyki-i-govyadiny-115246/"
-  },
   "19645": {
     "name": "Дорадо 400/600 горячего копчения",
     "price": "1530",
     "old_price": "2550",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/dorado-400-600-goryachego-kopcheniya-19645/"
+  },
+  "116187": {
+    "name": "Печенье овсяное с яблоком, брусникой, грецким орехом, веган",
+    "price": "154",
+    "old_price": "257",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-s-yablokom-116187/"
   },
   "30357": {
     "name": "Ассорти х/к из скумбрии и горбуши, 250 г",
