@@ -1,9 +1,23 @@
 {
+  "79663": {
+    "name": "Вода питьевая негазированная, 5 л",
+    "price": "70",
+    "old_price": "117",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
+  },
   "605": {
     "name": "Лук репчатый",
     "price": "32",
     "old_price": "54",
     "discount": "41",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "43723": {
+    "name": "Вода питьевая Сенежская газированная пэт 1,5 л",
+    "price": "38",
+    "old_price": "64",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-senezhskaya-gazirovannaya-pet-1-43723/"
   }
 }
