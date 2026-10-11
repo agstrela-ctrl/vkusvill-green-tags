@@ -1,25 +1,4 @@
 {
-  "67492": {
-    "name": "Рис с куриной бризолью",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-s-kurinoy-brizolyu-67492/"
-  },
-  "38977": {
-    "name": "Салат свекольный с грецким орехом",
-    "price": "120",
-    "old_price": "200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-svekolnyy-s-gretskim-orekhom-38977/"
-  },
-  "68438": {
-    "name": "Оладьи куриные, 320 г",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-kurinye-68438/"
-  },
   "22459": {
     "name": "Хлебцы \"Зерновые\"",
     "price": "85",
@@ -69,20 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-na-bezlaktoznom-moloke-s-yagodami-i-mindalnymi-lepestkami-105273/"
   },
-  "100821": {
-    "name": "Печень жареная с луком с гречкой",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
-  },
-  "98052": {
-    "name": "Паста Орзо с куриными фрикадельками",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-orzo-s-kurinymi-frikadelkami-98052/"
-  },
   "65425": {
     "name": "Креветки жареные, 150 г",
     "price": "348",
@@ -90,26 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
-  "26582": {
-    "name": "Стрипсы в панировке",
-    "price": "181",
-    "old_price": "301",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
   "104308": {
     "name": "Салат из соевой спаржи с овощами маринованный по-корейски",
     "price": "143",
     "old_price": "238",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-iz-soevoy-sparzhi-s-ovoshchami-marinovannyy-po-koreyski-104308/"
-  },
-  "104067": {
-    "name": "Шарики \"Пикантные\" с творожным сыром",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shariki-pikantnye-s-tvorozhnym-syrom-104067/"
   },
   "34804": {
     "name": "Макароны с курицей и грибами",
@@ -159,13 +110,6 @@
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-klyukvoy-116366/"
-  },
-  "110598": {
-    "name": "Торт бисквитный \"Сметанный рай\" с вишней",
-    "price": "552",
-    "old_price": "920",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-biskvitnyy-smetannyy-ray-s-vishney-110598/"
   },
   "84218": {
     "name": "Лепешка с чесноком и зеленью 3 шт",
