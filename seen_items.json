@@ -41,12 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
   },
-  "124264": {
-    "name": "Котлета \"Грильбургер\"",
-    "price": "274",
-    "old_price": "456",
+  "116187": {
+    "name": "Печенье овсяное с яблоком, брусникой, грецким орехом, веган",
+    "price": "154",
+    "old_price": "257",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-grilburger-124264/"
+    "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-s-yablokom-116187/"
   },
   "112643": {
     "name": "Бедра цыплят-бройлеров в чесночном маринаде",
@@ -82,6 +82,13 @@
     "old_price": "88",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
+  },
+  "71181": {
+    "name": "Тарталетки песочные \"ВкусВилл\", 125 г",
+    "price": "110",
+    "old_price": "183",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartaletki-pesochnye-vkusvill-71181/"
   },
   "124387": {
     "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
