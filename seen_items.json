@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
-  "76931": {
-    "name": "Онигири с креветкой",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
-  },
   "61885": {
     "name": "Говядина филей, 550 г",
     "price": "536",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/profitroli-s-syrom-rikotta-39288/"
   },
-  "125813": {
-    "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
-  },
   "29461": {
     "name": "Коврижка яблочная постная, кафе",
     "price": "109",
@@ -82,13 +68,6 @@
     "old_price": "65",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myata-svezhaya-116632/"
-  },
-  "124883": {
-    "name": "Блины с брусникой и марципановым кремом",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-brusnikoy-i-martsipanovym-kremom-124883/"
   },
   "122740": {
     "name": "Шницель куриный в сырной панировке",
@@ -153,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
   },
-  "125768": {
-    "name": "Котлеты из курицы и индейки",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-kuritsy-i-indeyki-125768/"
-  },
   "115246": {
     "name": "Фрикадельки из индейки и говядины",
     "price": "218",
@@ -173,20 +145,6 @@
     "old_price": "2550",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/dorado-400-600-goryachego-kopcheniya-19645/"
-  },
-  "19560": {
-    "name": "Муксун подкопченный ломтики, 100 г",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/muksun-podkopchennyy-lomtiki-19560/"
-  },
-  "115822": {
-    "name": "Онигири с тунцом в соево-кунжутном соусе",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
   },
   "30357": {
     "name": "Ассорти х/к из скумбрии и горбуши, 250 г",
