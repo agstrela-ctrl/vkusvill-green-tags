@@ -41,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
   },
+  "14844": {
+    "name": "Котлеты \"Домашние\"",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-domashnie-14844/"
+  },
   "122740": {
     "name": "Шницель куриный в сырной панировке",
     "price": "203",
@@ -61,6 +68,13 @@
     "old_price": "456",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-grilburger-124264/"
+  },
+  "112643": {
+    "name": "Бедра цыплят-бройлеров в чесночном маринаде",
+    "price": "342",
+    "old_price": "570",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bedra-tsyplyat-broylerov-v-chesnochnom-marinade-112643/"
   },
   "125321": {
     "name": "Десерт \"Тирамису\" кокосовый с миндалем",
