@@ -1,18 +1,4 @@
 {
-  "125212": {
-    "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
-  },
-  "61885": {
-    "name": "Говядина филей, 550 г",
-    "price": "536",
-    "old_price": "894",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-filey-61885/"
-  },
   "18161": {
     "name": "Лаваш \"Армянский по-деревенски\", 220 г",
     "price": "48",
@@ -27,26 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
   },
-  "118104": {
-    "name": "Мясо по-французски",
-    "price": "505",
-    "old_price": "842",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
-  },
   "125321": {
     "name": "Десерт \"Тирамису\" кокосовый с миндалем",
     "price": "148",
     "old_price": "247",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-tiramisu-kokosovyy-s-mindalem-125321/"
-  },
-  "115478": {
-    "name": "Булочка \"Бородинская\", 4 шт",
-    "price": "53",
-    "old_price": "88",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
   },
   "71181": {
     "name": "Тарталетки песочные \"ВкусВилл\", 125 г",
@@ -61,19 +33,5 @@
     "old_price": "1168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
-  },
-  "19645": {
-    "name": "Дорадо 400/600 горячего копчения",
-    "price": "1530",
-    "old_price": "2550",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dorado-400-600-goryachego-kopcheniya-19645/"
-  },
-  "30357": {
-    "name": "Ассорти х/к из скумбрии и горбуши, 250 г",
-    "price": "288",
-    "old_price": "480",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-skumbrii-i-gorbushi-30357/"
   }
 }
