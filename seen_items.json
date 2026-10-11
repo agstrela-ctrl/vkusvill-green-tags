@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
   },
-  "56522": {
-    "name": "Молоко Правильное молоко пастеризованное 2,5% 900 мл",
-    "price": "91",
-    "old_price": "151",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-pravilnoe-moloko-pasterizovannoe-2-56522/"
-  },
   "84218": {
     "name": "Лепешка с чесноком и зеленью 3 шт",
     "price": "63",
@@ -68,5 +61,12 @@
     "old_price": "182",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keksy-mini-vanilnye-v-forme-mishek-115902/"
+  },
+  "56522": {
+    "name": "Молоко Правильное молоко пастеризованное 2,5% 900 мл",
+    "price": "91",
+    "old_price": "151",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-pravilnoe-moloko-pasterizovannoe-2-56522/"
   }
 }
