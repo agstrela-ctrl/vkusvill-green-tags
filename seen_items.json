@@ -27,20 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
   },
-  "30042": {
-    "name": "Ежики из индейки",
-    "price": "202",
-    "old_price": "336",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ezhiki-iz-indeyki-30042/"
-  },
-  "78470": {
-    "name": "Котлеты рыбные жареные, 400 г",
-    "price": "324",
-    "old_price": "540",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-rybnye-zharenye-78470/"
-  },
   "39288": {
     "name": "Профитроли с сыром рикотта",
     "price": "170",
@@ -54,20 +40,6 @@
     "old_price": "182",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
-  },
-  "114226": {
-    "name": "Тефтели из мяса цыплят-бройлеров с рисом",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tefteli-iz-myasa-tsyplyat-broylerov-s-risom-114226/"
-  },
-  "116632": {
-    "name": "Мята свежая, 10 г",
-    "price": "39",
-    "old_price": "65",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myata-svezhaya-116632/"
   },
   "122740": {
     "name": "Шницель куриный в сырной панировке",
@@ -110,13 +82,6 @@
     "old_price": "842",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
-  },
-  "125650": {
-    "name": "Судак по-куршски с лисичками и картофельным пюре",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sudak-po-kurshski-s-lisichkami-i-kartofelnym-pyure-125650/"
   },
   "120262": {
     "name": "Торт \"Кастелла\" японский с клубникой",
