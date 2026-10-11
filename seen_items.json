@@ -1,4 +1,11 @@
 {
+  "125953": {
+    "name": "Сырники с фисташковым кремом",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-s-fistashkovym-kremom-125953/"
+  },
   "18161": {
     "name": "Лаваш \"Армянский по-деревенски\", 220 г",
     "price": "48",
@@ -12,6 +19,13 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
+  },
+  "115478": {
+    "name": "Булочка \"Бородинская\", 4 шт",
+    "price": "53",
+    "old_price": "88",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
   },
   "125650": {
     "name": "Судак по-куршски с лисичками и картофельным пюре",
