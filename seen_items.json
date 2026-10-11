@@ -1,4 +1,74 @@
 {
+  "23074": {
+    "name": "Манго Египет",
+    "price": "207",
+    "old_price": "345",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
+  },
+  "124265": {
+    "name": "Розан с творогом и вишней",
+    "price": "117",
+    "old_price": "195",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rozan-s-tvorogom-i-vishney-124265/"
+  },
+  "22189": {
+    "name": "Микс салатный \"Тоскана\"",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-toskana-22189/"
+  },
+  "18940": {
+    "name": "Хурма Королек",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khurma-korolek-18940/"
+  },
+  "124684": {
+    "name": "Булочка \"Вкусвиллбон\" классическая",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochka-vkusvillbon-klassicheskaya-124684/"
+  },
+  "67188": {
+    "name": "Лук зеленый, 50 г",
+    "price": "41",
+    "old_price": "68",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-zelenyy-67188/"
+  },
+  "88589": {
+    "name": "Голубика \"ВВ Отборное\", 125 г",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/golubika-vv-otbornoe-88589/"
+  },
+  "78935": {
+    "name": "Лепешка с творогом и зеленью",
+    "price": "106",
+    "old_price": "176",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-s-tvorogom-i-zelenyu-78935/"
+  },
+  "114345": {
+    "name": "Печенье-кукис \"Шоколадная крошка\", кафе",
+    "price": "78",
+    "old_price": "130",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-kukis-shokoladnaya-kroshka-114345/"
+  },
+  "106306": {
+    "name": "Киви голд \"ВВ Отборное\", 2 шт",
+    "price": "237",
+    "old_price": "395",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kivi-gold-vv-otbornoe-106306/"
+  },
   "23232": {
     "name": "Слива крупная",
     "price": "225",
