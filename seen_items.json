@@ -1,18 +1,4 @@
 {
-  "22459": {
-    "name": "Хлебцы \"Зерновые\"",
-    "price": "85",
-    "old_price": "141",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khlebtsy-zernovye-22459/"
-  },
-  "23954": {
-    "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
-  },
   "20751": {
     "name": "Стейк Рибай из говядины",
     "price": "492",
@@ -41,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-na-bezlaktoznom-moloke-s-yagodami-i-mindalnymi-lepestkami-105273/"
   },
-  "65425": {
-    "name": "Креветки жареные, 150 г",
-    "price": "348",
-    "old_price": "580",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
   "76141": {
     "name": "Камбала вяленая без головы, 100 г",
     "price": "127",
@@ -68,13 +47,6 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
-  "116366": {
-    "name": "Сэндвич ролл с индейкой и клюквой",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-klyukvoy-116366/"
   },
   "56522": {
     "name": "Молоко Правильное молоко пастеризованное 2,5% 900 мл",
