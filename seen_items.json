@@ -1,51 +1,9 @@
 {
-  "23074": {
-    "name": "Манго Египет",
-    "price": "207",
-    "old_price": "345",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
-  },
-  "124265": {
-    "name": "Розан с творогом и вишней",
-    "price": "117",
-    "old_price": "195",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rozan-s-tvorogom-i-vishney-124265/"
-  },
-  "22189": {
-    "name": "Микс салатный \"Тоскана\"",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-toskana-22189/"
-  },
-  "119014": {
-    "name": "Яйцо куриное С0 Селен и Йод, 10 шт",
-    "price": "113",
-    "old_price": "189",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-selen-i-yod-119014/"
-  },
-  "78935": {
-    "name": "Лепешка с творогом и зеленью",
-    "price": "106",
-    "old_price": "176",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-tvorogom-i-zelenyu-78935/"
-  },
   "106306": {
     "name": "Киви голд \"ВВ Отборное\", 2 шт",
     "price": "237",
     "old_price": "395",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kivi-gold-vv-otbornoe-106306/"
-  },
-  "23232": {
-    "name": "Слива крупная",
-    "price": "225",
-    "old_price": "375",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sliva-krupnaya-23232/"
   }
 }
