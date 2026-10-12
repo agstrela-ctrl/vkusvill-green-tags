@@ -20,6 +20,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
   },
+  "83024": {
+    "name": "Филе грудки цыпленка-бройлера на зерновом откорме",
+    "price": "383",
+    "old_price": "638",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-na-zernovom-otkorme-83024/"
+  },
+  "101935": {
+    "name": "Филе малое цыпленка-бройлера в хрустящих хлопьях",
+    "price": "152",
+    "old_price": "254",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-maloe-tsyplenka-broylera-v-khrustyashchikh-khlopyakh-101935/"
+  },
   "76141": {
     "name": "Камбала вяленая без головы, 100 г",
     "price": "127",
@@ -40,6 +54,13 @@
     "old_price": "123",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-kukuruznyy-121692/"
+  },
+  "61936": {
+    "name": "Фарш из мяса курицы, индейки и кролика",
+    "price": "317",
+    "old_price": "529",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
   },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
