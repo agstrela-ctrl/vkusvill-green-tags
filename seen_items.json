@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
   },
-  "96332": {
-    "name": "Сырники на миндальной муке с сиропом топинамбура",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-na-mindalnoy-muke-s-siropom-topinambura-96332/"
-  },
   "31276": {
     "name": "Лук зеленый, 100 г",
     "price": "59",
@@ -41,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/trubochki-sdobnye-s-chernoy-smorodinoy-121691/"
   },
-  "123581": {
-    "name": "Молоко овечье 4%-8%, 250 мл",
-    "price": "97",
-    "old_price": "162",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-oveche-4-8-123581/"
-  },
   "121600": {
     "name": "Гриссини с сыром \"Палермо\"",
     "price": "155",
@@ -55,12 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grissini-s-syrom-palermo-121600/"
   },
-  "125803": {
-    "name": "Масса творожная Ростагроэкспорт Особая с вареным сгущенным молоком и изюмом 23%, 180г",
-    "price": "81",
-    "old_price": "135",
+  "123581": {
+    "name": "Молоко овечье 4%-8%, 250 мл",
+    "price": "97",
+    "old_price": "162",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-rostagroeksport-osobaya-s-varenym-sgushchennym-molokom-i-izyumom-23-125803/"
+    "link": "https://vkusvill.ru/goods/moloko-oveche-4-8-123581/"
   },
   "94884": {
     "name": "Мыло \"Персиковый беллини\"",
@@ -68,5 +54,12 @@
     "old_price": "463",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mylo-persikovyy-bellini-94884/"
+  },
+  "125803": {
+    "name": "Масса творожная Ростагроэкспорт Особая с вареным сгущенным молоком и изюмом 23%, 180г",
+    "price": "81",
+    "old_price": "135",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-rostagroeksport-osobaya-s-varenym-sgushchennym-molokom-i-izyumom-23-125803/"
   }
 }
