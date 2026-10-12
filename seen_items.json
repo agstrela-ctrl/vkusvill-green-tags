@@ -1,4 +1,32 @@
 {
+  "124474": {
+    "name": "Трубочка-фило с яйцом, сыром и зеленым луком",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
+  },
+  "96332": {
+    "name": "Сырники на миндальной муке с сиропом топинамбура",
+    "price": "178",
+    "old_price": "296",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-na-mindalnoy-muke-s-siropom-topinambura-96332/"
+  },
+  "81525": {
+    "name": "Салат по-гречески с сыром \"Фета\"",
+    "price": "191",
+    "old_price": "318",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-po-grecheski-s-syrom-feta-81525/"
+  },
+  "98204": {
+    "name": "Сэндвич ролл с индейкой и сладким чили",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
+  },
   "20751": {
     "name": "Стейк Рибай из говядины",
     "price": "492",
