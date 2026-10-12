@@ -6,12 +6,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
   },
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "57",
-    "old_price": "95",
+  "96332": {
+    "name": "Сырники на миндальной муке с сиропом топинамбура",
+    "price": "178",
+    "old_price": "296",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+    "link": "https://vkusvill.ru/goods/syrniki-na-mindalnoy-muke-s-siropom-topinambura-96332/"
+  },
+  "31276": {
+    "name": "Лук зеленый, 100 г",
+    "price": "59",
+    "old_price": "98",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-zelenyy-31276/"
   },
   "125193": {
     "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
@@ -20,11 +27,46 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
   },
-  "120751": {
-    "name": "Батон-мини \"Брецель\"",
-    "price": "89",
-    "old_price": "148",
+  "78944": {
+    "name": "Ряженка из цельного молока 3,4 - 4,5%",
+    "price": "51",
+    "old_price": "85",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
+    "link": "https://vkusvill.ru/goods/ryazhenka-iz-tselnogo-moloka-3-78944/"
+  },
+  "121691": {
+    "name": "Трубочки сдобные с черной смородиной",
+    "price": "171",
+    "old_price": "285",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/trubochki-sdobnye-s-chernoy-smorodinoy-121691/"
+  },
+  "123581": {
+    "name": "Молоко овечье 4%-8%, 250 мл",
+    "price": "97",
+    "old_price": "162",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-oveche-4-8-123581/"
+  },
+  "121600": {
+    "name": "Гриссини с сыром \"Палермо\"",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grissini-s-syrom-palermo-121600/"
+  },
+  "125803": {
+    "name": "Масса творожная Ростагроэкспорт Особая с вареным сгущенным молоком и изюмом 23%, 180г",
+    "price": "81",
+    "old_price": "135",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-rostagroeksport-osobaya-s-varenym-sgushchennym-molokom-i-izyumom-23-125803/"
+  },
+  "94884": {
+    "name": "Мыло \"Персиковый беллини\"",
+    "price": "278",
+    "old_price": "463",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mylo-persikovyy-bellini-94884/"
   }
 }
