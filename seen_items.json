@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
   },
+  "101864": {
+    "name": "Сэндвич ролл с запеченным тунцом",
+    "price": "178",
+    "old_price": "296",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
+  },
   "96332": {
     "name": "Сырники на миндальной муке с сиропом топинамбура",
     "price": "178",
@@ -48,6 +55,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
   },
+  "125193": {
+    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
+    "price": "401",
+    "old_price": "668",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
+  },
   "119539": {
     "name": "Лепешка Шоти, 300 г",
     "price": "56",
@@ -62,12 +76,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-maloe-tsyplenka-broylera-v-khrustyashchikh-khlopyakh-101935/"
   },
+  "99757": {
+    "name": "Минтай филе в пивном кляре, 200 г",
+    "price": "230",
+    "old_price": "383",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mintay-file-v-pivnom-klyare-99757/"
+  },
   "76141": {
     "name": "Камбала вяленая без головы, 100 г",
     "price": "127",
     "old_price": "212",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kambala-vyalenaya-bez-golovy-76141/"
+  },
+  "114975": {
+    "name": "Стейки из курицы в соусе из манго и лайма",
+    "price": "420",
+    "old_price": "700",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyki-iz-kuritsy-v-souse-iz-mango-i-layma-114975/"
   },
   "106306": {
     "name": "Киви голд \"ВВ Отборное\", 2 шт",
