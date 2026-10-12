@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
   },
-  "83024": {
-    "name": "Филе грудки цыпленка-бройлера на зерновом откорме",
-    "price": "383",
-    "old_price": "638",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-na-zernovom-otkorme-83024/"
-  },
   "119539": {
     "name": "Лепешка Шоти, 300 г",
     "price": "56",
@@ -48,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kambala-vyalenaya-bez-golovy-76141/"
   },
+  "106306": {
+    "name": "Киви голд \"ВВ Отборное\", 2 шт",
+    "price": "237",
+    "old_price": "395",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kivi-gold-vv-otbornoe-106306/"
+  },
   "121692": {
     "name": "Хлеб \"Кукурузный\", нарезка",
     "price": "74",
@@ -61,13 +61,6 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
-  "84218": {
-    "name": "Лепешка с чесноком и зеленью 3 шт",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-chesnokom-i-zelenyu-3-sht-84218/"
   },
   "115902": {
     "name": "Кексы-мини ванильные в форме мишек",
