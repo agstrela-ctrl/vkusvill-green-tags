@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-so-slivochnym-maslom-i-ukropom-29587/"
   },
-  "100821": {
-    "name": "Печень жареная с луком с гречкой",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
-  },
   "123819": {
     "name": "Крем-суп тыквенный в бутылке",
     "price": "131",
@@ -40,13 +33,6 @@
     "old_price": "188",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-lnyanoy-118030/"
-  },
-  "117204": {
-    "name": "Печенье сдобное с начинкой \"Черная смородина\"",
-    "price": "116",
-    "old_price": "193",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-s-nachinkoy-chernaya-smorodina-117204/"
   },
   "121184": {
     "name": "\"Ассорти рыбное\" из сельди и горбуши холодного копчения, 90 г",
@@ -104,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
   },
-  "122873": {
-    "name": "Тарт \"Ягодный пирог\" со сливочно-сырным кремом",
-    "price": "571",
-    "old_price": "952",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tart-yagodnyy-pirog-so-slivochno-syrnym-kremom-122873/"
-  },
   "118663": {
     "name": "Масса творожная с ванилью 23%",
     "price": "65",
@@ -124,13 +103,6 @@
     "old_price": "332",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-iz-govyadiny-i-kuritsy-116969/"
-  },
-  "20324": {
-    "name": "Котлеты из трески охл., 300 г",
-    "price": "172",
-    "old_price": "287",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-treski-okhl-20324/"
   },
   "115004": {
     "name": "Чиабатта с жюльеном из курицы и грибов",
@@ -152,13 +124,6 @@
     "old_price": "242",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
-  },
-  "124903": {
-    "name": "Форель Форель Горная стейк охл, 400 г",
-    "price": "498",
-    "old_price": "830",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-forel-gornaya-steyk-okhl-124903/"
   },
   "124052": {
     "name": "Колбаса сырокопченая Совиньон Егорьевская ФКГ 100 г",
@@ -187,13 +152,6 @@
     "old_price": "407",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-rikottoy-i-izyumom-60813/"
-  },
-  "123125": {
-    "name": "Колбаса на безлактозном молоке",
-    "price": "221",
-    "old_price": "369",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-na-bezlaktoznom-moloke-123125/"
   },
   "124945": {
     "name": "Форель Форель Горная филе-кусок на коже охл., 300 г",
