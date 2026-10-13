@@ -6,19 +6,47 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-731/"
   },
+  "89458": {
+    "name": "Салат \"Коул Слоу\" постный",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
+  },
+  "22779": {
+    "name": "Творог \"Зернышко\" 9%, 300 г",
+    "price": "110",
+    "old_price": "184",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-zernyshko-9-22779/"
+  },
+  "89957": {
+    "name": "Голубика гигант, 125 г",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/golubika-gigant-89957/"
+  },
+  "63414": {
+    "name": "\"Кебаб\" из мраморной говядины, 400 г",
+    "price": "359",
+    "old_price": "598",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kebab-iz-mramornoy-govyadiny-63414/"
+  },
+  "115802": {
+    "name": "Биточки из индейки с сыром",
+    "price": "171",
+    "old_price": "285",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-indeyki-s-syrom-115802/"
+  },
   "125278": {
     "name": "Вонголе в масле, 150 г",
     "price": "105",
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vongole-v-masle-125278/"
-  },
-  "68199": {
-    "name": "Десерт слоеный Полет Лимоньерки Лимон 300 г",
-    "price": "130",
-    "old_price": "217",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-sloenyy-polet-limonerki-limon-300-g-68199/"
   },
   "113801": {
     "name": "Молоко Село Зеленое питьевое пастеризованное 3,2% 2 кг",
