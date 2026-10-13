@@ -111,13 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tart-yagodnyy-pirog-so-slivochno-syrnym-kremom-122873/"
   },
-  "105824": {
-    "name": "Суп \"Мисо-рамен\" с морепродуктами",
-    "price": "300",
-    "old_price": "500",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-miso-ramen-s-moreproduktami-105824/"
-  },
   "118663": {
     "name": "Масса творожная с ванилью 23%",
     "price": "65",
@@ -125,26 +118,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-s-vanilyu-23-118663/"
   },
-  "76038": {
-    "name": "Джекфрут очищенный, 150 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
-  },
   "116969": {
     "name": "Сосиски \"Из говядины и курицы\", Халяль",
     "price": "199",
     "old_price": "332",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-iz-govyadiny-i-kuritsy-116969/"
-  },
-  "60813": {
-    "name": "Кекс с рикоттой и изюмом",
-    "price": "244",
-    "old_price": "407",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keks-s-rikottoy-i-izyumom-60813/"
   },
   "20324": {
     "name": "Котлеты из трески охл., 300 г",
@@ -174,13 +153,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
   },
-  "124945": {
-    "name": "Форель Форель Горная филе-кусок на коже охл., 300 г",
-    "price": "444",
-    "old_price": "740",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-forel-gornaya-file-kusok-na-kozhe-okhl-124945/"
-  },
   "124903": {
     "name": "Форель Форель Горная стейк охл, 400 г",
     "price": "498",
@@ -195,11 +167,39 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-sovinon-egorevskaya-fkg-100-g-124052/"
   },
+  "105824": {
+    "name": "Суп \"Мисо-рамен\" с морепродуктами",
+    "price": "300",
+    "old_price": "500",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-miso-ramen-s-moreproduktami-105824/"
+  },
+  "76038": {
+    "name": "Джекфрут очищенный, 150 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
+  },
+  "60813": {
+    "name": "Кекс с рикоттой и изюмом",
+    "price": "244",
+    "old_price": "407",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-s-rikottoy-i-izyumom-60813/"
+  },
   "123125": {
     "name": "Колбаса на безлактозном молоке",
     "price": "221",
     "old_price": "369",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-na-bezlaktoznom-moloke-123125/"
+  },
+  "124945": {
+    "name": "Форель Форель Горная филе-кусок на коже охл., 300 г",
+    "price": "444",
+    "old_price": "740",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/forel-forel-gornaya-file-kusok-na-kozhe-okhl-124945/"
   }
 }
