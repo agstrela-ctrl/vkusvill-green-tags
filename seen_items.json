@@ -97,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
   },
-  "124052": {
-    "name": "Колбаса сырокопченая Совиньон Егорьевская ФКГ 100 г",
-    "price": "125",
-    "old_price": "209",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-sovinon-egorevskaya-fkg-100-g-124052/"
-  },
   "76038": {
     "name": "Джекфрут очищенный, 150 г",
     "price": "239",
@@ -117,5 +110,12 @@
     "old_price": "407",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-rikottoy-i-izyumom-60813/"
+  },
+  "124052": {
+    "name": "Колбаса сырокопченая Совиньон Егорьевская ФКГ 100 г",
+    "price": "125",
+    "old_price": "209",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-sovinon-egorevskaya-fkg-100-g-124052/"
   }
 }
