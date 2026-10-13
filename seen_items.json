@@ -1,18 +1,4 @@
 {
-  "99359": {
-    "name": "Шаурма с курицей и соусом \"Бургер\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-burger-99359/"
-  },
-  "44309": {
-    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
-    "price": "60",
-    "old_price": "100",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
   "29587": {
     "name": "Котлеты из цыпленка-бройлера со сливочным маслом и укропом",
     "price": "313",
@@ -54,13 +40,6 @@
     "old_price": "332",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-iz-govyadiny-i-kuritsy-116969/"
-  },
-  "74314": {
-    "name": "Сырники творожные с клубничной начинкой",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-s-klubnichnoy-nachinkoy-74314/"
   },
   "121225": {
     "name": "Колбаса \"Классическая су-вид\" вареная, нарезка",
@@ -110,13 +89,6 @@
     "old_price": "368",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-kampanelle-s-kuritsey-i-gribnym-sousom-125099/"
-  },
-  "125473": {
-    "name": "Плов \"Самаркандский\" с изюмом",
-    "price": "316",
-    "old_price": "526",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-samarkandskiy-s-izyumom-125473/"
   },
   "125795": {
     "name": "Люля-кебаб из курицы по-узбекски",
