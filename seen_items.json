@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
-  "116969": {
-    "name": "Сосиски \"Из говядины и курицы\", Халяль",
-    "price": "199",
-    "old_price": "332",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-govyadiny-i-kuritsy-116969/"
-  },
   "121225": {
     "name": "Колбаса \"Классическая су-вид\" вареная, нарезка",
     "price": "181",
@@ -54,20 +47,6 @@
     "old_price": "188",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-lnyanoy-118030/"
-  },
-  "123125": {
-    "name": "Колбаса на безлактозном молоке",
-    "price": "221",
-    "old_price": "369",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-na-bezlaktoznom-moloke-123125/"
-  },
-  "116924": {
-    "name": "Филе куриной грудки \"По-индийски\"",
-    "price": "196",
-    "old_price": "327",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-po-indiyski-116924/"
   },
   "117204": {
     "name": "Печенье сдобное с начинкой \"Черная смородина\"",
@@ -132,13 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
   },
-  "124052": {
-    "name": "Колбаса сырокопченая Совиньон Егорьевская ФКГ 100 г",
-    "price": "125",
-    "old_price": "209",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-sovinon-egorevskaya-fkg-100-g-124052/"
-  },
   "76038": {
     "name": "Джекфрут очищенный, 150 г",
     "price": "239",
@@ -159,6 +131,13 @@
     "old_price": "287",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-treski-okhl-20324/"
+  },
+  "124052": {
+    "name": "Колбаса сырокопченая Совиньон Егорьевская ФКГ 100 г",
+    "price": "125",
+    "old_price": "209",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-sovinon-egorevskaya-fkg-100-g-124052/"
   },
   "126683": {
     "name": "Говядина рваная отварная",
@@ -188,12 +167,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-s-vanilyu-23-118663/"
   },
+  "116969": {
+    "name": "Сосиски \"Из говядины и курицы\", Халяль",
+    "price": "199",
+    "old_price": "332",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-iz-govyadiny-i-kuritsy-116969/"
+  },
   "115004": {
     "name": "Чиабатта с жюльеном из курицы и грибов",
     "price": "173",
     "old_price": "288",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-zhyulenom-iz-kuritsy-i-gribov-115004/"
+  },
+  "123125": {
+    "name": "Колбаса на безлактозном молоке",
+    "price": "221",
+    "old_price": "369",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-na-bezlaktoznom-moloke-123125/"
   },
   "121629": {
     "name": "Пирожки с картофелем и сыром, 3 шт",
