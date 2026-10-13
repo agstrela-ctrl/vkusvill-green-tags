@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-tsvetnaya-626/"
   },
+  "42406": {
+    "name": "Кефир 2,5% в бутылке, 900 г",
+    "price": "67",
+    "old_price": "112",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-2-42406/"
+  },
   "118364": {
     "name": "Микс салатный \"Нежный\", 200 г",
     "price": "83",
@@ -34,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   },
+  "86068": {
+    "name": "Кефир из цельного молока в бутылке, 900 г",
+    "price": "79",
+    "old_price": "132",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-iz-tselnogo-moloka-v-butylke-86068/"
+  },
   "125278": {
     "name": "Вонголе в масле, 150 г",
     "price": "105",
@@ -47,5 +61,12 @@
     "old_price": "195",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vongole-v-masle-s-vyalenymi-tomatami-125270/"
+  },
+  "113801": {
+    "name": "Молоко Село Зеленое питьевое пастеризованное 3,2% 2 кг",
+    "price": "183",
+    "old_price": "305",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-selo-zelenoe-pitevoe-pasterizovannoe-3-113801/"
   }
 }
