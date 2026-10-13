@@ -1,25 +1,4 @@
 {
-  "34217": {
-    "name": "Батон нарезной, половинка",
-    "price": "28",
-    "old_price": "46",
-    "discount": "39",
-    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
-  },
-  "58178": {
-    "name": "Крем-суп с тыквой и индейкой",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
-  },
-  "88690": {
-    "name": "Капуста квашеная с морковью и хреном",
-    "price": "84",
-    "old_price": "140",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-kvashenaya-s-morkovyu-i-khrenom-88690/"
-  },
   "29812": {
     "name": "Капуста квашеная, 300 г",
     "price": "84",
@@ -40,13 +19,6 @@
     "old_price": "893",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-beskostnoe-v-yagodnom-marinade-99988/"
-  },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
   "89957": {
     "name": "Голубика гигант, 125 г",
