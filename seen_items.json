@@ -1,4 +1,18 @@
 {
+  "31712": {
+    "name": "Сэндвич \"Нежный\" с курицей, омлетом и моцареллой",
+    "price": "156",
+    "old_price": "260",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-nezhnyy-s-kuritsey-31712/"
+  },
+  "626": {
+    "name": "Капуста цветная",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapusta-tsvetnaya-626/"
+  },
   "65460": {
     "name": "Изделие х/б из зеленой гречки (на закваске)",
     "price": "86",
@@ -13,12 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-beskostnoe-v-yagodnom-marinade-99988/"
   },
-  "89957": {
-    "name": "Голубика гигант, 125 г",
-    "price": "222",
-    "old_price": "370",
+  "125016": {
+    "name": "Йогурт питьевой Чудо Дыня-малина с кусочками кокосового желе 1,9% 260 г",
+    "price": "59",
+    "old_price": "99",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-gigant-89957/"
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-chudo-dynya-malina-s-kusochkami-kokosovogo-zhele-1-125016/"
   },
   "125278": {
     "name": "Вонголе в масле, 150 г",
