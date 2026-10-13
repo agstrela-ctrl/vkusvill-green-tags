@@ -1,32 +1,4 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
-  },
-  "15846": {
-    "name": "Яблоко Гала",
-    "price": "87",
-    "old_price": "145",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yabloko-gala-15846/"
-  },
-  "125278": {
-    "name": "Вонголе в масле, 150 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vongole-v-masle-125278/"
-  },
-  "125270": {
-    "name": "Вонголе в масле с вялеными томатами, 150 г",
-    "price": "117",
-    "old_price": "195",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vongole-v-masle-s-vyalenymi-tomatami-125270/"
-  },
   "113801": {
     "name": "Молоко Село Зеленое питьевое пастеризованное 3,2% 2 кг",
     "price": "183",
