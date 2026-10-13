@@ -97,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-iz-govyadiny-i-kuritsy-116969/"
   },
-  "115004": {
-    "name": "Чиабатта с жюльеном из курицы и грибов",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-zhyulenom-iz-kuritsy-i-gribov-115004/"
-  },
   "121629": {
     "name": "Пирожки с картофелем и сыром, 3 шт",
     "price": "150",
@@ -145,12 +138,5 @@
     "old_price": "407",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-rikottoy-i-izyumom-60813/"
-  },
-  "124945": {
-    "name": "Форель Форель Горная филе-кусок на коже охл., 300 г",
-    "price": "444",
-    "old_price": "740",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-forel-gornaya-file-kusok-na-kozhe-okhl-124945/"
   }
 }
