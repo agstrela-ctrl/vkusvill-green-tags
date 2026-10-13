@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-so-slivochnym-maslom-i-ukropom-29587/"
   },
-  "31275": {
-    "name": "Укроп, 100 г",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ukrop-31275/"
-  },
   "100821": {
     "name": "Печень жареная с луком с гречкой",
     "price": "174",
@@ -111,41 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
   },
-  "76038": {
-    "name": "Джекфрут очищенный, 150 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
-  },
-  "60813": {
-    "name": "Кекс с рикоттой и изюмом",
-    "price": "244",
-    "old_price": "407",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keks-s-rikottoy-i-izyumom-60813/"
-  },
-  "20324": {
-    "name": "Котлеты из трески охл., 300 г",
-    "price": "172",
-    "old_price": "287",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-treski-okhl-20324/"
-  },
-  "124052": {
-    "name": "Колбаса сырокопченая Совиньон Егорьевская ФКГ 100 г",
-    "price": "125",
-    "old_price": "209",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-sovinon-egorevskaya-fkg-100-g-124052/"
-  },
-  "126683": {
-    "name": "Говядина рваная отварная",
-    "price": "557",
-    "old_price": "928",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-rvanaya-otvarnaya-126683/"
-  },
   "122873": {
     "name": "Тарт \"Ягодный пирог\" со сливочно-сырным кремом",
     "price": "571",
@@ -167,6 +125,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-s-vanilyu-23-118663/"
   },
+  "76038": {
+    "name": "Джекфрут очищенный, 150 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
+  },
   "116969": {
     "name": "Сосиски \"Из говядины и курицы\", Халяль",
     "price": "199",
@@ -174,19 +139,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-iz-govyadiny-i-kuritsy-116969/"
   },
+  "60813": {
+    "name": "Кекс с рикоттой и изюмом",
+    "price": "244",
+    "old_price": "407",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-s-rikottoy-i-izyumom-60813/"
+  },
+  "20324": {
+    "name": "Котлеты из трески охл., 300 г",
+    "price": "172",
+    "old_price": "287",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-treski-okhl-20324/"
+  },
   "115004": {
     "name": "Чиабатта с жюльеном из курицы и грибов",
     "price": "173",
     "old_price": "288",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-zhyulenom-iz-kuritsy-i-gribov-115004/"
-  },
-  "123125": {
-    "name": "Колбаса на безлактозном молоке",
-    "price": "221",
-    "old_price": "369",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-na-bezlaktoznom-moloke-123125/"
   },
   "121629": {
     "name": "Пирожки с картофелем и сыром, 3 шт",
@@ -202,13 +174,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
   },
-  "118906": {
-    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
-  },
   "124945": {
     "name": "Форель Форель Горная филе-кусок на коже охл., 300 г",
     "price": "444",
@@ -222,5 +187,19 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-forel-gornaya-steyk-okhl-124903/"
+  },
+  "124052": {
+    "name": "Колбаса сырокопченая Совиньон Егорьевская ФКГ 100 г",
+    "price": "125",
+    "old_price": "209",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-sovinon-egorevskaya-fkg-100-g-124052/"
+  },
+  "123125": {
+    "name": "Колбаса на безлактозном молоке",
+    "price": "221",
+    "old_price": "369",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-na-bezlaktoznom-moloke-123125/"
   }
 }
