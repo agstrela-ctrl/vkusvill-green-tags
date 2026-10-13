@@ -1,4 +1,11 @@
 {
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
   "42406": {
     "name": "Кефир 2,5% в бутылке, 900 г",
     "price": "67",
@@ -12,20 +19,6 @@
     "old_price": "138",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
-  },
-  "123819": {
-    "name": "Крем-суп тыквенный в бутылке",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-v-butylke-123819/"
-  },
-  "65460": {
-    "name": "Изделие х/б из зеленой гречки (на закваске)",
-    "price": "86",
-    "old_price": "144",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   },
   "125278": {
     "name": "Вонголе в масле, 150 г",
