@@ -1,18 +1,4 @@
 {
-  "31712": {
-    "name": "Сэндвич \"Нежный\" с курицей, омлетом и моцареллой",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-nezhnyy-s-kuritsey-31712/"
-  },
-  "626": {
-    "name": "Капуста цветная",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-tsvetnaya-626/"
-  },
   "42406": {
     "name": "Кефир 2,5% в бутылке, 900 г",
     "price": "67",
@@ -40,13 +26,6 @@
     "old_price": "144",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
-  },
-  "86068": {
-    "name": "Кефир из цельного молока в бутылке, 900 г",
-    "price": "79",
-    "old_price": "132",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-iz-tselnogo-moloka-v-butylke-86068/"
   },
   "125278": {
     "name": "Вонголе в масле, 150 г",
