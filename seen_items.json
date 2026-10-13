@@ -27,20 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ukrop-31275/"
   },
-  "81777": {
-    "name": "Онигири с крабом",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-krabom-81777/"
-  },
-  "21194": {
-    "name": "Фарш из цыплят-бройлеров, 500 г",
-    "price": "199",
-    "old_price": "332",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-tsyplyat-broylerov-21194/"
-  },
   "100821": {
     "name": "Печень жареная с луком с гречкой",
     "price": "174",
@@ -55,19 +41,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-v-butylke-123819/"
   },
-  "111347": {
-    "name": "Рулетики из цыпленка-бройлера \"По-грузински\"",
-    "price": "310",
-    "old_price": "517",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsyplenka-broylera-po-gruzinski-111347/"
-  },
   "118959": {
     "name": "Салат-боул с креветкой, авокадо и кукурузой",
     "price": "234",
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
+  },
+  "116969": {
+    "name": "Сосиски \"Из говядины и курицы\", Халяль",
+    "price": "199",
+    "old_price": "332",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-iz-govyadiny-i-kuritsy-116969/"
   },
   "74314": {
     "name": "Сырники творожные с клубничной начинкой",
@@ -76,12 +62,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-s-klubnichnoy-nachinkoy-74314/"
   },
+  "121225": {
+    "name": "Колбаса \"Классическая су-вид\" вареная, нарезка",
+    "price": "181",
+    "old_price": "301",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-su-vid-varenaya-121225/"
+  },
   "118030": {
     "name": "Изделие х/б \"Льняной\", на закваске",
     "price": "113",
     "old_price": "188",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-lnyanoy-118030/"
+  },
+  "123125": {
+    "name": "Колбаса на безлактозном молоке",
+    "price": "221",
+    "old_price": "369",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-na-bezlaktoznom-moloke-123125/"
+  },
+  "116924": {
+    "name": "Филе куриной грудки \"По-индийски\"",
+    "price": "196",
+    "old_price": "327",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-po-indiyski-116924/"
   },
   "117204": {
     "name": "Печенье сдобное с начинкой \"Черная смородина\"",
@@ -145,6 +152,20 @@
     "old_price": "878",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kazan-kebab-iz-baraniny-126415/"
+  },
+  "65306": {
+    "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
+    "price": "899",
+    "old_price": "1499",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
+  },
+  "124052": {
+    "name": "Колбаса сырокопченая Совиньон Егорьевская ФКГ 100 г",
+    "price": "125",
+    "old_price": "209",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-sovinon-egorevskaya-fkg-100-g-124052/"
   },
   "76038": {
     "name": "Джекфрут очищенный, 150 г",
