@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
   },
-  "44309": {
-    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
-    "price": "60",
-    "old_price": "100",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
   "15924": {
     "name": "Котлеты из щуки охл., 300 г",
     "price": "198",
@@ -40,6 +33,13 @@
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
+  },
+  "118697": {
+    "name": "Хлебцы мягкие ржано-пшеничные с семенами",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
   },
   "487": {
     "name": "Окорочок цыпленка-бройлера",
