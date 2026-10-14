@@ -6,19 +6,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
+  "15924": {
+    "name": "Котлеты из щуки охл., 300 г",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-shchuki-okhl-15924/"
+  },
   "118959": {
     "name": "Салат-боул с креветкой, авокадо и кукурузой",
     "price": "234",
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
-  },
-  "118030": {
-    "name": "Изделие х/б \"Льняной\", на закваске",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-lnyanoy-118030/"
   },
   "487": {
     "name": "Окорочок цыпленка-бройлера",
@@ -69,12 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
   },
-  "120902": {
-    "name": "Кекс с цедрой апельсина на альтернативной муке, 2 шт",
-    "price": "145",
-    "old_price": "242",
+  "96008": {
+    "name": "Крылышки цыпленка-бройлера с куркумой",
+    "price": "389",
+    "old_price": "648",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
+    "link": "https://vkusvill.ru/goods/krylyshki-tsyplenka-broylera-s-kurkumoy-96008/"
   },
   "76038": {
     "name": "Джекфрут очищенный, 150 г",
