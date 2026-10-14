@@ -1,9 +1,65 @@
 {
-  "124052": {
-    "name": "Колбаса сырокопченая Совиньон Егорьевская ФКГ 100 г",
-    "price": "125",
-    "old_price": "209",
+  "119316": {
+    "name": "Рис с угрем \"Домбури\"",
+    "price": "287",
+    "old_price": "478",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-syrokopchenaya-sovinon-egorevskaya-fkg-100-g-124052/"
+    "link": "https://vkusvill.ru/goods/ris-s-ugrem-domburi-119316/"
+  },
+  "124649": {
+    "name": "Сосиска в тесте фило, 2 шт",
+    "price": "160",
+    "old_price": "267",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiska-v-teste-filo-124649/"
+  },
+  "53885": {
+    "name": "Пирожное \"Корзиночки с белковым кремом\", 2 шт.",
+    "price": "82",
+    "old_price": "136",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-korzinochki-s-belkovym-kremom-53885/"
+  },
+  "118959": {
+    "name": "Салат-боул с креветкой, авокадо и кукурузой",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
+  },
+  "100146": {
+    "name": "Похлебка с тыквой, индейкой и зеленой чечевицей",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pokhlebka-s-tykvoy-100146/"
+  },
+  "126415": {
+    "name": "Казан-кебаб из баранины",
+    "price": "527",
+    "old_price": "878",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kazan-kebab-iz-baraniny-126415/"
+  },
+  "96008": {
+    "name": "Крылышки цыпленка-бройлера с куркумой",
+    "price": "389",
+    "old_price": "648",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylyshki-tsyplenka-broylera-s-kurkumoy-96008/"
+  },
+  "76038": {
+    "name": "Джекфрут очищенный, 150 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
+  },
+  "60813": {
+    "name": "Кекс с рикоттой и изюмом",
+    "price": "244",
+    "old_price": "407",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-s-rikottoy-i-izyumom-60813/"
   }
 }
