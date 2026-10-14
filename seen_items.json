@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-tvorogom-i-zelenyu-68839/"
   },
-  "114282": {
-    "name": "Баклажаны по-сычуаньски, 200 г",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baklazhany-po-sychuanski-114282/"
-  },
   "112464": {
     "name": "Салат руккола с креветкой",
     "price": "252",
@@ -75,27 +68,6 @@
     "old_price": "235",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-brauni-44780/"
-  },
-  "94646": {
-    "name": "Рис с куриной бризолью, 400 г",
-    "price": "247",
-    "old_price": "412",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-s-kurinoy-brizolyu-94646/"
-  },
-  "68407": {
-    "name": "Шницель куриный, 360 г",
-    "price": "288",
-    "old_price": "480",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-68407/"
-  },
-  "117108": {
-    "name": "Котлета \"Крабовая\" с картофельным пюре",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-krabovaya-s-kartofelnym-pyure-117108/"
   },
   "65835": {
     "name": "Круассан миндальный с малиной",
@@ -145,13 +117,6 @@
     "old_price": "526",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/plov-samarkandskiy-s-izyumom-125473/"
-  },
-  "117897": {
-    "name": "Сырники с начинкой из вареной сгущенки",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-s-nachinkoy-iz-varenoy-sgushchenki-117897/"
   },
   "99883": {
     "name": "Манты с тыквенной начинкой",
@@ -208,13 +173,6 @@
     "old_price": "680",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-kety-102993/"
-  },
-  "110086": {
-    "name": "Пиццета \"Овощная\"",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstseta-ovoshchnaya-110086/"
   },
   "98002": {
     "name": "Йогурт \"Мюсли Бирхер по-швейцарски\" с яблоком и миндалем",
