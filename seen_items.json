@@ -1,4 +1,11 @@
 {
+  "44309": {
+    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
+    "price": "60",
+    "old_price": "100",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
+  },
   "29587": {
     "name": "Котлеты из цыпленка-бройлера со сливочным маслом и укропом",
     "price": "313",
@@ -33,6 +40,13 @@
     "old_price": "368",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-kampanelle-s-kuritsey-i-gribnym-sousom-125099/"
+  },
+  "125473": {
+    "name": "Плов \"Самаркандский\" с изюмом",
+    "price": "316",
+    "old_price": "526",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/plov-samarkandskiy-s-izyumom-125473/"
   },
   "125795": {
     "name": "Люля-кебаб из курицы по-узбекски",
