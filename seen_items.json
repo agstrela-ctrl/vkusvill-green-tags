@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-26199/"
   },
+  "119316": {
+    "name": "Рис с угрем \"Домбури\"",
+    "price": "287",
+    "old_price": "478",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ris-s-ugrem-domburi-119316/"
+  },
   "120057": {
     "name": "Тортилья с отрубями и льном",
     "price": "41",
@@ -13,12 +20,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
   },
+  "124649": {
+    "name": "Сосиска в тесте фило, 2 шт",
+    "price": "160",
+    "old_price": "267",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiska-v-teste-filo-124649/"
+  },
+  "78470": {
+    "name": "Котлеты рыбные жареные, 400 г",
+    "price": "324",
+    "old_price": "540",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-rybnye-zharenye-78470/"
+  },
   "53885": {
     "name": "Пирожное \"Корзиночки с белковым кремом\", 2 шт.",
     "price": "82",
     "old_price": "136",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-korzinochki-s-belkovym-kremom-53885/"
+  },
+  "125188": {
+    "name": "Рулька \"Калининградская\" с квашеной капустой и брусникой",
+    "price": "407",
+    "old_price": "678",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
   },
   "122740": {
     "name": "Шницель куриный в сырной панировке",
@@ -34,6 +62,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
+  "109679": {
+    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
+  },
+  "119818": {
+    "name": "Лепешка \"Тортилья\" с сыром",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
+  },
   "118697": {
     "name": "Хлебцы мягкие ржано-пшеничные с семенами",
     "price": "52",
@@ -41,12 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khlebtsy-myagkie-rzhano-pshenichnye-s-semenami-118697/"
   },
-  "487": {
-    "name": "Окорочок цыпленка-бройлера",
-    "price": "302",
-    "old_price": "504",
+  "100146": {
+    "name": "Похлебка с тыквой, индейкой и зеленой чечевицей",
+    "price": "161",
+    "old_price": "268",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/okorochok-tsyplenka-broylera-487/"
+    "link": "https://vkusvill.ru/goods/pokhlebka-s-tykvoy-100146/"
   },
   "125099": {
     "name": "Паста Кампанелле с курицей и грибным соусом",
@@ -68,13 +110,6 @@
     "old_price": "878",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kazan-kebab-iz-baraniny-126415/"
-  },
-  "118274": {
-    "name": "Кексы-мини с вареной сгущенкой в форме мишек",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-s-varenoy-sgushchenkoy-v-forme-mishek-118274/"
   },
   "65306": {
     "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
