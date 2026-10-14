@@ -1,4 +1,18 @@
 {
+  "26199": {
+    "name": "Круассан миндальный",
+    "price": "113",
+    "old_price": "189",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-26199/"
+  },
+  "120057": {
+    "name": "Тортилья с отрубями и льном",
+    "price": "41",
+    "old_price": "68",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
+  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "60",
@@ -12,6 +26,13 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-shchuki-okhl-15924/"
+  },
+  "122740": {
+    "name": "Шницель куриный в сырной панировке",
+    "price": "203",
+    "old_price": "338",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-122740/"
   },
   "118959": {
     "name": "Салат-боул с креветкой, авокадо и кукурузой",
