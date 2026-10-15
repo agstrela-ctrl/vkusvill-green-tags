@@ -13,11 +13,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
+  "63842": {
+    "name": "Тунец филе-кусочки зам., 500 г",
+    "price": "473",
+    "old_price": "788",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tunets-file-kusochki-zam-63842/"
+  },
   "29357": {
     "name": "Котлеты \"Мамины\" (жареные), зам.",
     "price": "289",
     "old_price": "482",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-maminy-zharenye-29357/"
+  },
+  "127618": {
+    "name": "Десерт творожный Grand Duet Мечта единорога со вкусом ягодного мороженого 5,5%, 135г",
+    "price": "62",
+    "old_price": "104",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-grand-duet-mechta-edinoroga-so-vkusom-yagodnogo-morozhenogo-5-127618/"
   }
 }
