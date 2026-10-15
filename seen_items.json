@@ -5,5 +5,26 @@
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "123943": {
+    "name": "Десерт \"Ореховый\" с карамелью, веган",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
+  },
+  "66659": {
+    "name": "Горбуша слабосоленая ломтики, 100 г",
+    "price": "212",
+    "old_price": "353",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
+  },
+  "125212": {
+    "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   }
 }
