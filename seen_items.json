@@ -1,18 +1,4 @@
 {
-  "119433": {
-    "name": "Вареники с сыром и зеленью",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vareniki-s-syrom-i-zelenyu-119433/"
-  },
-  "98575": {
-    "name": "Крем-суп с лисичками и белыми грибами",
-    "price": "187",
-    "old_price": "312",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-lisichkami-i-belymi-gribami-98575/"
-  },
   "58178": {
     "name": "Крем-суп с тыквой и индейкой",
     "price": "138",
@@ -104,26 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rolly-filadelfiya-s-file-semgi-i-rechnogo-ugrya-76626/"
   },
-  "76897": {
-    "name": "Десерт шоколадный с кусочками печенья и миндаля",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-shokoladnyy-s-kusochkami-pechenya-i-mindalya-76897/"
-  },
   "125473": {
     "name": "Плов \"Самаркандский\" с изюмом",
     "price": "316",
     "old_price": "526",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/plov-samarkandskiy-s-izyumom-125473/"
-  },
-  "99883": {
-    "name": "Манты с тыквенной начинкой",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/manty-s-tykvennoy-nachinkoy-99883/"
   },
   "121273": {
     "name": "Торт \"Морковный\" с сырным кремом, 1 кг",
@@ -153,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-dlya-burgera-iz-myasa-tsyplyat-broylerov-formula-fitnesa-121881/"
   },
-  "119614": {
-    "name": "Десерт \"Шоколад-мягкая карамель\" (веган)",
-    "price": "122",
-    "old_price": "203",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-shokolad-myagkaya-karamel-vegan-119614/"
-  },
   "110853": {
     "name": "Десерт \"Бернау\" со свежей ягодой",
     "price": "358",
@@ -173,13 +138,6 @@
     "old_price": "680",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-kety-102993/"
-  },
-  "98002": {
-    "name": "Йогурт \"Мюсли Бирхер по-швейцарски\" с яблоком и миндалем",
-    "price": "78",
-    "old_price": "130",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-myusli-birkher-po-shveytsarski-s-yablokom-i-mindalem-98002/"
   },
   "126415": {
     "name": "Казан-кебаб из баранины",
