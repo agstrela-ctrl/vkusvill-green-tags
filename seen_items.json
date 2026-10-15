@@ -1,9 +1,16 @@
 {
-  "94218": {
-    "name": "Зефир кокосовый в молочном шоколаде, ВЕС",
-    "price": "1251",
-    "old_price": "2085",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/zefir-kokosovyy-v-molochnom-shokolade-94218/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "32",
+    "old_price": "54",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   }
 }
