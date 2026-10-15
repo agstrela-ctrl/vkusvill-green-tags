@@ -97,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-dlya-burgera-iz-myasa-tsyplyat-broylerov-formula-fitnesa-121881/"
   },
-  "110853": {
-    "name": "Десерт \"Бернау\" со свежей ягодой",
-    "price": "358",
-    "old_price": "596",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bernau-so-svezhey-yagodoy-110853/"
-  },
   "102993": {
     "name": "Ассорти х/к из кеты, масляной рыбы, нерки и омуля, 200 г",
     "price": "408",
@@ -118,11 +111,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kazan-kebab-iz-baraniny-126415/"
   },
-  "117023": {
-    "name": "Изделие х/б \"Зерновой-микс\", без глютена",
-    "price": "143",
-    "old_price": "238",
+  "110853": {
+    "name": "Десерт \"Бернау\" со свежей ягодой",
+    "price": "358",
+    "old_price": "596",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-miks-117023/"
+    "link": "https://vkusvill.ru/goods/desert-bernau-so-svezhey-yagodoy-110853/"
   }
 }
