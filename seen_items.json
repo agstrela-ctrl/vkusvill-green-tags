@@ -1,16 +1,16 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
-  },
   "605": {
     "name": "Лук репчатый",
     "price": "32",
     "old_price": "54",
     "discount": "41",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/banany-731/"
   }
 }
