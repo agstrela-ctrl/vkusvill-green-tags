@@ -1,10 +1,10 @@
 {
-  "68839": {
-    "name": "Конвертики с творогом и зеленью",
-    "price": "144",
-    "old_price": "240",
+  "66659": {
+    "name": "Горбуша слабосоленая ломтики, 100 г",
+    "price": "212",
+    "old_price": "353",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-tvorogom-i-zelenyu-68839/"
+    "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
   },
   "65425": {
     "name": "Креветки жареные, 150 г",
@@ -12,6 +12,13 @@
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
+  },
+  "123860": {
+    "name": "Стрипсы из филе цыпленка-бройлера на зерновом откорме",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/stripsy-iz-file-tsyplenka-broylera-na-zernovom-otkorme-123860/"
   },
   "12191": {
     "name": "Биойогурт козий питьевой с земляникой 3-4,5%",
