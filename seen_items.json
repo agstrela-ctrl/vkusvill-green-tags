@@ -1,4 +1,11 @@
 {
+  "484": {
+    "name": "Тушка цыпленка-бройлера, охлажденная",
+    "price": "178",
+    "old_price": "296",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-484/"
+  },
   "96587": {
     "name": "Салат винегрет, 180 г",
     "price": "102",
@@ -33,20 +40,6 @@
     "old_price": "630",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-dlya-zapekaniya-v-marinade-slivochno-pryanyy-38215/"
-  },
-  "63576": {
-    "name": "Семга филе-кусок на коже охл., 350 г",
-    "price": "720",
-    "old_price": "1200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/semga-file-kusok-na-kozhe-okhl-63576/"
-  },
-  "29036": {
-    "name": "Торт \"Сказочная тропинка\"",
-    "price": "335",
-    "old_price": "558",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-skazochnaya-tropinka-29036/"
   },
   "24293": {
     "name": "Фрикадельки мини из телятины",
@@ -83,20 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
   },
-  "36740": {
-    "name": "Скумбрия кусочки пряного посола в масле, 400 г",
-    "price": "250",
-    "old_price": "416",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/skumbriya-kusochki-pryanogo-posola-v-masle-36740/"
-  },
-  "27966": {
-    "name": "Пирог осетинский \"Картофель с сыром\", 250 г",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirog-osetinskiy-kartofel-s-syrom-27966/"
-  },
   "104701": {
     "name": "Закрытый омлет с ветчиной и сыром, кафе",
     "price": "155",
@@ -117,13 +96,6 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
-  "124528": {
-    "name": "Плюшка \"Домашняя\" с маком, 150 г",
-    "price": "70",
-    "old_price": "116",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plyushka-domashnyaya-s-makom-124528/"
   },
   "68047": {
     "name": "Салат с курицей и апельсиновой заправкой",
@@ -166,13 +138,6 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
-  },
-  "120070": {
-    "name": "Говядина по-красноярски со сливочно-грибной полбой",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-po-krasnoyarski-so-slivochno-gribnoy-polboy-120070/"
   },
   "123310": {
     "name": "Корзиночка \"Фруктовый микс\" с заварным кремом",
