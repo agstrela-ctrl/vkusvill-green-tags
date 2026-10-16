@@ -6,27 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
   },
-  "30290": {
-    "name": "Суп \"Рассольник\" с курицей",
-    "price": "148",
-    "old_price": "246",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-rassolnik-s-kuritsey-30290/"
-  },
-  "100715": {
-    "name": "Паста с филе морского гребешка",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-file-morskogo-grebeshka-100715/"
-  },
-  "65460": {
-    "name": "Изделие х/б из зеленой гречки (на закваске)",
-    "price": "86",
-    "old_price": "144",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
-  },
   "101935": {
     "name": "Филе малое цыпленка-бройлера в хрустящих хлопьях",
     "price": "152",
@@ -41,33 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
-  "118104": {
-    "name": "Мясо по-французски",
-    "price": "505",
-    "old_price": "842",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
-  },
-  "115083": {
-    "name": "Баклажаны \"Пармиджано\" с соусом песто",
-    "price": "337",
-    "old_price": "562",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baklazhany-parmidzhano-s-sousom-pesto-115083/"
-  },
   "119741": {
     "name": "Навага жареная, 200 г",
     "price": "165",
     "old_price": "275",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/navaga-zharenaya-119741/"
-  },
-  "61751": {
-    "name": "Гречка отварная с овощами, 200 г",
-    "price": "84",
-    "old_price": "140",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
   },
   "511": {
     "name": "Окорок свиной, охлажденный",
