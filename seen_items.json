@@ -1,9 +1,30 @@
 {
-  "33849": {
-    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
-    "price": "81",
-    "old_price": "135",
+  "116505": {
+    "name": "Петушок суповой на зерновом откорме, замороженный",
+    "price": "293",
+    "old_price": "488",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
+    "link": "https://vkusvill.ru/goods/petushok-supovoy-na-zernovom-otkorme-116505/"
+  },
+  "96061": {
+    "name": "Хек филе без кожи зам.",
+    "price": "688",
+    "old_price": "1147",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khek-file-bez-kozhi-zam-96061/"
+  },
+  "111711": {
+    "name": "Филе горбуши в панировке зам., 280 г.",
+    "price": "268",
+    "old_price": "447",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-gorbushi-v-panirovke-zam-111711/"
+  },
+  "65460": {
+    "name": "Изделие х/б из зеленой гречки (на закваске)",
+    "price": "86",
+    "old_price": "144",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   }
 }
