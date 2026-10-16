@@ -1,11 +1,4 @@
 {
-  "61751": {
-    "name": "Гречка отварная с овощами, 200 г",
-    "price": "84",
-    "old_price": "140",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
-  },
   "65460": {
     "name": "Изделие х/б из зеленой гречки (на закваске)",
     "price": "86",
@@ -26,6 +19,13 @@
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
+  },
+  "61751": {
+    "name": "Гречка отварная с овощами, 200 г",
+    "price": "84",
+    "old_price": "140",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
   },
   "511": {
     "name": "Окорок свиной, охлажденный",
