@@ -1,18 +1,4 @@
 {
-  "484": {
-    "name": "Тушка цыпленка-бройлера, охлажденная",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-484/"
-  },
-  "96587": {
-    "name": "Салат винегрет, 180 г",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-96587/"
-  },
   "122564": {
     "name": "Паста цельнозерновая с тунцом и запеченными томатами",
     "price": "209",
@@ -48,33 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
   },
-  "18354": {
-    "name": "Рис \"По-тайски\"",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-po-tayski-18354/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
     "old_price": "356",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
-  "98952": {
-    "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
-    "price": "332",
-    "old_price": "553",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylya-tsyplenka-broylera-v-souse-teriyaki-98952/"
-  },
-  "91332": {
-    "name": "Суп Фо Бо",
-    "price": "208",
-    "old_price": "346",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
   },
   "104701": {
     "name": "Закрытый омлет с ветчиной и сыром, кафе",
@@ -111,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shchavel-15309/"
   },
-  "125795": {
-    "name": "Люля-кебаб из курицы по-узбекски",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lyulya-kebab-iz-kuritsy-po-uzbekski-125795/"
-  },
   "126385": {
     "name": "Клаб-сэндвич со свиным окороком и омлетом",
     "price": "167",
@@ -153,20 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-garvardskiy-s-kuritsey-i-ovoshchami-122792/"
   },
-  "115112": {
-    "name": "Жаркое из кролика со сметаной",
-    "price": "499",
-    "old_price": "832",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
-  },
-  "121195": {
-    "name": "Трубочки с яйцом и копченым минтаем, 4 шт",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-yaytsom-i-kopchenym-mintaem-121195/"
-  },
   "125198": {
     "name": "Форшмак из сельди",
     "price": "138",
@@ -180,13 +124,6 @@
     "old_price": "570",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedra-tsyplyat-broylerov-v-chesnochnom-marinade-112643/"
-  },
-  "113300": {
-    "name": "Лапша из батата с креветками в соусе терияки",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-s-krevetkami-v-souse-teriyaki-113300/"
   },
   "113787": {
     "name": "Жаркое из ягненка Халяль",
