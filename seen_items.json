@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
   },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
   "104701": {
     "name": "Закрытый омлет с ветчиной и сыром, кафе",
     "price": "155",
@@ -103,27 +96,6 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
-  },
-  "123310": {
-    "name": "Корзиночка \"Фруктовый микс\" с заварным кремом",
-    "price": "110",
-    "old_price": "184",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/korzinochka-fruktovyy-miks-s-zavarnym-kremom-123310/"
-  },
-  "122792": {
-    "name": "Сэндвич ролл \"Гарвардский\" с курицей и овощами",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-garvardskiy-s-kuritsey-i-ovoshchami-122792/"
-  },
-  "125198": {
-    "name": "Форшмак из сельди",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forshmak-iz-seldi-125198/"
   },
   "112643": {
     "name": "Бедра цыплят-бройлеров в чесночном маринаде",
