@@ -1,31 +1,10 @@
 {
-  "102212": {
-    "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-bitochek-sochnyy-s-penne-i-salat-krabovyy-102212/"
-  },
-  "18580": {
-    "name": "Бедро цыпленка бройлера",
-    "price": "269",
-    "old_price": "448",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bedro-tsyplenka-broylera-18580/"
-  },
   "15039": {
     "name": "Тушка цыпленка-бройлера на зерновом откорме, охлажденная",
     "price": "325",
     "old_price": "542",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-na-zernovom-otkorme-15039/"
-  },
-  "14962": {
-    "name": "Мясо цыпленка-бройлера на косточке",
-    "price": "334",
-    "old_price": "556",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-tsyplenka-broylera-na-kostochke-14962/"
   },
   "21482": {
     "name": "Лаваш \"Армянский\" тандырный, 150 г",
@@ -41,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kviso-tsyplenka-broylera-v-tsitrusovom-marinade-116990/"
   },
-  "77145": {
-    "name": "Плюшка сдобная с посыпкой 2 шт",
-    "price": "70",
-    "old_price": "116",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plyushka-sdobnaya-s-posypkoy-2-sht-77145/"
-  },
   "81642": {
     "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
     "price": "150",
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
-  },
-  "25053": {
-    "name": "Лаваш \"Армянский\", 160 г",
-    "price": "43",
-    "old_price": "72",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-25053/"
   },
   "93516": {
     "name": "Набор из цыплят-бройлеров (бедро, крыло, голень)",
@@ -118,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   },
-  "71029": {
-    "name": "Фарш из говядины и курицы",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-kuritsy-71029/"
-  },
   "122685": {
     "name": "Филе цыпленка бройлера кусочками",
     "price": "181",
@@ -166,13 +124,6 @@
     "old_price": "286",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-61707/"
-  },
-  "71935": {
-    "name": "Йогурт питьевой \"Красная смородина\" без доб. сахара 2,5%",
-    "price": "56",
-    "old_price": "94",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-krasnaya-smorodina-bez-dob-sakhara-2-71935/"
   },
   "119801": {
     "name": "Палочки сдобные с варёной сгущенкой",
