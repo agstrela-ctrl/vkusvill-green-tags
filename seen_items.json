@@ -97,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
   },
-  "106625": {
-    "name": "Рулет бисквитный \"Шоколад-карамель-арахис\", 140 г",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-shokolad-karamel-arakhis-106625/"
-  },
   "99757": {
     "name": "Минтай филе в пивном кляре, 200 г",
     "price": "230",
@@ -132,19 +125,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eklery-plombir-95321/"
   },
+  "123555": {
+    "name": "Чизкейк \"Крамбл\" с черникой и клюквой, 100 г",
+    "price": "134",
+    "old_price": "224",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chizkeyk-krambl-s-chernikoy-i-klyukvoy-123555/"
+  },
   "125717": {
     "name": "Онигири с кимчи и свининой",
     "price": "131",
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-i-svininoy-125717/"
-  },
-  "125132": {
-    "name": "Рулетики из цукини с творожным сыром и базиликом",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsukini-s-tvorozhnym-syrom-i-bazilikom-125132/"
   },
   "88956": {
     "name": "Пирожное картошка \"Ассорти 5 вкусов\"",
@@ -159,13 +152,6 @@
     "old_price": "898",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-biskvitnyy-molochnaya-devochka-s-vishney-110841/"
-  },
-  "123555": {
-    "name": "Чизкейк \"Крамбл\" с черникой и клюквой, 100 г",
-    "price": "134",
-    "old_price": "224",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-krambl-s-chernikoy-i-klyukvoy-123555/"
   },
   "119801": {
     "name": "Палочки сдобные с варёной сгущенкой",
