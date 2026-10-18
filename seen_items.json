@@ -1,4 +1,11 @@
 {
+  "29450": {
+    "name": "Яблоко Медовый хруст",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
+  },
   "606": {
     "name": "Морковь",
     "price": "32",
@@ -6,19 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-606/"
   },
-  "15378": {
-    "name": "Томаты розовые",
-    "price": "159",
-    "old_price": "265",
+  "15817": {
+    "name": "Яблоко Слава победителям",
+    "price": "126",
+    "old_price": "210",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-rozovye-15378/"
-  },
-  "18940": {
-    "name": "Хурма Королек",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khurma-korolek-18940/"
+    "link": "https://vkusvill.ru/goods/yabloko-slava-pobeditelyam-15817/"
   },
   "21124": {
     "name": "Яблоко Антоновка",
