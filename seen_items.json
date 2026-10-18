@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kviso-tsyplenka-broylera-v-tsitrusovom-marinade-116990/"
   },
-  "68616": {
-    "name": "Каша пшенная сливочная, 250 г",
-    "price": "133",
-    "old_price": "222",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-pshennaya-slivochnaya-68616/"
-  },
   "114219": {
     "name": "Ассорти из цыпленка-бройлера на зерновом откорме",
     "price": "410",
@@ -33,13 +26,6 @@
     "old_price": "302",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
-  },
-  "100069": {
-    "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
-    "price": "241",
-    "old_price": "401",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-s-indeykoy-i-slivochnym-syrom-100069/"
   },
   "118975": {
     "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
@@ -62,40 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-tsyplenka-broylera-kusochkami-122685/"
   },
-  "107585": {
-    "name": "Салат из соевой спаржи с соусом маринованный по-корейски",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-soevoy-sparzhi-s-sousom-marinovannyy-po-koreyski-107585/"
-  },
-  "83026": {
-    "name": "Голень цыпленка-бройлера на зерновом откорме",
-    "price": "367",
-    "old_price": "612",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-na-zernovom-otkorme-83026/"
-  },
   "119539": {
     "name": "Лепешка Шоти, 300 г",
     "price": "56",
     "old_price": "94",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
-  },
-  "61707": {
-    "name": "Кексы-мини ванильно-сливочные",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-61707/"
-  },
-  "118364": {
-    "name": "Микс салатный \"Нежный\", 200 г",
-    "price": "83",
-    "old_price": "138",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
   },
   "119801": {
     "name": "Палочки сдобные с варёной сгущенкой",
