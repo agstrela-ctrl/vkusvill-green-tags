@@ -1,11 +1,4 @@
 {
-  "29450": {
-    "name": "Яблоко Медовый хруст",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
-  },
   "606": {
     "name": "Морковь",
     "price": "32",
@@ -19,6 +12,13 @@
     "old_price": "210",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yabloko-slava-pobeditelyam-15817/"
+  },
+  "29450": {
+    "name": "Яблоко Медовый хруст",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
   },
   "21124": {
     "name": "Яблоко Антоновка",
