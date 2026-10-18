@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
-  "82086": {
-    "name": "Суп \"Уха\" (с горбушей, судаком, палтусом), 270 г",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-ukha-s-gorbushey-82086/"
-  },
   "59037": {
     "name": "Шницель куриный в сырной панировке с макаронами",
     "price": "204",
@@ -104,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-apelsinovoy-zapravkoy-68047/"
   },
-  "50459": {
-    "name": "Пирожное \"Шоколадный Микс\"",
-    "price": "148",
-    "old_price": "246",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-shokoladnyy-miks-50459/"
-  },
   "117108": {
     "name": "Котлета \"Крабовая\" с картофельным пюре",
     "price": "251",
@@ -132,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
   },
-  "126415": {
-    "name": "Казан-кебаб из баранины",
-    "price": "527",
-    "old_price": "878",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kazan-kebab-iz-baraniny-126415/"
-  },
   "122839": {
     "name": "Куриное филе гриль",
     "price": "174",
@@ -153,19 +132,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khamsa-bez-golovy-nepotroshenaya-v-masle-23549/"
   },
-  "118404": {
-    "name": "\"Буженина\" из курицы",
-    "price": "399",
-    "old_price": "665",
+  "126415": {
+    "name": "Казан-кебаб из баранины",
+    "price": "527",
+    "old_price": "878",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/buzhenina-iz-kuritsy-118404/"
-  },
-  "23573": {
-    "name": "Рулет из клариевого сома г/к",
-    "price": "708",
-    "old_price": "1180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-iz-klarievogo-soma-g-k-23573/"
+    "link": "https://vkusvill.ru/goods/kazan-kebab-iz-baraniny-126415/"
   },
   "116923": {
     "name": "Филе куриной грудки \"Кимчи\"",
