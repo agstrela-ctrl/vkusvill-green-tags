@@ -1,11 +1,4 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
-  },
   "606": {
     "name": "Морковь",
     "price": "32",
@@ -26,20 +19,6 @@
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khurma-korolek-18940/"
-  },
-  "50548": {
-    "name": "Томаты мини на ветке",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-mini-na-vetke-50548/"
-  },
-  "123860": {
-    "name": "Стрипсы из филе цыпленка-бройлера на зерновом откорме",
-    "price": "193",
-    "old_price": "322",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-iz-file-tsyplenka-broylera-na-zernovom-otkorme-123860/"
   },
   "21124": {
     "name": "Яблоко Антоновка",
