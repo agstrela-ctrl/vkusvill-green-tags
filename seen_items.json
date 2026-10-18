@@ -1,11 +1,4 @@
 {
-  "606": {
-    "name": "Морковь",
-    "price": "32",
-    "old_price": "53",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-606/"
-  },
   "15817": {
     "name": "Яблоко Слава победителям",
     "price": "126",
@@ -26,12 +19,5 @@
     "old_price": "240",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yabloko-antonovka-21124/"
-  },
-  "99359": {
-    "name": "Шаурма с курицей и соусом \"Бургер\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-sousom-burger-99359/"
   }
 }
