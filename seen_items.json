@@ -1,9 +1,44 @@
 {
-  "22648": {
-    "name": "Креветки северные очищенные 300/400 в/м., 200 г",
-    "price": "432",
-    "old_price": "720",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-severnye-ochishchennye-300-400-v-m-22648/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "606": {
+    "name": "Морковь",
+    "price": "32",
+    "old_price": "53",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-606/"
+  },
+  "105270": {
+    "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
+    "price": "240",
+    "old_price": "400",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
+  },
+  "18940": {
+    "name": "Хурма Королек",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khurma-korolek-18940/"
+  },
+  "21124": {
+    "name": "Яблоко Антоновка",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-antonovka-21124/"
+  },
+  "59515": {
+    "name": "Сосиска в тесте (свинина, говядина), 2 шт.",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiska-v-teste-svinina-59515/"
   }
 }
