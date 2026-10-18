@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/govyadina-tomlenaya-v-granatovom-soke-s-kartofelnym-pyure-i-fasolyu-71656/"
   },
-  "61483": {
-    "name": "Салат \"Цезарь\" с курицей и пекинской капустой",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-pekinskoy-kapustoy-61483/"
-  },
   "79662": {
     "name": "Курица с картофельным хашбрауном в тортилье",
     "price": "185",
@@ -33,13 +26,6 @@
     "old_price": "518",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-fistashkovyy-s-malinoy-22920/"
-  },
-  "15039": {
-    "name": "Тушка цыпленка-бройлера на зерновом откорме, охлажденная",
-    "price": "325",
-    "old_price": "542",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-na-zernovom-otkorme-15039/"
   },
   "22664": {
     "name": "Сэндвич ролл с горбушей и яйцом",
@@ -90,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
   },
-  "75113": {
-    "name": "Тарталетка \"Клубника с сырным кремом\"",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartaletka-klubnika-s-syrnym-kremom-75113/"
-  },
   "124183": {
     "name": "Эклеры \"Манго и маракуйя\" с кремчиз, 3 шт",
     "price": "190",
@@ -124,13 +103,6 @@
     "old_price": "338",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
-  },
-  "121045": {
-    "name": "Трубочки с курицей и шпинатом, 4 шт",
-    "price": "220",
-    "old_price": "367",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-kuritsey-i-shpinatom-121045/"
   },
   "26305": {
     "name": "Хлеб \"Романовский\", нарезка",
@@ -216,13 +188,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-kartoshka-s-kremom-s-varenym-sgushchennym-molokom-123836/"
   },
-  "125635": {
-    "name": "Оладушки с ванильным соусом",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladushki-s-vanilnym-sousom-125635/"
-  },
   "125717": {
     "name": "Онигири с кимчи и свининой",
     "price": "131",
@@ -257,13 +222,6 @@
     "old_price": "224",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chizkeyk-krambl-s-chernikoy-i-klyukvoy-123555/"
-  },
-  "124793": {
-    "name": "Чизкейк \"Сан-Себастьян\" черника-черная смородина",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-san-sebastyan-chernika-chernaya-smorodina-124793/"
   },
   "104701": {
     "name": "Закрытый омлет с ветчиной и сыром, кафе",
