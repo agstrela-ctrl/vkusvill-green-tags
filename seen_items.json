@@ -6,33 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-na-zernovom-otkorme-15039/"
   },
-  "21482": {
-    "name": "Лаваш \"Армянский\" тандырный, 150 г",
-    "price": "44",
-    "old_price": "74",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-21482/"
-  },
   "116990": {
     "name": "Квисо цыпленка-бройлера в цитрусовом маринаде",
     "price": "326",
     "old_price": "543",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kviso-tsyplenka-broylera-v-tsitrusovom-marinade-116990/"
-  },
-  "81642": {
-    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
-  },
-  "93516": {
-    "name": "Набор из цыплят-бройлеров (бедро, крыло, голень)",
-    "price": "317",
-    "old_price": "528",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-iz-tsyplyat-broylerov-bedro-93516/"
   },
   "68616": {
     "name": "Каша пшенная сливочная, 250 г",
@@ -54,13 +33,6 @@
     "old_price": "302",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
-  },
-  "96079": {
-    "name": "Стейк индейки \"По-Аргентински\"",
-    "price": "368",
-    "old_price": "613",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-indeyki-po-argentinski-96079/"
   },
   "100069": {
     "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
