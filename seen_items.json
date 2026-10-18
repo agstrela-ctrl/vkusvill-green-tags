@@ -83,19 +83,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
   },
-  "118364": {
-    "name": "Микс салатный \"Нежный\", 200 г",
-    "price": "83",
-    "old_price": "138",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
-  },
   "61707": {
     "name": "Кексы-мини ванильно-сливочные",
     "price": "172",
     "old_price": "286",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-61707/"
+  },
+  "118364": {
+    "name": "Микс салатный \"Нежный\", 200 г",
+    "price": "83",
+    "old_price": "138",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-nezhnyy-118364/"
   },
   "119801": {
     "name": "Палочки сдобные с варёной сгущенкой",
