@@ -62,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
-  "98575": {
-    "name": "Крем-суп с лисичками и белыми грибами",
-    "price": "187",
-    "old_price": "312",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-lisichkami-i-belymi-gribami-98575/"
-  },
   "111212": {
     "name": "Куриное филе запеченное с цукини и моцареллой",
     "price": "197",
@@ -82,13 +75,6 @@
     "old_price": "278",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-kalmarovyy-23760/"
-  },
-  "63729": {
-    "name": "Шаурма с курицей и печеным картофелем",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-pechenym-kartofelem-63729/"
   },
   "83097": {
     "name": "Манты по-восточному",
@@ -110,13 +96,6 @@
     "old_price": "260",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-ukha-s-gorbushey-82086/"
-  },
-  "81642": {
-    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
   },
   "59037": {
     "name": "Шницель куриный в сырной панировке с макаронами",
@@ -216,13 +195,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
   },
-  "124649": {
-    "name": "Сосиска в тесте фило, 2 шт",
-    "price": "160",
-    "old_price": "267",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiska-v-teste-filo-124649/"
-  },
   "68047": {
     "name": "Салат с курицей и апельсиновой заправкой",
     "price": "198",
@@ -279,13 +251,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiska-v-sloenom-teste-s-syrom-i-gorchitsey-68814/"
   },
-  "125925": {
-    "name": "Суп Кукси с говядиной и кукурузой на говяжьем бульоне",
-    "price": "275",
-    "old_price": "458",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-kuksi-s-govyadinoy-i-kukuruzoy-na-govyazhem-bulone-125925/"
-  },
   "123943": {
     "name": "Десерт \"Ореховый\" с карамелью, веган",
     "price": "131",
@@ -314,13 +279,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
-  "76248": {
-    "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-76248/"
-  },
   "122839": {
     "name": "Куриное филе гриль",
     "price": "174",
@@ -328,12 +286,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-gril-122839/"
   },
-  "118284": {
-    "name": "Крем-суп картофельный с шампиньонами и трюфельным маслом",
-    "price": "143",
-    "old_price": "238",
+  "23549": {
+    "name": "Хамса без головы непотрошеная в масле, 200 г",
+    "price": "129",
+    "old_price": "215",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-kartofelnyy-s-shampinonami-i-tryufelnym-maslom-118284/"
+    "link": "https://vkusvill.ru/goods/khamsa-bez-golovy-nepotroshenaya-v-masle-23549/"
+  },
+  "123388": {
+    "name": "Чиабатта злаковая с куриным филе, соусом песто и томатным айоли",
+    "price": "191",
+    "old_price": "318",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-zlakovaya-s-kurinym-file-123388/"
+  },
+  "119445": {
+    "name": "Тофу с томатами и базиликом, 250 г",
+    "price": "109",
+    "old_price": "182",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tofu-s-tomatami-i-bazilikom-119445/"
   },
   "126299": {
     "name": "Чахохбили с рисом",
@@ -369,13 +341,6 @@
     "old_price": "1180",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-iz-klarievogo-soma-g-k-23573/"
-  },
-  "90076": {
-    "name": "Колбаса вареная \"Классическая\", 400 г",
-    "price": "231",
-    "old_price": "385",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-klassicheskaya-90076/"
   },
   "116923": {
     "name": "Филе куриной грудки \"Кимчи\"",
