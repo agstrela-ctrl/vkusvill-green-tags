@@ -13,20 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
   },
-  "123831": {
-    "name": "Десерт \"Клубника-малина\" на аллюлозе и ягодном пюре",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-klubnika-malina-na-allyuloze-i-yagodnom-pyure-123831/"
-  },
-  "118975": {
-    "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
-    "price": "53",
-    "old_price": "88",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zavarnoy-s-solodom-118975/"
-  },
   "65460": {
     "name": "Изделие х/б из зеленой гречки (на закваске)",
     "price": "86",
@@ -40,19 +26,5 @@
     "old_price": "383",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mintay-file-v-pivnom-klyare-99757/"
-  },
-  "88414": {
-    "name": "Торт блинный шоколадный, 1 кг",
-    "price": "761",
-    "old_price": "1268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-88414/"
-  },
-  "125717": {
-    "name": "Онигири с кимчи и свининой",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-i-svininoy-125717/"
   }
 }
