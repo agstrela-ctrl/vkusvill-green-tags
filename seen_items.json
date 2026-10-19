@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
   },
-  "100069": {
-    "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
-    "price": "241",
-    "old_price": "401",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-s-indeykoy-i-slivochnym-syrom-100069/"
-  },
   "65460": {
     "name": "Изделие х/б из зеленой гречки (на закваске)",
     "price": "86",
@@ -104,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-ugrem-i-tvorozhnym-syrom-101080/"
   },
-  "65794": {
-    "name": "Нерка холодного копчения ломтики, 100 г",
-    "price": "280",
-    "old_price": "467",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nerka-kholodnogo-kopcheniya-lomtiki-65794/"
-  },
   "119818": {
     "name": "Лепешка \"Тортилья\" с сыром",
     "price": "47",
@@ -118,32 +104,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
   },
-  "29044": {
-    "name": "Манго Кубики, 200 г",
-    "price": "212",
-    "old_price": "354",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
-  },
   "126782": {
     "name": "Онигири из перловки с треской и креветкой",
     "price": "132",
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
-  },
-  "124142": {
-    "name": "Тарталетка \"Клубника - земляника \" слив. сырн. крем",
-    "price": "154",
-    "old_price": "256",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartaletka-klubnika-zemlyanika-sliv-syrn-krem-124142/"
-  },
-  "124125": {
-    "name": "Блины с бананом и темным шоколадом в заварном креме",
-    "price": "160",
-    "old_price": "267",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-bananom-i-temnym-shokoladom-v-zavarnom-kreme-124125/"
   }
 }
