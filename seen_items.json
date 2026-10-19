@@ -6,20 +6,6 @@
     "discount": "39",
     "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
   },
-  "17525": {
-    "name": "Молоко 3,2% в бутылке, 900 мл",
-    "price": "62",
-    "old_price": "104",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-3-17525/"
-  },
-  "21626": {
-    "name": "Фарш из цыпленка-бройлера \"Премиум\"",
-    "price": "206",
-    "old_price": "343",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-tsyplenka-broylera-premium-21626/"
-  },
   "16589": {
     "name": "Форель малосоленая ломтики, 150 г",
     "price": "315",
@@ -61,13 +47,6 @@
     "old_price": "104",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
-  },
-  "61936": {
-    "name": "Фарш из мяса курицы, индейки и кролика",
-    "price": "318",
-    "old_price": "530",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
   },
   "67713": {
     "name": "Хлеб \"Тостовый\" нарезка, 250 г",
@@ -132,13 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-dlya-prigotovleniya-na-paru-122344/"
   },
-  "83348": {
-    "name": "Котлеты из индейки и цыпленка с сыром чеддер",
-    "price": "244",
-    "old_price": "407",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-indeyki-i-tsyplenka-s-syrom-chedder-83348/"
-  },
   "29587": {
     "name": "Котлеты из цыпленка-бройлера со сливочным маслом и укропом",
     "price": "314",
@@ -152,6 +124,27 @@
     "old_price": "82",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-sdobnye-48604/"
+  },
+  "101080": {
+    "name": "Онигири с угрем и творожным сыром",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-ugrem-i-tvorozhnym-syrom-101080/"
+  },
+  "65794": {
+    "name": "Нерка холодного копчения ломтики, 100 г",
+    "price": "280",
+    "old_price": "467",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/nerka-kholodnogo-kopcheniya-lomtiki-65794/"
+  },
+  "29044": {
+    "name": "Манго Кубики, 200 г",
+    "price": "212",
+    "old_price": "354",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
   },
   "126782": {
     "name": "Онигири из перловки с треской и креветкой",
@@ -174,39 +167,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-bananom-i-temnym-shokoladom-v-zavarnom-kreme-124125/"
   },
-  "111345": {
-    "name": "Рулетики из цыпленка-бройлера с сыром фета и шпинатом",
-    "price": "301",
-    "old_price": "502",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsyplenka-broylera-s-syrom-feta-i-shpinatom-111345/"
-  },
-  "101080": {
-    "name": "Онигири с угрем и творожным сыром",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-ugrem-i-tvorozhnym-syrom-101080/"
-  },
-  "65794": {
-    "name": "Нерка холодного копчения ломтики, 100 г",
-    "price": "280",
-    "old_price": "467",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nerka-kholodnogo-kopcheniya-lomtiki-65794/"
-  },
   "119818": {
     "name": "Лепешка \"Тортилья\" с сыром",
     "price": "47",
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
-  },
-  "29044": {
-    "name": "Манго Кубики, 200 г",
-    "price": "212",
-    "old_price": "354",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
   }
 }
