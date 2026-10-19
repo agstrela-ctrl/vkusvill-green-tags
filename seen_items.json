@@ -1,23 +1,9 @@
 {
-  "65385": {
-    "name": "Лепешка \"Индийская\" с картофелем и карри (постная)",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-indiyskaya-s-kartofelem-i-karri-postnaya-65385/"
-  },
   "108295": {
     "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
     "price": "174",
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
-  },
-  "99757": {
-    "name": "Минтай филе в пивном кляре, 200 г",
-    "price": "230",
-    "old_price": "383",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mintay-file-v-pivnom-klyare-99757/"
   }
 }
