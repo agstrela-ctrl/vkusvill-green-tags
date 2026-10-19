@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
   },
-  "102082": {
-    "name": "Омлет с томатами и моцареллой",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-s-tomatami-i-motsarelloy-102082/"
-  },
   "116990": {
     "name": "Квисо цыпленка-бройлера в цитрусовом маринаде",
     "price": "326",
@@ -27,19 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
   },
-  "68839": {
-    "name": "Конвертики с творогом и зеленью",
-    "price": "144",
-    "old_price": "240",
+  "68366": {
+    "name": "Десерт \"Киевский\", 100 г",
+    "price": "153",
+    "old_price": "255",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-tvorogom-i-zelenyu-68839/"
-  },
-  "26305": {
-    "name": "Хлеб \"Романовский\", нарезка",
-    "price": "181",
-    "old_price": "302",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
+    "link": "https://vkusvill.ru/goods/desert-kievskiy-68366/"
   },
   "118975": {
     "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
@@ -61,13 +47,6 @@
     "old_price": "383",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mintay-file-v-pivnom-klyare-99757/"
-  },
-  "288": {
-    "name": "Молоко козье 2,8-4%",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-koze-2-288/"
   },
   "65425": {
     "name": "Креветки жареные, 150 г",
