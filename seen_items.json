@@ -6,13 +6,6 @@
     "discount": "39",
     "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
   },
-  "16589": {
-    "name": "Форель малосоленая ломтики, 150 г",
-    "price": "315",
-    "old_price": "525",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-malosolenaya-lomtiki-16589/"
-  },
   "32936": {
     "name": "Тартин пшеничный, половинка",
     "price": "50",
@@ -33,13 +26,6 @@
     "old_price": "126",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-briosh-37314/"
-  },
-  "23024": {
-    "name": "Ряженка 3,2% в бутылке, 290 г",
-    "price": "44",
-    "old_price": "73",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ryazhenka-3-23024/"
   },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
@@ -69,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
   },
-  "83788": {
-    "name": "Форель малосоленая \"опаленная\" филе-кусок, 150 г",
-    "price": "310",
-    "old_price": "517",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-malosolenaya-opalennaya-file-kusok-83788/"
-  },
   "100069": {
     "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
     "price": "241",
@@ -89,13 +68,6 @@
     "old_price": "144",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
-  },
-  "65461": {
-    "name": "Изделие х/б \"Скандинавский\" цельнозерн. на закваске",
-    "price": "71",
-    "old_price": "119",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-skandinavskiy-tselnozern-na-zakvaske-65461/"
   },
   "115478": {
     "name": "Булочка \"Бородинская\", 4 шт",
@@ -139,6 +111,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nerka-kholodnogo-kopcheniya-lomtiki-65794/"
   },
+  "119818": {
+    "name": "Лепешка \"Тортилья\" с сыром",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
+  },
   "29044": {
     "name": "Манго Кубики, 200 г",
     "price": "212",
@@ -166,12 +145,5 @@
     "old_price": "267",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-bananom-i-temnym-shokoladom-v-zavarnom-kreme-124125/"
-  },
-  "119818": {
-    "name": "Лепешка \"Тортилья\" с сыром",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-tortilya-s-syrom-119818/"
   }
 }
