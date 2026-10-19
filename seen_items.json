@@ -5,5 +5,40 @@
     "old_price": "54",
     "discount": "41",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "15194": {
+    "name": "Укроп, 50 г",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ukrop-15194/"
+  },
+  "69992": {
+    "name": "Томаты сливка Фламенко, 450 г",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-slivka-flamenko-69992/"
+  },
+  "108295": {
+    "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
+  },
+  "26305": {
+    "name": "Хлеб \"Романовский\", нарезка",
+    "price": "181",
+    "old_price": "302",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
+  },
+  "86213": {
+    "name": "Печенье овсяное \"Шоколадное\", безглютеновое",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-shokoladnoe-86213/"
   }
 }
