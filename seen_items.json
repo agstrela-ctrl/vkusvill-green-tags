@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
   },
-  "68366": {
-    "name": "Десерт \"Киевский\", 100 г",
-    "price": "153",
-    "old_price": "255",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-kievskiy-68366/"
-  },
   "118975": {
     "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
     "price": "53",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
-  "70641": {
-    "name": "Крем взбитый ультрапастеризованный HuLaLa 250 г",
-    "price": "239",
-    "old_price": "399",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-vzbityy-ultrapasterizovannyy-hulala-250-g-70641/"
-  },
   "95321": {
     "name": "Эклеры \"Пломбир\", 3 шт.",
     "price": "214",
@@ -82,12 +68,5 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-i-svininoy-125717/"
-  },
-  "110841": {
-    "name": "Торт бисквитный \"Молочная девочка\" с вишней",
-    "price": "539",
-    "old_price": "898",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-biskvitnyy-molochnaya-devochka-s-vishney-110841/"
   }
 }
