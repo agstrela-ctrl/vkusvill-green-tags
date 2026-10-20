@@ -167,13 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-ugrem-i-tvorozhnym-syrom-101080/"
   },
-  "110086": {
-    "name": "Пиццета \"Овощная\"",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstseta-ovoshchnaya-110086/"
-  },
   "126782": {
     "name": "Онигири из перловки с треской и креветкой",
     "price": "132",
@@ -187,5 +180,12 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-kobb-s-kuritsey-124963/"
+  },
+  "110086": {
+    "name": "Пиццета \"Овощная\"",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pitstseta-ovoshchnaya-110086/"
   }
 }
