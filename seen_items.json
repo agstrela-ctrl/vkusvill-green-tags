@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-pyure-s-gribami-19435/"
   },
-  "101898": {
-    "name": "Лепешки картофельные с гаудой и пармезаном",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshki-kartofelnye-s-gaudoy-i-parmezanom-101898/"
-  },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
     "price": "62",
@@ -76,26 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mintay-zharenyy-file-63774/"
   },
-  "116602": {
-    "name": "Паста \"Болоньезе с соусом свит-чили\"",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-boloneze-s-sousom-svit-chili-116602/"
-  },
   "29461": {
     "name": "Коврижка яблочная постная, кафе",
     "price": "109",
     "old_price": "182",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
-  },
-  "100146": {
-    "name": "Похлебка с тыквой, индейкой и зеленой чечевицей",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pokhlebka-s-tykvoy-100146/"
   },
   "109310": {
     "name": "Тушка перепела",
@@ -125,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   },
-  "118959": {
-    "name": "Салат-боул с креветкой, авокадо и кукурузой",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
-  },
   "125034": {
     "name": "Блины с бананом и ореховой пастой",
     "price": "155",
@@ -153,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
   },
-  "40936": {
-    "name": "Пирожки постные с капустой и зеленью, 140 г (2 шт)",
-    "price": "96",
-    "old_price": "160",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-postnye-s-kapustoy-i-zelenyu-40936/"
-  },
   "67713": {
     "name": "Хлеб \"Тостовый\" нарезка, 250 г",
     "price": "62",
@@ -180,12 +145,5 @@
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
-  },
-  "110086": {
-    "name": "Пиццета \"Овощная\"",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstseta-ovoshchnaya-110086/"
   }
 }
