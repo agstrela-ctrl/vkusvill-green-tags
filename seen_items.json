@@ -41,40 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-70074/"
   },
-  "98700": {
-    "name": "Оладьи на кефире, 7 шт",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-na-kefire-98700/"
-  },
-  "58178": {
-    "name": "Крем-суп с тыквой и индейкой",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
-  },
-  "101657": {
-    "name": "Десерт \"Баноффи\" с бананом и маскарпоне",
-    "price": "227",
-    "old_price": "378",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-banoffi-s-bananom-i-maskarpone-101657/"
-  },
   "83097": {
     "name": "Манты по-восточному",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/manty-po-vostochnomu-83097/"
-  },
-  "54391": {
-    "name": "Мясо по-французски с печеным картофелем",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-54391/"
   },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
@@ -131,20 +103,6 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassany-mini-oblepikha-mandarin-116154/"
-  },
-  "61013": {
-    "name": "Эклеры с заварным кремом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-s-zavarnym-kremom-61013/"
-  },
-  "125710": {
-    "name": "Салат \"Ташкент\" с говядиной, яйцом и зеленой редькой",
-    "price": "233",
-    "old_price": "388",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tashkent-s-govyadinoy-125710/"
   },
   "116366": {
     "name": "Сэндвич ролл с индейкой и клюквой",
