@@ -55,6 +55,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
   },
+  "34100": {
+    "name": "Грудка цыплят-бройлеров",
+    "price": "339",
+    "old_price": "565",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-34100/"
+  },
   "83097": {
     "name": "Манты по-восточному",
     "price": "198",
@@ -97,6 +104,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tostovyy-narezka-67713/"
   },
+  "67171": {
+    "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
+    "price": "235",
+    "old_price": "392",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
+  },
   "109310": {
     "name": "Тушка перепела",
     "price": "720",
@@ -117,6 +131,13 @@
     "old_price": "280",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-zharenymi-krevetkami-113296/"
+  },
+  "116154": {
+    "name": "Круассаны-мини \"Облепиха-мандарин\", 6 шт",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassany-mini-oblepikha-mandarin-116154/"
   },
   "125710": {
     "name": "Салат \"Ташкент\" с говядиной, яйцом и зеленой редькой",
