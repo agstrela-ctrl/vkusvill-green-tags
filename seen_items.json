@@ -1,11 +1,4 @@
 {
-  "124474": {
-    "name": "Трубочка-фило с яйцом, сыром и зеленым луком",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
-  },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
     "price": "62",
@@ -13,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
-  "40564": {
-    "name": "Салат оливье с колбасой, 600 г",
-    "price": "372",
-    "old_price": "620",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-olive-s-kolbasoy-40564/"
-  },
   "109310": {
     "name": "Тушка перепела",
     "price": "720",
     "old_price": "1200",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
-  },
-  "110403": {
-    "name": "Вкусмаффин с ветчиной, сыром и яйцом",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vkusmaffin-s-vetchinoy-110403/"
   },
   "116154": {
     "name": "Круассаны-мини \"Облепиха-мандарин\", 6 шт",
