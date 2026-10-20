@@ -1,9 +1,23 @@
 {
-  "114880": {
-    "name": "Стейк \"Стриплоин\" сухого вызревания, 300 г",
-    "price": "1158",
-    "old_price": "1930",
+  "605": {
+    "name": "Лук репчатый",
+    "price": "32",
+    "old_price": "54",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "91932": {
+    "name": "Сардина тушки бланшированные в томате, 175 г",
+    "price": "147",
+    "old_price": "245",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-striploin-sukhogo-vyzrevaniya-114880/"
+    "link": "https://vkusvill.ru/goods/sardina-tushki-blanshirovannye-v-tomate-91932/"
+  },
+  "45982": {
+    "name": "Томаты La Molisana Cubettata очищенные резаные 400 г",
+    "price": "172",
+    "old_price": "286",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-la-molisana-cubettata-ochishchennye-rezanye-400-g-45982/"
   }
 }
