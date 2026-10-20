@@ -5,5 +5,40 @@
     "old_price": "54",
     "discount": "41",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "32936": {
+    "name": "Тартин пшеничный, половинка",
+    "price": "50",
+    "old_price": "84",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
+  },
+  "20234": {
+    "name": "Салат Шпинат, 50 г",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-shpinat-20234/"
+  },
+  "114880": {
+    "name": "Стейк \"Стриплоин\" сухого вызревания, 300 г",
+    "price": "1158",
+    "old_price": "1930",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-striploin-sukhogo-vyzrevaniya-114880/"
+  },
+  "53885": {
+    "name": "Пирожное \"Корзиночки с белковым кремом\", 2 шт.",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-korzinochki-s-belkovym-kremom-53885/"
+  },
+  "59927": {
+    "name": "Сметана РостАгроЭкспорт 10% 320 г",
+    "price": "98",
+    "old_price": "164",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/smetana-rostagroeksport-10-320-g-59927/"
   }
 }
