@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-29906/"
   },
-  "96587": {
-    "name": "Салат винегрет, 180 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-96587/"
-  },
   "108186": {
     "name": "Салат с консервированным тунцом и яблоком",
     "price": "179",
@@ -26,13 +19,6 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
-  },
-  "61688": {
-    "name": "Котлета рыбная с картофельным пюре",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-rybnaya-s-kartofelnym-pyure-61688/"
   },
   "99858": {
     "name": "Оладьи из тыквы",
@@ -90,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-malina-112143/"
   },
-  "48189": {
-    "name": "Плов \"Узбекский\" с говядиной, 500 г",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-48189/"
-  },
   "54161": {
     "name": "Грузинский суп из фасоли с овощами",
     "price": "125",
@@ -110,13 +89,6 @@
     "old_price": "536",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-tiramisu-69161/"
-  },
-  "65409": {
-    "name": "Салат \"Витаминный\" с лимонной заправкой, 500 г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
   },
   "124183": {
     "name": "Эклеры \"Манго и маракуйя\" с кремчиз, 3 шт",
@@ -202,13 +174,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-ramen-s-indeykoy-70454/"
   },
-  "111702": {
-    "name": "Салат \"Цезарь\" с креветками",
-    "price": "287",
-    "old_price": "478",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
-  },
   "41303": {
     "name": "Солянка из семги и форели",
     "price": "184",
@@ -271,13 +236,6 @@
     "old_price": "650",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylyshki-tsyplenka-broylera-s-kurkumoy-96008/"
-  },
-  "50459": {
-    "name": "Пирожное \"Шоколадный Микс\"",
-    "price": "148",
-    "old_price": "246",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-shokoladnyy-miks-50459/"
   },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
@@ -446,12 +404,5 @@
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tart-oblepikha-s-kharakterom-125192/"
-  },
-  "108645": {
-    "name": "Творожник с клубникой, 140 г",
-    "price": "104",
-    "old_price": "174",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorozhnik-s-klubnikoy-108645/"
   }
 }
