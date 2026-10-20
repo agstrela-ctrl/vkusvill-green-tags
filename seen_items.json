@@ -62,6 +62,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-34100/"
   },
+  "101657": {
+    "name": "Десерт \"Баноффи\" с бананом и маскарпоне",
+    "price": "227",
+    "old_price": "378",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-banoffi-s-bananom-i-maskarpone-101657/"
+  },
   "83097": {
     "name": "Манты по-восточному",
     "price": "198",
@@ -138,6 +145,13 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassany-mini-oblepikha-mandarin-116154/"
+  },
+  "61013": {
+    "name": "Эклеры с заварным кремом",
+    "price": "221",
+    "old_price": "368",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/eklery-s-zavarnym-kremom-61013/"
   },
   "125710": {
     "name": "Салат \"Ташкент\" с говядиной, яйцом и зеленой редькой",
