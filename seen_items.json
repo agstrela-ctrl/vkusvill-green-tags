@@ -1,18 +1,4 @@
 {
-  "27215": {
-    "name": "Вода минеральная \"Псыж\" газ., 1 л",
-    "price": "45",
-    "old_price": "75",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-mineralnaya-psyzh-gaz-27215/"
-  },
-  "121046": {
-    "name": "Трубочки с сыром и шпинатом, 4 шт",
-    "price": "220",
-    "old_price": "367",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-syrom-i-shpinatom-121046/"
-  },
   "124474": {
     "name": "Трубочка-фило с яйцом, сыром и зеленым луком",
     "price": "143",
@@ -33,13 +19,6 @@
     "old_price": "620",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-olive-s-kolbasoy-40564/"
-  },
-  "63774": {
-    "name": "Минтай жареный филе, 200 г",
-    "price": "244",
-    "old_price": "407",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mintay-zharenyy-file-63774/"
   },
   "109310": {
     "name": "Тушка перепела",
