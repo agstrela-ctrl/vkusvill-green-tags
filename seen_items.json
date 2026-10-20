@@ -41,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
   },
+  "15194": {
+    "name": "Укроп, 50 г",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ukrop-15194/"
+  },
   "123943": {
     "name": "Десерт \"Ореховый\" с карамелью, веган",
     "price": "131",
@@ -55,12 +62,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-malina-112143/"
   },
-  "54161": {
-    "name": "Грузинский суп из фасоли с овощами",
-    "price": "125",
-    "old_price": "208",
+  "69912": {
+    "name": "Микс салатный \"Цезарь\" 140 г",
+    "price": "105",
+    "old_price": "175",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/gruzinskiy-sup-iz-fasoli-s-ovoshchami-54161/"
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
+  },
+  "98731": {
+    "name": "Арбуз сердцевина, 300 г",
+    "price": "213",
+    "old_price": "355",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
   "124183": {
     "name": "Эклеры \"Манго и маракуйя\" с кремчиз, 3 шт",
@@ -75,13 +89,6 @@
     "old_price": "430",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-kurinye-62414/"
-  },
-  "63576": {
-    "name": "Семга филе-кусок на коже охл., 350 г",
-    "price": "798",
-    "old_price": "1330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/semga-file-kusok-na-kozhe-okhl-63576/"
   },
   "98204": {
     "name": "Сэндвич ролл с индейкой и сладким чили",
@@ -132,6 +139,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-gribnoy-v-butylke-123813/"
   },
+  "122910": {
+    "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/fruktovyy-miks-ananas-122910/"
+  },
   "93910": {
     "name": "Сэндвич ролл с говядиной су-вид",
     "price": "168",
@@ -174,6 +188,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
   },
+  "84710": {
+    "name": "Гранат зерна, 100 г",
+    "price": "147",
+    "old_price": "245",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/granat-zerna-84710/"
+  },
   "65425": {
     "name": "Креветки жареные, 150 г",
     "price": "348",
@@ -181,12 +202,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
-  "123819": {
-    "name": "Крем-суп тыквенный в бутылке",
-    "price": "131",
-    "old_price": "218",
+  "75991": {
+    "name": "Микс салатный \"Витамикс\" , 150 г",
+    "price": "159",
+    "old_price": "265",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-v-butylke-123819/"
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
   },
   "122344": {
     "name": "Котлеты с гречкой для приготовления на пару",
@@ -194,13 +215,6 @@
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-dlya-prigotovleniya-na-paru-122344/"
-  },
-  "20973": {
-    "name": "Вафельные трубочки с вареной сгущенкой",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vafelnye-trubochki-s-varenoy-sgushchenkoy-20973/"
   },
   "104067": {
     "name": "Шарики \"Пикантные\" с творожным сыром",
@@ -223,26 +237,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-vishnya-120563/"
   },
-  "123380": {
-    "name": "Паприкаш из курицы с картофелем",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/paprikash-iz-kuritsy-s-kartofelem-123380/"
-  },
   "124452": {
     "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
-  },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
   "108518": {
     "name": "Конвертики с капустой и грибами, постные",
