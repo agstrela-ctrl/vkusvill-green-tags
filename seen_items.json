@@ -13,12 +13,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
   },
-  "20234": {
-    "name": "Салат Шпинат, 50 г",
-    "price": "102",
-    "old_price": "170",
+  "119016": {
+    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
+    "price": "66",
+    "old_price": "110",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-shpinat-20234/"
+    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
+  },
+  "59927": {
+    "name": "Сметана РостАгроЭкспорт 10% 320 г",
+    "price": "98",
+    "old_price": "164",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/smetana-rostagroeksport-10-320-g-59927/"
   },
   "114880": {
     "name": "Стейк \"Стриплоин\" сухого вызревания, 300 г",
@@ -27,18 +34,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-striploin-sukhogo-vyzrevaniya-114880/"
   },
-  "53885": {
-    "name": "Пирожное \"Корзиночки с белковым кремом\", 2 шт.",
-    "price": "89",
-    "old_price": "148",
+  "15495": {
+    "name": "Торт \"Медовик \"Традиционный\"",
+    "price": "238",
+    "old_price": "396",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-korzinochki-s-belkovym-kremom-53885/"
-  },
-  "59927": {
-    "name": "Сметана РостАгроЭкспорт 10% 320 г",
-    "price": "98",
-    "old_price": "164",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/smetana-rostagroeksport-10-320-g-59927/"
+    "link": "https://vkusvill.ru/goods/tort-medovik-traditsionnyy-15495/"
   }
 }
