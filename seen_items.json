@@ -69,27 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-rybnaya-s-kartofelnym-pyure-i-salat-koul-slou-postnyy-114787/"
   },
-  "68047": {
-    "name": "Салат с курицей и апельсиновой заправкой",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-apelsinovoy-zapravkoy-68047/"
-  },
-  "27161": {
-    "name": "Сырники из творога, кафе",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-27161/"
-  },
-  "122910": {
-    "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/fruktovyy-miks-ananas-122910/"
-  },
   "88563": {
     "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
     "price": "166",
@@ -103,13 +82,6 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
-  },
-  "96008": {
-    "name": "Крылышки цыпленка-бройлера с куркумой",
-    "price": "390",
-    "old_price": "650",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylyshki-tsyplenka-broylera-s-kurkumoy-96008/"
   },
   "117108": {
     "name": "Котлета \"Крабовая\" с картофельным пюре",
@@ -153,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-indeyki-s-syrom-115802/"
   },
-  "115822": {
-    "name": "Онигири с тунцом в соево-кунжутном соусе",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
-  },
   "120563": {
     "name": "Десерт кокосовый питьевой с йогуртовой закваской \"Вишня\"",
     "price": "97",
@@ -173,12 +138,5 @@
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-kuritsy-i-indeyki-125768/"
-  },
-  "84710": {
-    "name": "Гранат зерна, 100 г",
-    "price": "147",
-    "old_price": "245",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/granat-zerna-84710/"
   }
 }
