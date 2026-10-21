@@ -1,30 +1,16 @@
 {
-  "111102": {
-    "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
-    "price": "204",
-    "old_price": "340",
+  "110444": {
+    "name": "Шаурма с курицей и томатным соусом на гриле, кафе",
+    "price": "185",
+    "old_price": "309",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-tomatnym-sousom-na-grile-110444/"
   },
-  "65425": {
-    "name": "Креветки жареные, 150 г",
-    "price": "348",
-    "old_price": "580",
+  "39249": {
+    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
+    "price": "180",
+    "old_price": "300",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
-  "120563": {
-    "name": "Десерт кокосовый питьевой с йогуртовой закваской \"Вишня\"",
-    "price": "97",
-    "old_price": "162",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-vishnya-120563/"
-  },
-  "73328": {
-    "name": "Колбаски Кебабчета, зам.",
-    "price": "429",
-    "old_price": "715",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-kebabcheta-73328/"
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
   }
 }
