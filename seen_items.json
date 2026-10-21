@@ -76,19 +76,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
+  "54161": {
+    "name": "Грузинский суп из фасоли с овощами",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/gruzinskiy-sup-iz-fasoli-s-ovoshchami-54161/"
+  },
   "124183": {
     "name": "Эклеры \"Манго и маракуйя\" с кремчиз, 3 шт",
     "price": "190",
     "old_price": "316",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eklery-mango-i-marakuyya-s-kremchiz-124183/"
-  },
-  "62414": {
-    "name": "Котлеты куриные",
-    "price": "258",
-    "old_price": "430",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-62414/"
   },
   "98204": {
     "name": "Сэндвич ролл с индейкой и сладким чили",
@@ -146,13 +146,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/fruktovyy-miks-ananas-122910/"
   },
-  "93910": {
-    "name": "Сэндвич ролл с говядиной су-вид",
-    "price": "168",
-    "old_price": "280",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-govyadinoy-su-vid-93910/"
-  },
   "88563": {
     "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
     "price": "166",
@@ -187,13 +180,6 @@
     "old_price": "206",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
-  },
-  "84710": {
-    "name": "Гранат зерна, 100 г",
-    "price": "147",
-    "old_price": "245",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/granat-zerna-84710/"
   },
   "65425": {
     "name": "Креветки жареные, 150 г",
@@ -265,11 +251,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-kuritsy-i-indeyki-125768/"
   },
+  "84710": {
+    "name": "Гранат зерна, 100 г",
+    "price": "147",
+    "old_price": "245",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/granat-zerna-84710/"
+  },
   "58174": {
     "name": "Салат \"Цезарь\" с курицей, 450 г",
     "price": "396",
     "old_price": "660",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-58174/"
+  },
+  "125192": {
+    "name": "Тарт \"Облепиха с характером\"",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tart-oblepikha-s-kharakterom-125192/"
   }
 }
