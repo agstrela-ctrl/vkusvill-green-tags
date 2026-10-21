@@ -13,12 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
   },
-  "115321": {
-    "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
-    "price": "180",
-    "old_price": "300",
+  "53013": {
+    "name": "Печенье \"Полезный завтрак\" с медом и овс. хлопьями",
+    "price": "65",
+    "old_price": "108",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
+    "link": "https://vkusvill.ru/goods/pechene-poleznyy-zavtrak-s-medom-i-ovs-khlopyami-53013/"
   },
   "123943": {
     "name": "Десерт \"Ореховый\" с карамелью, веган",
@@ -55,33 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
   },
-  "119016": {
-    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
     "old_price": "356",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
-  "117108": {
-    "name": "Котлета \"Крабовая\" с картофельным пюре",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-krabovaya-s-kartofelnym-pyure-117108/"
-  },
-  "109679": {
-    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
   },
   "65425": {
     "name": "Креветки жареные, 150 г",
@@ -110,13 +89,6 @@
     "old_price": "162",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-vishnya-120563/"
-  },
-  "125096": {
-    "name": "Лепешка Роти сырная со шпинатом и яйцом",
-    "price": "146",
-    "old_price": "244",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-roti-syrnaya-so-shpinatom-i-yaytsom-125096/"
   },
   "73328": {
     "name": "Колбаски Кебабчета, зам.",
