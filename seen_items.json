@@ -20,13 +20,6 @@
     "discount": "39",
     "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
   },
-  "96587": {
-    "name": "Салат винегрет, 180 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-96587/"
-  },
   "126291": {
     "name": "Курица по-чкмерски в сливочно-чесночном соусе с картофелем",
     "price": "209",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syrniki-na-mindalnoy-muke-s-siropom-topinambura-96332/"
   },
-  "97075": {
-    "name": "Оладьи куриные с кабачком, 130 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-kurinye-s-kabachkom-97075/"
-  },
   "16416": {
     "name": "Суп с фрикадельками из индейки",
     "price": "130",
@@ -82,5 +68,103 @@
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+  },
+  "113856": {
+    "name": "Салат из запеченной свеклы с сыром фета",
+    "price": "142",
+    "old_price": "236",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
+  },
+  "53516": {
+    "name": "Курица в сливочном соусе с гречкой",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
+  },
+  "115321": {
+    "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
+  },
+  "106756": {
+    "name": "Хлеб \"Монж\", нарезка",
+    "price": "77",
+    "old_price": "128",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
+  },
+  "111212": {
+    "name": "Куриное филе запеченное с цукини и моцареллой",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-tsukini-i-motsarelloy-111212/"
+  },
+  "15310": {
+    "name": "Кинза, 50 г",
+    "price": "59",
+    "old_price": "98",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kinza-15310/"
+  },
+  "21482": {
+    "name": "Лаваш \"Армянский\" тандырный, 150 г",
+    "price": "44",
+    "old_price": "74",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-21482/"
+  },
+  "58173": {
+    "name": "Котлета куриная с картофельным пюре, 400 г",
+    "price": "282",
+    "old_price": "470",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-58173/"
+  },
+  "81582": {
+    "name": "Торт \"Маракуйя\", 1 кг",
+    "price": "694",
+    "old_price": "1156",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-marakuyya-81582/"
+  },
+  "97844": {
+    "name": "Крем-суп тыквенный",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
+  },
+  "76087": {
+    "name": "Салат Фриллис, 100 г",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-frillis-76087/"
+  },
+  "117147": {
+    "name": "Паста Карбонара с креветками и беконом",
+    "price": "201",
+    "old_price": "335",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-karbonara-s-krevetkami-i-bekonom-117147/"
+  },
+  "114875": {
+    "name": "Долма с мясом и рисом по-грузински",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dolma-s-myasom-i-risom-po-gruzinski-114875/"
+  },
+  "113574": {
+    "name": "Батон \"Сдобный\" на сливочном масле",
+    "price": "47",
+    "old_price": "79",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
   }
 }
