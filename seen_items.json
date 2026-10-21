@@ -1,16 +1,16 @@
 {
-  "21849": {
-    "name": "Сельдь малосоленая филе, 200 г",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/seld-malosolenaya-file-21849/"
-  },
   "120563": {
     "name": "Десерт кокосовый питьевой с йогуртовой закваской \"Вишня\"",
     "price": "97",
     "old_price": "162",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-vishnya-120563/"
+  },
+  "124452": {
+    "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
   }
 }
