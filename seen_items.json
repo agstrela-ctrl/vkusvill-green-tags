@@ -1,11 +1,4 @@
 {
-  "20969": {
-    "name": "Котлета куриная с картофельным пюре",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-20969/"
-  },
   "29522": {
     "name": "Голубцы ленивые в сметанном соусе",
     "price": "150",
@@ -34,20 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vinegret-96587/"
   },
-  "68083": {
-    "name": "Салат с курицей и ананасами, 180 г",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-ananasami-68083/"
-  },
-  "121046": {
-    "name": "Трубочки с сыром и шпинатом, 4 шт",
-    "price": "220",
-    "old_price": "367",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-syrom-i-shpinatom-121046/"
-  },
   "126291": {
     "name": "Курица по-чкмерски в сливочно-чесночном соусе с картофелем",
     "price": "209",
@@ -62,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
   },
-  "114890": {
-    "name": "Мини-чиабатта с курицей, сыром \"Гауда\" и соусом барбекю",
-    "price": "190",
-    "old_price": "316",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kuritsey-114890/"
-  },
   "32936": {
     "name": "Тартин пшеничный, половинка",
     "price": "50",
@@ -82,5 +54,33 @@
     "old_price": "296",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syrniki-na-mindalnoy-muke-s-siropom-topinambura-96332/"
+  },
+  "97075": {
+    "name": "Оладьи куриные с кабачком, 130 г",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/oladi-kurinye-s-kabachkom-97075/"
+  },
+  "16416": {
+    "name": "Суп с фрикадельками из индейки",
+    "price": "130",
+    "old_price": "216",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
+  },
+  "17243": {
+    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
+    "price": "38",
+    "old_price": "63",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
+  },
+  "58728": {
+    "name": "Хлеб цельнозерновой с отрубями",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   }
 }
