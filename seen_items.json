@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinye-chipsy-syrovyalenye-74495/"
   },
-  "67188": {
-    "name": "Лук зеленый, 50 г",
-    "price": "41",
-    "old_price": "68",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-zelenyy-67188/"
-  },
   "61936": {
     "name": "Фарш из мяса курицы, индейки и кролика",
     "price": "318",
@@ -90,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-kholodnogo-kopcheniya-lomtiki-38875/"
   },
-  "70898": {
-    "name": "Котлета на косточке свиная, 400 г",
-    "price": "176",
-    "old_price": "294",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-na-kostochke-svinaya-70898/"
-  },
   "23151": {
     "name": "Шницель куриный с сыром, 480 г",
     "price": "246",
@@ -104,33 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-s-syrom-23151/"
   },
-  "121259": {
-    "name": "Сосиски из курицы и индейки с сыром Халяль",
-    "price": "211",
-    "old_price": "352",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-i-indeyki-s-syrom-khalyal-121259/"
-  },
-  "26198": {
-    "name": "Изделие х/б \"Бородинский\" бездрожжевой",
-    "price": "49",
-    "old_price": "82",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-borodinskiy-bezdrozhzhevoy-26198/"
-  },
   "124581": {
     "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
     "price": "36",
     "old_price": "60",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
-  },
-  "121225": {
-    "name": "Колбаса \"Классическая су-вид\" вареная, нарезка",
-    "price": "181",
-    "old_price": "301",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-su-vid-varenaya-121225/"
   },
   "112416": {
     "name": "Колбаса вареная \"Мортаделла Трюфельная\", нарезка 120 г",
@@ -146,18 +111,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
   },
+  "121225": {
+    "name": "Колбаса \"Классическая су-вид\" вареная, нарезка",
+    "price": "181",
+    "old_price": "301",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-su-vid-varenaya-121225/"
+  },
+  "26198": {
+    "name": "Изделие х/б \"Бородинский\" бездрожжевой",
+    "price": "49",
+    "old_price": "82",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-borodinskiy-bezdrozhzhevoy-26198/"
+  },
   "117662": {
     "name": "Сосиски с протеином \"Классические\"",
     "price": "226",
     "old_price": "376",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-s-proteinom-klassicheskie-117662/"
-  },
-  "114219": {
-    "name": "Ассорти из цыпленка-бройлера на зерновом откорме",
-    "price": "410",
-    "old_price": "683",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-iz-tsyplenka-broylera-na-zernovom-otkorme-114219/"
   }
 }
