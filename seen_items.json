@@ -13,27 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
   },
-  "53013": {
-    "name": "Печенье \"Полезный завтрак\" с медом и овс. хлопьями",
-    "price": "65",
-    "old_price": "108",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-poleznyy-zavtrak-s-medom-i-ovs-khlopyami-53013/"
-  },
-  "123943": {
-    "name": "Десерт \"Ореховый\" с карамелью, веган",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
-  },
-  "98731": {
-    "name": "Арбуз сердцевина, 300 г",
-    "price": "213",
-    "old_price": "355",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
   "117553": {
     "name": "Вода минеральная \"Ессентуки Целебная\" газ., 1,5 л",
     "price": "48",
@@ -41,47 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/voda-mineralnaya-essentuki-tselebnaya-gaz-117553/"
   },
-  "487": {
-    "name": "Окорочок цыпленка-бройлера",
-    "price": "310",
-    "old_price": "516",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okorochok-tsyplenka-broylera-487/"
-  },
-  "88563": {
-    "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
-    "price": "166",
-    "old_price": "276",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
-  },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
   "65425": {
     "name": "Креветки жареные, 150 г",
     "price": "348",
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
-  "118104": {
-    "name": "Мясо по-французски",
-    "price": "505",
-    "old_price": "842",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
-  },
-  "116564": {
-    "name": "Пельмени \"Оренбургские\" говядина-свинина",
-    "price": "248",
-    "old_price": "413",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pelmeni-orenburgskie-govyadina-svinina-116564/"
   },
   "120563": {
     "name": "Десерт кокосовый питьевой с йогуртовой закваской \"Вишня\"",
