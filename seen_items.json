@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-filadelfiya-46648/"
   },
-  "102354": {
-    "name": "Салат с баклажанами и крем-чизом в азиатском соусе",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-baklazhanami-i-krem-chizom-v-aziatskom-souse-102354/"
-  },
   "99883": {
     "name": "Манты с тыквенной начинкой",
     "price": "174",
@@ -90,27 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-ukrop-69185/"
   },
-  "117147": {
-    "name": "Паста Карбонара с креветками и беконом",
-    "price": "201",
-    "old_price": "335",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-karbonara-s-krevetkami-i-bekonom-117147/"
-  },
-  "51915": {
-    "name": "Вок фунчоза с креветками",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vok-funchoza-s-krevetkami-51915/"
-  },
-  "67188": {
-    "name": "Лук зеленый, 50 г",
-    "price": "41",
-    "old_price": "68",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-zelenyy-67188/"
-  },
   "29758": {
     "name": "Филе бедра индейки \"По-домашнему\", нарезка",
     "price": "241",
@@ -125,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
   },
-  "116602": {
-    "name": "Паста \"Болоньезе с соусом свит-чили\"",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-boloneze-s-sousom-svit-chili-116602/"
-  },
   "125132": {
     "name": "Рулетики из цукини с творожным сыром и базиликом",
     "price": "173",
@@ -145,13 +110,6 @@
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-eklerov-vanil-53470/"
-  },
-  "68307": {
-    "name": "Суп Том ям с курицей",
-    "price": "184",
-    "old_price": "307",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-tom-yam-s-kuritsey-68307/"
   },
   "91332": {
     "name": "Суп Фо Бо",
@@ -222,13 +180,6 @@
     "old_price": "962",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/azu-iz-molodogo-barashka-125684/"
-  },
-  "121878": {
-    "name": "Торт профитролевый \"Черный лес\"",
-    "price": "358",
-    "old_price": "597",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-profitrolevyy-chernyy-les-121878/"
   },
   "125717": {
     "name": "Онигири с кимчи и свининой",
@@ -341,13 +292,6 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
-  },
-  "26198": {
-    "name": "Изделие х/б \"Бородинский\" бездрожжевой",
-    "price": "49",
-    "old_price": "82",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-borodinskiy-bezdrozhzhevoy-26198/"
   },
   "117662": {
     "name": "Сосиски с протеином \"Классические\"",
