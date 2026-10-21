@@ -62,26 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-malina-112143/"
   },
-  "69912": {
-    "name": "Микс салатный \"Цезарь\" 140 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
-  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
     "old_price": "355",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
-  "54161": {
-    "name": "Грузинский суп из фасоли с овощами",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gruzinskiy-sup-iz-fasoli-s-ovoshchami-54161/"
   },
   "124183": {
     "name": "Эклеры \"Манго и маракуйя\" с кремчиз, 3 шт",
@@ -104,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-tsyplenka-broylera-khalyal-102214/"
   },
-  "36430": {
-    "name": "Биточки из мяса цыплят-бройлеров с сыром",
-    "price": "266",
-    "old_price": "444",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-tsyplyat-broylerov-s-syrom-36430/"
-  },
   "114787": {
     "name": "Комбо-набор: Котлета рыбная с картофельным пюре и Салат \"Коул Слоу\" постный",
     "price": "240",
@@ -131,13 +110,6 @@
     "old_price": "354",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-napoleon-848/"
-  },
-  "123813": {
-    "name": "Крем-суп грибной в бутылке",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-gribnoy-v-butylke-123813/"
   },
   "122910": {
     "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
@@ -202,13 +174,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-dlya-prigotovleniya-na-paru-122344/"
   },
-  "104067": {
-    "name": "Шарики \"Пикантные\" с творожным сыром",
-    "price": "217",
-    "old_price": "362",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shariki-pikantnye-s-tvorozhnym-syrom-104067/"
-  },
   "115802": {
     "name": "Биточки из индейки с сыром",
     "price": "172",
@@ -236,13 +201,6 @@
     "old_price": "196",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-kapustoy-i-gribami-108518/"
-  },
-  "117221": {
-    "name": "Сэндвич ролл \"Цезарь\" с креветками",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-s-krevetkami-117221/"
   },
   "125768": {
     "name": "Котлеты из курицы и индейки",
