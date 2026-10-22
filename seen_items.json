@@ -1,10 +1,17 @@
 {
-  "15456": {
-    "name": "Томаты красные",
-    "price": "162",
-    "old_price": "270",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-krasnye-15456/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "32",
+    "old_price": "54",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
   "115953": {
     "name": "Попкорн Seeberger Sweetened popcorn сладкий для микроволновой печи 90 г",
