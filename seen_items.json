@@ -20,19 +20,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-karbonara-so-slivkami-118098/"
   },
+  "17525": {
+    "name": "Молоко 3,2% в бутылке, 900 мл",
+    "price": "62",
+    "old_price": "104",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-3-17525/"
+  },
   "68797": {
     "name": "Картофельное пюре, 500 г",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofelnoe-pyure-68797/"
-  },
-  "112775": {
-    "name": "Изделие х/б \"Зерновой\" с куркумой",
-    "price": "61",
-    "old_price": "102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
   },
   "99883": {
     "name": "Манты с тыквенной начинкой",
@@ -47,6 +47,13 @@
     "old_price": "303",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-filadelfiya-40527/"
+  },
+  "18271": {
+    "name": "Кефир 3,2% в бутылке, 900 г",
+    "price": "70",
+    "old_price": "117",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-3-18271/"
   },
   "69185": {
     "name": "Микс укроп, петрушка, 50 г",
