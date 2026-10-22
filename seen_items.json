@@ -1,4 +1,11 @@
 {
+  "105273": {
+    "name": "Каша овсяная на безлактозном молоке с ягодами и миндальными лепестками, кафе",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-na-bezlaktoznom-moloke-s-yagodami-i-mindalnymi-lepestkami-105273/"
+  },
   "112770": {
     "name": "Хлеб \"Свекольно-морковный\"",
     "price": "66",
@@ -13,12 +20,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
   },
+  "74314": {
+    "name": "Сырники творожные с клубничной начинкой",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-s-klubnichnoy-nachinkoy-74314/"
+  },
   "116154": {
     "name": "Круассаны-мини \"Облепиха-мандарин\", 6 шт",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassany-mini-oblepikha-mandarin-116154/"
+  },
+  "119778": {
+    "name": "Йогурт питьевой \"Злаки\" 1,8%",
+    "price": "58",
+    "old_price": "96",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-zlaki-1-119778/"
+  },
+  "41146": {
+    "name": "Сливки 10%, 200 г",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/slivki-10-41146/"
   },
   "120902": {
     "name": "Кекс с цедрой апельсина на альтернативной муке, 2 шт",
