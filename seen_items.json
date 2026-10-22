@@ -6,33 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-70074/"
   },
-  "40527": {
-    "name": "Салат \"Филадельфия\"",
-    "price": "182",
-    "old_price": "303",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-filadelfiya-40527/"
-  },
-  "16416": {
-    "name": "Суп с фрикадельками из индейки",
-    "price": "130",
-    "old_price": "216",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
-  },
   "125099": {
     "name": "Паста Кампанелле с курицей и грибным соусом",
     "price": "221",
     "old_price": "368",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-kampanelle-s-kuritsey-i-gribnym-sousom-125099/"
-  },
-  "63774": {
-    "name": "Минтай жареный филе, 200 г",
-    "price": "244",
-    "old_price": "407",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mintay-zharenyy-file-63774/"
   },
   "112464": {
     "name": "Салат руккола с креветкой",
@@ -69,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
   },
-  "47413": {
-    "name": "Салат с мясом индейки и гранатовым соусом",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-myasom-indeyki-i-granatovym-sousom-47413/"
-  },
   "83788": {
     "name": "Форель малосоленая \"опаленная\" филе-кусок, 150 г",
     "price": "310",
@@ -97,26 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-krabovaya-s-kartofelnym-pyure-117108/"
   },
-  "122769": {
-    "name": "Суп \"Легкий\" с птитимом и креветками",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
-  },
   "116154": {
     "name": "Круассаны-мини \"Облепиха-мандарин\", 6 шт",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassany-mini-oblepikha-mandarin-116154/"
-  },
-  "123819": {
-    "name": "Крем-суп тыквенный в бутылке",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-v-butylke-123819/"
   },
   "123299": {
     "name": "Пирожное \"Черемуховое\" со сметанным кремом",
@@ -145,26 +103,5 @@
     "old_price": "630",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-malosolenaya-file-kusok-16590/"
-  },
-  "109046": {
-    "name": "Картофель жареный с грибами, 200 г",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-109046/"
-  },
-  "121690": {
-    "name": "Вок фунчоза с курицей в имбирно-соевом соусе",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vok-funchoza-s-kuritsey-v-imbirno-soevom-souse-121690/"
-  },
-  "124667": {
-    "name": "Тарталетка с облепихой",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartaletka-s-oblepikhoy-124667/"
   }
 }
