@@ -1,4 +1,60 @@
 {
+  "125769": {
+    "name": "Пибимпаб с курицей",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pibimpab-s-kuritsey-125769/"
+  },
+  "61602": {
+    "name": "Суп с куриными фрикадельками и пастой \"Звездочки\"",
+    "price": "130",
+    "old_price": "216",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-kurinymi-frikadelkami-i-pastoy-zvezdochki-61602/"
+  },
+  "16416": {
+    "name": "Суп с фрикадельками из индейки",
+    "price": "130",
+    "old_price": "216",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
+  },
+  "58173": {
+    "name": "Котлета куриная с картофельным пюре, 400 г",
+    "price": "282",
+    "old_price": "470",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-58173/"
+  },
+  "97844": {
+    "name": "Крем-суп тыквенный",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
+  },
+  "63729": {
+    "name": "Шаурма с курицей и печеным картофелем",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-pechenym-kartofelem-63729/"
+  },
+  "24132": {
+    "name": "Блины с вишней",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-vishney-24132/"
+  },
+  "77153": {
+    "name": "Свекольник на кефире",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
+  },
   "105273": {
     "name": "Каша овсяная на безлактозном молоке с ягодами и миндальными лепестками, кафе",
     "price": "132",
@@ -20,6 +76,27 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
   },
+  "77531": {
+    "name": "Филе форели на пару с овощами",
+    "price": "270",
+    "old_price": "450",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-foreli-na-paru-s-ovoshchami-77531/"
+  },
+  "117108": {
+    "name": "Котлета \"Крабовая\" с картофельным пюре",
+    "price": "251",
+    "old_price": "418",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-krabovaya-s-kartofelnym-pyure-117108/"
+  },
+  "122769": {
+    "name": "Суп \"Легкий\" с птитимом и креветками",
+    "price": "191",
+    "old_price": "318",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
+  },
   "74314": {
     "name": "Сырники творожные с клубничной начинкой",
     "price": "132",
@@ -34,12 +111,40 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassany-mini-oblepikha-mandarin-116154/"
   },
-  "119778": {
-    "name": "Йогурт питьевой \"Злаки\" 1,8%",
-    "price": "58",
-    "old_price": "96",
+  "123819": {
+    "name": "Крем-суп тыквенный в бутылке",
+    "price": "131",
+    "old_price": "218",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-zlaki-1-119778/"
+    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-v-butylke-123819/"
+  },
+  "51915": {
+    "name": "Вок фунчоза с креветками",
+    "price": "203",
+    "old_price": "338",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vok-funchoza-s-krevetkami-51915/"
+  },
+  "119651": {
+    "name": "Говядина в томатном соусе с кабачками гриль и гречкой",
+    "price": "245",
+    "old_price": "408",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-v-tomatnom-souse-s-kabachkami-gril-i-grechkoy-119651/"
+  },
+  "125132": {
+    "name": "Рулетики из цукини с творожным сыром и базиликом",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsukini-s-tvorozhnym-syrom-i-bazilikom-125132/"
+  },
+  "121690": {
+    "name": "Вок фунчоза с курицей в имбирно-соевом соусе",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vok-funchoza-s-kuritsey-v-imbirno-soevom-souse-121690/"
   },
   "41146": {
     "name": "Сливки 10%, 200 г",
@@ -47,12 +152,5 @@
     "old_price": "87",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/slivki-10-41146/"
-  },
-  "120902": {
-    "name": "Кекс с цедрой апельсина на альтернативной муке, 2 шт",
-    "price": "145",
-    "old_price": "242",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
   }
 }
