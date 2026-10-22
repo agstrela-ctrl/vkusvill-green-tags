@@ -1,94 +1,73 @@
 {
-  "111618": {
-    "name": "Лазанья с курицей",
-    "price": "233",
-    "old_price": "388",
+  "112775": {
+    "name": "Изделие х/б \"Зерновой\" с куркумой",
+    "price": "61",
+    "old_price": "102",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/lazanya-s-kuritsey-111618/"
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
   },
-  "65192": {
-    "name": "Изделие х/б \"Цельнозерновой\" полбяной с семенами льна",
-    "price": "89",
-    "old_price": "149",
+  "125212": {
+    "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
+    "price": "197",
+    "old_price": "328",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoy-polbyanoy-s-semenami-lna-65192/"
+    "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
-  "22929": {
-    "name": "Куриное филе запеченное с овощами",
-    "price": "216",
-    "old_price": "360",
+  "110608": {
+    "name": "Клаб-сэндвич на угольном хлебе с пастрами из курицы и соусом \"Пряная паприка\"",
+    "price": "156",
+    "old_price": "260",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-ovoshchami-22929/"
+    "link": "https://vkusvill.ru/goods/klab-sendvich-na-ugolnom-khlebe-s-pastrami-iz-kuritsy-i-sousom-pryanaya-paprika-110608/"
   },
-  "17243": {
-    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
-    "price": "38",
-    "old_price": "63",
+  "29758": {
+    "name": "Филе бедра индейки \"По-домашнему\", нарезка",
+    "price": "241",
+    "old_price": "402",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
+    "link": "https://vkusvill.ru/goods/file-bedra-indeyki-po-domashnemu-29758/"
   },
-  "89186": {
-    "name": "Хлеб \"На кефире с сывороткой\", нарезка",
-    "price": "60",
-    "old_price": "100",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-na-kefire-s-syvorotkoy-89186/"
-  },
-  "125473": {
-    "name": "Плов \"Самаркандский\" с изюмом",
-    "price": "316",
-    "old_price": "526",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-samarkandskiy-s-izyumom-125473/"
-  },
-  "69912": {
-    "name": "Микс салатный \"Цезарь\" 140 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
-  },
-  "14993": {
-    "name": "Морковь-мини",
-    "price": "75",
-    "old_price": "125",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-mini-14993/"
-  },
-  "61751": {
-    "name": "Гречка отварная с овощами, 200 г",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
-  },
-  "19435": {
-    "name": "Суп-пюре с грибами",
+  "105273": {
+    "name": "Каша овсяная на безлактозном молоке с ягодами и миндальными лепестками, кафе",
     "price": "132",
     "old_price": "220",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-pyure-s-gribami-19435/"
+    "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-na-bezlaktoznom-moloke-s-yagodami-i-mindalnymi-lepestkami-105273/"
   },
-  "124643": {
-    "name": "Молоко козье безлактозное, 3,0-4,5%, 450мл",
-    "price": "118",
-    "old_price": "197",
+  "115752": {
+    "name": "Кольцо песочное с вареной сгущенкой и арахисом",
+    "price": "80",
+    "old_price": "133",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-koze-bezlaktoznoe-124643/"
+    "link": "https://vkusvill.ru/goods/koltso-pesochnoe-s-varenoy-sgushchenkoy-i-arakhisom-115752/"
   },
-  "83512": {
-    "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
-    "price": "71",
-    "old_price": "118",
+  "100737": {
+    "name": "Лепешка с сыром и картофелем, 2 шт",
+    "price": "172",
+    "old_price": "286",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
+    "link": "https://vkusvill.ru/goods/lepeshka-s-syrom-i-kartofelem-100737/"
   },
-  "118102": {
-    "name": "Шашлык из свиного окорока с аджапсандали",
-    "price": "498",
-    "old_price": "830",
+  "125034": {
+    "name": "Блины с бананом и ореховой пастой",
+    "price": "155",
+    "old_price": "258",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
+    "link": "https://vkusvill.ru/goods/bliny-s-bananom-i-orekhovoy-pastoy-125034/"
+  },
+  "123818": {
+    "name": "Крем-суп сырный в бутылке",
+    "price": "195",
+    "old_price": "325",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-syrnyy-v-butylke-123818/"
+  },
+  "125188": {
+    "name": "Рулька \"Калининградская\" с квашеной капустой и брусникой",
+    "price": "407",
+    "old_price": "678",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
   },
   "118906": {
     "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
@@ -97,11 +76,32 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
   },
+  "118102": {
+    "name": "Шашлык из свиного окорока с аджапсандали",
+    "price": "498",
+    "old_price": "830",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
+  },
   "115953": {
     "name": "Попкорн Seeberger Sweetened popcorn сладкий для микроволновой печи 90 г",
     "price": "124",
     "old_price": "206",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/popkorn-seeberger-sweetened-popcorn-sladkiy-dlya-mikrovolnovoy-pechi-90-g-115953/"
+  },
+  "125193": {
+    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
+    "price": "401",
+    "old_price": "668",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
+  },
+  "117662": {
+    "name": "Сосиски с протеином \"Классические\"",
+    "price": "226",
+    "old_price": "376",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-s-proteinom-klassicheskie-117662/"
   }
 }
