@@ -90,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-dzhapkeyk-s-kremom-120266/"
   },
-  "125684": {
-    "name": "Азу из молодого барашка",
-    "price": "577",
-    "old_price": "962",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/azu-iz-molodogo-barashka-125684/"
-  },
   "125717": {
     "name": "Онигири с кимчи и свининой",
     "price": "131",
@@ -110,13 +103,6 @@
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vinegret-96749/"
-  },
-  "92975": {
-    "name": "Стейк Рибай из говядины зернового откорма, 250 г",
-    "price": "612",
-    "old_price": "1020",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-ribay-iz-govyadiny-zernovogo-otkorma-92975/"
   },
   "34570": {
     "name": "Блины с курицей в сливочном соусе",
@@ -145,13 +131,6 @@
     "old_price": "357",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eklery-plombir-95321/"
-  },
-  "124883": {
-    "name": "Блины с брусникой и марципановым кремом",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-brusnikoy-i-martsipanovym-kremom-124883/"
   },
   "123380": {
     "name": "Паприкаш из курицы с картофелем",
@@ -187,12 +166,5 @@
     "old_price": "376",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-s-proteinom-klassicheskie-117662/"
-  },
-  "121529": {
-    "name": "Пирожки с яйцом и щавелем, 2 шт",
-    "price": "115",
-    "old_price": "191",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-s-yaytsom-i-shchavelem-121529/"
   }
 }
