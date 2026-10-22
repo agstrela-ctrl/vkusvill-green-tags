@@ -1,10 +1,10 @@
 {
-  "96587": {
-    "name": "Салат винегрет, 180 г",
-    "price": "108",
-    "old_price": "180",
+  "110608": {
+    "name": "Клаб-сэндвич на угольном хлебе с пастрами из курицы и соусом \"Пряная паприка\"",
+    "price": "156",
+    "old_price": "260",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-96587/"
+    "link": "https://vkusvill.ru/goods/klab-sendvich-na-ugolnom-khlebe-s-pastrami-iz-kuritsy-i-sousom-pryanaya-paprika-110608/"
   },
   "69185": {
     "name": "Микс укроп, петрушка, 50 г",
@@ -40,20 +40,6 @@
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/paprikash-iz-kuritsy-s-kartofelem-123380/"
-  },
-  "23151": {
-    "name": "Шницель куриный с сыром, 480 г",
-    "price": "246",
-    "old_price": "410",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-s-syrom-23151/"
-  },
-  "124581": {
-    "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
   "118102": {
     "name": "Шашлык из свиного окорока с аджапсандали",
