@@ -27,19 +27,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-kampanelle-s-kuritsey-i-gribnym-sousom-125099/"
   },
-  "58173": {
-    "name": "Котлета куриная с картофельным пюре, 400 г",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-58173/"
-  },
   "63774": {
     "name": "Минтай жареный филе, 200 г",
     "price": "244",
     "old_price": "407",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mintay-zharenyy-file-63774/"
+  },
+  "112464": {
+    "name": "Салат руккола с креветкой",
+    "price": "252",
+    "old_price": "420",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-rukkola-s-krevetkoy-112464/"
   },
   "77153": {
     "name": "Свекольник на кефире",
@@ -68,6 +68,13 @@
     "old_price": "152",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
+  },
+  "47413": {
+    "name": "Салат с мясом индейки и гранатовым соусом",
+    "price": "204",
+    "old_price": "340",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-s-myasom-indeyki-i-granatovym-sousom-47413/"
   },
   "83788": {
     "name": "Форель малосоленая \"опаленная\" филе-кусок, 150 г",
@@ -159,12 +166,5 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartaletka-s-oblepikhoy-124667/"
-  },
-  "41146": {
-    "name": "Сливки 10%, 200 г",
-    "price": "52",
-    "old_price": "87",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/slivki-10-41146/"
   }
 }
