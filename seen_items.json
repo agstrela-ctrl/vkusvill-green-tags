@@ -1,10 +1,10 @@
 {
-  "112775": {
-    "name": "Изделие х/б \"Зерновой\" с куркумой",
-    "price": "61",
-    "old_price": "102",
+  "173": {
+    "name": "Молоко 3,2%, 1 л",
+    "price": "56",
+    "old_price": "93",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
+    "link": "https://vkusvill.ru/goods/moloko-3-173/"
   },
   "125212": {
     "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
-  "110608": {
-    "name": "Клаб-сэндвич на угольном хлебе с пастрами из курицы и соусом \"Пряная паприка\"",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-na-ugolnom-khlebe-s-pastrami-iz-kuritsy-i-sousom-pryanaya-paprika-110608/"
-  },
   "29758": {
     "name": "Филе бедра индейки \"По-домашнему\", нарезка",
     "price": "241",
@@ -27,26 +20,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-bedra-indeyki-po-domashnemu-29758/"
   },
-  "105273": {
-    "name": "Каша овсяная на безлактозном молоке с ягодами и миндальными лепестками, кафе",
-    "price": "132",
-    "old_price": "220",
+  "53885": {
+    "name": "Пирожное \"Корзиночки с белковым кремом\", 2 шт.",
+    "price": "89",
+    "old_price": "148",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-na-bezlaktoznom-moloke-s-yagodami-i-mindalnymi-lepestkami-105273/"
+    "link": "https://vkusvill.ru/goods/pirozhnoe-korzinochki-s-belkovym-kremom-53885/"
   },
-  "115752": {
-    "name": "Кольцо песочное с вареной сгущенкой и арахисом",
-    "price": "80",
-    "old_price": "133",
+  "120266": {
+    "name": "Пирожное \"Джапкейк\" с кремом",
+    "price": "79",
+    "old_price": "132",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/koltso-pesochnoe-s-varenoy-sgushchenkoy-i-arakhisom-115752/"
+    "link": "https://vkusvill.ru/goods/pirozhnoe-dzhapkeyk-s-kremom-120266/"
   },
-  "100737": {
-    "name": "Лепешка с сыром и картофелем, 2 шт",
-    "price": "172",
-    "old_price": "286",
+  "122769": {
+    "name": "Суп \"Легкий\" с птитимом и креветками",
+    "price": "191",
+    "old_price": "318",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-syrom-i-kartofelem-100737/"
+    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
   },
   "125034": {
     "name": "Блины с бананом и ореховой пастой",
@@ -69,27 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
   },
-  "118906": {
-    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
-  },
-  "118102": {
-    "name": "Шашлык из свиного окорока с аджапсандали",
-    "price": "498",
-    "old_price": "830",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
-  },
-  "115953": {
-    "name": "Попкорн Seeberger Sweetened popcorn сладкий для микроволновой печи 90 г",
-    "price": "124",
-    "old_price": "206",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/popkorn-seeberger-sweetened-popcorn-sladkiy-dlya-mikrovolnovoy-pechi-90-g-115953/"
-  },
   "125193": {
     "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
     "price": "401",
@@ -103,5 +75,33 @@
     "old_price": "376",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-s-proteinom-klassicheskie-117662/"
+  },
+  "118102": {
+    "name": "Шашлык из свиного окорока с аджапсандали",
+    "price": "498",
+    "old_price": "830",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
+  },
+  "118906": {
+    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
+  },
+  "115953": {
+    "name": "Попкорн Seeberger Sweetened popcorn сладкий для микроволновой печи 90 г",
+    "price": "124",
+    "old_price": "206",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/popkorn-seeberger-sweetened-popcorn-sladkiy-dlya-mikrovolnovoy-pechi-90-g-115953/"
+  },
+  "118427": {
+    "name": "Сервелат из курицы и индейки с ферментированными специями, нарезка",
+    "price": "110",
+    "old_price": "183",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/servelat-iz-kuritsy-i-indeyki-s-fermentirovannymi-spetsiyami-118427/"
   }
 }
