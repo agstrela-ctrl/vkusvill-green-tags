@@ -1,18 +1,4 @@
 {
-  "125212": {
-    "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
-  },
-  "120266": {
-    "name": "Пирожное \"Джапкейк\" с кремом",
-    "price": "79",
-    "old_price": "132",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-dzhapkeyk-s-kremom-120266/"
-  },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
     "price": "191",
@@ -34,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
   },
-  "118906": {
-    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
-  },
   "117662": {
     "name": "Сосиски с протеином \"Классические\"",
     "price": "226",
@@ -54,12 +33,5 @@
     "old_price": "206",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/popkorn-seeberger-sweetened-popcorn-sladkiy-dlya-mikrovolnovoy-pechi-90-g-115953/"
-  },
-  "118427": {
-    "name": "Сервелат из курицы и индейки с ферментированными специями, нарезка",
-    "price": "110",
-    "old_price": "183",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/servelat-iz-kuritsy-i-indeyki-s-fermentirovannymi-spetsiyami-118427/"
   }
 }
