@@ -1,23 +1,93 @@
 {
-  "18735": {
-    "name": "Морковь мытая",
-    "price": "57",
-    "old_price": "95",
+  "26199": {
+    "name": "Круассан миндальный",
+    "price": "113",
+    "old_price": "189",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
+    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-26199/"
   },
-  "61227": {
-    "name": "Форель филе-кусок на коже зам., 250 г",
-    "price": "441",
-    "old_price": "735",
+  "125600": {
+    "name": "Хлеб для брускетт \"Спельта\" с отрубями, на закваске",
+    "price": "80",
+    "old_price": "133",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-file-kusok-na-kozhe-zam-61227/"
+    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-spelta-s-otrubyami-125600/"
   },
-  "115953": {
-    "name": "Попкорн Seeberger Sweetened popcorn сладкий для микроволновой печи 90 г",
-    "price": "124",
-    "old_price": "206",
+  "126446": {
+    "name": "Брецель с солью",
+    "price": "99",
+    "old_price": "165",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/popkorn-seeberger-sweetened-popcorn-sladkiy-dlya-mikrovolnovoy-pechi-90-g-115953/"
+    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
+  },
+  "125068": {
+    "name": "Круассан \"Калининградский\" с марципановой начинкой",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
+  },
+  "112770": {
+    "name": "Хлеб \"Свекольно-морковный\"",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
+  },
+  "107823": {
+    "name": "Брецель на сливочном масле с кунжутом",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
+  },
+  "65835": {
+    "name": "Круассан миндальный с малиной",
+    "price": "118",
+    "old_price": "196",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-s-malinoy-65835/"
+  },
+  "84065": {
+    "name": "Лепешка \"Иранская\", 3 шт",
+    "price": "54",
+    "old_price": "90",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-iranskaya-84065/"
+  },
+  "20994": {
+    "name": "Рулет с маковой начинкой, половинка",
+    "price": "100",
+    "old_price": "167",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulet-s-makovoy-nachinkoy-20994/"
+  },
+  "122090": {
+    "name": "Булочки для бургера с кунжутом, 3 шт",
+    "price": "51",
+    "old_price": "85",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-s-kunzhutom-122090/"
+  },
+  "116154": {
+    "name": "Круассаны-мини \"Облепиха-мандарин\", 6 шт",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassany-mini-oblepikha-mandarin-116154/"
+  },
+  "120902": {
+    "name": "Кекс с цедрой апельсина на альтернативной муке, 2 шт",
+    "price": "145",
+    "old_price": "242",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
+  },
+  "122232": {
+    "name": "Кекс \"Творожный\", 250 г",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-tvorozhnyy-122232/"
   }
 }
