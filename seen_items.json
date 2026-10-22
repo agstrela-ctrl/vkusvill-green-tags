@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-70074/"
   },
-  "125099": {
-    "name": "Паста Кампанелле с курицей и грибным соусом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-kampanelle-s-kuritsey-i-gribnym-sousom-125099/"
-  },
   "112464": {
     "name": "Салат руккола с креветкой",
     "price": "252",
@@ -75,12 +68,5 @@
     "old_price": "408",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/govyadina-v-tomatnom-souse-s-kabachkami-gril-i-grechkoy-119651/"
-  },
-  "16590": {
-    "name": "Форель малосоленая филе-кусок, 200 г",
-    "price": "378",
-    "old_price": "630",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-malosolenaya-file-kusok-16590/"
   }
 }
