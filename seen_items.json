@@ -6,27 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-26199/"
   },
-  "125600": {
-    "name": "Хлеб для брускетт \"Спельта\" с отрубями, на закваске",
-    "price": "80",
-    "old_price": "133",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-spelta-s-otrubyami-125600/"
-  },
-  "126446": {
-    "name": "Брецель с солью",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
-  },
-  "125068": {
-    "name": "Круассан \"Калининградский\" с марципановой начинкой",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
-  },
   "112770": {
     "name": "Хлеб \"Свекольно-морковный\"",
     "price": "66",
@@ -41,33 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
   },
-  "65835": {
-    "name": "Круассан миндальный с малиной",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-s-malinoy-65835/"
-  },
-  "84065": {
-    "name": "Лепешка \"Иранская\", 3 шт",
-    "price": "54",
-    "old_price": "90",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-iranskaya-84065/"
-  },
   "20994": {
     "name": "Рулет с маковой начинкой, половинка",
     "price": "100",
     "old_price": "167",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-s-makovoy-nachinkoy-20994/"
-  },
-  "122090": {
-    "name": "Булочки для бургера с кунжутом, 3 шт",
-    "price": "51",
-    "old_price": "85",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-s-kunzhutom-122090/"
   },
   "116154": {
     "name": "Круассаны-мини \"Облепиха-мандарин\", 6 шт",
@@ -82,12 +40,5 @@
     "old_price": "242",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
-  },
-  "122232": {
-    "name": "Кекс \"Творожный\", 250 г",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keks-tvorozhnyy-122232/"
   }
 }
