@@ -1,31 +1,10 @@
 {
-  "173": {
-    "name": "Молоко 3,2%, 1 л",
-    "price": "56",
-    "old_price": "93",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-3-173/"
-  },
   "125212": {
     "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
     "price": "197",
     "old_price": "328",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
-  },
-  "29758": {
-    "name": "Филе бедра индейки \"По-домашнему\", нарезка",
-    "price": "241",
-    "old_price": "402",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-bedra-indeyki-po-domashnemu-29758/"
-  },
-  "53885": {
-    "name": "Пирожное \"Корзиночки с белковым кремом\", 2 шт.",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-korzinochki-s-belkovym-kremom-53885/"
   },
   "120266": {
     "name": "Пирожное \"Джапкейк\" с кремом",
@@ -41,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
   },
-  "125034": {
-    "name": "Блины с бананом и ореховой пастой",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-bananom-i-orekhovoy-pastoy-125034/"
-  },
   "123818": {
     "name": "Крем-суп сырный в бутылке",
     "price": "195",
@@ -62,12 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
   },
-  "125193": {
-    "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
-    "price": "401",
-    "old_price": "668",
+  "118906": {
+    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
+    "price": "197",
+    "old_price": "328",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
+    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
   },
   "117662": {
     "name": "Сосиски с протеином \"Классические\"",
@@ -75,20 +47,6 @@
     "old_price": "376",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-s-proteinom-klassicheskie-117662/"
-  },
-  "118102": {
-    "name": "Шашлык из свиного окорока с аджапсандали",
-    "price": "498",
-    "old_price": "830",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
-  },
-  "118906": {
-    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
   },
   "115953": {
     "name": "Попкорн Seeberger Sweetened popcorn сладкий для микроволновой печи 90 г",
