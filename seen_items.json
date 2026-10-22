@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
-  "69185": {
-    "name": "Микс укроп, петрушка, 50 г",
-    "price": "54",
-    "old_price": "90",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-ukrop-69185/"
-  },
   "103754": {
     "name": "Сосиски куриные с картофельным пюре и салат винегрет, 390 г",
     "price": "228",
@@ -34,6 +27,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
   },
+  "125034": {
+    "name": "Блины с бананом и ореховой пастой",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-bananom-i-orekhovoy-pastoy-125034/"
+  },
   "123818": {
     "name": "Крем-суп сырный в бутылке",
     "price": "195",
@@ -54,13 +54,6 @@
     "old_price": "328",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
-  },
-  "108518": {
-    "name": "Конвертики с капустой и грибами, постные",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-kapustoy-i-gribami-108518/"
   },
   "118102": {
     "name": "Шашлык из свиного окорока с аджапсандали",
