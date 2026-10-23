@@ -1,24 +1,10 @@
 {
-  "14526": {
-    "name": "Сметана 15%, 250 г",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/smetana-15-14526/"
-  },
   "61150": {
     "name": "Ролл с огурцом",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
-  },
-  "112770": {
-    "name": "Хлеб \"Свекольно-морковный\"",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
   },
   "107823": {
     "name": "Брецель на сливочном масле с кунжутом",
@@ -27,11 +13,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
   },
-  "123299": {
-    "name": "Пирожное \"Черемуховое\" со сметанным кремом",
-    "price": "131",
-    "old_price": "218",
+  "113602": {
+    "name": "Зефир \"Классический\" в молочном шоколаде, 50 г",
+    "price": "64",
+    "old_price": "107",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-cheremukhovoe-so-smetannym-kremom-123299/"
+    "link": "https://vkusvill.ru/goods/zefir-klassicheskiy-v-molochnom-shokolade-113602/"
+  },
+  "113603": {
+    "name": "Зефир \"Классический\" в темном шоколаде, 50 г",
+    "price": "72",
+    "old_price": "120",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zefir-klassicheskiy-v-temnom-shokolade-113603/"
   }
 }
