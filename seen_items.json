@@ -1,10 +1,59 @@
 {
+  "101864": {
+    "name": "Сэндвич ролл с запеченным тунцом",
+    "price": "178",
+    "old_price": "296",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
+  },
+  "111212": {
+    "name": "Куриное филе запеченное с цукини и моцареллой",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-tsukini-i-motsarelloy-111212/"
+  },
+  "106628": {
+    "name": "Ролл \"Симфония классики\" с сёмгой и творожным сыром",
+    "price": "264",
+    "old_price": "440",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
+  },
+  "52515": {
+    "name": "Омлет белковый с куриным филе, овощами и мягким сыром",
+    "price": "172",
+    "old_price": "287",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/omlet-belkovyy-s-kurinym-file-52515/"
+  },
   "61150": {
     "name": "Ролл с огурцом",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
+  },
+  "96749": {
+    "name": "Салат винегрет, 300 г",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-vinegret-96749/"
+  },
+  "98527": {
+    "name": "Овощи микс на пару",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
+  },
+  "92433": {
+    "name": "Пирожное \"НеМедовик\" шоколадный, веган",
+    "price": "124",
+    "old_price": "206",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
   },
   "113602": {
     "name": "Зефир \"Классический\" в молочном шоколаде, 50 г",
