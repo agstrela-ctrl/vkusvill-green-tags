@@ -1,10 +1,122 @@
 {
-  "605": {
-    "name": "Лук репчатый",
-    "price": "32",
-    "old_price": "54",
+  "488": {
+    "name": "Филе грудки цыпленка-бройлера",
+    "price": "394",
+    "old_price": "656",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-488/"
+  },
+  "64567": {
+    "name": "Полутушка цыпленка-бройлера на зерновом откорме",
+    "price": "335",
+    "old_price": "558",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/polutushka-tsyplenka-broylera-na-zernovom-otkorme-64567/"
+  },
+  "112775": {
+    "name": "Изделие х/б \"Зерновой\" с куркумой",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
+  },
+  "62804": {
+    "name": "Фарш из телятины, 360 г",
+    "price": "254",
+    "old_price": "424",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-telyatiny-62804/"
+  },
+  "23024": {
+    "name": "Ряженка 3,2% в бутылке, 290 г",
+    "price": "44",
+    "old_price": "73",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ryazhenka-3-23024/"
+  },
+  "19417": {
+    "name": "Вырезка из свинины",
+    "price": "484",
+    "old_price": "807",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vyrezka-iz-svininy-19417/"
+  },
+  "39929": {
+    "name": "Печень цыплят-бройлеров, охлажденная",
+    "price": "171",
+    "old_price": "285",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechen-tsyplyat-broylerov-39929/"
+  },
+  "69912": {
+    "name": "Микс салатный \"Цезарь\" 140 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
+  },
+  "61885": {
+    "name": "Говядина филей, 550 г",
+    "price": "536",
+    "old_price": "894",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-filey-61885/"
+  },
+  "113574": {
+    "name": "Батон \"Сдобный\" на сливочном масле",
+    "price": "47",
+    "old_price": "79",
     "discount": "41",
-    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+    "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
+  },
+  "20234": {
+    "name": "Салат Шпинат, 50 г",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-shpinat-20234/"
+  },
+  "72739": {
+    "name": "Биолакт детский \"Лесные ягоды\" 2,5%",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/biolakt-detskiy-lesnye-yagody-2-72739/"
+  },
+  "63121": {
+    "name": "Форель стейк охл., 450 г",
+    "price": "774",
+    "old_price": "1290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/forel-steyk-okhl-63121/"
+  },
+  "44309": {
+    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
+  },
+  "123009": {
+    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
+  "63576": {
+    "name": "Семга филе-кусок на коже охл., 350 г",
+    "price": "798",
+    "old_price": "1330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/semga-file-kusok-na-kozhe-okhl-63576/"
+  },
+  "272": {
+    "name": "Бифилайф детский без доб. сахара 2,9%",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bifilayf-detskiy-bez-dob-sakhara-2-272/"
   },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
@@ -12,5 +124,264 @@
     "old_price": "97",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+  },
+  "24949": {
+    "name": "Тушка цыпленка-бройлера Халяль.",
+    "price": "244",
+    "old_price": "406",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-khalyal-24949/"
+  },
+  "20750": {
+    "name": "Стейк Мачете из говядины",
+    "price": "332",
+    "old_price": "554",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-machete-iz-govyadiny-20750/"
+  },
+  "123120": {
+    "name": "Сметана с бифидобактериями 20%, 200 г",
+    "price": "74",
+    "old_price": "123",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/smetana-s-bifidobakteriyami-20-123120/"
+  },
+  "83512": {
+    "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
+    "price": "71",
+    "old_price": "118",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
+  },
+  "18336": {
+    "name": "Чиабатта",
+    "price": "76",
+    "old_price": "127",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-18336/"
+  },
+  "1680": {
+    "name": "Бифштекс рубленый, 400 г",
+    "price": "274",
+    "old_price": "456",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bifshteks-rublenyy-1680/"
+  },
+  "63583": {
+    "name": "Семга стейк охл., 450 г",
+    "price": "960",
+    "old_price": "1600",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/semga-steyk-okhl-63583/"
+  },
+  "116632": {
+    "name": "Мята свежая, 10 г",
+    "price": "39",
+    "old_price": "65",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/myata-svezhaya-116632/"
+  },
+  "24293": {
+    "name": "Фрикадельки мини из телятины",
+    "price": "299",
+    "old_price": "499",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
+  },
+  "59728": {
+    "name": "Говядина Огузок",
+    "price": "936",
+    "old_price": "1560",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-oguzok-59728/"
+  },
+  "67171": {
+    "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
+    "price": "235",
+    "old_price": "392",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
+  },
+  "30228": {
+    "name": "Грибы Шампиньоны нарезанные свежие, 300 г",
+    "price": "93",
+    "old_price": "155",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/griby-shampinony-narezannye-svezhie-30228/"
+  },
+  "66211": {
+    "name": "Филе цыпленка бройлера кубиком, 450 г",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-tsyplenka-broylera-kubikom-66211/"
+  },
+  "105788": {
+    "name": "Овощной микс \"Витаминное трио\", 250 г",
+    "price": "72",
+    "old_price": "120",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
+  },
+  "121881": {
+    "name": "Котлеты для бургера из мяса цыплят-бройлеров \"Формула фитнеса\"",
+    "price": "120",
+    "old_price": "200",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-dlya-burgera-iz-myasa-tsyplyat-broylerov-formula-fitnesa-121881/"
+  },
+  "62810": {
+    "name": "Бефстроганов, 360 г",
+    "price": "380",
+    "old_price": "633",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/befstroganov-62810/"
+  },
+  "90296": {
+    "name": "Котлета для бургера из говядины с сыром",
+    "price": "237",
+    "old_price": "395",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-dlya-burgera-iz-govyadiny-s-syrom-90296/"
+  },
+  "76038": {
+    "name": "Джекфрут очищенный, 150 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
+  },
+  "119016": {
+    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
+  },
+  "99988": {
+    "name": "Бедро индейки бескостное в ягодном маринаде",
+    "price": "537",
+    "old_price": "895",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bedro-indeyki-beskostnoe-v-yagodnom-marinade-99988/"
+  },
+  "63414": {
+    "name": "\"Кебаб\" из мраморной говядины, 400 г",
+    "price": "379",
+    "old_price": "632",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kebab-iz-mramornoy-govyadiny-63414/"
+  },
+  "89957": {
+    "name": "Голубика гигант, 125 г",
+    "price": "225",
+    "old_price": "375",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/golubika-gigant-89957/"
+  },
+  "28698": {
+    "name": "Ребрышки говяжьи, 400 г",
+    "price": "272",
+    "old_price": "453",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rebryshki-govyazhi-28698/"
+  },
+  "71029": {
+    "name": "Фарш из говядины и курицы",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-kuritsy-71029/"
+  },
+  "20994": {
+    "name": "Рулет с маковой начинкой, половинка",
+    "price": "100",
+    "old_price": "167",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulet-s-makovoy-nachinkoy-20994/"
+  },
+  "65170": {
+    "name": "Мойва жареная, 200 г",
+    "price": "214",
+    "old_price": "356",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+  },
+  "121599": {
+    "name": "Булочки для хот-дога, 3 шт",
+    "price": "58",
+    "old_price": "96",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochki-dlya-khot-doga-121599/"
+  },
+  "113851": {
+    "name": "Капуста очищенная половинка, шт",
+    "price": "51",
+    "old_price": "85",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapusta-ochishchennaya-polovinka-113851/"
+  },
+  "75991": {
+    "name": "Микс салатный \"Витамикс\" , 150 г",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
+  },
+  "26582": {
+    "name": "Стрипсы в панировке",
+    "price": "182",
+    "old_price": "303",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
+  },
+  "73318": {
+    "name": "Котлеты рубленые говяжьи",
+    "price": "218",
+    "old_price": "363",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-rublenye-govyazhi-73318/"
+  },
+  "124581": {
+    "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
+  },
+  "124931": {
+    "name": "Стейк Рамп в маринаде",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-ramp-v-marinade-124931/"
+  },
+  "121033": {
+    "name": "Молоко козье с витамином Д3, 250 мл",
+    "price": "62",
+    "old_price": "104",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-koze-s-vitaminom-d3-121033/"
+  },
+  "104229": {
+    "name": "Яйца перепелиные маринованные, вареные",
+    "price": "169",
+    "old_price": "281",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytsa-perepelinye-marinovannye-104229/"
+  },
+  "120554": {
+    "name": "Десерт кокосовый питьевой с йогуртовой закваской \"Апельсин-манго\"",
+    "price": "97",
+    "old_price": "162",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-apelsin-mango-120554/"
+  },
+  "115953": {
+    "name": "Попкорн Seeberger Sweetened popcorn сладкий для микроволновой печи 90 г",
+    "price": "124",
+    "old_price": "206",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/popkorn-seeberger-sweetened-popcorn-sladkiy-dlya-mikrovolnovoy-pechi-90-g-115953/"
   }
 }
