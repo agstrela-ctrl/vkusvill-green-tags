@@ -1,9 +1,16 @@
 {
-  "52515": {
-    "name": "Омлет белковый с куриным филе, овощами и мягким сыром",
-    "price": "172",
-    "old_price": "287",
+  "605": {
+    "name": "Лук репчатый",
+    "price": "32",
+    "old_price": "54",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "44310": {
+    "name": "Морковь резаная \"Сочная морковь\"",
+    "price": "58",
+    "old_price": "97",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-belkovyy-s-kurinym-file-52515/"
+    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   }
 }
