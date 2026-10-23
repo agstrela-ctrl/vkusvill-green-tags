@@ -1,24 +1,10 @@
 {
-  "61688": {
-    "name": "Котлета рыбная с картофельным пюре",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-rybnaya-s-kartofelnym-pyure-61688/"
-  },
   "64567": {
     "name": "Полутушка цыпленка-бройлера на зерновом откорме",
     "price": "335",
     "old_price": "558",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/polutushka-tsyplenka-broylera-na-zernovom-otkorme-64567/"
-  },
-  "25291": {
-    "name": "Салат \"Мимоза\", 180 г",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
   },
   "97095": {
     "name": "Печень говяжья по-строгановски с грибами",
@@ -34,33 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-kuritsy-i-kapusty-76795/"
   },
-  "19417": {
-    "name": "Вырезка из свинины",
-    "price": "484",
-    "old_price": "807",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vyrezka-iz-svininy-19417/"
-  },
-  "69912": {
-    "name": "Микс салатный \"Цезарь\" 140 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
-  },
   "120262": {
     "name": "Торт \"Кастелла\" японский с клубникой",
     "price": "584",
     "old_price": "974",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-kastella-yaponskiy-s-klubnikoy-120262/"
-  },
-  "72739": {
-    "name": "Биолакт детский \"Лесные ягоды\" 2,5%",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/biolakt-detskiy-lesnye-yagody-2-72739/"
   },
   "34100": {
     "name": "Грудка цыплят-бройлеров",
@@ -76,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "41137": {
-    "name": "Гречневая лапша с индейкой",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechnevaya-lapsha-s-indeykoy-41137/"
-  },
   "20750": {
     "name": "Стейк Мачете из говядины",
     "price": "332",
@@ -97,26 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
   },
-  "101871": {
-    "name": "Мини-чиабатта с курицей, пармезаном и соусом копченый Айоли",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kuritsey-101871/"
-  },
   "67171": {
     "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
     "price": "235",
     "old_price": "392",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
-  },
-  "99884": {
-    "name": "Шаурма с рваной говядиной и горчичным соусом",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-rvanoy-govyadinoy-i-gorchichnym-sousom-99884/"
   },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
@@ -159,13 +103,6 @@
     "old_price": "265",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
-  },
-  "124931": {
-    "name": "Стейк Рамп в маринаде",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-ramp-v-marinade-124931/"
   },
   "61751": {
     "name": "Гречка отварная с овощами, 200 г",
@@ -216,13 +153,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
   },
-  "89957": {
-    "name": "Голубика гигант, 125 г",
-    "price": "225",
-    "old_price": "375",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-gigant-89957/"
-  },
   "118701": {
     "name": "Масса творожная с изюмом 23%",
     "price": "66",
@@ -257,13 +187,6 @@
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-kuskusom-i-brokkoli-122736/"
-  },
-  "121033": {
-    "name": "Молоко козье с витамином Д3, 250 мл",
-    "price": "62",
-    "old_price": "104",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-koze-s-vitaminom-d3-121033/"
   },
   "115953": {
     "name": "Попкорн Seeberger Sweetened popcorn сладкий для микроволновой печи 90 г",
