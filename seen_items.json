@@ -1,18 +1,4 @@
 {
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
-  "111212": {
-    "name": "Куриное филе запеченное с цукини и моцареллой",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-tsukini-i-motsarelloy-111212/"
-  },
   "106628": {
     "name": "Ролл \"Симфония классики\" с сёмгой и творожным сыром",
     "price": "264",
@@ -54,12 +40,5 @@
     "old_price": "206",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
-  },
-  "113602": {
-    "name": "Зефир \"Классический\" в молочном шоколаде, 50 г",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zefir-klassicheskiy-v-molochnom-shokolade-113602/"
   }
 }
