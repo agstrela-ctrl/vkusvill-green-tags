@@ -1,18 +1,4 @@
 {
-  "21159": {
-    "name": "Блины с начинкой \"Жюльен\"",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-nachinkoy-zhyulen-21159/"
-  },
-  "96044": {
-    "name": "Кабачки \"Гриль\" со сметанно-чесночным соусом",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kabachki-gril-so-smetanno-chesnochnym-sousom-96044/"
-  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "66",
@@ -20,12 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "63727": {
-    "name": "Клаб-сэндвич с курицей и яйцом",
-    "price": "144",
-    "old_price": "240",
+  "67188": {
+    "name": "Лук зеленый, 50 г",
+    "price": "47",
+    "old_price": "78",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-yaytsom-63727/"
+    "link": "https://vkusvill.ru/goods/luk-zelenyy-67188/"
   },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
@@ -41,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
   },
-  "115752": {
-    "name": "Кольцо песочное с вареной сгущенкой и арахисом",
-    "price": "80",
-    "old_price": "133",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koltso-pesochnoe-s-varenoy-sgushchenkoy-i-arakhisom-115752/"
-  },
   "81244": {
     "name": "Корм влажный для кошек Yumster Паштет с уткой и перепелом 100 гр",
     "price": "92",
@@ -55,26 +34,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/korm-vlazhnyy-dlya-koshek-yumster-pashtet-s-utkoy-i-perepelom-100-gr-81244/"
   },
-  "89806": {
-    "name": "Напиток безалкогольный ЧАЙ ПИ Зеленый чай с помело негазированный 500 мл",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-chay-pi-zelenyy-chay-s-pomelo-negazirovannyy-500-ml-89806/"
-  },
-  "71621": {
-    "name": "Картофель запеченный с ветчиной куриной под сыром",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-vetchinoy-kurinoy-pod-syrom-71621/"
-  },
   "118274": {
     "name": "Кексы-мини с вареной сгущенкой в форме мишек",
     "price": "125",
     "old_price": "208",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keksy-mini-s-varenoy-sgushchenkoy-v-forme-mishek-118274/"
+  },
+  "89806": {
+    "name": "Напиток безалкогольный ЧАЙ ПИ Зеленый чай с помело негазированный 500 мл",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-chay-pi-zelenyy-chay-s-pomelo-negazirovannyy-500-ml-89806/"
   },
   "76038": {
     "name": "Джекфрут очищенный, 150 г",
