@@ -6,33 +6,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "67188": {
-    "name": "Лук зеленый, 50 г",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-zelenyy-67188/"
-  },
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "58",
-    "old_price": "97",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
-  },
-  "105788": {
-    "name": "Овощной микс \"Витаминное трио\", 250 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
-  },
   "81244": {
     "name": "Корм влажный для кошек Yumster Паштет с уткой и перепелом 100 гр",
     "price": "92",
     "old_price": "154",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/korm-vlazhnyy-dlya-koshek-yumster-pashtet-s-utkoy-i-perepelom-100-gr-81244/"
+  },
+  "89806": {
+    "name": "Напиток безалкогольный ЧАЙ ПИ Зеленый чай с помело негазированный 500 мл",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-chay-pi-zelenyy-chay-s-pomelo-negazirovannyy-500-ml-89806/"
   },
   "101618": {
     "name": "Пюре фруктовое Gipopo Яблоко с 4 месяцев пауч 90 г",
@@ -47,19 +33,5 @@
     "old_price": "208",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keksy-mini-s-varenoy-sgushchenkoy-v-forme-mishek-118274/"
-  },
-  "89806": {
-    "name": "Напиток безалкогольный ЧАЙ ПИ Зеленый чай с помело негазированный 500 мл",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-chay-pi-zelenyy-chay-s-pomelo-negazirovannyy-500-ml-89806/"
-  },
-  "76038": {
-    "name": "Джекфрут очищенный, 150 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
   }
 }
