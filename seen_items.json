@@ -55,40 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
   },
-  "61751": {
-    "name": "Гречка отварная с овощами, 200 г",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
-  },
-  "120554": {
-    "name": "Десерт кокосовый питьевой с йогуртовой закваской \"Апельсин-манго\"",
-    "price": "97",
-    "old_price": "162",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-apelsin-mango-120554/"
-  },
-  "90926": {
-    "name": "Пирожное \"Картошка ассорти\" белый шоколад-матча",
-    "price": "152",
-    "old_price": "254",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-kartoshka-assorti-belyy-shokolad-matcha-90926/"
-  },
   "96044": {
     "name": "Кабачки \"Гриль\" со сметанно-чесночным соусом",
     "price": "150",
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kabachki-gril-so-smetanno-chesnochnym-sousom-96044/"
-  },
-  "89206": {
-    "name": "Салат \"Столичный\", 300 г",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-stolichnyy-89206/"
   },
   "71621": {
     "name": "Картофель запеченный с ветчиной куриной под сыром",
@@ -117,12 +89,5 @@
     "old_price": "398",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
-  },
-  "122736": {
-    "name": "Филе индейки гриль с кускусом и брокколи",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-kuskusom-i-brokkoli-122736/"
   }
 }
