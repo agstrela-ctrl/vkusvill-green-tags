@@ -1,4 +1,11 @@
 {
+  "97844": {
+    "name": "Крем-суп тыквенный",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
+  },
   "69912": {
     "name": "Микс салатный \"Цезарь\" 140 г",
     "price": "105",
@@ -27,6 +34,27 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
+  "63727": {
+    "name": "Клаб-сэндвич с курицей и яйцом",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-yaytsom-63727/"
+  },
+  "44310": {
+    "name": "Морковь резаная \"Сочная морковь\"",
+    "price": "58",
+    "old_price": "97",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+  },
+  "101871": {
+    "name": "Мини-чиабатта с курицей, пармезаном и соусом копченый Айоли",
+    "price": "186",
+    "old_price": "310",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kuritsey-101871/"
+  },
   "116632": {
     "name": "Мята свежая, 10 г",
     "price": "39",
@@ -40,6 +68,20 @@
     "old_price": "120",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
+  },
+  "26582": {
+    "name": "Стрипсы в панировке",
+    "price": "182",
+    "old_price": "303",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
+  },
+  "117337": {
+    "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
+    "price": "361",
+    "old_price": "602",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
   },
   "71621": {
     "name": "Картофель запеченный с ветчиной куриной под сыром",
