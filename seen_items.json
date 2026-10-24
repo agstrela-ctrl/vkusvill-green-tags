@@ -1,11 +1,4 @@
 {
-  "69912": {
-    "name": "Микс салатный \"Цезарь\" 140 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
-  },
   "21159": {
     "name": "Блины с начинкой \"Жюльен\"",
     "price": "191",
@@ -48,12 +41,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
   },
-  "106015": {
-    "name": "Игрушка-антистресс \"Гусь на расслабоне\", в ассортименте",
-    "price": "220",
-    "old_price": "367",
+  "115752": {
+    "name": "Кольцо песочное с вареной сгущенкой и арахисом",
+    "price": "80",
+    "old_price": "133",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/igrushka-antistress-gus-na-rasslabone-106015/"
+    "link": "https://vkusvill.ru/goods/koltso-pesochnoe-s-varenoy-sgushchenkoy-i-arakhisom-115752/"
+  },
+  "81244": {
+    "name": "Корм влажный для кошек Yumster Паштет с уткой и перепелом 100 гр",
+    "price": "92",
+    "old_price": "154",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/korm-vlazhnyy-dlya-koshek-yumster-pashtet-s-utkoy-i-perepelom-100-gr-81244/"
+  },
+  "89806": {
+    "name": "Напиток безалкогольный ЧАЙ ПИ Зеленый чай с помело негазированный 500 мл",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-bezalkogolnyy-chay-pi-zelenyy-chay-s-pomelo-negazirovannyy-500-ml-89806/"
   },
   "71621": {
     "name": "Картофель запеченный с ветчиной куриной под сыром",
@@ -61,6 +68,13 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-vetchinoy-kurinoy-pod-syrom-71621/"
+  },
+  "118274": {
+    "name": "Кексы-мини с вареной сгущенкой в форме мишек",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keksy-mini-s-varenoy-sgushchenkoy-v-forme-mishek-118274/"
   },
   "76038": {
     "name": "Джекфрут очищенный, 150 г",
