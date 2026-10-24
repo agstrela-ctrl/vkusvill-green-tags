@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
   },
-  "102212": {
-    "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-bitochek-sochnyy-s-penne-i-salat-krabovyy-102212/"
-  },
   "17243": {
     "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
     "price": "38",
@@ -48,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vyrezka-iz-svininy-19417/"
   },
-  "119354": {
-    "name": "Сырники творожные, 490 г",
-    "price": "269",
-    "old_price": "448",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-119354/"
-  },
   "31276": {
     "name": "Лук зеленый, 100 г",
     "price": "59",
@@ -69,26 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-82543/"
   },
-  "116602": {
-    "name": "Паста \"Болоньезе с соусом свит-чили\"",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-boloneze-s-sousom-svit-chili-116602/"
-  },
   "115459": {
     "name": "Котлеты из мяса цыплят-бройлеров с сыром сулугуни и базиликом",
     "price": "279",
     "old_price": "465",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyat-broylerov-s-syrom-suluguni-i-bazilikom-115459/"
-  },
-  "35710": {
-    "name": "Набор: Салат Витаминный + Плов с курицей",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-salat-vitaminnyy-plov-s-kuritsey-35710/"
   },
   "65996": {
     "name": "Круассан с сыром",
@@ -124,13 +96,6 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-cheremukhovoe-so-smetannym-kremom-123299/"
-  },
-  "61709": {
-    "name": "Кексы-мини ванильно-сливочные с изюмом",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-s-izyumom-61709/"
   },
   "68814": {
     "name": "Сосиска в слоеном тесте с сыром и горчицей",
@@ -173,13 +138,6 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladushki-s-vanilnym-sousom-125635/"
-  },
-  "104678": {
-    "name": "Рулетики-мини с маком",
-    "price": "121",
-    "old_price": "202",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-mini-s-makom-104678/"
   },
   "37867": {
     "name": "Грудка куриная с картофелем по-деревенски",
