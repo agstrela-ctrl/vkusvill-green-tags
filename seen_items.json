@@ -6,40 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "72194": {
-    "name": "Молоко 3,2% в бутылке, 1400 г",
-    "price": "98",
-    "old_price": "164",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-3-72194/"
-  },
-  "97844": {
-    "name": "Крем-суп тыквенный",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
-  },
   "69912": {
     "name": "Микс салатный \"Цезарь\" 140 г",
     "price": "105",
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
-  },
-  "120262": {
-    "name": "Торт \"Кастелла\" японский с клубникой",
-    "price": "584",
-    "old_price": "974",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-kastella-yaponskiy-s-klubnikoy-120262/"
-  },
-  "123943": {
-    "name": "Десерт \"Ореховый\" с карамелью, веган",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
   },
   "21159": {
     "name": "Блины с начинкой \"Жюльен\"",
@@ -62,34 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "63727": {
-    "name": "Клаб-сэндвич с курицей и яйцом",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-yaytsom-63727/"
-  },
-  "20744": {
-    "name": "Десерт молочный \"Наполеон\"",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-20744/"
-  },
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "58",
-    "old_price": "97",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
-  },
-  "101871": {
-    "name": "Мини-чиабатта с курицей, пармезаном и соусом копченый Айоли",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kuritsey-101871/"
-  },
   "116632": {
     "name": "Мята свежая, 10 г",
     "price": "39",
@@ -97,12 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myata-svezhaya-116632/"
   },
-  "105788": {
-    "name": "Овощной микс \"Витаминное трио\", 250 г",
-    "price": "72",
-    "old_price": "120",
+  "71621": {
+    "name": "Картофель запеченный с ветчиной куриной под сыром",
+    "price": "198",
+    "old_price": "330",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
+    "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-vetchinoy-kurinoy-pod-syrom-71621/"
   },
   "76038": {
     "name": "Джекфрут очищенный, 150 г",
@@ -110,26 +54,5 @@
     "old_price": "398",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
-  },
-  "26582": {
-    "name": "Стрипсы в панировке",
-    "price": "182",
-    "old_price": "303",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
-  "117337": {
-    "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
-    "price": "361",
-    "old_price": "602",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
-  },
-  "71621": {
-    "name": "Картофель запеченный с ветчиной куриной под сыром",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-vetchinoy-kurinoy-pod-syrom-71621/"
   }
 }
