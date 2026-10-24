@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
   },
+  "123943": {
+    "name": "Десерт \"Ореховый\" с карамелью, веган",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
+  },
   "21159": {
     "name": "Блины с начинкой \"Жюльен\"",
     "price": "191",
@@ -41,6 +48,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-yaytsom-63727/"
   },
+  "20744": {
+    "name": "Десерт молочный \"Наполеон\"",
+    "price": "149",
+    "old_price": "248",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-20744/"
+  },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
     "price": "58",
@@ -55,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kuritsey-101871/"
   },
-  "116632": {
-    "name": "Мята свежая, 10 г",
-    "price": "39",
-    "old_price": "65",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myata-svezhaya-116632/"
-  },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
     "price": "72",
@@ -69,19 +76,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
   },
-  "26582": {
-    "name": "Стрипсы в панировке",
-    "price": "182",
-    "old_price": "303",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
   "117337": {
     "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
     "price": "361",
     "old_price": "602",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
+  },
+  "106015": {
+    "name": "Игрушка-антистресс \"Гусь на расслабоне\", в ассортименте",
+    "price": "220",
+    "old_price": "367",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/igrushka-antistress-gus-na-rasslabone-106015/"
+  },
+  "74647": {
+    "name": "Пустырник + валериана и мелисса, 300 мг, 30 табл.",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pustyrnik-valeriana-i-melissa-74647/"
   },
   "71621": {
     "name": "Картофель запеченный с ветчиной куриной под сыром",
