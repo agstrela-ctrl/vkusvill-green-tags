@@ -1,11 +1,4 @@
 {
-  "75244": {
-    "name": "Котлета куриная с фарфалле",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244/"
-  },
   "122564": {
     "name": "Паста цельнозерновая с тунцом и запеченными томатами",
     "price": "210",
@@ -40,27 +33,6 @@
     "old_price": "98",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-zelenyy-31276/"
-  },
-  "82543": {
-    "name": "Крыло цыпленка-бройлера, упаковка от 1.3 кг",
-    "price": "305",
-    "old_price": "508",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-82543/"
-  },
-  "115459": {
-    "name": "Котлеты из мяса цыплят-бройлеров с сыром сулугуни и базиликом",
-    "price": "279",
-    "old_price": "465",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyat-broylerov-s-syrom-suluguni-i-bazilikom-115459/"
-  },
-  "65996": {
-    "name": "Круассан с сыром",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-s-syrom-65996/"
   },
   "65170": {
     "name": "Мойва жареная, 200 г",
@@ -97,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiska-v-sloenom-teste-s-syrom-i-gorchitsey-68814/"
   },
-  "125473": {
-    "name": "Плов \"Самаркандский\" с изюмом",
-    "price": "316",
-    "old_price": "526",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-samarkandskiy-s-izyumom-125473/"
-  },
   "125717": {
     "name": "Онигири с кимчи и свининой",
     "price": "131",
@@ -125,20 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladushki-s-vanilnym-sousom-125635/"
   },
-  "105776": {
-    "name": "Ряженка \"Земляника\" 2,2%",
-    "price": "55",
-    "old_price": "92",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ryazhenka-zemlyanika-2-105776/"
-  },
-  "114979": {
-    "name": "Паста Мальфадине с белыми грибами и лисичками",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-malfadine-s-belymi-gribami-i-lisichkami-114979/"
-  },
   "115111": {
     "name": "Запеканка картофельная с курицей, томатами и соусом песто",
     "price": "349",
@@ -153,39 +104,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochka-dantel-s-makom-103971/"
   },
-  "116883": {
-    "name": "Биойогурт питьевой ПРОБИОТИК+ 1,7%",
-    "price": "52",
-    "old_price": "87",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bioyogurt-pitevoy-probiotik-1-116883/"
-  },
   "125469": {
     "name": "Мойва неразделанная холодного копчения, 200 г",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-nerazdelannaya-kholodnogo-kopcheniya-125469/"
-  },
-  "92216": {
-    "name": "Йогурт питьевой безлактозный с клубникой и маракуйей 2,5%",
-    "price": "62",
-    "old_price": "104",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-s-klubnikoy-i-marakuyey-2-92216/"
-  },
-  "119777": {
-    "name": "Йогурт питьевой \"Абрикос\" 1,8%",
-    "price": "58",
-    "old_price": "96",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-abrikos-1-119777/"
-  },
-  "126353": {
-    "name": "Йогурт питьевой безлактозный с яблоком без доб.сахара, 2,5%",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-s-yablokom-bez-dob-sakhara-126353/"
   }
 }
