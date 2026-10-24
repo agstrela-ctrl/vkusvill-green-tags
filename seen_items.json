@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-kastella-yaponskiy-s-klubnikoy-120262/"
   },
-  "34100": {
-    "name": "Грудка цыплят-бройлеров",
-    "price": "339",
-    "old_price": "565",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-34100/"
-  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "66",
@@ -34,33 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-machete-iz-govyadiny-20750/"
   },
-  "24293": {
-    "name": "Фрикадельки мини из телятины",
-    "price": "299",
-    "old_price": "499",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
-  },
-  "67171": {
-    "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
-    "price": "235",
-    "old_price": "392",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
-  },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
     "price": "66",
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
-  },
-  "25023": {
-    "name": "Блинчики \"Цезарь\"",
-    "price": "152",
-    "old_price": "254",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blinchiki-tsezar-25023/"
   },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
@@ -75,13 +47,6 @@
     "old_price": "356",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
-  "113851": {
-    "name": "Капуста очищенная половинка, шт",
-    "price": "51",
-    "old_price": "85",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-ochishchennaya-polovinka-113851/"
   },
   "75991": {
     "name": "Микс салатный \"Витамикс\" , 150 г",
@@ -132,20 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-vetchinoy-kurinoy-pod-syrom-71621/"
   },
-  "76038": {
-    "name": "Джекфрут очищенный, 150 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
-  },
-  "124581": {
-    "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
-  },
   "117312": {
     "name": "Шампиньоны фаршированные сыром и соусом бешамель",
     "price": "361",
@@ -160,18 +111,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-farshirovannyy-s-kuritsey-115250/"
   },
+  "76038": {
+    "name": "Джекфрут очищенный, 150 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
+  },
   "122736": {
     "name": "Филе индейки гриль с кускусом и брокколи",
     "price": "234",
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-kuskusom-i-brokkoli-122736/"
-  },
-  "115953": {
-    "name": "Попкорн Seeberger Sweetened popcorn сладкий для микроволновой печи 90 г",
-    "price": "124",
-    "old_price": "206",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/popkorn-seeberger-sweetened-popcorn-sladkiy-dlya-mikrovolnovoy-pechi-90-g-115953/"
   }
 }
