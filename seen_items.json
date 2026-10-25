@@ -1,11 +1,4 @@
 {
-  "58728": {
-    "name": "Хлеб цельнозерновой с отрубями",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
-  },
   "82338": {
     "name": "Наггетсы куриные, 500 г",
     "price": "289",
@@ -33,13 +26,6 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-tsezar-140-g-69912/"
-  },
-  "93208": {
-    "name": "Паштет из куриной печени с грибами Трюфельный",
-    "price": "120",
-    "old_price": "200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pashtet-iz-kurinoy-pecheni-s-gribami-tryufelnyy-93208/"
   },
   "52681": {
     "name": "Голень индейки",
@@ -69,40 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-82543/"
   },
-  "15257": {
-    "name": "Бифилайф детский \"Яблоко-Банан\" 2,5%",
-    "price": "36",
-    "old_price": "60",
+  "83295": {
+    "name": "Пита \"Арабская\", 150 г",
+    "price": "42",
+    "old_price": "70",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bifilayf-detskiy-yabloko-banan-2-15257/"
-  },
-  "122780": {
-    "name": "Микс салатный \"Тулон\", 180г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-tulon-122780/"
-  },
-  "102765": {
-    "name": "Чипсы из индейки \"Белковые\"",
-    "price": "166",
-    "old_price": "277",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chipsy-iz-indeyki-belkovye-102765/"
-  },
-  "118668": {
-    "name": "Кекс с апельсиновой мякотью и цукатами",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keks-s-apelsinovoy-myakotyu-i-tsukatami-118668/"
-  },
-  "110785": {
-    "name": "Наринэ напиток кисломолочный 3,5%, 450 мл",
-    "price": "86",
-    "old_price": "144",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/narine-napitok-kislomolochnyy-3-110785/"
+    "link": "https://vkusvill.ru/goods/pita-arabskaya-83295/"
   },
   "123576": {
     "name": "Сосиски \"Сочные\" из индейки",
@@ -118,20 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-beskostnoe-po-domashnemu-104525/"
   },
-  "298": {
-    "name": "Бифилайф детский \"Черника\" 2,5%",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bifilayf-detskiy-chernika-2-298/"
-  },
-  "114053": {
-    "name": "Говядина в специях, запеченная",
-    "price": "217",
-    "old_price": "362",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-v-spetsiyakh-114053/"
-  },
   "119742": {
     "name": "Форель филе-кусок горячего копчения, 150 г",
     "price": "429",
@@ -146,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-tsyplenka-broylera-kusochkami-122685/"
   },
-  "120853": {
-    "name": "Снежок из козьего молока, 250 г",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/snezhok-iz-kozego-moloka-120853/"
-  },
   "127022": {
     "name": "Творог \"Савушкин Хуторок\" 9 % цилиндр 300 г",
     "price": "113",
@@ -166,13 +103,6 @@
     "old_price": "244",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pashtet-s-karamelizovannym-krasnym-lukom-124445/"
-  },
-  "125068": {
-    "name": "Круассан \"Калининградский\" с марципановой начинкой",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
   },
   "124798": {
     "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
