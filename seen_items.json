@@ -83,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-steykburger-38362/"
   },
-  "125635": {
-    "name": "Оладушки с ванильным соусом",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladushki-s-vanilnym-sousom-125635/"
-  },
   "115111": {
     "name": "Запеканка картофельная с курицей, томатами и соусом песто",
     "price": "349",
@@ -110,5 +103,12 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-nerazdelannaya-kholodnogo-kopcheniya-125469/"
+  },
+  "125635": {
+    "name": "Оладушки с ванильным соусом",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/oladushki-s-vanilnym-sousom-125635/"
   }
 }
