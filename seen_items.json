@@ -1,10 +1,10 @@
 {
-  "123947": {
-    "name": "Десерт \"НеНаполеон\" с кокосовым кремом, веган",
-    "price": "140",
-    "old_price": "234",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-nenapoleon-s-kokosovym-kremom-123947/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
   },
   "95536": {
     "name": "Куриная котлета-гриль с гречкой",
@@ -13,33 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinaya-kotleta-gril-s-grechkoy-95536/"
   },
-  "86796": {
-    "name": "Ассорти эклеров \"Классика вкусов\", 3 шт",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-eklerov-klassika-vkusov-86796/"
-  },
-  "122737": {
-    "name": "Куриное филе гриль с киноа и овощами",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
-  },
   "126446": {
     "name": "Брецель с солью",
     "price": "99",
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
-  },
-  "116341": {
-    "name": "Брецель \"Миндальный\" на сливочном масле",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-mindalnyy-na-slivochnom-masle-116341/"
   },
   "92843": {
     "name": "Биточки из курицы и сыра с запеченным картофелем",
