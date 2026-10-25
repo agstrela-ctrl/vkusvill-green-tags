@@ -5,5 +5,19 @@
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "730": {
+    "name": "Лимоны",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/limony-730/"
+  },
+  "21124": {
+    "name": "Яблоко Антоновка",
+    "price": "165",
+    "old_price": "275",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-antonovka-21124/"
   }
 }
