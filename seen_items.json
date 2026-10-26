@@ -104,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-grecheskiy-iz-ovechego-moloka-4-8-17077/"
   },
-  "22639": {
-    "name": "Курица \"Терияки\" с рисом по-сингапурски",
-    "price": "196",
-    "old_price": "326",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-teriyaki-s-risom-po-singapurski-22639/"
-  },
   "124387": {
     "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
     "price": "701",
@@ -146,13 +139,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/seld-file-v-masle-65417/"
   },
-  "121339": {
-    "name": "Кесадилья с курицей, шпинатом и моцареллой",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-121339/"
-  },
   "110084": {
     "name": "Скумбрия атлантическая в растительном масле подкопченная, 300 г",
     "price": "216",
@@ -173,13 +159,6 @@
     "old_price": "258",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-bananom-i-orekhovoy-pastoy-125034/"
-  },
-  "17718": {
-    "name": "Горбуша филе кусочки в масле, 180 г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gorbusha-file-kusochki-v-masle-17718/"
   },
   "112839": {
     "name": "Огурчики \"Вкусвилльчики\", 450 г",
@@ -230,13 +209,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/golubika-38710/"
   },
-  "83788": {
-    "name": "Форель малосоленая \"опаленная\" филе-кусок, 150 г",
-    "price": "310",
-    "old_price": "517",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-malosolenaya-opalennaya-file-kusok-83788/"
-  },
   "126446": {
     "name": "Брецель с солью",
     "price": "99",
@@ -257,13 +229,6 @@
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/palochki-iz-foreli-raduzhnoy-kholodnogo-kopcheniya-94222/"
-  },
-  "122736": {
-    "name": "Филе индейки гриль с кускусом и брокколи",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-kuskusom-i-brokkoli-122736/"
   },
   "73841": {
     "name": "Килька балтийская без головы в масле с пряностями, 180 г",
@@ -321,18 +286,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-nerazdelannaya-kholodnogo-kopcheniya-125469/"
   },
-  "119741": {
-    "name": "Навага жареная, 200 г",
-    "price": "165",
-    "old_price": "275",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/navaga-zharenaya-119741/"
-  },
   "99743": {
     "name": "Завтрак боул с хашбрауном, кафе",
     "price": "204",
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
+  },
+  "122736": {
+    "name": "Филе индейки гриль с кускусом и брокколи",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-kuskusom-i-brokkoli-122736/"
   }
 }
