@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
   },
-  "82338": {
-    "name": "Наггетсы куриные, 500 г",
-    "price": "289",
-    "old_price": "482",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/naggetsy-kurinye-82338/"
-  },
   "106628": {
     "name": "Ролл \"Симфония классики\" с сёмгой и творожным сыром",
     "price": "264",
@@ -41,33 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-kharcho-18360/"
   },
-  "112773": {
-    "name": "Хлеб \"Гречневый\" на закваске",
-    "price": "73",
-    "old_price": "122",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-grechnevyy-na-zakvaske-112773/"
-  },
-  "67171": {
-    "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
-    "price": "235",
-    "old_price": "392",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
-  },
   "100821": {
     "name": "Печень жареная с луком с гречкой",
     "price": "174",
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
-  },
-  "118959": {
-    "name": "Салат-боул с креветкой, авокадо и кукурузой",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
   "124528": {
     "name": "Плюшка \"Домашняя\" с маком, 150 г",
@@ -89,13 +61,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
-  },
-  "121878": {
-    "name": "Торт профитролевый \"Черный лес\"",
-    "price": "358",
-    "old_price": "597",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-profitrolevyy-chernyy-les-121878/"
   },
   "90938": {
     "name": "Фарфалле с креветками под сливочным соусом",
