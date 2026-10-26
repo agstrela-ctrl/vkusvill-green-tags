@@ -1,9 +1,37 @@
 {
-  "67859": {
-    "name": "Розы кустовые в горшочке",
-    "price": "270",
-    "old_price": "450",
+  "123255": {
+    "name": "Булочка с творогом и маком, 2 шт",
+    "price": "53",
+    "old_price": "88",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/rozy-kustovye-v-gorshochke-67859/"
+    "link": "https://vkusvill.ru/goods/bulochka-s-tvorogom-i-makom-123255/"
+  },
+  "123943": {
+    "name": "Десерт \"Ореховый\" с карамелью, веган",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
+  },
+  "20744": {
+    "name": "Десерт молочный \"Наполеон\"",
+    "price": "149",
+    "old_price": "248",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-20744/"
+  },
+  "111433": {
+    "name": "Чизкейк \"Японский\", 140 г",
+    "price": "157",
+    "old_price": "262",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chizkeyk-yaponskiy-111433/"
+  },
+  "112839": {
+    "name": "Огурчики \"Вкусвилльчики\", 450 г",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ogurchiki-vkusvillchiki-112839/"
   }
 }
