@@ -55,6 +55,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
   },
+  "67171": {
+    "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
+    "price": "235",
+    "old_price": "392",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
+  },
   "83295": {
     "name": "Пита \"Арабская\", 150 г",
     "price": "42",
@@ -75,6 +82,13 @@
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
+  },
+  "124528": {
+    "name": "Плюшка \"Домашняя\" с маком, 150 г",
+    "price": "70",
+    "old_price": "116",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/plyushka-domashnyaya-s-makom-124528/"
   },
   "127532": {
     "name": "Курица с картофелем по-деревенски и маринованной капустой",
