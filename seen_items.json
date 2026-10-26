@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khurma-korolek-18940/"
   },
-  "20234": {
-    "name": "Салат Шпинат, 50 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-shpinat-20234/"
-  },
   "38215": {
     "name": "Филе грудки цыпленка-бройлера для запекания в маринаде \"Сливочно-пряный\"",
     "price": "379",
@@ -40,12 +33,5 @@
     "old_price": "715",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-file-kusok-goryachego-kopcheniya-119742/"
-  },
-  "125206": {
-    "name": "Блины с картошкой и лисичками",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-kartoshkoy-i-lisichkami-125206/"
   }
 }
