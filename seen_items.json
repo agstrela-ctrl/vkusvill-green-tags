@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
   },
-  "67834": {
-    "name": "Кнели куриные с тыквой и картофельным пюре",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
-  },
   "124531": {
     "name": "Паста каннеллони с грибами и рикоттой",
     "price": "249",
@@ -83,26 +76,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-postnye-s-yablokami-43330/"
   },
-  "23073": {
-    "name": "Салат Кобб с имбирным соусом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
-  },
   "92433": {
     "name": "Пирожное \"НеМедовик\" шоколадный, веган",
     "price": "124",
     "old_price": "206",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
-  },
-  "115112": {
-    "name": "Жаркое из кролика со сметаной",
-    "price": "499",
-    "old_price": "832",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
   },
   "118104": {
     "name": "Мясо по-французски",
@@ -111,11 +90,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
   },
+  "67834": {
+    "name": "Кнели куриные с тыквой и картофельным пюре",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
+  },
   "90938": {
     "name": "Фарфалле с креветками под сливочным соусом",
     "price": "258",
     "old_price": "430",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farfalle-s-krevetkami-pod-slivochnym-sousom-90938/"
+  },
+  "115112": {
+    "name": "Жаркое из кролика со сметаной",
+    "price": "499",
+    "old_price": "832",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
   }
 }
