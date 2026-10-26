@@ -1,11 +1,4 @@
 {
-  "75244": {
-    "name": "Котлета куриная с фарфалле",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244/"
-  },
   "53515": {
     "name": "Котлеты куриные с моцареллой с булгуром, киноа и овощами",
     "price": "204",
@@ -69,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pita-arabskaya-83295/"
   },
-  "122769": {
-    "name": "Суп \"Легкий\" с птитимом и креветками",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
-  },
   "118959": {
     "name": "Салат-боул с креветкой, авокадо и кукурузой",
     "price": "234",
@@ -89,13 +75,6 @@
     "old_price": "116",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/plyushka-domashnyaya-s-makom-124528/"
-  },
-  "127532": {
-    "name": "Курица с картофелем по-деревенски и маринованной капустой",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelem-po-derevenski-i-marinovannoy-kapustoy-127532/"
   },
   "67834": {
     "name": "Кнели куриные с тыквой и картофельным пюре",
@@ -117,13 +96,6 @@
     "old_price": "597",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-profitrolevyy-chernyy-les-121878/"
-  },
-  "126299": {
-    "name": "Чахохбили с рисом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chakhokhbili-s-risom-126299/"
   },
   "104525": {
     "name": "Бедро индейки бескостное \"По-Домашнему\"",
@@ -159,13 +131,6 @@
     "old_price": "832",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
-  },
-  "93683": {
-    "name": "Стейк из индейки с овощами гриль и брокколи",
-    "price": "269",
-    "old_price": "448",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-iz-indeyki-s-ovoshchami-gril-i-brokkoli-93683/"
   },
   "124798": {
     "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
