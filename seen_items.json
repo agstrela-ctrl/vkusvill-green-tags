@@ -1,10 +1,10 @@
 {
-  "38215": {
-    "name": "Филе грудки цыпленка-бройлера для запекания в маринаде \"Сливочно-пряный\"",
-    "price": "379",
-    "old_price": "632",
+  "105488": {
+    "name": "Форель филе-кусок с кожей малосоленая зам., 500 г",
+    "price": "1002",
+    "old_price": "1670",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-dlya-zapekaniya-v-marinade-slivochno-pryanyy-38215/"
+    "link": "https://vkusvill.ru/goods/forel-file-kusok-s-kozhey-malosolenaya-zam-105488/"
   },
   "124798": {
     "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
@@ -19,12 +19,5 @@
     "old_price": "187",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
-  },
-  "119742": {
-    "name": "Форель филе-кусок горячего копчения, 150 г",
-    "price": "429",
-    "old_price": "715",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-file-kusok-goryachego-kopcheniya-119742/"
   }
 }
