@@ -1,4 +1,11 @@
 {
+  "18940": {
+    "name": "Хурма Королек",
+    "price": "141",
+    "old_price": "235",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khurma-korolek-18940/"
+  },
   "20234": {
     "name": "Салат Шпинат, 50 г",
     "price": "108",
@@ -6,26 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-shpinat-20234/"
   },
-  "31276": {
-    "name": "Лук зеленый, 100 г",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-zelenyy-31276/"
-  },
   "38215": {
     "name": "Филе грудки цыпленка-бройлера для запекания в маринаде \"Сливочно-пряный\"",
     "price": "379",
     "old_price": "632",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-dlya-zapekaniya-v-marinade-slivochno-pryanyy-38215/"
-  },
-  "24787": {
-    "name": "Огурцы трилоджи, 450 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurtsy-trilodzhi-24787/"
   },
   "124798": {
     "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
@@ -47,13 +40,6 @@
     "old_price": "715",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-file-kusok-goryachego-kopcheniya-119742/"
-  },
-  "101568": {
-    "name": "Эчпочмак с индейкой и картофелем",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/echpochmak-s-indeykoy-i-kartofelem-101568/"
   },
   "125206": {
     "name": "Блины с картошкой и лисичками",
