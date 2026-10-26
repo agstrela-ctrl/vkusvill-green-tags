@@ -48,19 +48,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-kharcho-18360/"
   },
-  "100821": {
-    "name": "Печень жареная с луком с гречкой",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
-  },
   "67171": {
     "name": "Крыло цыпленка-бройлера, плечевая часть, 750 г",
     "price": "235",
     "old_price": "392",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
+  },
+  "100821": {
+    "name": "Печень жареная с луком с гречкой",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
   },
   "83295": {
     "name": "Пита \"Арабская\", 150 г",
@@ -104,26 +104,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
   },
-  "126299": {
-    "name": "Чахохбили с рисом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chakhokhbili-s-risom-126299/"
-  },
   "124452": {
     "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
-  },
-  "123576": {
-    "name": "Сосиски \"Сочные\" из индейки",
-    "price": "242",
-    "old_price": "404",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-sochnye-iz-indeyki-123576/"
   },
   "121878": {
     "name": "Торт профитролевый \"Черный лес\"",
@@ -132,12 +118,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-profitrolevyy-chernyy-les-121878/"
   },
-  "23954": {
-    "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
-    "price": "158",
-    "old_price": "264",
+  "126299": {
+    "name": "Чахохбили с рисом",
+    "price": "221",
+    "old_price": "368",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
+    "link": "https://vkusvill.ru/goods/chakhokhbili-s-risom-126299/"
   },
   "104525": {
     "name": "Бедро индейки бескостное \"По-Домашнему\"",
@@ -153,19 +139,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farfalle-s-krevetkami-pod-slivochnym-sousom-90938/"
   },
-  "62637": {
-    "name": "Шницель куриный в яйце с картофельным пюре",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-yaytse-s-kartofelnym-pyure-62637/"
-  },
   "119742": {
     "name": "Форель филе-кусок горячего копчения, 150 г",
     "price": "429",
     "old_price": "715",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-file-kusok-goryachego-kopcheniya-119742/"
+  },
+  "62637": {
+    "name": "Шницель куриный в яйце с картофельным пюре",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-yaytse-s-kartofelnym-pyure-62637/"
   },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
@@ -187,13 +173,6 @@
     "old_price": "182",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-protein-s-semenami-lna-124798/"
-  },
-  "121262": {
-    "name": "Филе куриной грудки в беконе, запеченное",
-    "price": "241",
-    "old_price": "401",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-v-bekone-121262/"
   },
   "122344": {
     "name": "Котлеты с гречкой для приготовления на пару",
