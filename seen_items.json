@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-kurinye-s-motsarelloy-s-bulgurom-53515/"
   },
-  "106628": {
-    "name": "Ролл \"Симфония классики\" с сёмгой и творожным сыром",
-    "price": "264",
-    "old_price": "440",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
-  },
   "124531": {
     "name": "Паста каннеллони с грибами и рикоттой",
     "price": "249",
@@ -20,33 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-kannelloni-s-gribami-i-rikottoy-124531/"
   },
-  "64315": {
-    "name": "Хлопья овсяные, 400 г",
-    "price": "39",
-    "old_price": "65",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khlopya-ovsyanye-64315/"
-  },
-  "65409": {
-    "name": "Салат \"Витаминный\" с лимонной заправкой, 500 г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
-  },
   "114372": {
     "name": "Фетучини с курицей и лисичками",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/fetuchini-s-kuritsey-i-lisichkami-114372/"
-  },
-  "39249": {
-    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
   },
   "107156": {
     "name": "Сэндвич \"Крок Месье\" с мортаделлой и чеддером, кафе",
@@ -68,34 +40,6 @@
     "old_price": "198",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
-  },
-  "43330": {
-    "name": "Пирожки постные с яблоками, 90 г, (2 шт)",
-    "price": "82",
-    "old_price": "136",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-postnye-s-yablokami-43330/"
-  },
-  "92433": {
-    "name": "Пирожное \"НеМедовик\" шоколадный, веган",
-    "price": "124",
-    "old_price": "206",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
-  },
-  "118104": {
-    "name": "Мясо по-французски",
-    "price": "505",
-    "old_price": "842",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
-  },
-  "67834": {
-    "name": "Кнели куриные с тыквой и картофельным пюре",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
   },
   "90938": {
     "name": "Фарфалле с креветками под сливочным соусом",
