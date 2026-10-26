@@ -1,9 +1,16 @@
 {
-  "18271": {
-    "name": "Кефир 3,2% в бутылке, 900 г",
-    "price": "70",
-    "old_price": "117",
+  "16645": {
+    "name": "Огурцы гладкие",
+    "price": "72",
+    "old_price": "120",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-3-18271/"
+    "link": "https://vkusvill.ru/goods/ogurtsy-gladkie-16645/"
+  },
+  "38760": {
+    "name": "Лук Ялтинский",
+    "price": "171",
+    "old_price": "285",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-yaltinskiy-38760/"
   }
 }
