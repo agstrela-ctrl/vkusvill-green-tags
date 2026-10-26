@@ -1,9 +1,72 @@
 {
-  "38760": {
-    "name": "Лук Ялтинский",
-    "price": "171",
-    "old_price": "285",
+  "20234": {
+    "name": "Салат Шпинат, 50 г",
+    "price": "108",
+    "old_price": "180",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-yaltinskiy-38760/"
+    "link": "https://vkusvill.ru/goods/salat-shpinat-20234/"
+  },
+  "31276": {
+    "name": "Лук зеленый, 100 г",
+    "price": "59",
+    "old_price": "98",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-zelenyy-31276/"
+  },
+  "18360": {
+    "name": "Суп \"Харчо\"",
+    "price": "156",
+    "old_price": "260",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-kharcho-18360/"
+  },
+  "38215": {
+    "name": "Филе грудки цыпленка-бройлера для запекания в маринаде \"Сливочно-пряный\"",
+    "price": "379",
+    "old_price": "632",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-dlya-zapekaniya-v-marinade-slivochno-pryanyy-38215/"
+  },
+  "24787": {
+    "name": "Огурцы трилоджи, 450 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ogurtsy-trilodzhi-24787/"
+  },
+  "124798": {
+    "name": "Тофу ПРОТЕИН+ с семенами льна, 250 г",
+    "price": "109",
+    "old_price": "182",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tofu-protein-s-semenami-lna-124798/"
+  },
+  "119742": {
+    "name": "Форель филе-кусок горячего копчения, 150 г",
+    "price": "429",
+    "old_price": "715",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/forel-file-kusok-goryachego-kopcheniya-119742/"
+  },
+  "101568": {
+    "name": "Эчпочмак с индейкой и картофелем",
+    "price": "90",
+    "old_price": "150",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/echpochmak-s-indeykoy-i-kartofelem-101568/"
+  },
+  "88800": {
+    "name": "Тофу с белыми грибами, 250 г",
+    "price": "112",
+    "old_price": "187",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
+  },
+  "125206": {
+    "name": "Блины с картошкой и лисичками",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-kartoshkoy-i-lisichkami-125206/"
   }
 }
