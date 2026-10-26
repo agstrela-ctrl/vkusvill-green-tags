@@ -27,20 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-shchavelevyy-s-kuritsey-27195/"
   },
-  "122564": {
-    "name": "Паста цельнозерновая с тунцом и запеченными томатами",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-tselnozernovaya-s-tuntsom-i-zapechennymi-tomatami-122564/"
-  },
-  "114890": {
-    "name": "Мини-чиабатта с курицей, сыром \"Гауда\" и соусом барбекю",
-    "price": "190",
-    "old_price": "316",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kuritsey-114890/"
-  },
   "105270": {
     "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
     "price": "240",
@@ -90,26 +76,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/omlet-s-tomatami-i-motsarelloy-102082/"
   },
-  "58173": {
-    "name": "Котлета куриная с картофельным пюре, 400 г",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-58173/"
-  },
   "69185": {
     "name": "Микс укроп, петрушка, 50 г",
     "price": "54",
     "old_price": "90",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-ukrop-69185/"
-  },
-  "120495": {
-    "name": "Мак-н-шницель",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mak-n-shnitsel-120495/"
   },
   "18360": {
     "name": "Суп \"Харчо\"",
@@ -159,13 +131,6 @@
     "old_price": "508",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-82543/"
-  },
-  "93690": {
-    "name": "Сэндвич на булочке из слоеного теста с ветчиной и сыром",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-na-bulochke-iz-sloenogo-testa-s-vetchinoy-i-syrom-93690/"
   },
   "100821": {
     "name": "Печень жареная с луком с гречкой",
@@ -299,13 +264,6 @@
     "old_price": "302",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-tsyplenka-broylera-kusochkami-122685/"
-  },
-  "126056": {
-    "name": "Картофельные \"Дирижабли\" с мясным фаршем",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofelnye-dirizhabli-s-myasnym-farshem-126056/"
   },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
