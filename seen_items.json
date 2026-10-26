@@ -1,4 +1,18 @@
 {
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "29450": {
+    "name": "Яблоко Медовый хруст",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
+  },
   "51360": {
     "name": "Творог \"Пластовой\" 9%, 350 г",
     "price": "148",
