@@ -1,11 +1,4 @@
 {
-  "1039": {
-    "name": "Изделие цельнозер. без муки \"Житный\", нарезка",
-    "price": "56",
-    "old_price": "93",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-zhitnyy-1039/"
-  },
   "115321": {
     "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
     "price": "180",
@@ -41,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-tulon-122780/"
   },
-  "105788": {
-    "name": "Овощной микс \"Витаминное трио\", 250 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
-  },
   "112770": {
     "name": "Хлеб \"Свекольно-морковный\"",
     "price": "66",
@@ -61,13 +47,6 @@
     "old_price": "137",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-rzhanoy-kray-zernovoy-81722/"
-  },
-  "20751": {
-    "name": "Стейк Рибай из говядины",
-    "price": "493",
-    "old_price": "822",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-ribay-iz-govyadiny-20751/"
   },
   "122384": {
     "name": "Салат Рукола, 65г",
@@ -187,19 +166,5 @@
     "old_price": "278",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ruletiki-iz-vetchiny-s-syrnoy-nachinkoy-i-ukropom-124993/"
-  },
-  "124492": {
-    "name": "Десерт творожный на финиковом сиропе 12%",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-na-finikovom-sirope-12-124492/"
-  },
-  "117431": {
-    "name": "Йогурт \"Каштан\" с сиропом топинамбура 5,3%",
-    "price": "60",
-    "old_price": "100",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-kashtan-s-siropom-topinambura-5-117431/"
   }
 }
