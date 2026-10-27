@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "32931": {
-    "name": "Тартин пшенично-ржаной, половинка",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
-  },
   "15196": {
     "name": "Петрушка, 50 г",
     "price": "47",
@@ -33,27 +26,6 @@
     "old_price": "1168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
-  },
-  "15197": {
-    "name": "Ассорти из зелени, 100 г",
-    "price": "69",
-    "old_price": "115",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
-  },
-  "122090": {
-    "name": "Булочки для бургера с кунжутом, 3 шт",
-    "price": "51",
-    "old_price": "85",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-s-kunzhutom-122090/"
-  },
-  "60813": {
-    "name": "Кекс с рикоттой и изюмом",
-    "price": "244",
-    "old_price": "407",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keks-s-rikottoy-i-izyumom-60813/"
   },
   "75991": {
     "name": "Микс салатный \"Витамикс\" , 150 г",
@@ -76,12 +48,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurchiki-vkusvillchiki-112839/"
   },
-  "126446": {
-    "name": "Брецель с солью",
-    "price": "99",
-    "old_price": "165",
+  "32931": {
+    "name": "Тартин пшенично-ржаной, половинка",
+    "price": "50",
+    "old_price": "84",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
+    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
+  },
+  "122090": {
+    "name": "Булочки для бургера с кунжутом, 3 шт",
+    "price": "51",
+    "old_price": "85",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-s-kunzhutom-122090/"
   },
   "26582": {
     "name": "Стрипсы в панировке",
@@ -89,6 +68,13 @@
     "old_price": "303",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
+  },
+  "126446": {
+    "name": "Брецель с солью",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
   },
   "73841": {
     "name": "Килька балтийская без головы в масле с пряностями, 180 г",
