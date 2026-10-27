@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
   },
-  "67887": {
-    "name": "Шницель куриный в яйце, 360 г",
-    "price": "312",
-    "old_price": "520",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-yaytse-67887/"
-  },
   "109471": {
     "name": "Тартин \"Зерновой\", нарезка, 250 г",
     "price": "62",
@@ -41,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-so-svininoy-i-gribami-v-smetannom-souse-68461/"
   },
-  "39781": {
-    "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
-  },
   "122780": {
     "name": "Микс салатный \"Тулон\", 180г",
     "price": "105",
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-tulon-122780/"
-  },
-  "81476": {
-    "name": "Каша гречневая сливочная",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-grechnevaya-slivochnaya-81476/"
   },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
@@ -195,13 +174,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
-  "117431": {
-    "name": "Йогурт \"Каштан\" с сиропом топинамбура 5,3%",
-    "price": "60",
-    "old_price": "100",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-kashtan-s-siropom-topinambura-5-117431/"
-  },
   "125475": {
     "name": "Биф-болл с бифштексом, сыром и овощами, 270 г",
     "price": "209",
@@ -222,5 +194,12 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-na-finikovom-sirope-12-124492/"
+  },
+  "117431": {
+    "name": "Йогурт \"Каштан\" с сиропом топинамбура 5,3%",
+    "price": "60",
+    "old_price": "100",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-kashtan-s-siropom-topinambura-5-117431/"
   }
 }
