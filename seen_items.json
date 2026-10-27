@@ -1,16 +1,16 @@
 {
-  "41672": {
-    "name": "Эклеры \"Шоколад и ваниль\"",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
-  },
   "123846": {
     "name": "Клубника и ревень протертые с сахаром",
     "price": "101",
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klubnika-i-reven-protertye-s-sakharom-123846/"
+  },
+  "41672": {
+    "name": "Эклеры \"Шоколад и ваниль\"",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
   }
 }
