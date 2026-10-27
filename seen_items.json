@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-aromatnyy-s-travami-i-semen-125598/"
   },
-  "58178": {
-    "name": "Крем-суп с тыквой и индейкой",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
-  },
   "90429": {
     "name": "Огурцы Луховицкие, 500 г",
     "price": "114",
@@ -68,13 +61,6 @@
     "old_price": "530",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
-  },
-  "43499": {
-    "name": "Фарш из кролика и индейки",
-    "price": "400",
-    "old_price": "666",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-krolika-i-indeyki-43499/"
   },
   "17077": {
     "name": "Йогурт греческий из овечьего молока 4-8%",
@@ -167,26 +153,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
   },
-  "94222": {
-    "name": "Палочки из форели радужной холодного копчения, 100 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/palochki-iz-foreli-raduzhnoy-kholodnogo-kopcheniya-94222/"
-  },
   "73841": {
     "name": "Килька балтийская без головы в масле с пряностями, 180 г",
     "price": "126",
     "old_price": "210",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kilka-baltiyskaya-bez-golovy-v-masle-s-pryanostyami-73841/"
-  },
-  "116366": {
-    "name": "Сэндвич ролл с индейкой и клюквой",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-klyukvoy-116366/"
   },
   "94227": {
     "name": "Ассорти из филе-кусочков горбуши, сельди и скумбрии в масле, 180 г",
