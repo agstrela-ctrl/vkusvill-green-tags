@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-lukhovitskie-90429/"
   },
-  "92807": {
-    "name": "Паста Тортильони с сыром фета и ароматными травами",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-tortiloni-s-syrom-feta-i-aromatnymi-travami-92807/"
-  },
   "14993": {
     "name": "Морковь-мини",
     "price": "75",
@@ -125,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
   "38710": {
     "name": "Голубика, 300 г",
     "price": "405",
@@ -167,13 +153,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-iz-file-kusochkov-gorbushi-94227/"
   },
-  "115802": {
-    "name": "Биточки из индейки с сыром",
-    "price": "172",
-    "old_price": "287",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-indeyki-s-syrom-115802/"
-  },
   "106055": {
     "name": "Кальмар гигантский филе горячего копчения, 150 г",
     "price": "249",
@@ -188,11 +167,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-nerazdelannaya-kholodnogo-kopcheniya-125469/"
   },
+  "123009": {
+    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
   "99743": {
     "name": "Завтрак боул с хашбрауном, кафе",
     "price": "204",
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
+  },
+  "115802": {
+    "name": "Биточки из индейки с сыром",
+    "price": "172",
+    "old_price": "287",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-indeyki-s-syrom-115802/"
   }
 }
