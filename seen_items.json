@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "64567": {
-    "name": "Полутушка цыпленка-бройлера на зерновом откорме",
-    "price": "335",
-    "old_price": "558",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/polutushka-tsyplenka-broylera-na-zernovom-otkorme-64567/"
-  },
   "81642": {
     "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
     "price": "150",
@@ -27,33 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
   },
-  "110084": {
-    "name": "Скумбрия атлантическая в растительном масле подкопченная, 300 г",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/skumbriya-atlanticheskaya-v-rastitelnom-masle-podkopchennaya-110084/"
-  },
-  "110460": {
-    "name": "Фрикадельки \"Домашние\", 300 г",
-    "price": "197",
-    "old_price": "329",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-domashnie-110460/"
-  },
   "116341": {
     "name": "Брецель \"Миндальный\" на сливочном масле",
     "price": "135",
     "old_price": "225",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-mindalnyy-na-slivochnom-masle-116341/"
-  },
-  "111433": {
-    "name": "Чизкейк \"Японский\", 140 г",
-    "price": "157",
-    "old_price": "262",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-yaponskiy-111433/"
   },
   "112839": {
     "name": "Огурчики \"Вкусвилльчики\", 450 г",
@@ -69,40 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
   },
-  "122090": {
-    "name": "Булочки для бургера с кунжутом, 3 шт",
-    "price": "51",
-    "old_price": "85",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-s-kunzhutom-122090/"
-  },
-  "126446": {
-    "name": "Брецель с солью",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
-  },
   "73841": {
     "name": "Килька балтийская без головы в масле с пряностями, 180 г",
     "price": "126",
     "old_price": "210",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kilka-baltiyskaya-bez-golovy-v-masle-s-pryanostyami-73841/"
-  },
-  "94227": {
-    "name": "Ассорти из филе-кусочков горбуши, сельди и скумбрии в масле, 180 г",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-iz-file-kusochkov-gorbushi-94227/"
-  },
-  "106055": {
-    "name": "Кальмар гигантский филе горячего копчения, 150 г",
-    "price": "249",
-    "old_price": "415",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kalmar-gigantskiy-file-goryachego-kopcheniya-106055/"
   },
   "125469": {
     "name": "Мойва неразделанная холодного копчения, 200 г",
