@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
   },
-  "18968": {
-    "name": "Огурцы Бакинские, 300 г",
-    "price": "153",
-    "old_price": "255",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurtsy-bakinskie-18968/"
-  },
   "48604": {
     "name": "Булочки сдобные, 2 шт",
     "price": "49",
@@ -152,12 +145,5 @@
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
-  "99743": {
-    "name": "Завтрак боул с хашбрауном, кафе",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
   }
 }
