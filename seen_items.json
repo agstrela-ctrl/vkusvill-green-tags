@@ -1,24 +1,10 @@
 {
-  "71656": {
-    "name": "Говядина томленая в гранатовом соке с картофельным пюре и фасолью",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-tomlenaya-v-granatovom-soke-s-kartofelnym-pyure-i-fasolyu-71656/"
-  },
   "1039": {
     "name": "Изделие цельнозер. без муки \"Житный\", нарезка",
     "price": "56",
     "old_price": "93",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-zhitnyy-1039/"
-  },
-  "15310": {
-    "name": "Кинза, 50 г",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kinza-15310/"
   },
   "115321": {
     "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
@@ -48,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
-  "89299": {
-    "name": "Щи из свежей капусты постные",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchi-iz-svezhey-kapusty-postnye-89299/"
-  },
   "68461": {
     "name": "Картофель жареный со свининой и грибами в сметанном соусе",
     "price": "216",
@@ -75,13 +54,6 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-tulon-122780/"
-  },
-  "61150": {
-    "name": "Ролл с огурцом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
   },
   "81476": {
     "name": "Каша гречневая сливочная",
@@ -167,47 +139,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/dyuryum-s-kyuftoy-iz-govyadiny-126386/"
   },
-  "37968": {
-    "name": "Флэнк стейк",
-    "price": "337",
-    "old_price": "561",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/flenk-steyk-37968/"
-  },
-  "109310": {
-    "name": "Тушка перепела",
-    "price": "729",
-    "old_price": "1215",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
-  },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
-  "20973": {
-    "name": "Вафельные трубочки с вареной сгущенкой",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vafelnye-trubochki-s-varenoy-sgushchenkoy-20973/"
-  },
   "125717": {
     "name": "Онигири с кимчи и свининой",
     "price": "131",
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-i-svininoy-125717/"
-  },
-  "124387": {
-    "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
-    "price": "701",
-    "old_price": "1168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-pozdravlyaem-medovo-smetannyy-s-brusnikoy-124387/"
   },
   "125132": {
     "name": "Рулетики из цукини с творожным сыром и базиликом",
@@ -216,12 +153,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ruletiki-iz-tsukini-s-tvorozhnym-syrom-i-bazilikom-125132/"
   },
+  "37968": {
+    "name": "Флэнк стейк",
+    "price": "337",
+    "old_price": "561",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/flenk-steyk-37968/"
+  },
   "125256": {
     "name": "Творог со сливками \"Банан-семена льна\", 3%",
     "price": "80",
     "old_price": "133",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-so-slivkami-banan-semena-lna-125256/"
+  },
+  "109310": {
+    "name": "Тушка перепела",
+    "price": "729",
+    "old_price": "1215",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
   },
   "119535": {
     "name": "Йогурт питьевой безлактозный с грушей без доб. сахара 2,5%",
@@ -236,6 +187,13 @@
     "old_price": "998",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myakot-yagnenka-bez-kosti-khalyal-113775/"
+  },
+  "65170": {
+    "name": "Мойва жареная, 200 г",
+    "price": "214",
+    "old_price": "356",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
   "117431": {
     "name": "Йогурт \"Каштан\" с сиропом топинамбура 5,3%",
