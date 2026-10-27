@@ -20,27 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-tulon-122780/"
   },
-  "112770": {
-    "name": "Хлеб \"Свекольно-морковный\"",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
-  },
-  "81722": {
-    "name": "Изделие х/б \"Ржаной край\" зерновой, нарезка",
-    "price": "82",
-    "old_price": "137",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-rzhanoy-kray-zernovoy-81722/"
-  },
-  "122384": {
-    "name": "Салат Рукола, 65г",
-    "price": "96",
-    "old_price": "160",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-rukola-122384/"
-  },
   "122685": {
     "name": "Филе цыпленка бройлера кусочками",
     "price": "181",
@@ -96,13 +75,6 @@
     "old_price": "133",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-so-slivkami-banan-semena-lna-125256/"
-  },
-  "109310": {
-    "name": "Тушка перепела",
-    "price": "729",
-    "old_price": "1215",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
   },
   "65170": {
     "name": "Мойва жареная, 200 г",
