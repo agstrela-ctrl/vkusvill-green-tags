@@ -1,4 +1,11 @@
 {
+  "22658": {
+    "name": "Яйцо куриное С0",
+    "price": "87",
+    "old_price": "145",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-22658/"
+  },
   "15544": {
     "name": "Яйцо куриное С1",
     "price": "71",
@@ -34,6 +41,27 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mini-14993/"
   },
+  "31276": {
+    "name": "Лук зеленый, 100 г",
+    "price": "59",
+    "old_price": "98",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-zelenyy-31276/"
+  },
+  "15196": {
+    "name": "Петрушка, 50 г",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/petrushka-15196/"
+  },
+  "31275": {
+    "name": "Укроп, 100 г",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ukrop-31275/"
+  },
   "124387": {
     "name": "Торт \"Поздравляем!\" медово-сметанный с брусникой",
     "price": "701",
@@ -55,6 +83,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-sdobnye-48604/"
   },
+  "15197": {
+    "name": "Ассорти из зелени, 100 г",
+    "price": "69",
+    "old_price": "115",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
+  },
   "122090": {
     "name": "Булочки для бургера с кунжутом, 3 шт",
     "price": "51",
@@ -68,6 +103,13 @@
     "old_price": "407",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-s-rikottoy-i-izyumom-60813/"
+  },
+  "75991": {
+    "name": "Микс салатный \"Витамикс\" , 150 г",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
   },
   "110084": {
     "name": "Скумбрия атлантическая в растительном масле подкопченная, 300 г",
