@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mini-14993/"
   },
-  "61936": {
-    "name": "Фарш из мяса курицы, индейки и кролика",
-    "price": "318",
-    "old_price": "530",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
-  },
   "17077": {
     "name": "Йогурт греческий из овечьего молока 4-8%",
     "price": "65",
@@ -76,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-bakinskie-18968/"
   },
-  "83028": {
-    "name": "Бедро цыпленка-бройлера на зерновом откорме",
-    "price": "347",
-    "old_price": "578",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bedro-tsyplenka-broylera-na-zernovom-otkorme-83028/"
-  },
   "110084": {
     "name": "Скумбрия атлантическая в растительном масле подкопченная, 300 г",
     "price": "216",
@@ -103,20 +89,6 @@
     "old_price": "210",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurchiki-vkusvillchiki-112839/"
-  },
-  "14962": {
-    "name": "Мясо цыпленка-бройлера на косточке",
-    "price": "334",
-    "old_price": "556",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-tsyplenka-broylera-na-kostochke-14962/"
-  },
-  "125212": {
-    "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
   "38710": {
     "name": "Голубика, 300 г",
@@ -180,12 +152,5 @@
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
-  },
-  "115802": {
-    "name": "Биточки из индейки с сыром",
-    "price": "172",
-    "old_price": "287",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-indeyki-s-syrom-115802/"
   }
 }
