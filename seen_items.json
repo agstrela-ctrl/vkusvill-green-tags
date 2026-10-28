@@ -1,4 +1,11 @@
 {
+  "65409": {
+    "name": "Салат \"Витаминный\" с лимонной заправкой, 500 г",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
+  },
   "96044": {
     "name": "Кабачки \"Гриль\" со сметанно-чесночным соусом",
     "price": "150",
@@ -12,6 +19,13 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-126186/"
+  },
+  "117897": {
+    "name": "Сырники с начинкой из вареной сгущенки",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-s-nachinkoy-iz-varenoy-sgushchenki-117897/"
   },
   "65170": {
     "name": "Мойва жареная, 200 г",
