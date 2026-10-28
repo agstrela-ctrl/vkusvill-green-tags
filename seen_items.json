@@ -167,13 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/govyadina-tushenaya-s-lisichkami-i-pastoy-rizo-v-slivochno-gribnom-souse-101030/"
   },
-  "61150": {
-    "name": "Ролл с огурцом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
-  },
   "43175": {
     "name": "Куриная котлета-гриль",
     "price": "197",
@@ -251,18 +244,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kesadilya-s-vetchinoy-iz-indeyki-i-kuritsy-s-syrom-83595/"
   },
-  "72937": {
-    "name": "Картофель отварной с укропом, 500 г",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-otvarnoy-s-ukropom-72937/"
-  },
   "93683": {
     "name": "Стейк из индейки с овощами гриль и брокколи",
     "price": "269",
     "old_price": "448",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-indeyki-s-ovoshchami-gril-i-brokkoli-93683/"
+  },
+  "72937": {
+    "name": "Картофель отварной с укропом, 500 г",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-otvarnoy-s-ukropom-72937/"
   }
 }
