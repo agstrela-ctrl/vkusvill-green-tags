@@ -20,20 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
   },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
-  "69091": {
-    "name": "Изделие цельнозерновое без муки \"Полбяной с пажитником\"",
-    "price": "50",
-    "old_price": "83",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozernovoe-bez-muki-polbyanoy-s-pazhitnikom-69091/"
-  },
   "126186": {
     "name": "Онигири с кимчи, тофу и грибами",
     "price": "131",
@@ -54,5 +40,12 @@
     "old_price": "231",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-biskvitnoe-barni-s-molochnoy-nachinkoy-150-g-35246/"
+  },
+  "65170": {
+    "name": "Мойва жареная, 200 г",
+    "price": "214",
+    "old_price": "356",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   }
 }
