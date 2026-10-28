@@ -1,4 +1,11 @@
 {
+  "29566": {
+    "name": "Йогурт высокобелковый 2,1%",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-vysokobelkovyy-2-29566/"
+  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "66",
@@ -12,5 +19,26 @@
     "old_price": "97",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+  },
+  "116530": {
+    "name": "Творог детский \"Земляника\" 4,2%",
+    "price": "49",
+    "old_price": "82",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-detskiy-zemlyanika-4-116530/"
+  },
+  "43060": {
+    "name": "Творог с изюмом без доб. сахара 9%, 90 г",
+    "price": "53",
+    "old_price": "88",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-s-izyumom-bez-dob-sakhara-9-43060/"
+  },
+  "79543": {
+    "name": "Биойогурт с клубникой и земляникой \"ВкусВилл\" 1,5%",
+    "price": "60",
+    "old_price": "100",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bioyogurt-s-klubnikoy-i-zemlyanikoy-vkusvill-1-79543/"
   }
 }
