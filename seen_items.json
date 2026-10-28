@@ -41,20 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
   },
-  "62806": {
-    "name": "Фарш из говядины и свинины, 360 г",
-    "price": "212",
-    "old_price": "353",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-i-svininy-62806/"
-  },
-  "37923": {
-    "name": "Куриная грудка с грибами и пенне",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinaya-grudka-s-gribami-i-penne-37923/"
-  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "66",
@@ -97,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-rzhanoy-tselnozernovoy-83510/"
   },
-  "96522": {
-    "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-96522/"
-  },
   "18354": {
     "name": "Рис \"По-тайски\"",
     "price": "150",
@@ -118,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
   },
-  "101030": {
-    "name": "Говядина тушеная с лисичками и пастой Ризо в сливочно-грибном соусе",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-tushenaya-s-lisichkami-i-pastoy-rizo-v-slivochno-gribnom-souse-101030/"
-  },
   "43175": {
     "name": "Куриная котлета-гриль",
     "price": "197",
@@ -138,13 +110,6 @@
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-109046/"
-  },
-  "122769": {
-    "name": "Суп \"Легкий\" с птитимом и креветками",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
   },
   "34511": {
     "name": "Пенне с грибами и овощами",
