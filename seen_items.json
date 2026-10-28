@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-traditsionnoe-112310/"
   },
-  "111616": {
-    "name": "Паста \"Тальятелле\" с лимонной курицей",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-talyatelle-s-limonnoy-kuritsey-111616/"
-  },
   "71215": {
     "name": "Биточек куриный с капустой и картофельным пюре",
     "price": "150",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-95427/"
   },
-  "98595": {
-    "name": "Шашлык куриный с соусом айоли",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-kurinyy-s-sousom-ayoli-98595/"
-  },
   "108520": {
     "name": "Вертута с картофелем и грибами (постная)",
     "price": "126",
@@ -82,13 +68,6 @@
     "old_price": "88",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-rzhanoy-tselnozernovoy-83510/"
-  },
-  "18354": {
-    "name": "Рис \"По-тайски\"",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-po-tayski-18354/"
   },
   "39781": {
     "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
@@ -145,13 +124,6 @@
     "old_price": "368",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chakhokhbili-s-risom-126299/"
-  },
-  "83595": {
-    "name": "Кесадилья с ветчиной из индейки и курицы с сыром",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-vetchinoy-iz-indeyki-i-kuritsy-s-syrom-83595/"
   },
   "93683": {
     "name": "Стейк из индейки с овощами гриль и брокколи",
