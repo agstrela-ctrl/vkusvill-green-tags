@@ -20,27 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochek-kurinyy-s-kapustoy-i-kartofelnym-pyure-71215/"
   },
-  "69576": {
-    "name": "Фарш \"Домашний по стандарту ВкусВилл\", 360 г",
-    "price": "205",
-    "old_price": "341",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-domashniy-po-standartu-vkusvill-69576/"
-  },
-  "18361": {
-    "name": "Борщ \"Украинский\"",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/borshch-ukrainskiy-18361/"
-  },
-  "106904": {
-    "name": "Макароны с тушёной говядиной",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
-  },
   "111102": {
     "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
     "price": "204",
@@ -61,20 +40,6 @@
     "old_price": "296",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
-  "43242": {
-    "name": "Блины с мясом, 7 шт",
-    "price": "323",
-    "old_price": "538",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-myasom-43242/"
-  },
-  "69185": {
-    "name": "Микс укроп, петрушка, 50 г",
-    "price": "54",
-    "old_price": "90",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-ukrop-69185/"
   },
   "62806": {
     "name": "Фарш из говядины и свинины, 360 г",
@@ -103,13 +68,6 @@
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-95427/"
-  },
-  "117147": {
-    "name": "Паста Карбонара с креветками и беконом",
-    "price": "201",
-    "old_price": "335",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-karbonara-s-krevetkami-i-bekonom-117147/"
   },
   "98595": {
     "name": "Шашлык куриный с соусом айоли",
@@ -180,20 +138,6 @@
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-109046/"
-  },
-  "37523": {
-    "name": "Пицца с ветчиной куриной и сыром (мини)",
-    "price": "97",
-    "old_price": "162",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstsa-s-vetchinoy-kurinoy-i-syrom-mini-37523/"
-  },
-  "118762": {
-    "name": "Булочка паровая \"Бань Бао\" со свининой и грибами",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-parovaya-ban-bao-so-svininoy-i-gribami-118762/"
   },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
