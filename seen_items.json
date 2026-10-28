@@ -1,31 +1,38 @@
 {
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "58",
-    "old_price": "97",
+  "105273": {
+    "name": "Каша овсяная на безлактозном молоке с ягодами и миндальными лепестками, кафе",
+    "price": "132",
+    "old_price": "220",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+    "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-na-bezlaktoznom-moloke-s-yagodami-i-mindalnymi-lepestkami-105273/"
   },
-  "122685": {
-    "name": "Филе цыпленка бройлера кусочками",
-    "price": "181",
-    "old_price": "302",
+  "65384": {
+    "name": "Изделие х/б \"Для тостов\" зерновое, 250 г",
+    "price": "61",
+    "old_price": "102",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-tsyplenka-broylera-kusochkami-122685/"
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-dlya-tostov-zernovoe-65384/"
   },
-  "123944": {
-    "name": "Шаверма \"Как в Питере\" с курицей и овощами",
-    "price": "183",
-    "old_price": "305",
+  "120057": {
+    "name": "Тортилья с отрубями и льном",
+    "price": "41",
+    "old_price": "68",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
+    "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
   },
-  "119457": {
-    "name": "Конвертики с вишневой начинкой",
-    "price": "112",
-    "old_price": "186",
+  "65170": {
+    "name": "Мойва жареная, 200 г",
+    "price": "214",
+    "old_price": "356",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-vishnevoy-nachinkoy-119457/"
+    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+  },
+  "69091": {
+    "name": "Изделие цельнозерновое без муки \"Полбяной с пажитником\"",
+    "price": "50",
+    "old_price": "83",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-tselnozernovoe-bez-muki-polbyanoy-s-pazhitnikom-69091/"
   },
   "126186": {
     "name": "Онигири с кимчи, тофу и грибами",
@@ -41,25 +48,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurchiki-vkusvillchiki-112839/"
   },
-  "125717": {
-    "name": "Онигири с кимчи и свининой",
-    "price": "131",
-    "old_price": "218",
+  "35246": {
+    "name": "Пирожное бисквитное Барни с молочной начинкой 150 г",
+    "price": "139",
+    "old_price": "231",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-i-svininoy-125717/"
-  },
-  "37968": {
-    "name": "Флэнк стейк",
-    "price": "337",
-    "old_price": "561",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/flenk-steyk-37968/"
-  },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+    "link": "https://vkusvill.ru/goods/pirozhnoe-biskvitnoe-barni-s-molochnoy-nachinkoy-150-g-35246/"
   }
 }
