@@ -1,9 +1,16 @@
 {
-  "99079": {
-    "name": "Корж песочный для пирога (выпекаем дома) зам. 190 г",
-    "price": "108",
-    "old_price": "180",
+  "44309": {
+    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
+    "price": "66",
+    "old_price": "110",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/korzh-pesochnyy-dlya-piroga-vypekaem-doma-zam-190-g-99079/"
+    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
+  },
+  "44310": {
+    "name": "Морковь резаная \"Сочная морковь\"",
+    "price": "58",
+    "old_price": "97",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   }
 }
