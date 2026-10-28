@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-domashniy-po-standartu-vkusvill-69576/"
   },
-  "30220": {
-    "name": "Паста с лососем в сливочном соусе",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-lososem-v-slivochnom-souse-30220/"
-  },
   "18361": {
     "name": "Борщ \"Украинский\"",
     "price": "137",
@@ -48,26 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
   },
-  "125730": {
-    "name": "Кимпаб с курицей, овощами и омлетом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kimpab-s-kuritsey-125730/"
-  },
   "111102": {
     "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
     "price": "204",
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
-  },
-  "126684": {
-    "name": "Люля-кебаб из говядины и баранины по-гиждувански",
-    "price": "269",
-    "old_price": "448",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lyulya-kebab-iz-govyadiny-i-baraniny-po-gizhduvanski-126684/"
   },
   "16942": {
     "name": "Блины с яблоком, 210 г",
@@ -111,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinaya-grudka-s-gribami-i-penne-37923/"
   },
-  "33660": {
-    "name": "Запеканка творож. с черной смород., 100 г",
-    "price": "85",
-    "old_price": "141",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zapekanka-tvorozh-s-chernoy-smorod-33660/"
-  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "66",
@@ -131,20 +103,6 @@
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-95427/"
-  },
-  "114196": {
-    "name": "Оджахури с курицей",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/odzhakhuri-s-kuritsey-114196/"
-  },
-  "101898": {
-    "name": "Лепешки картофельные с гаудой и пармезаном",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshki-kartofelnye-s-gaudoy-i-parmezanom-101898/"
   },
   "117147": {
     "name": "Паста Карбонара с креветками и беконом",
@@ -258,13 +216,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
   },
-  "108521": {
-    "name": "Вертута с яблоком и изюмом (постная)",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vertuta-s-yablokom-i-izyumom-postnaya-108521/"
-  },
   "126386": {
     "name": "Дюрюм с кюфтой из говядины",
     "price": "196",
@@ -285,13 +236,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
-  },
-  "54133": {
-    "name": "Спаржа с морковью по-корейски",
-    "price": "86",
-    "old_price": "143",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sparzha-s-morkovyu-po-koreyski-54133/"
   },
   "126299": {
     "name": "Чахохбили с рисом",
@@ -320,19 +264,5 @@
     "old_price": "448",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-indeyki-s-ovoshchami-gril-i-brokkoli-93683/"
-  },
-  "122685": {
-    "name": "Филе цыпленка бройлера кусочками",
-    "price": "181",
-    "old_price": "302",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-tsyplenka-broylera-kusochkami-122685/"
-  },
-  "126060": {
-    "name": "Картофель печеный по-балтийски с курицей и угрем",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-pechenyy-po-baltiyski-s-kuritsey-i-ugrem-126060/"
   }
 }
