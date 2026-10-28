@@ -69,20 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-rzhanoy-tselnozernovoy-83510/"
   },
-  "39781": {
-    "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
-  },
-  "43175": {
-    "name": "Куриная котлета-гриль",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinaya-kotleta-gril-43175/"
-  },
   "109046": {
     "name": "Картофель жареный с грибами, 200 г",
     "price": "150",
@@ -97,20 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
   },
-  "126386": {
-    "name": "Дюрюм с кюфтой из говядины",
-    "price": "196",
-    "old_price": "326",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dyuryum-s-kyuftoy-iz-govyadiny-126386/"
-  },
-  "127264": {
-    "name": "Сэндвич ролл с индейкой и запеченной тыквой",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-zapechennoy-tykvoy-127264/"
-  },
   "67834": {
     "name": "Кнели куриные с тыквой и картофельным пюре",
     "price": "179",
@@ -124,13 +96,6 @@
     "old_price": "368",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chakhokhbili-s-risom-126299/"
-  },
-  "93683": {
-    "name": "Стейк из индейки с овощами гриль и брокколи",
-    "price": "269",
-    "old_price": "448",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-iz-indeyki-s-ovoshchami-gril-i-brokkoli-93683/"
   },
   "72937": {
     "name": "Картофель отварной с укропом, 500 г",
