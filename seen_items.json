@@ -1,16 +1,23 @@
 {
-  "119457": {
-    "name": "Конвертики с вишневой начинкой",
-    "price": "112",
-    "old_price": "186",
+  "126328": {
+    "name": "Минтай филе спинка зам., 400 г",
+    "price": "318",
+    "old_price": "530",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-vishnevoy-nachinkoy-119457/"
+    "link": "https://vkusvill.ru/goods/mintay-file-spinka-zam-126328/"
   },
-  "126186": {
-    "name": "Онигири с кимчи, тофу и грибами",
-    "price": "131",
-    "old_price": "218",
+  "22648": {
+    "name": "Креветки северные очищенные 300/400 в/м., 200 г",
+    "price": "432",
+    "old_price": "720",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-126186/"
+    "link": "https://vkusvill.ru/goods/krevetki-severnye-ochishchennye-300-400-v-m-22648/"
+  },
+  "99079": {
+    "name": "Корж песочный для пирога (выпекаем дома) зам. 190 г",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/korzh-pesochnyy-dlya-piroga-vypekaem-doma-zam-190-g-99079/"
   }
 }
