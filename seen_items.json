@@ -1,17 +1,10 @@
 {
-  "96044": {
-    "name": "Кабачки \"Гриль\" со сметанно-чесночным соусом",
-    "price": "150",
-    "old_price": "250",
+  "119457": {
+    "name": "Конвертики с вишневой начинкой",
+    "price": "112",
+    "old_price": "186",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kabachki-gril-so-smetanno-chesnochnym-sousom-96044/"
-  },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+    "link": "https://vkusvill.ru/goods/konvertiki-s-vishnevoy-nachinkoy-119457/"
   },
   "126186": {
     "name": "Онигири с кимчи, тофу и грибами",
@@ -20,18 +13,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-126186/"
   },
-  "58173": {
-    "name": "Котлета куриная с картофельным пюре, 400 г",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-58173/"
-  },
   "125717": {
     "name": "Онигири с кимчи и свининой",
     "price": "131",
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-i-svininoy-125717/"
+  },
+  "65170": {
+    "name": "Мойва жареная, 200 г",
+    "price": "214",
+    "old_price": "356",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   }
 }
