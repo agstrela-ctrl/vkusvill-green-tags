@@ -1,17 +1,87 @@
 {
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
+  "76931": {
+    "name": "Онигири с креветкой",
+    "price": "131",
+    "old_price": "218",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
+    "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
   },
-  "52952": {
-    "name": "Пита \"Ливанская\"",
-    "price": "52",
-    "old_price": "87",
+  "37319": {
+    "name": "Сэндвич ролл с лососем и шпинатом",
+    "price": "179",
+    "old_price": "298",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-lososem-i-shpinatom-37319/"
+  },
+  "67834": {
+    "name": "Кнели куриные с тыквой и картофельным пюре",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
+  },
+  "115321": {
+    "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
+  },
+  "29044": {
+    "name": "Манго Кубики, 200 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
+  },
+  "124452": {
+    "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
+  },
+  "39781": {
+    "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
+  },
+  "78365": {
+    "name": "Фарш говяжий Халяль",
+    "price": "266",
+    "old_price": "444",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-govyazhiy-khalyal-78365/"
+  },
+  "78470": {
+    "name": "Котлеты рыбные жареные, 400 г",
+    "price": "324",
+    "old_price": "540",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-rybnye-zharenye-78470/"
+  },
+  "98952": {
+    "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
+    "price": "332",
+    "old_price": "553",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylya-tsyplenka-broylera-v-souse-teriyaki-98952/"
+  },
+  "105788": {
+    "name": "Овощной микс \"Витаминное трио\", 250 г",
+    "price": "72",
+    "old_price": "120",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
+  },
+  "26904": {
+    "name": "Сэндвич с форелью.",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
   },
   "34511": {
     "name": "Пенне с грибами и овощами",
@@ -20,11 +90,53 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
   },
-  "67834": {
-    "name": "Кнели куриные с тыквой и картофельным пюре",
-    "price": "179",
-    "old_price": "298",
+  "99757": {
+    "name": "Минтай филе в пивном кляре, 200 г",
+    "price": "230",
+    "old_price": "383",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
+    "link": "https://vkusvill.ru/goods/mintay-file-v-pivnom-klyare-99757/"
+  },
+  "109679": {
+    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
+  },
+  "72200": {
+    "name": "Курабье с апельсином, 140 г (веган)",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurabe-s-apelsinom-72200/"
+  },
+  "92433": {
+    "name": "Пирожное \"НеМедовик\" шоколадный, веган",
+    "price": "124",
+    "old_price": "206",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
+  },
+  "113608": {
+    "name": "Зефир \"Вишневый\" в темном шоколаде",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zefir-vishnevyy-v-temnom-shokolade-113608/"
+  },
+  "33452": {
+    "name": "Конфеты \"Сливочная помадка\"",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konfety-slivochnaya-pomadka-33452/"
+  },
+  "116341": {
+    "name": "Брецель \"Миндальный\" на сливочном масле",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-mindalnyy-na-slivochnom-masle-116341/"
   }
 }
