@@ -20,20 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
   },
-  "78365": {
-    "name": "Фарш говяжий Халяль",
-    "price": "266",
-    "old_price": "444",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-govyazhiy-khalyal-78365/"
-  },
-  "98952": {
-    "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
-    "price": "332",
-    "old_price": "553",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krylya-tsyplenka-broylera-v-souse-teriyaki-98952/"
-  },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
     "price": "72",
@@ -54,12 +40,5 @@
     "old_price": "278",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
-  },
-  "92433": {
-    "name": "Пирожное \"НеМедовик\" шоколадный, веган",
-    "price": "124",
-    "old_price": "206",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
   }
 }
