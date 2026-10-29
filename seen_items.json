@@ -1,17 +1,17 @@
 {
-  "76931": {
-    "name": "Онигири с креветкой",
-    "price": "131",
-    "old_price": "218",
+  "115321": {
+    "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
+    "price": "180",
+    "old_price": "300",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
+    "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
   },
-  "37319": {
-    "name": "Сэндвич ролл с лососем и шпинатом",
+  "124452": {
+    "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
     "price": "179",
     "old_price": "298",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-lososem-i-shpinatom-37319/"
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
   },
   "78365": {
     "name": "Фарш говяжий Халяль",
@@ -27,12 +27,40 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
   },
+  "26904": {
+    "name": "Сэндвич с форелью.",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
+  },
   "34511": {
     "name": "Пенне с грибами и овощами",
     "price": "125",
     "old_price": "208",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
+  },
+  "109679": {
+    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
+  },
+  "92433": {
+    "name": "Пирожное \"НеМедовик\" шоколадный, веган",
+    "price": "124",
+    "old_price": "206",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
+  },
+  "116341": {
+    "name": "Брецель \"Миндальный\" на сливочном масле",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-mindalnyy-na-slivochnom-masle-116341/"
   },
   "67834": {
     "name": "Кнели куриные с тыквой и картофельным пюре",
