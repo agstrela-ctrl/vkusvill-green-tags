@@ -6,12 +6,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-marinovannymi-lisichkami-126378/"
   },
+  "113856": {
+    "name": "Салат из запеченной свеклы с сыром фета",
+    "price": "142",
+    "old_price": "236",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
+  },
   "58178": {
     "name": "Крем-суп с тыквой и индейкой",
     "price": "142",
     "old_price": "236",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
+  },
+  "117179": {
+    "name": "Торт \"Половинки Медовик-Наполеон\"",
+    "price": "451",
+    "old_price": "752",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-polovinki-medovik-napoleon-117179/"
   },
   "124531": {
     "name": "Паста каннеллони с грибами и рикоттой",
@@ -75,6 +89,13 @@
     "old_price": "335",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-karbonara-s-krevetkami-i-bekonom-117147/"
+  },
+  "122232": {
+    "name": "Кекс \"Творожный\", 250 г",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-tvorozhnyy-122232/"
   },
   "98595": {
     "name": "Шашлык куриный с соусом айоли",
