@@ -1,11 +1,4 @@
 {
-  "112310": {
-    "name": "Мясо по-французски \"Традиционное\"",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-traditsionnoe-112310/"
-  },
   "101864": {
     "name": "Сэндвич ролл с запеченным тунцом",
     "price": "178",
@@ -19,13 +12,6 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
-  "95427": {
-    "name": "Кесадилья с курицей, 220 г",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-95427/"
   },
   "59515": {
     "name": "Сосиска в тесте (свинина, говядина), 2 шт.",
@@ -41,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-rzhanoy-tselnozernovoy-83510/"
   },
-  "109046": {
-    "name": "Картофель жареный с грибами, 200 г",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-109046/"
-  },
   "34511": {
     "name": "Пенне с грибами и овощами",
     "price": "125",
@@ -61,13 +40,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
-  },
-  "126299": {
-    "name": "Чахохбили с рисом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chakhokhbili-s-risom-126299/"
   },
   "72937": {
     "name": "Картофель отварной с укропом, 500 г",
