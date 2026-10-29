@@ -1,44 +1,65 @@
 {
-  "115321": {
-    "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
-  },
-  "29044": {
-    "name": "Манго Кубики, 200 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
-  },
-  "124452": {
-    "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
-  },
-  "105788": {
-    "name": "Овощной микс \"Витаминное трио\", 250 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
-  },
-  "34511": {
-    "name": "Пенне с грибами и овощами",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511/"
-  },
-  "109679": {
-    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
+  "91179": {
+    "name": "Панини с курицей-гриль, моцареллой и огуречным релишем, кафе",
     "price": "167",
     "old_price": "278",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
+    "link": "https://vkusvill.ru/goods/panini-s-kuritsey-gril-91179/"
+  },
+  "60022": {
+    "name": "Чиабатта ржаная с индейкой и соусом песто, кафе",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-rzhanaya-s-indeykoy-i-sousom-pesto-60022/"
+  },
+  "113083": {
+    "name": "Шаурма с курицей на гриле по-домашнему, кафе",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-na-grile-po-domashnemu-113083/"
+  },
+  "81978": {
+    "name": "Сэндвич \"Рубен\" с пастрами из индейки, кафе",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-ruben-s-pastrami-iz-indeyki-81978/"
+  },
+  "106480": {
+    "name": "Лепешка с куриной ветчиной и сыром на гриле, кафе",
+    "price": "112",
+    "old_price": "186",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-s-kurinoy-vetchinoy-i-syrom-na-grile-106480/"
+  },
+  "110444": {
+    "name": "Шаурма с курицей и томатным соусом на гриле, кафе",
+    "price": "184",
+    "old_price": "306",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-tomatnym-sousom-na-grile-110444/"
+  },
+  "39249": {
+    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
+  },
+  "68303": {
+    "name": "Сэндвич с курицей и печеным перцем, кафе",
+    "price": "142",
+    "old_price": "236",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-s-kuritsey-i-pechenym-pertsem-68303/"
+  },
+  "122489": {
+    "name": "Чиабатта с куриной ветчиной и соусом \"Цезарь\", кафе",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinoy-vetchinoy-i-sousom-tsezar-122489/"
   }
 }
