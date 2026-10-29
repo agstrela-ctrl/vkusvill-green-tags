@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
   },
-  "44309": {
-    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
   "59515": {
     "name": "Сосиска в тесте (свинина, говядина), 2 шт.",
     "price": "137",
@@ -20,12 +13,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiska-v-teste-svinina-59515/"
   },
-  "83510": {
-    "name": "Изделие х/б \"Ржаной цельнозерновой\"",
-    "price": "53",
-    "old_price": "88",
+  "112770": {
+    "name": "Хлеб \"Свекольно-морковный\"",
+    "price": "66",
+    "old_price": "110",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-rzhanoy-tselnozernovoy-83510/"
+    "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
+  },
+  "52952": {
+    "name": "Пита \"Ливанская\"",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
   },
   "34511": {
     "name": "Пенне с грибами и овощами",
