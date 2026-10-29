@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
   },
+  "29044": {
+    "name": "Манго Кубики, 200 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
+  },
   "124452": {
     "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
     "price": "179",
@@ -20,19 +27,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-govyazhiy-khalyal-78365/"
   },
+  "98952": {
+    "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
+    "price": "332",
+    "old_price": "553",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylya-tsyplenka-broylera-v-souse-teriyaki-98952/"
+  },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
     "price": "72",
     "old_price": "120",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
-  },
-  "26904": {
-    "name": "Сэндвич с форелью.",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
   },
   "34511": {
     "name": "Пенне с грибами и овощами",
@@ -54,26 +61,5 @@
     "old_price": "206",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-shokoladnyy-92433/"
-  },
-  "116341": {
-    "name": "Брецель \"Миндальный\" на сливочном масле",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-mindalnyy-na-slivochnom-masle-116341/"
-  },
-  "67834": {
-    "name": "Кнели куриные с тыквой и картофельным пюре",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
-  },
-  "113608": {
-    "name": "Зефир \"Вишневый\" в темном шоколаде",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zefir-vishnevyy-v-temnom-shokolade-113608/"
   }
 }
