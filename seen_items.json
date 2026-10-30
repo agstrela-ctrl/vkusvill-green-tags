@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-marinovannymi-lisichkami-126378/"
   },
+  "14662": {
+    "name": "Медальоны в рисовых хлопьях, охл.",
+    "price": "403",
+    "old_price": "672",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/medalony-v-risovykh-khlopyakh-14662/"
+  },
   "114250": {
     "name": "Филе куриной грудки с копченой паприкой",
     "price": "204",
@@ -13,19 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-s-kopchenoy-paprikoy-114250/"
   },
-  "25023": {
-    "name": "Блинчики \"Цезарь\"",
-    "price": "152",
-    "old_price": "254",
+  "120752": {
+    "name": "Булочки-брецель с кунжутом, 2 шт",
+    "price": "119",
+    "old_price": "198",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/blinchiki-tsezar-25023/"
-  },
-  "61707": {
-    "name": "Кексы-мини ванильно-сливочные",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-61707/"
+    "link": "https://vkusvill.ru/goods/bulochki-bretsel-s-kunzhutom-120752/"
   },
   "118284": {
     "name": "Крем-суп картофельный с шампиньонами и трюфельным маслом",
@@ -33,6 +33,13 @@
     "old_price": "238",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-kartofelnyy-s-shampinonami-i-tryufelnym-maslom-118284/"
+  },
+  "125144": {
+    "name": "Кекс-бисквит \"Осенняя облепиха\"",
+    "price": "118",
+    "old_price": "196",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-biskvit-osennyaya-oblepikha-125144/"
   },
   "74328": {
     "name": "Ветчина из свинины Рублевский для завтрака 400 г",
@@ -47,13 +54,6 @@
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
-  "118202": {
-    "name": "Микрозелень (ростки) брокколи, 30 г",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mikrozelen-rostki-brokkoli-118202/"
   },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
