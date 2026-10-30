@@ -55,6 +55,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-klubnikoy-71623/"
   },
+  "115410": {
+    "name": "Филе куриной грудки \"Лимонный перец\"",
+    "price": "194",
+    "old_price": "323",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-limonnyy-perets-115410/"
+  },
   "14662": {
     "name": "Медальоны в рисовых хлопьях, охл.",
     "price": "403",
@@ -89,13 +96,6 @@
     "old_price": "297",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-lyulya-kebabom-iz-kuritsy-119506/"
-  },
-  "119124": {
-    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
-    "price": "273",
-    "old_price": "455",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
   },
   "120752": {
     "name": "Булочки-брецель с кунжутом, 2 шт",
@@ -188,13 +188,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
   },
-  "118906": {
-    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
-  },
   "127266": {
     "name": "Грибы мини микс шампиньоны, 200г",
     "price": "113",
@@ -202,19 +195,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/griby-mini-miks-shampinony-127266/"
   },
-  "124423": {
-    "name": "Десерт творожный на сиропе топинамбура 12%",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-na-sirope-topinambura-12-124423/"
-  },
   "125175": {
     "name": "Минтай филе с перцем вяленый, 100 г",
     "price": "219",
     "old_price": "365",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mintay-file-s-pertsem-vyalenyy-125175/"
+  },
+  "118906": {
+    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
+  },
+  "124423": {
+    "name": "Десерт творожный на сиропе топинамбура 12%",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-na-sirope-topinambura-12-124423/"
   },
   "124352": {
     "name": "Лопатка варено-копченая Черкизово Мраморная нарезка 100г",
