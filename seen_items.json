@@ -83,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/omlet-s-kuritsey-i-syrom-21451/"
   },
-  "82086": {
-    "name": "Суп \"Уха\" (с горбушей, судаком, палтусом), 270 г",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-ukha-s-gorbushey-82086/"
-  },
   "101137": {
     "name": "Торт \"Брауни\", веган",
     "price": "407",
@@ -103,13 +96,6 @@
     "old_price": "530",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
-  },
-  "124692": {
-    "name": "Плюшка \"Домашняя\" с сахаром, 150 г",
-    "price": "61",
-    "old_price": "102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plyushka-domashnyaya-s-sakharom-124692/"
   },
   "109665": {
     "name": "Филе форели радужной на гриле с рисом",
@@ -139,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shchi-iz-svezhey-kapusty-postnye-89299/"
   },
-  "119383": {
-    "name": "Салат \"Цезарь\" легкий",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
-  },
   "100354": {
     "name": "Суп Фо Бо, 580 г",
     "price": "305",
@@ -166,13 +145,6 @@
     "old_price": "258",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
-  },
-  "110403": {
-    "name": "Вкусмаффин с ветчиной, сыром и яйцом",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vkusmaffin-s-vetchinoy-110403/"
   },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
@@ -195,13 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
   },
-  "107822": {
-    "name": "Брецель на сливочном масле с семечками",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
-  },
   "15433": {
     "name": "Молоко 2,5% в бутылке, 450 мл",
     "price": "49",
@@ -222,13 +187,6 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lapsha-iz-batata-s-krevetkami-v-souse-teriyaki-113300/"
-  },
-  "98527": {
-    "name": "Овощи микс на пару",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
   },
   "23956": {
     "name": "Салат Ромэн в горшочке",
@@ -251,13 +209,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bonfua-s-mango-i-krem-chiz-121970/"
   },
-  "126590": {
-    "name": "Курица по-корейски \"Яннем\" с яичной лапшой",
-    "price": "227",
-    "old_price": "378",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-po-koreyski-yannem-s-yaichnoy-lapshoy-126590/"
-  },
   "123943": {
     "name": "Десерт \"Ореховый\" с карамелью, веган",
     "price": "131",
@@ -278,13 +229,6 @@
     "old_price": "388",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tashkent-s-govyadinoy-125710/"
-  },
-  "126458": {
-    "name": "Блины с маскарпоне и облепиховым соусом",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-maskarpone-i-oblepikhovym-sousom-126458/"
   },
   "125925": {
     "name": "Суп Кукси с говядиной и кукурузой на говяжьем бульоне",
@@ -320,20 +264,6 @@
     "old_price": "278",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-motsarelloy-120493/"
-  },
-  "123388": {
-    "name": "Чиабатта злаковая с куриным филе, соусом песто и томатным айоли",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-zlakovaya-s-kurinym-file-123388/"
-  },
-  "115822": {
-    "name": "Онигири с тунцом в соево-кунжутном соусе",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-tuntsom-v-soevo-kunzhutnom-souse-115822/"
   },
   "125175": {
     "name": "Минтай филе с перцем вяленый, 100 г",
