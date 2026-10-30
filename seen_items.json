@@ -13,12 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
-  "44309": {
-    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
-    "price": "66",
-    "old_price": "110",
+  "36263": {
+    "name": "Ананас медовый",
+    "price": "210",
+    "old_price": "350",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
+    "link": "https://vkusvill.ru/goods/ananas-medovyy-36263/"
   },
   "57587": {
     "name": "Бананы зеленые",
@@ -26,6 +26,13 @@
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-zelenye-57587/"
+  },
+  "52803": {
+    "name": "Печенье затяжное \"Янтарное\"",
+    "price": "104",
+    "old_price": "173",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-zatyazhnoe-yantarnoe-52803/"
   },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
