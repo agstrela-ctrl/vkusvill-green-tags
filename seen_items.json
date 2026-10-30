@@ -1,11 +1,4 @@
 {
-  "126378": {
-    "name": "Салат с курицей и маринованными лисичками",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-marinovannymi-lisichkami-126378/"
-  },
   "16417": {
     "name": "Суп \"Гороховый\" с копчёностями",
     "price": "155",
@@ -19,20 +12,6 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
-  "111702": {
-    "name": "Салат \"Цезарь\" с креветками",
-    "price": "287",
-    "old_price": "478",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
-  },
-  "43175": {
-    "name": "Куриная котлета-гриль",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinaya-kotleta-gril-43175/"
   },
   "119506": {
     "name": "Сэндвич-ролл с люля-кебабом из курицы",
@@ -48,25 +27,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
-  "118284": {
-    "name": "Крем-суп картофельный с шампиньонами и трюфельным маслом",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-kartofelnyy-s-shampinonami-i-tryufelnym-maslom-118284/"
-  },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
     "price": "499",
     "old_price": "832",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
-  },
-  "126446": {
-    "name": "Брецель с солью",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
   }
 }
