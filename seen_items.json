@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-dva-shokolada-77283/"
   },
-  "122769": {
-    "name": "Суп \"Легкий\" с птитимом и креветками",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
-  },
   "25023": {
     "name": "Блинчики \"Цезарь\"",
     "price": "152",
@@ -132,6 +125,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
   },
+  "118906": {
+    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
+  },
   "127266": {
     "name": "Грибы мини микс шампиньоны, 200г",
     "price": "113",
@@ -145,13 +145,6 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-tvorozhnyy-na-sirope-topinambura-12-124423/"
-  },
-  "118906": {
-    "name": "Маффины творожные \"Клюква - черника\" с крамблом, 2 шт.",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/maffiny-tvorozhnye-klyukva-chernika-s-kramblom-118906/"
   },
   "125175": {
     "name": "Минтай филе с перцем вяленый, 100 г",
