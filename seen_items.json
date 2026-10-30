@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
   },
+  "17736": {
+    "name": "Молоко цельное в бутылке, 900 мл",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-tselnoe-v-butylke-17736/"
+  },
   "605": {
     "name": "Лук репчатый",
     "price": "35",
@@ -13,26 +20,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
-  "36263": {
-    "name": "Ананас медовый",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ananas-medovyy-36263/"
-  },
-  "57587": {
-    "name": "Бананы зеленые",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-zelenye-57587/"
-  },
   "52803": {
     "name": "Печенье затяжное \"Янтарное\"",
     "price": "104",
     "old_price": "173",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-zatyazhnoe-yantarnoe-52803/"
+  },
+  "36263": {
+    "name": "Ананас медовый",
+    "price": "210",
+    "old_price": "350",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ananas-medovyy-36263/"
   },
   "115112": {
     "name": "Жаркое из кролика со сметаной",
