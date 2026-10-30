@@ -1,11 +1,4 @@
 {
-  "23074": {
-    "name": "Манго Египет",
-    "price": "231",
-    "old_price": "385",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
-  },
   "17736": {
     "name": "Молоко цельное в бутылке, 900 мл",
     "price": "64",
@@ -19,6 +12,27 @@
     "old_price": "58",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "18360": {
+    "name": "Суп \"Харчо\"",
+    "price": "156",
+    "old_price": "260",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-kharcho-18360/"
+  },
+  "123009": {
+    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
+    "price": "47",
+    "old_price": "78",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
+  "124581": {
+    "name": "Батон пшенично-ржаной с кунжутом и тмином, половинка, нарезка",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-pshenichno-rzhanoy-s-kunzhutom-i-tminom-124581/"
   },
   "52803": {
     "name": "Печенье затяжное \"Янтарное\"",
