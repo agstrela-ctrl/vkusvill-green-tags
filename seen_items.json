@@ -1,9 +1,72 @@
 {
-  "39295": {
-    "name": "Творог \"Пластовой\" 5%, 350 г",
-    "price": "142",
-    "old_price": "237",
+  "126378": {
+    "name": "Салат с курицей и маринованными лисичками",
+    "price": "203",
+    "old_price": "338",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-5-39295/"
+    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-marinovannymi-lisichkami-126378/"
+  },
+  "16417": {
+    "name": "Суп \"Гороховый\" с копчёностями",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-gorokhovyy-s-kopchyenostyami-16417/"
+  },
+  "44309": {
+    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
+  },
+  "111702": {
+    "name": "Салат \"Цезарь\" с креветками",
+    "price": "287",
+    "old_price": "478",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
+  },
+  "43175": {
+    "name": "Куриная котлета-гриль",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurinaya-kotleta-gril-43175/"
+  },
+  "119506": {
+    "name": "Сэндвич-ролл с люля-кебабом из курицы",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-lyulya-kebabom-iz-kuritsy-119506/"
+  },
+  "115112": {
+    "name": "Жаркое из кролика со сметаной",
+    "price": "499",
+    "old_price": "832",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
+  },
+  "126446": {
+    "name": "Брецель с солью",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
+  },
+  "65425": {
+    "name": "Креветки жареные, 150 г",
+    "price": "348",
+    "old_price": "580",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
+  },
+  "118284": {
+    "name": "Крем-суп картофельный с шампиньонами и трюфельным маслом",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-kartofelnyy-s-shampinonami-i-tryufelnym-maslom-118284/"
   }
 }
