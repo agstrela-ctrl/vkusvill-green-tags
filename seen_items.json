@@ -69,6 +69,27 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/medalony-v-risovykh-khlopyakh-14662/"
   },
+  "124666": {
+    "name": "Тарталетка \"Черника-голубика\" с сырным кремом",
+    "price": "134",
+    "old_price": "224",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartaletka-chernika-golubika-s-syrnym-kremom-124666/"
+  },
+  "112904": {
+    "name": "Рулет шоколадный \"Черничная магия\"",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulet-shokoladnyy-chernichnaya-magiya-112904/"
+  },
+  "96522": {
+    "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом",
+    "price": "299",
+    "old_price": "498",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-96522/"
+  },
   "118762": {
     "name": "Булочка паровая \"Бань Бао\" со свининой и грибами",
     "price": "137",
@@ -82,13 +103,6 @@
     "old_price": "240",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-vkusmaffin-s-kuritsey-123897/"
-  },
-  "114250": {
-    "name": "Филе куриной грудки с копченой паприкой",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-s-kopchenoy-paprikoy-114250/"
   },
   "119506": {
     "name": "Сэндвич-ролл с люля-кебабом из курицы",
@@ -131,6 +145,13 @@
     "old_price": "398",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
+  },
+  "79681": {
+    "name": "Кейс-торт \"Манго-маракуйя\"",
+    "price": "233",
+    "old_price": "388",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keys-tort-mango-marakuyya-79681/"
   },
   "118284": {
     "name": "Крем-суп картофельный с шампиньонами и трюфельным маслом",
@@ -187,13 +208,6 @@
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
-  },
-  "127266": {
-    "name": "Грибы мини микс шампиньоны, 200г",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/griby-mini-miks-shampinony-127266/"
   },
   "125175": {
     "name": "Минтай филе с перцем вяленый, 100 г",
