@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-marinovannymi-lisichkami-126378/"
   },
-  "58178": {
-    "name": "Крем-суп с тыквой и индейкой",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
-  },
   "124531": {
     "name": "Паста каннеллони с грибами и рикоттой",
     "price": "249",
@@ -47,13 +40,6 @@
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-maskarpone-i-oblepikhovym-sousom-126458/"
-  },
-  "29461": {
-    "name": "Коврижка яблочная постная, кафе",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
   },
   "43060": {
     "name": "Творог с изюмом без доб. сахара 9%, 90 г",
@@ -118,20 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-svininy-rublevskiy-dlya-zavtraka-400-g-74328/"
   },
-  "38119": {
-    "name": "Блин сырный по-голландски",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blin-syrnyy-po-gollandski-38119/"
-  },
-  "126355": {
-    "name": "Панна-котта \"Облепиха\"",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/panna-kotta-oblepikha-126355/"
-  },
   "108520": {
     "name": "Вертута с картофелем и грибами (постная)",
     "price": "126",
@@ -145,13 +117,6 @@
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
-  "121339": {
-    "name": "Кесадилья с курицей, шпинатом и моцареллой",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-121339/"
   },
   "126446": {
     "name": "Брецель с солью",
@@ -173,13 +138,6 @@
     "old_price": "188",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/griby-mini-miks-shampinony-127266/"
-  },
-  "120902": {
-    "name": "Кекс с цедрой апельсина на альтернативной муке, 2 шт",
-    "price": "145",
-    "old_price": "242",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keks-s-tsedroy-apelsina-na-alternativnoy-muke-120902/"
   },
   "122453": {
     "name": "Ролл \"Филадельфия\" с безлактозным сыром",
