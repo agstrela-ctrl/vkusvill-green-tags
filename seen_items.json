@@ -1,11 +1,4 @@
 {
-  "82232": {
-    "name": "Торт \"Белые ночи\" с сырным кремом, 1,1 кг",
-    "price": "695",
-    "old_price": "1158",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-belye-nochi-s-syrnym-kremom-82232/"
-  },
   "113856": {
     "name": "Салат из запеченной свеклы с сыром фета",
     "price": "142",
@@ -47,13 +40,6 @@
     "old_price": "115",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
-  },
-  "127532": {
-    "name": "Курица с картофелем по-деревенски и маринованной капустой",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelem-po-derevenski-i-marinovannoy-kapustoy-127532/"
   },
   "1039": {
     "name": "Изделие цельнозер. без муки \"Житный\", нарезка",
@@ -111,26 +97,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-ukha-s-gorbushey-82086/"
   },
-  "51915": {
-    "name": "Вок фунчоза с креветками",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vok-funchoza-s-krevetkami-51915/"
-  },
   "101137": {
     "name": "Торт \"Брауни\", веган",
     "price": "407",
     "old_price": "678",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-brauni-101137/"
-  },
-  "37744": {
-    "name": "Сердце цыплят-бройлеров",
-    "price": "259",
-    "old_price": "432",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/serdtse-tsyplyat-broylerov-37744/"
   },
   "61936": {
     "name": "Фарш из мяса курицы, индейки и кролика",
@@ -208,13 +180,6 @@
     "old_price": "258",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
-  },
-  "68307": {
-    "name": "Суп Том ям с курицей",
-    "price": "184",
-    "old_price": "307",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-tom-yam-s-kuritsey-68307/"
   },
   "110403": {
     "name": "Вкусмаффин с ветчиной, сыром и яйцом",
@@ -369,13 +334,6 @@
     "old_price": "303",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
-  "54702": {
-    "name": "Торт \"Медовый\" со сметанным кремом",
-    "price": "395",
-    "old_price": "658",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-medovyy-so-smetannym-kremom-54702/"
   },
   "120493": {
     "name": "Сэндвич ролл с моцареллой, вялеными томатами и соусом песто",
