@@ -97,47 +97,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
   },
-  "109665": {
-    "name": "Филе форели радужной на гриле с рисом",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-foreli-raduzhnoy-na-grile-s-risom-109665/"
-  },
-  "100714": {
-    "name": "Лапша из батата в соусе терияки с куриным филе",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-v-souse-teriyaki-s-kurinym-file-100714/"
-  },
   "24293": {
     "name": "Фрикадельки мини из телятины",
     "price": "299",
     "old_price": "499",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
-  },
-  "89299": {
-    "name": "Щи из свежей капусты постные",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchi-iz-svezhey-kapusty-postnye-89299/"
-  },
-  "100354": {
-    "name": "Суп Фо Бо, 580 г",
-    "price": "305",
-    "old_price": "508",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-fo-bo-100354/"
-  },
-  "27161": {
-    "name": "Сырники из творога, кафе",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-27161/"
   },
   "104701": {
     "name": "Закрытый омлет с ветчиной и сыром, кафе",
@@ -181,20 +146,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-yaytse-67887/"
   },
-  "113300": {
-    "name": "Лапша из батата с креветками в соусе терияки",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-s-krevetkami-v-souse-teriyaki-113300/"
-  },
-  "23956": {
-    "name": "Салат Ромэн в горшочке",
-    "price": "78",
-    "old_price": "130",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-romen-v-gorshochke-23956/"
-  },
   "124931": {
     "name": "Стейк Рамп в маринаде",
     "price": "239",
@@ -208,13 +159,6 @@
     "old_price": "284",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bonfua-s-mango-i-krem-chiz-121970/"
-  },
-  "123943": {
-    "name": "Десерт \"Ореховый\" с карамелью, веган",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-orekhovyy-s-karamelyu-123943/"
   },
   "125797": {
     "name": "Суп Мастава с говядиной",
@@ -230,26 +174,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tashkent-s-govyadinoy-125710/"
   },
-  "125925": {
-    "name": "Суп Кукси с говядиной и кукурузой на говяжьем бульоне",
-    "price": "275",
-    "old_price": "458",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-kuksi-s-govyadinoy-i-kukuruzoy-na-govyazhem-bulone-125925/"
-  },
   "119742": {
     "name": "Форель филе-кусок горячего копчения, 150 г",
     "price": "429",
     "old_price": "715",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-file-kusok-goryachego-kopcheniya-119742/"
-  },
-  "123860": {
-    "name": "Стрипсы из филе цыпленка-бройлера на зерновом откорме",
-    "price": "193",
-    "old_price": "322",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-iz-file-tsyplenka-broylera-na-zernovom-otkorme-123860/"
   },
   "26582": {
     "name": "Стрипсы в панировке",
@@ -258,12 +188,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
   },
-  "120493": {
-    "name": "Сэндвич ролл с моцареллой, вялеными томатами и соусом песто",
-    "price": "167",
-    "old_price": "278",
+  "125795": {
+    "name": "Люля-кебаб из курицы по-узбекски",
+    "price": "197",
+    "old_price": "328",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-motsarelloy-120493/"
+    "link": "https://vkusvill.ru/goods/lyulya-kebab-iz-kuritsy-po-uzbekski-125795/"
+  },
+  "125925": {
+    "name": "Суп Кукси с говядиной и кукурузой на говяжьем бульоне",
+    "price": "275",
+    "old_price": "458",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-kuksi-s-govyadinoy-i-kukuruzoy-na-govyazhem-bulone-125925/"
   },
   "125175": {
     "name": "Минтай филе с перцем вяленый, 100 г",
@@ -271,12 +208,5 @@
     "old_price": "365",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mintay-file-s-pertsem-vyalenyy-125175/"
-  },
-  "125795": {
-    "name": "Люля-кебаб из курицы по-узбекски",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lyulya-kebab-iz-kuritsy-po-uzbekski-125795/"
   }
 }
