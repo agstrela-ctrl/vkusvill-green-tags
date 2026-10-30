@@ -1,4 +1,11 @@
 {
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
   "126378": {
     "name": "Салат с курицей и маринованными лисичками",
     "price": "203",
@@ -47,13 +54,6 @@
     "old_price": "117",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/cheburek-samarkandskiy-s-kartofelem-126106/"
-  },
-  "71623": {
-    "name": "Блины с клубникой",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-klubnikoy-71623/"
   },
   "115410": {
     "name": "Филе куриной грудки \"Лимонный перец\"",
@@ -132,6 +132,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
+  "108948": {
+    "name": "Малина в белом и молочном шоколаде",
+    "price": "352",
+    "old_price": "587",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/malina-v-belom-i-molochnom-shokolade-108948/"
+  },
   "125034": {
     "name": "Блины с бананом и ореховой пастой",
     "price": "155",
@@ -145,13 +152,6 @@
     "old_price": "398",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
-  },
-  "79681": {
-    "name": "Кейс-торт \"Манго-маракуйя\"",
-    "price": "233",
-    "old_price": "388",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keys-tort-mango-marakuyya-79681/"
   },
   "118284": {
     "name": "Крем-суп картофельный с шампиньонами и трюфельным маслом",
