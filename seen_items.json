@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-v-khrustyashchey-korochke-s-kislo-sladkim-sousom-93949/"
   },
-  "15544": {
-    "name": "Яйцо куриное С1",
-    "price": "71",
-    "old_price": "119",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s1-15544/"
-  },
   "113856": {
     "name": "Салат из запеченной свеклы с сыром фета",
     "price": "142",
@@ -76,19 +69,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
   },
-  "115276": {
-    "name": "Яйцо куриное С0 белое",
-    "price": "87",
-    "old_price": "145",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-beloe-115276/"
-  },
   "77283": {
     "name": "Десерт \"Два шоколада\", веган",
     "price": "118",
     "old_price": "197",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-dva-shokolada-77283/"
+  },
+  "23073": {
+    "name": "Салат Кобб с имбирным соусом",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
   },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
