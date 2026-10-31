@@ -76,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
   },
-  "125795": {
-    "name": "Люля-кебаб из курицы по-узбекски",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lyulya-kebab-iz-kuritsy-po-uzbekski-125795/"
-  },
   "24293": {
     "name": "Фрикадельки мини из телятины",
     "price": "299",
@@ -103,13 +96,6 @@
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
-  },
-  "119742": {
-    "name": "Форель филе-кусок горячего копчения, 150 г",
-    "price": "429",
-    "old_price": "715",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-file-kusok-goryachego-kopcheniya-119742/"
   },
   "65170": {
     "name": "Мойва жареная, 200 г",
@@ -132,26 +118,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
   },
-  "26582": {
-    "name": "Стрипсы в панировке",
-    "price": "182",
-    "old_price": "303",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
   "124931": {
     "name": "Стейк Рамп в маринаде",
     "price": "239",
     "old_price": "398",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-ramp-v-marinade-124931/"
-  },
-  "119539": {
-    "name": "Лепешка Шоти, 300 г",
-    "price": "56",
-    "old_price": "94",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
   },
   "121970": {
     "name": "Десерт \"Бонфуа\" с манго и крем-чиз",
@@ -166,6 +138,34 @@
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-s-kartofelem-i-syrom-121629/"
+  },
+  "119742": {
+    "name": "Форель филе-кусок горячего копчения, 150 г",
+    "price": "429",
+    "old_price": "715",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/forel-file-kusok-goryachego-kopcheniya-119742/"
+  },
+  "26582": {
+    "name": "Стрипсы в панировке",
+    "price": "182",
+    "old_price": "303",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
+  },
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
+  },
+  "125795": {
+    "name": "Люля-кебаб из курицы по-узбекски",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lyulya-kebab-iz-kuritsy-po-uzbekski-125795/"
   },
   "125175": {
     "name": "Минтай филе с перцем вяленый, 100 г",
