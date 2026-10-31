@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-belye-nochi-s-syrnym-kremom-82232/"
   },
-  "113856": {
-    "name": "Салат из запеченной свеклы с сыром фета",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
-  },
   "16416": {
     "name": "Суп с фрикадельками из индейки",
     "price": "130",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
   },
-  "84667": {
-    "name": "Ромовая Баба, 1 шт",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/romovaya-baba-84667/"
-  },
   "37284": {
     "name": "Блины шоколадные с маскарпоне и вишней",
     "price": "156",
@@ -69,33 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
   },
-  "124931": {
-    "name": "Стейк Рамп в маринаде",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-ramp-v-marinade-124931/"
-  },
-  "67162": {
-    "name": "Говядина для запекания \"Премиум\", 550 г",
-    "price": "533",
-    "old_price": "888",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-dlya-zapekaniya-premium-67162/"
-  },
   "26582": {
     "name": "Стрипсы в панировке",
     "price": "182",
     "old_price": "303",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
-  "119539": {
-    "name": "Лепешка Шоти, 300 г",
-    "price": "56",
-    "old_price": "94",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
   },
   "125175": {
     "name": "Минтай филе с перцем вяленый, 100 г",
