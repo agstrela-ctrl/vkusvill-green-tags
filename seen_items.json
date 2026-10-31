@@ -1,11 +1,4 @@
 {
-  "93949": {
-    "name": "Куриное филе в хрустящей корочке с кисло-сладким соусом",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-v-khrustyashchey-korochke-s-kislo-sladkim-sousom-93949/"
-  },
   "113856": {
     "name": "Салат из запеченной свеклы с сыром фета",
     "price": "142",
@@ -76,19 +69,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
   },
+  "67162": {
+    "name": "Говядина для запекания \"Премиум\", 550 г",
+    "price": "533",
+    "old_price": "888",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-dlya-zapekaniya-premium-67162/"
+  },
   "77283": {
     "name": "Десерт \"Два шоколада\", веган",
     "price": "118",
     "old_price": "197",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-dva-shokolada-77283/"
-  },
-  "23073": {
-    "name": "Салат Кобб с имбирным соусом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
   },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
