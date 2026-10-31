@@ -6,19 +6,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-v-khrustyashchey-korochke-s-kislo-sladkim-sousom-93949/"
   },
+  "15544": {
+    "name": "Яйцо куриное С1",
+    "price": "71",
+    "old_price": "119",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s1-15544/"
+  },
   "113856": {
     "name": "Салат из запеченной свеклы с сыром фета",
     "price": "142",
     "old_price": "236",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-113856/"
-  },
-  "32931": {
-    "name": "Тартин пшенично-ржаной, половинка",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
   },
   "16416": {
     "name": "Суп с фрикадельками из индейки",
@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
   },
-  "69185": {
-    "name": "Микс укроп, петрушка, 50 г",
-    "price": "54",
-    "old_price": "90",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-ukrop-69185/"
-  },
   "101137": {
     "name": "Торт \"Брауни\", веган",
     "price": "407",
@@ -82,6 +75,13 @@
     "old_price": "499",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
+  },
+  "115276": {
+    "name": "Яйцо куриное С0 белое",
+    "price": "87",
+    "old_price": "145",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-beloe-115276/"
   },
   "77283": {
     "name": "Десерт \"Два шоколада\", веган",
