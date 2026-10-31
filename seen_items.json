@@ -1,17 +1,10 @@
 {
-  "18941": {
-    "name": "Картофель мытый фасованный, 2,5 кг",
-    "price": "165",
-    "old_price": "275",
+  "605": {
+    "name": "Лук репчатый",
+    "price": "35",
+    "old_price": "58",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-mytyy-fasovannyy-18941/"
-  },
-  "46001": {
-    "name": "Соус салатный Kuhne American Caesar Цезарь 250 мл",
-    "price": "279",
-    "old_price": "465",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sous-salatnyy-kuhne-american-caesar-tsezar-250-ml-46001/"
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
   "75646": {
     "name": "Тарталетки Ameria классические 4 шт 100 г",
