@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39535/"
   },
-  "101137": {
-    "name": "Торт \"Брауни\", веган",
-    "price": "407",
-    "old_price": "678",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-brauni-101137/"
-  },
   "61936": {
     "name": "Фарш из мяса курицы, индейки и кролика",
     "price": "318",
@@ -62,19 +55,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
   },
+  "101137": {
+    "name": "Торт \"Брауни\", веган",
+    "price": "407",
+    "old_price": "678",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-brauni-101137/"
+  },
   "24293": {
     "name": "Фрикадельки мини из телятины",
     "price": "299",
     "old_price": "499",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
-  },
-  "67162": {
-    "name": "Говядина для запекания \"Премиум\", 550 г",
-    "price": "533",
-    "old_price": "888",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-dlya-zapekaniya-premium-67162/"
   },
   "77283": {
     "name": "Десерт \"Два шоколада\", веган",
@@ -90,19 +83,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
   },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
   "84667": {
     "name": "Ромовая Баба, 1 шт",
     "price": "109",
     "old_price": "182",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/romovaya-baba-84667/"
+  },
+  "65170": {
+    "name": "Мойва жареная, 200 г",
+    "price": "214",
+    "old_price": "356",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
   "37284": {
     "name": "Блины шоколадные с маскарпоне и вишней",
@@ -132,6 +125,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-s-kartofelem-i-syrom-121629/"
   },
+  "67162": {
+    "name": "Говядина для запекания \"Премиум\", 550 г",
+    "price": "533",
+    "old_price": "888",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-dlya-zapekaniya-premium-67162/"
+  },
   "119742": {
     "name": "Форель филе-кусок горячего копчения, 150 г",
     "price": "429",
@@ -152,13 +152,6 @@
     "old_price": "94",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
-  },
-  "125795": {
-    "name": "Люля-кебаб из курицы по-узбекски",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lyulya-kebab-iz-kuritsy-po-uzbekski-125795/"
   },
   "125175": {
     "name": "Минтай филе с перцем вяленый, 100 г",
