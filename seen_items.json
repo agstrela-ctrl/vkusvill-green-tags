@@ -55,20 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rogalik-sdobnyy-abrikos-kuraga-80732/"
   },
-  "24949": {
-    "name": "Тушка цыпленка-бройлера Халяль.",
-    "price": "244",
-    "old_price": "406",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-khalyal-24949/"
-  },
-  "1698": {
-    "name": "Творог мягкий 4,5%",
-    "price": "50",
-    "old_price": "83",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-myagkiy-4-1698/"
-  },
   "117219": {
     "name": "Паста Ризони с куриными фрикадельками и томатным соусом",
     "price": "179",
@@ -76,26 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-rizoni-s-kurinymi-frikadelkami-i-tomatnym-sousom-117219/"
   },
-  "121382": {
-    "name": "Творог \"Пластовой\" с топленым слоем, 200 г",
-    "price": "100",
-    "old_price": "167",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-s-toplenym-sloem-121382/"
-  },
   "117147": {
     "name": "Паста Карбонара с креветками и беконом",
     "price": "201",
     "old_price": "335",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-karbonara-s-krevetkami-i-bekonom-117147/"
-  },
-  "24950": {
-    "name": "Филе грудки цыпленка-бройлера Халяль",
-    "price": "444",
-    "old_price": "740",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-khalyal-24950/"
   },
   "29461": {
     "name": "Коврижка яблочная постная, кафе",
@@ -117,13 +89,6 @@
     "old_price": "392",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
-  },
-  "91332": {
-    "name": "Суп Фо Бо",
-    "price": "208",
-    "old_price": "346",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-fo-bo-91332/"
   },
   "100593": {
     "name": "Напиток кисломолочный PROTEIN+ \"Карамель\", 200 г",
@@ -180,13 +145,6 @@
     "old_price": "86",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-sdobnye-s-izyumom-85529/"
-  },
-  "118874": {
-    "name": "Десерт кокосовый \"Клубничный чизкейк\"",
-    "price": "57",
-    "old_price": "95",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-kokosovyy-klubnichnyy-chizkeyk-118874/"
   },
   "121697": {
     "name": "Тарт \"Черная смородина с меренгой\"",
@@ -299,20 +257,6 @@
     "old_price": "288",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-zhyulenom-iz-kuritsy-i-gribov-115004/"
-  },
-  "98002": {
-    "name": "Йогурт \"Мюсли Бирхер по-швейцарски\" с яблоком и миндалем",
-    "price": "78",
-    "old_price": "130",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-myusli-birkher-po-shveytsarski-s-yablokom-i-mindalem-98002/"
-  },
-  "125475": {
-    "name": "Биф-болл с бифштексом, сыром и овощами, 270 г",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bif-boll-s-bifshteksom-125475/"
   },
   "121939": {
     "name": "Сэндвич ролл с курицей и фасолью",
