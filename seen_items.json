@@ -1,46 +1,4 @@
 {
-  "14962": {
-    "name": "Мясо цыпленка-бройлера на косточке",
-    "price": "334",
-    "old_price": "556",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-tsyplenka-broylera-na-kostochke-14962/"
-  },
-  "1334": {
-    "name": "Салат Рукола, 50 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-rukola-1334/"
-  },
-  "53516": {
-    "name": "Курица в сливочном соусе с гречкой",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
-  },
-  "123947": {
-    "name": "Десерт \"НеНаполеон\" с кокосовым кремом, веган",
-    "price": "140",
-    "old_price": "234",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-nenapoleon-s-kokosovym-kremom-123947/"
-  },
-  "75": {
-    "name": "Простокваша 4%, 250 г",
-    "price": "49",
-    "old_price": "82",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/prostokvasha-4-75/"
-  },
-  "80732": {
-    "name": "Рогалик сдобный \"Абрикос-курага\"",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rogalik-sdobnyy-abrikos-kuraga-80732/"
-  },
   "92807": {
     "name": "Паста Тортильони с сыром фета и ароматными травами",
     "price": "179",
@@ -54,48 +12,6 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-54391/"
-  },
-  "84664": {
-    "name": "Торт \"Наполеон\" 740г",
-    "price": "683",
-    "old_price": "1138",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-napoleon-740g-84664/"
-  },
-  "114372": {
-    "name": "Фетучини с курицей и лисичками",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/fetuchini-s-kuritsey-i-lisichkami-114372/"
-  },
-  "99883": {
-    "name": "Манты с тыквенной начинкой",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/manty-s-tykvennoy-nachinkoy-99883/"
-  },
-  "100714": {
-    "name": "Лапша из батата в соусе терияки с куриным филе",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-v-souse-teriyaki-s-kurinym-file-100714/"
-  },
-  "96749": {
-    "name": "Салат винегрет, 300 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-96749/"
-  },
-  "88508": {
-    "name": "Шашлык из курицы гриль",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-kuritsy-gril-88508/"
   },
   "119383": {
     "name": "Салат \"Цезарь\" легкий",
@@ -111,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
   },
-  "45767": {
-    "name": "Салат \"Оливье вегетарианский\"",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-olive-vegetarianskiy-45767/"
-  },
   "33849": {
     "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
     "price": "81",
@@ -131,20 +40,6 @@
     "old_price": "238",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
-  },
-  "33785": {
-    "name": "Каша рисовая на кокосовой основе с с/фрукт, кафе",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-risovaya-na-kokosovoy-osnove-s-s-frukt-33785/"
-  },
-  "74314": {
-    "name": "Сырники творожные с клубничной начинкой",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-s-klubnichnoy-nachinkoy-74314/"
   },
   "108688": {
     "name": "Картофель жареный с грибами, 500 г",
@@ -160,11 +55,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-s-makaronami-59037/"
   },
-  "125769": {
-    "name": "Пибимпаб с курицей",
-    "price": "197",
-    "old_price": "328",
+  "123947": {
+    "name": "Десерт \"НеНаполеон\" с кокосовым кремом, веган",
+    "price": "140",
+    "old_price": "234",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pibimpab-s-kuritsey-125769/"
+    "link": "https://vkusvill.ru/goods/desert-nenapoleon-s-kokosovym-kremom-123947/"
+  },
+  "39781": {
+    "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
+  },
+  "45767": {
+    "name": "Салат \"Оливье вегетарианский\"",
+    "price": "142",
+    "old_price": "236",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-olive-vegetarianskiy-45767/"
   }
 }
