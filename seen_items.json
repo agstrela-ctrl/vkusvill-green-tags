@@ -1,24 +1,10 @@
 {
-  "16589": {
-    "name": "Форель малосоленая ломтики, 150 г",
-    "price": "315",
-    "old_price": "525",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-malosolenaya-lomtiki-16589/"
-  },
   "18161": {
     "name": "Лаваш \"Армянский по-деревенски\", 220 г",
     "price": "48",
     "old_price": "80",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
-  },
-  "63575": {
-    "name": "Форель филе-кусок на коже охл., 350 г",
-    "price": "594",
-    "old_price": "990",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-file-kusok-na-kozhe-okhl-63575/"
   },
   "83512": {
     "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
@@ -40,13 +26,6 @@
     "old_price": "100",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/petrushka-31277/"
-  },
-  "88563": {
-    "name": "Желе \"Шарики\" клубника, яблоко-виноград, апельсин-маракуйя",
-    "price": "168",
-    "old_price": "280",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
   },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
@@ -83,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ikra-mintaya-podkopchenaya-v-masle-119744/"
   },
-  "53448": {
-    "name": "Салат латук Романо, шт",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-latuk-romano-53448/"
-  },
   "117310": {
     "name": "Торт \"Медово-сметанный\" с черносливом",
     "price": "530",
@@ -117,12 +89,5 @@
     "old_price": "140",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/timyan-23010/"
-  },
-  "73841": {
-    "name": "Килька балтийская без головы в масле с пряностями, 180 г",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kilka-baltiyskaya-bez-golovy-v-masle-s-pryanostyami-73841/"
   }
 }
