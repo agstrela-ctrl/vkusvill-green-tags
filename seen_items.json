@@ -1,23 +1,9 @@
 {
-  "81978": {
-    "name": "Сэндвич \"Рубен\" с пастрами из индейки, кафе",
-    "price": "161",
-    "old_price": "268",
+  "97355": {
+    "name": "Картофель Астрахань",
+    "price": "57",
+    "old_price": "95",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-ruben-s-pastrami-iz-indeyki-81978/"
-  },
-  "39249": {
-    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
-  },
-  "122489": {
-    "name": "Чиабатта с куриной ветчиной и соусом \"Цезарь\", кафе",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinoy-vetchinoy-i-sousom-tsezar-122489/"
+    "link": "https://vkusvill.ru/goods/kartofel-astrakhan-97355/"
   }
 }
