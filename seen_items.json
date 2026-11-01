@@ -1,170 +1,23 @@
 {
-  "34835": {
-    "name": "Салат \"Витаминный\" с лимонной заправкой",
-    "price": "132",
-    "old_price": "220",
+  "81978": {
+    "name": "Сэндвич \"Рубен\" с пастрами из индейки, кафе",
+    "price": "161",
+    "old_price": "268",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835/"
+    "link": "https://vkusvill.ru/goods/sendvich-ruben-s-pastrami-iz-indeyki-81978/"
   },
-  "53516": {
-    "name": "Курица в сливочном соусе с гречкой",
-    "price": "179",
-    "old_price": "298",
+  "39249": {
+    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
+    "price": "173",
+    "old_price": "288",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
   },
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
+  "122489": {
+    "name": "Чиабатта с куриной ветчиной и соусом \"Цезарь\", кафе",
+    "price": "173",
+    "old_price": "288",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
-  "123947": {
-    "name": "Десерт \"НеНаполеон\" с кокосовым кремом, веган",
-    "price": "140",
-    "old_price": "234",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-nenapoleon-s-kokosovym-kremom-123947/"
-  },
-  "39535": {
-    "name": "Чиабатта с курицей, 205 г",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39535/"
-  },
-  "125730": {
-    "name": "Кимпаб с курицей, овощами и омлетом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kimpab-s-kuritsey-125730/"
-  },
-  "92807": {
-    "name": "Паста Тортильони с сыром фета и ароматными травами",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-tortiloni-s-syrom-feta-i-aromatnymi-travami-92807/"
-  },
-  "54391": {
-    "name": "Мясо по-французски с печеным картофелем",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-54391/"
-  },
-  "84664": {
-    "name": "Торт \"Наполеон\" 740г",
-    "price": "683",
-    "old_price": "1138",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-napoleon-740g-84664/"
-  },
-  "114372": {
-    "name": "Фетучини с курицей и лисичками",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/fetuchini-s-kuritsey-i-lisichkami-114372/"
-  },
-  "99883": {
-    "name": "Манты с тыквенной начинкой",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/manty-s-tykvennoy-nachinkoy-99883/"
-  },
-  "96749": {
-    "name": "Салат винегрет, 300 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-96749/"
-  },
-  "61150": {
-    "name": "Ролл с огурцом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
-  },
-  "88508": {
-    "name": "Шашлык из курицы гриль",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-iz-kuritsy-gril-88508/"
-  },
-  "119383": {
-    "name": "Салат \"Цезарь\" легкий",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
-  },
-  "61013": {
-    "name": "Эклеры с заварным кремом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-s-zavarnym-kremom-61013/"
-  },
-  "111702": {
-    "name": "Салат \"Цезарь\" с креветками",
-    "price": "287",
-    "old_price": "478",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
-  },
-  "45767": {
-    "name": "Салат \"Оливье вегетарианский\"",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-olive-vegetarianskiy-45767/"
-  },
-  "33785": {
-    "name": "Каша рисовая на кокосовой основе с с/фрукт, кафе",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-risovaya-na-kokosovoy-osnove-s-s-frukt-33785/"
-  },
-  "108688": {
-    "name": "Картофель жареный с грибами, 500 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
-  },
-  "59037": {
-    "name": "Шницель куриный в сырной панировке с макаронами",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-s-makaronami-59037/"
-  },
-  "68814": {
-    "name": "Сосиска в слоеном тесте с сыром и горчицей",
-    "price": "121",
-    "old_price": "202",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiska-v-sloenom-teste-s-syrom-i-gorchitsey-68814/"
-  },
-  "29587": {
-    "name": "Котлеты из цыпленка-бройлера со сливочным маслом и укропом",
-    "price": "314",
-    "old_price": "524",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-so-slivochnym-maslom-i-ukropom-29587/"
-  },
-  "100714": {
-    "name": "Лапша из батата в соусе терияки с куриным филе",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-v-souse-teriyaki-s-kurinym-file-100714/"
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinoy-vetchinoy-i-sousom-tsezar-122489/"
   }
 }
