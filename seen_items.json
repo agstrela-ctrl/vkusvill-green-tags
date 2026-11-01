@@ -13,26 +13,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/omlet-belkovyy-s-kurinym-file-52515/"
   },
+  "107823": {
+    "name": "Брецель на сливочном масле с кунжутом",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
+  },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
     "price": "191",
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
-  },
-  "108138": {
-    "name": "Шаурма с грибным жюльеном и курицей",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-gribnym-zhyulenom-i-kuritsey-108138/"
-  },
-  "126186": {
-    "name": "Онигири с кимчи, тофу и грибами",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-126186/"
   },
   "100714": {
     "name": "Лапша из батата в соусе терияки с куриным филе",
@@ -47,40 +40,5 @@
     "old_price": "370",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-pastoy-ptitim-so-shpinatom-i-ovoshchami-48167/"
-  },
-  "122090": {
-    "name": "Булочки для бургера с кунжутом, 3 шт",
-    "price": "51",
-    "old_price": "85",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-s-kunzhutom-122090/"
-  },
-  "59848": {
-    "name": "Рулет бисквитный \"Малиновый\" с рикоттой",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-malinovyy-s-rikottoy-59848/"
-  },
-  "115478": {
-    "name": "Булочка \"Бородинская\", 4 шт",
-    "price": "53",
-    "old_price": "88",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
-  },
-  "115004": {
-    "name": "Чиабатта с жюльеном из курицы и грибов",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-zhyulenom-iz-kuritsy-i-gribov-115004/"
-  },
-  "121939": {
-    "name": "Сэндвич ролл с курицей и фасолью",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-fasolyu-121939/"
   }
 }
