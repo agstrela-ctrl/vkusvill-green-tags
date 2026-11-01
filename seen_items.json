@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-731/"
   },
-  "605": {
-    "name": "Лук репчатый",
-    "price": "35",
-    "old_price": "58",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
-  },
   "1713": {
     "name": "Картофель",
     "price": "32",
@@ -27,32 +20,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-tortiloni-s-syrom-feta-i-aromatnymi-travami-92807/"
   },
-  "121382": {
-    "name": "Творог \"Пластовой\" с топленым слоем, 200 г",
-    "price": "100",
-    "old_price": "167",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-s-toplenym-sloem-121382/"
-  },
-  "61013": {
-    "name": "Эклеры с заварным кремом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-s-zavarnym-kremom-61013/"
-  },
-  "108688": {
-    "name": "Картофель жареный с грибами, 500 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
-  },
   "59037": {
     "name": "Шницель куриный в сырной панировке с макаронами",
     "price": "204",
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-s-makaronami-59037/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   }
 }
