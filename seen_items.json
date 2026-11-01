@@ -1,31 +1,10 @@
 {
-  "92807": {
-    "name": "Паста Тортильони с сыром фета и ароматными травами",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-tortiloni-s-syrom-feta-i-aromatnymi-travami-92807/"
-  },
   "54391": {
     "name": "Мясо по-французски с печеным картофелем",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-54391/"
-  },
-  "119383": {
-    "name": "Салат \"Цезарь\" легкий",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
-  },
-  "111702": {
-    "name": "Салат \"Цезарь\" с креветками",
-    "price": "287",
-    "old_price": "478",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-krevetkami-111702/"
   },
   "33849": {
     "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
@@ -34,33 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
   },
-  "124474": {
-    "name": "Трубочка-фило с яйцом, сыром и зеленым луком",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
-  },
-  "108688": {
-    "name": "Картофель жареный с грибами, 500 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
-  },
   "59037": {
     "name": "Шницель куриный в сырной панировке с макаронами",
     "price": "204",
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-s-makaronami-59037/"
-  },
-  "123947": {
-    "name": "Десерт \"НеНаполеон\" с кокосовым кремом, веган",
-    "price": "140",
-    "old_price": "234",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-nenapoleon-s-kokosovym-kremom-123947/"
   },
   "39781": {
     "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
