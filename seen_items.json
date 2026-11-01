@@ -1,11 +1,4 @@
 {
-  "122564": {
-    "name": "Паста цельнозерновая с тунцом и запеченными томатами",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-tselnozernovaya-s-tuntsom-i-zapechennymi-tomatami-122564/"
-  },
   "52515": {
     "name": "Омлет белковый с куриным филе, овощами и мягким сыром",
     "price": "172",
@@ -33,12 +26,5 @@
     "old_price": "310",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lapsha-iz-batata-v-souse-teriyaki-s-kurinym-file-100714/"
-  },
-  "48167": {
-    "name": "Филе индейки \"Гриль\" с пастой птитим со шпинатом и овощами",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-pastoy-ptitim-so-shpinatom-i-ovoshchami-48167/"
   }
 }
