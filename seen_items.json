@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-tselnozernovaya-s-tuntsom-i-zapechennymi-tomatami-122564/"
   },
-  "126291": {
-    "name": "Курица по-чкмерски в сливочно-чесночном соусе с картофелем",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-po-chkmerski-v-slivochno-chesnochnom-souse-s-kartofelem-126291/"
-  },
   "52515": {
     "name": "Омлет белковый с куриным филе, овощами и мягким сыром",
     "price": "172",
@@ -34,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-kislomolochnyy-protein-karamel-100593/"
   },
-  "110403": {
-    "name": "Вкусмаффин с ветчиной, сыром и яйцом",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vkusmaffin-s-vetchinoy-110403/"
-  },
   "122769": {
     "name": "Суп \"Легкий\" с птитимом и креветками",
     "price": "191",
@@ -54,13 +40,6 @@
     "old_price": "350",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-gribnym-zhyulenom-i-kuritsey-108138/"
-  },
-  "78481": {
-    "name": "Чиабатта с куриным филе и соусом \"Песто\"",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
   },
   "119077": {
     "name": "Брауни из зеленой гречки, 120 г (веган)",
@@ -89,13 +68,6 @@
     "old_price": "378",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudka-kurinaya-zapechennaya-126685/"
-  },
-  "127264": {
-    "name": "Сэндвич ролл с индейкой и запеченной тыквой",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-zapechennoy-tykvoy-127264/"
   },
   "115321": {
     "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
@@ -152,13 +124,6 @@
     "old_price": "88",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochka-borodinskaya-115478/"
-  },
-  "121628": {
-    "name": "Пирожки с картофелем и куриной печенью, 3 шт",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-s-kartofelem-i-kurinoy-pechenyu-121628/"
   },
   "115004": {
     "name": "Чиабатта с жюльеном из курицы и грибов",
