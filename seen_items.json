@@ -1,31 +1,10 @@
 {
-  "18161": {
-    "name": "Лаваш \"Армянский по-деревенски\", 220 г",
-    "price": "48",
-    "old_price": "80",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
-  },
   "83512": {
     "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
     "price": "71",
     "old_price": "118",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
-  },
-  "82294": {
-    "name": "Пирожное \"Морковка\"",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-morkovka-82294/"
-  },
-  "31277": {
-    "name": "Петрушка, 100 г",
-    "price": "60",
-    "old_price": "100",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/petrushka-31277/"
   },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
@@ -47,20 +26,6 @@
     "old_price": "847",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sheyka-svinaya-bez-kosti-14983/"
-  },
-  "119744": {
-    "name": "Икра минтая подкопченая в масле, 150 г",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ikra-mintaya-podkopchenaya-v-masle-119744/"
-  },
-  "117310": {
-    "name": "Торт \"Медово-сметанный\" с черносливом",
-    "price": "530",
-    "old_price": "884",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-medovo-smetannyy-s-chernoslivom-117310/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
