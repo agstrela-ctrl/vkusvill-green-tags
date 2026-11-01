@@ -1,9 +1,23 @@
 {
-  "59037": {
-    "name": "Шницель куриный в сырной панировке с макаронами",
-    "price": "204",
-    "old_price": "340",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-s-makaronami-59037/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "1713": {
+    "name": "Картофель",
+    "price": "32",
+    "old_price": "54",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/kartofel-1713/"
   }
 }
