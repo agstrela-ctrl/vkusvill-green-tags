@@ -1,11 +1,4 @@
 {
-  "22300": {
-    "name": "Круассан на масле",
-    "price": "67",
-    "old_price": "112",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
-  },
   "125183": {
     "name": "Омлет \"Школьный\"",
     "price": "117",
@@ -47,13 +40,6 @@
     "old_price": "94",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
-  },
-  "123169": {
-    "name": "Кнели из мяса цыплёнка-бройлера с овощами",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kneli-iz-myasa-tsyplyenka-broylera-s-ovoshchami-123169/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
