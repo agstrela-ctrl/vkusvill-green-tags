@@ -1,16 +1,86 @@
 {
-  "119016": {
-    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
-    "price": "66",
-    "old_price": "110",
+  "42530": {
+    "name": "Борщ с говядиной",
+    "price": "139",
+    "old_price": "232",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
+    "link": "https://vkusvill.ru/goods/borshch-s-govyadinoy-42530/"
   },
-  "23010": {
-    "name": "Тимьян, 30 г",
-    "price": "84",
-    "old_price": "140",
+  "20665": {
+    "name": "Салат винегрет с маринованной капустой",
+    "price": "113",
+    "old_price": "188",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/timyan-23010/"
+    "link": "https://vkusvill.ru/goods/salat-vinegret-s-marinovannoy-kapustoy-20665/"
+  },
+  "95045": {
+    "name": "Куриные сердечки жареные с луком",
+    "price": "191",
+    "old_price": "318",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurinye-serdechki-zharenye-s-lukom-95045/"
+  },
+  "20542": {
+    "name": "Сэндвич ролл \"Цезарь\"",
+    "price": "137",
+    "old_price": "229",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-20542/"
+  },
+  "488": {
+    "name": "Филе грудки цыпленка-бройлера",
+    "price": "394",
+    "old_price": "656",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-488/"
+  },
+  "126378": {
+    "name": "Салат с курицей и маринованными лисичками",
+    "price": "203",
+    "old_price": "338",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-marinovannymi-lisichkami-126378/"
+  },
+  "50163": {
+    "name": "Суп-пюре \"Сырный\" с гренками, 260 г",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-pyure-syrnyy-s-grenkami-50163/"
+  },
+  "126076": {
+    "name": "Равиоли с сыром и шпинатом в сливочно-сырном соусе",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ravioli-s-syrom-i-shpinatom-v-slivochno-syrnom-souse-126076/"
+  },
+  "39459": {
+    "name": "Салат сельдь под шубой, 300 г",
+    "price": "188",
+    "old_price": "314",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-seld-pod-shuboy-39459/"
+  },
+  "88414": {
+    "name": "Торт блинный шоколадный, 1 кг",
+    "price": "761",
+    "old_price": "1268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-88414/"
+  },
+  "105059": {
+    "name": "Ролл \"Черная Симфония классики\" с креветкой",
+    "price": "226",
+    "old_price": "376",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/roll-chernaya-simfoniya-klassiki-s-krevetkoy-105059/"
+  },
+  "599": {
+    "name": "Яйцо куриное от кур свободного выгула (С1)",
+    "price": "134",
+    "old_price": "224",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-ot-kur-svobodnogo-vygula-s1-599/"
   }
 }
