@@ -5,5 +5,19 @@
     "old_price": "58",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "21096": {
+    "name": "Коржик молочный",
+    "price": "52",
+    "old_price": "86",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/korzhik-molochnyy-21096/"
+  },
+  "125183": {
+    "name": "Омлет \"Школьный\"",
+    "price": "117",
+    "old_price": "195",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/omlet-shkolnyy-125183/"
   }
 }
