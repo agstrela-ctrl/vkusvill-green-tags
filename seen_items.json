@@ -1,86 +1,44 @@
 {
-  "61602": {
-    "name": "Суп с куриными фрикадельками и пастой \"Звездочки\"",
-    "price": "130",
-    "old_price": "216",
+  "86669": {
+    "name": "Корюшка жареная, 200 г",
+    "price": "286",
+    "old_price": "477",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-s-kurinymi-frikadelkami-i-pastoy-zvezdochki-61602/"
+    "link": "https://vkusvill.ru/goods/koryushka-zharenaya-86669/"
   },
-  "88414": {
-    "name": "Торт блинный шоколадный, 1 кг",
-    "price": "761",
-    "old_price": "1268",
+  "119016": {
+    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
+    "price": "66",
+    "old_price": "110",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-88414/"
+    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
   },
-  "14962": {
-    "name": "Мясо цыпленка-бройлера на косточке",
-    "price": "334",
-    "old_price": "556",
+  "122769": {
+    "name": "Суп \"Легкий\" с птитимом и креветками",
+    "price": "191",
+    "old_price": "318",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-tsyplenka-broylera-na-kostochke-14962/"
+    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
   },
-  "39535": {
-    "name": "Чиабатта с курицей, 205 г",
-    "price": "174",
-    "old_price": "290",
+  "104308": {
+    "name": "Салат из соевой спаржи с овощами маринованный по-корейски",
+    "price": "143",
+    "old_price": "238",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39535/"
+    "link": "https://vkusvill.ru/goods/salat-iz-soevoy-sparzhi-s-ovoshchami-marinovannyy-po-koreyski-104308/"
   },
-  "86806": {
-    "name": "Печеночный пирог с морковью",
-    "price": "144",
-    "old_price": "240",
+  "123009": {
+    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
+    "price": "47",
+    "old_price": "78",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechenochnyy-pirog-s-morkovyu-86806/"
+    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
-  "125448": {
-    "name": "Хлеб “Медово-солодовый”, на закваске",
-    "price": "64",
-    "old_price": "107",
+  "23010": {
+    "name": "Тимьян, 30 г",
+    "price": "84",
+    "old_price": "140",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
-  },
-  "29044": {
-    "name": "Манго Кубики, 200 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
-  },
-  "125730": {
-    "name": "Кимпаб с курицей, овощами и омлетом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kimpab-s-kuritsey-125730/"
-  },
-  "110841": {
-    "name": "Торт бисквитный \"Молочная девочка\" с вишней",
-    "price": "539",
-    "old_price": "898",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-biskvitnyy-molochnaya-devochka-s-vishney-110841/"
-  },
-  "118665": {
-    "name": "Торт домашний \"Мамино счастье\"",
-    "price": "477",
-    "old_price": "795",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-domashniy-mamino-schaste-118665/"
-  },
-  "29332": {
-    "name": "Изделие х/б \"Деревенский\" подовый, нарезка",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-derevenskiy-podovyy-29332/"
-  },
-  "25053": {
-    "name": "Лаваш \"Армянский\", 160 г",
-    "price": "43",
-    "old_price": "72",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-25053/"
+    "link": "https://vkusvill.ru/goods/timyan-23010/"
   }
 }
