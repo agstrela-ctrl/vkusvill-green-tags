@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
   },
-  "18361": {
-    "name": "Борщ \"Украинский\"",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/borshch-ukrainskiy-18361/"
-  },
   "23160": {
     "name": "Микс салатный \"Грасс\"",
     "price": "144",
@@ -33,13 +26,6 @@
     "old_price": "190",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-toskana-22189/"
-  },
-  "96067": {
-    "name": "Конвертики с яйцом и луком",
-    "price": "137",
-    "old_price": "229",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-yaytsom-i-lukom-96067/"
   },
   "112143": {
     "name": "Торт \"Половинки Маракуйя-Малина\"",
@@ -69,20 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
-  "84667": {
-    "name": "Ромовая Баба, 1 шт",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/romovaya-baba-84667/"
-  },
-  "98595": {
-    "name": "Шашлык куриный с соусом айоли",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlyk-kurinyy-s-sousom-ayoli-98595/"
-  },
   "89957": {
     "name": "Голубика гигант, 125 г",
     "price": "225",
@@ -103,13 +75,6 @@
     "old_price": "238",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
-  },
-  "117221": {
-    "name": "Сэндвич ролл \"Цезарь\" с креветками",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-s-krevetkami-117221/"
   },
   "20324": {
     "name": "Котлеты из трески охл., 300 г",
@@ -139,26 +104,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-ostryy-assorti-117956/"
   },
-  "123192": {
-    "name": "Сырок творожный \"Картошка\" в молочном шоколаде 15%, 50 г",
-    "price": "58",
-    "old_price": "96",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-kartoshka-v-molochnom-shokolade-15-123192/"
-  },
   "123388": {
     "name": "Чиабатта злаковая с куриным филе, соусом песто и томатным айоли",
     "price": "191",
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-zlakovaya-s-kurinym-file-123388/"
-  },
-  "65814": {
-    "name": "Колбаса вареная \"К завтраку\"",
-    "price": "268",
-    "old_price": "446",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-k-zavtraku-65814/"
   },
   "65513": {
     "name": "Биточки из мяса индейки",
@@ -167,12 +118,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
   },
-  "85210": {
-    "name": "Онигири \"Крабовый\" в соусе \"Спайси\"",
-    "price": "132",
-    "old_price": "220",
+  "116366": {
+    "name": "Сэндвич ролл с индейкой и клюквой",
+    "price": "180",
+    "old_price": "300",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-krabovyy-v-souse-spaysi-85210/"
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-klyukvoy-116366/"
+  },
+  "112416": {
+    "name": "Колбаса вареная \"Мортаделла Трюфельная\", нарезка 120 г",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-mortadella-tryufelnaya-112416/"
   },
   "121208": {
     "name": "Сыр Laime Пармезан выдержанный 40% стик 50 г",
