@@ -1,4 +1,18 @@
 {
+  "22300": {
+    "name": "Круассан на масле",
+    "price": "67",
+    "old_price": "112",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
+  },
+  "125183": {
+    "name": "Омлет \"Школьный\"",
+    "price": "117",
+    "old_price": "195",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/omlet-shkolnyy-125183/"
+  },
   "102214": {
     "name": "Бедро цыпленка-бройлера Халяль",
     "price": "302",
@@ -12,6 +26,27 @@
     "old_price": "118",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
+  },
+  "104308": {
+    "name": "Салат из соевой спаржи с овощами маринованный по-корейски",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-iz-soevoy-sparzhi-s-ovoshchami-marinovannyy-po-koreyski-104308/"
+  },
+  "22540": {
+    "name": "Пирог осетинский с картофелем и сыром, 500 г",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirog-osetinskiy-s-kartofelem-i-syrom-22540/"
+  },
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
   },
   "123169": {
     "name": "Кнели из мяса цыплёнка-бройлера с овощами",
