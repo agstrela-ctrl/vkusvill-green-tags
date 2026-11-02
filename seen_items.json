@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-svetlye-nochi-s-syrnym-kremom-72834/"
   },
-  "19363": {
-    "name": "Салат \"Цезарь\"",
-    "price": "205",
-    "old_price": "342",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-19363/"
-  },
   "96649": {
     "name": "Онигири с запеченным тунцом",
     "price": "126",
@@ -34,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
   },
-  "117179": {
-    "name": "Торт \"Половинки Медовик-Наполеон\"",
-    "price": "451",
-    "old_price": "752",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-polovinki-medovik-napoleon-117179/"
-  },
   "22189": {
     "name": "Микс салатный \"Тоскана\"",
     "price": "114",
@@ -55,33 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-yaytsom-i-lukom-96067/"
   },
-  "20835": {
-    "name": "Блины с ветчиной (из свинины) и с сыром",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-vetchinoy-iz-svininy-i-s-syrom-20835/"
-  },
   "112143": {
     "name": "Торт \"Половинки Маракуйя-Малина\"",
     "price": "439",
     "old_price": "732",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-malina-112143/"
-  },
-  "123012": {
-    "name": "Хачапури с курицей, томатами и базиликом",
-    "price": "187",
-    "old_price": "312",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khachapuri-s-kuritsey-123012/"
-  },
-  "29036": {
-    "name": "Торт \"Сказочная тропинка\"",
-    "price": "341",
-    "old_price": "568",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-skazochnaya-tropinka-29036/"
   },
   "19417": {
     "name": "Вырезка из свинины",
@@ -97,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyat-broylerov-s-syrom-suluguni-i-bazilikom-115459/"
   },
-  "115669": {
-    "name": "Мимоза с горбушей горячего копчения",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mimoza-s-gorbushey-goryachego-kopcheniya-115669/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
@@ -117,13 +75,6 @@
     "old_price": "182",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/romovaya-baba-84667/"
-  },
-  "88264": {
-    "name": "Микс салатный \"Римини\" 120 г",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-rimini-120-g-88264/"
   },
   "98595": {
     "name": "Шашлык куриный с соусом айоли",
@@ -152,13 +103,6 @@
     "old_price": "238",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
-  },
-  "125038": {
-    "name": "Шримп-ролл с креветками и соусом Амай Терияки",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shrimp-roll-s-krevetkami-i-sousom-amay-teriyaki-125038/"
   },
   "117221": {
     "name": "Сэндвич ролл \"Цезарь\" с креветками",
@@ -222,34 +166,6 @@
     "old_price": "395",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
-  },
-  "116366": {
-    "name": "Сэндвич ролл с индейкой и клюквой",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-klyukvoy-116366/"
-  },
-  "112416": {
-    "name": "Колбаса вареная \"Мортаделла Трюфельная\", нарезка 120 г",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-mortadella-tryufelnaya-112416/"
-  },
-  "121815": {
-    "name": "Ветчина \"Мясной узор\"",
-    "price": "384",
-    "old_price": "640",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-myasnoy-uzor-121815/"
-  },
-  "121970": {
-    "name": "Десерт \"Бонфуа\" с манго и крем-чиз",
-    "price": "170",
-    "old_price": "284",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bonfua-s-mango-i-krem-chiz-121970/"
   },
   "85210": {
     "name": "Онигири \"Крабовый\" в соусе \"Спайси\"",
