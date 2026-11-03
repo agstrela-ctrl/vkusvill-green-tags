@@ -1,11 +1,4 @@
 {
-  "605": {
-    "name": "Лук репчатый",
-    "price": "35",
-    "old_price": "58",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
-  },
   "113571": {
     "name": "Батон \"Молодежная классика\", нарезка",
     "price": "38",
@@ -19,13 +12,6 @@
     "old_price": "65",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-krasnyy-603/"
-  },
-  "16556": {
-    "name": "Киви",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kivi-16556/"
   },
   "15817": {
     "name": "Яблоко Слава победителям",
