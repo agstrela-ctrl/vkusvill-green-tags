@@ -1,9 +1,79 @@
 {
-  "113571": {
-    "name": "Батон \"Молодежная классика\", нарезка",
-    "price": "38",
-    "old_price": "63",
+  "29450": {
+    "name": "Яблоко Медовый хруст",
+    "price": "135",
+    "old_price": "225",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+    "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
+  },
+  "112775": {
+    "name": "Изделие х/б \"Зерновой\" с куркумой",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
+  },
+  "101864": {
+    "name": "Сэндвич ролл с запеченным тунцом",
+    "price": "178",
+    "old_price": "296",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
+  },
+  "109677": {
+    "name": "Риет из тунца с зеленью, 115 г",
+    "price": "97",
+    "old_price": "162",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/riet-iz-tuntsa-s-zelenyu-109677/"
+  },
+  "123577": {
+    "name": "Ветчина из индейки со сливками",
+    "price": "359",
+    "old_price": "598",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vetchina-iz-indeyki-so-slivkami-123577/"
+  },
+  "109676": {
+    "name": "Риет из тунца с оливками, 115 г",
+    "price": "97",
+    "old_price": "162",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/riet-iz-tuntsa-s-olivkami-109676/"
+  },
+  "33785": {
+    "name": "Каша рисовая на кокосовой основе с с/фрукт, кафе",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kasha-risovaya-na-kokosovoy-osnove-s-s-frukt-33785/"
+  },
+  "44121": {
+    "name": "Цукини, 600 г",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tsukini-44121/"
+  },
+  "117956": {
+    "name": "Перец острый ассорти, 100 г",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-ostryy-assorti-117956/"
+  },
+  "112416": {
+    "name": "Колбаса вареная \"Мортаделла Трюфельная\", нарезка 120 г",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-mortadella-tryufelnaya-112416/"
+  },
+  "121208": {
+    "name": "Сыр Laime Пармезан выдержанный 40% стик 50 г",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syr-laime-parmezan-vyderzhannyy-40-stik-50-g-121208/"
   }
 }
