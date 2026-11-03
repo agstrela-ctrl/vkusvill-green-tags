@@ -1,4 +1,25 @@
 {
+  "23074": {
+    "name": "Манго Египет",
+    "price": "231",
+    "old_price": "385",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
+  },
+  "16556": {
+    "name": "Киви",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kivi-16556/"
+  },
+  "15817": {
+    "name": "Яблоко Слава победителям",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-slava-pobeditelyam-15817/"
+  },
   "117956": {
     "name": "Перец острый ассорти, 100 г",
     "price": "99",
