@@ -1,11 +1,4 @@
 {
-  "61483": {
-    "name": "Салат \"Цезарь\" с курицей и пекинской капустой",
-    "price": "181",
-    "old_price": "301",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-pekinskoy-kapustoy-61483/"
-  },
   "113571": {
     "name": "Батон \"Молодежная классика\", нарезка",
     "price": "38",
@@ -54,12 +47,5 @@
     "old_price": "415",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirog-persik-abrikos-na-pesochnom-teste-123611/"
-  },
-  "102350": {
-    "name": "Торт \"Бонфуа\" с клубникой и крем-чиз",
-    "price": "659",
-    "old_price": "1098",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-bonfua-s-klubnikoy-i-krem-chiz-102350/"
   }
 }
