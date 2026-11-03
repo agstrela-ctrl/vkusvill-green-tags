@@ -6,19 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "124982": {
-    "name": "Слойка французская с заварным кремом и изюмом",
-    "price": "130",
-    "old_price": "216",
+  "123188": {
+    "name": "Печенье \"Рулетики\" с инжиром на сиропе топинамбура",
+    "price": "209",
+    "old_price": "348",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sloyka-frantsuzskaya-s-zavarnym-kremom-i-izyumom-124982/"
-  },
-  "109310": {
-    "name": "Тушка перепела",
-    "price": "729",
-    "old_price": "1215",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
+    "link": "https://vkusvill.ru/goods/pechene-ruletiki-s-inzhirom-na-sirope-topinambura-123188/"
   },
   "120057": {
     "name": "Тортилья с отрубями и льном",
@@ -27,11 +20,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
   },
-  "123611": {
-    "name": "Пирог \"Персик-абрикос\" на песочном тесте",
-    "price": "249",
-    "old_price": "415",
+  "115752": {
+    "name": "Кольцо песочное с вареной сгущенкой и арахисом",
+    "price": "80",
+    "old_price": "133",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirog-persik-abrikos-na-pesochnom-teste-123611/"
+    "link": "https://vkusvill.ru/goods/koltso-pesochnoe-s-varenoy-sgushchenkoy-i-arakhisom-115752/"
+  },
+  "685": {
+    "name": "Пряник \"Паломник\"",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pryanik-palomnik-685/"
+  },
+  "109399": {
+    "name": "Рис Мистраль Жасмин с красным киноа 500 г",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ris-mistral-zhasmin-s-krasnym-kinoa-500-g-109399/"
   }
 }
