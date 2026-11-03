@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-filadelfiya-70530/"
   },
-  "108138": {
-    "name": "Шаурма с грибным жюльеном и курицей",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-gribnym-zhyulenom-i-kuritsey-108138/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
@@ -69,40 +62,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-temnye-nochi-s-syrnym-kremom-119004/"
   },
-  "37284": {
-    "name": "Блины шоколадные с маскарпоне и вишней",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
-  },
-  "84663": {
-    "name": "Торт \"Шоколадный Микс\", 1 кг",
-    "price": "909",
-    "old_price": "1515",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-shokoladnyy-miks-84663/"
-  },
-  "123169": {
-    "name": "Кнели из мяса цыплёнка-бройлера с овощами",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kneli-iz-myasa-tsyplyenka-broylera-s-ovoshchami-123169/"
-  },
-  "126353": {
-    "name": "Йогурт питьевой безлактозный с яблоком без доб.сахара, 2,5%",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-s-yablokom-bez-dob-sakhara-126353/"
-  },
   "29036": {
     "name": "Торт \"Сказочная тропинка\"",
     "price": "341",
     "old_price": "568",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-skazochnaya-tropinka-29036/"
+  },
+  "26582": {
+    "name": "Стрипсы в панировке",
+    "price": "182",
+    "old_price": "303",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
+  },
+  "79479": {
+    "name": "Сосиски куриные с картофельным пюре",
+    "price": "149",
+    "old_price": "248",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-79479/"
   },
   "99743": {
     "name": "Завтрак боул с хашбрауном, кафе",
@@ -132,13 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/prosto-shaurma-s-kuritsey-i-morkovkoy-po-koreyski-125578/"
   },
-  "26582": {
-    "name": "Стрипсы в панировке",
-    "price": "182",
-    "old_price": "303",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
   "109679": {
     "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
     "price": "167",
@@ -153,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-motsarelloy-120493/"
   },
-  "79479": {
-    "name": "Сосиски куриные с картофельным пюре",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-79479/"
-  },
   "118102": {
     "name": "Шашлык из свиного окорока с аджапсандали",
     "price": "498",
@@ -173,13 +138,6 @@
     "old_price": "122",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-myagkiy-iz-tselnogo-kozego-moloka-36293/"
-  },
-  "114375": {
-    "name": "Флан французский \"Кокос - ваниль\" из заварного крема",
-    "price": "157",
-    "old_price": "262",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/flan-frantsuzskiy-kokos-vanil-iz-zavarnogo-krema-114375/"
   },
   "125731": {
     "name": "Шаурма с курицей \"Два сыра\"",
