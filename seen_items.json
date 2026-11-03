@@ -1,9 +1,23 @@
 {
+  "61483": {
+    "name": "Салат \"Цезарь\" с курицей и пекинской капустой",
+    "price": "181",
+    "old_price": "301",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-pekinskoy-kapustoy-61483/"
+  },
   "113571": {
     "name": "Батон \"Молодежная классика\", нарезка",
     "price": "38",
     "old_price": "63",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+  },
+  "124982": {
+    "name": "Слойка французская с заварным кремом и изюмом",
+    "price": "130",
+    "old_price": "216",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sloyka-frantsuzskaya-s-zavarnym-kremom-i-izyumom-124982/"
   }
 }
