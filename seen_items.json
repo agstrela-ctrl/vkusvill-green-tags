@@ -1,23 +1,9 @@
 {
-  "29450": {
-    "name": "Яблоко Медовый хруст",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
-  },
   "117956": {
     "name": "Перец острый ассорти, 100 г",
     "price": "99",
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-ostryy-assorti-117956/"
-  },
-  "121208": {
-    "name": "Сыр Laime Пармезан выдержанный 40% стик 50 г",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-laime-parmezan-vyderzhannyy-40-stik-50-g-121208/"
   }
 }
