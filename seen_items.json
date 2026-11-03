@@ -1,11 +1,4 @@
 {
-  "1681": {
-    "name": "Цыпленок табака",
-    "price": "331",
-    "old_price": "552",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tsyplenok-tabaka-1681/"
-  },
   "98697": {
     "name": "Шаурма с курицей и соусом \"Гриль\"",
     "price": "192",
@@ -19,13 +12,6 @@
     "old_price": "143",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-aromatnyy-s-travami-i-semen-125598/"
-  },
-  "49834": {
-    "name": "Желе ягодное малина, голубика, клубника",
-    "price": "154",
-    "old_price": "256",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-yagodnoe-malina-49834/"
   },
   "70530": {
     "name": "Онигири \"Филадельфия\"",
@@ -41,33 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-pechenym-kartofelem-63729/"
   },
-  "71220": {
-    "name": "Каша рисовая безмолочная на кокосе, 250 г",
-    "price": "145",
-    "old_price": "242",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-risovaya-bezmolochnaya-na-kokose-71220/"
-  },
   "24293": {
     "name": "Фрикадельки мини из телятины",
     "price": "299",
     "old_price": "499",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
-  },
-  "63583": {
-    "name": "Семга стейк охл., 450 г",
-    "price": "960",
-    "old_price": "1600",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/semga-steyk-okhl-63583/"
-  },
-  "108518": {
-    "name": "Конвертики с капустой и грибами, постные",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-kapustoy-i-gribami-108518/"
   },
   "20672": {
     "name": "Кинза в горшочке",
@@ -125,33 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-temnye-nochi-s-syrnym-kremom-119004/"
   },
-  "59037": {
-    "name": "Шницель куриный в сырной панировке с макаронами",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-s-makaronami-59037/"
-  },
   "37284": {
     "name": "Блины шоколадные с маскарпоне и вишней",
     "price": "156",
     "old_price": "260",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
-  },
-  "125278": {
-    "name": "Вонголе в масле, 150 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vongole-v-masle-125278/"
-  },
-  "123910": {
-    "name": "Сэндвич \"Вкусмаффин\" с яйцом и беконом",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-vkusmaffin-s-yaytsom-i-bekonom-123910/"
   },
   "84663": {
     "name": "Торт \"Шоколадный Микс\", 1 кг",
@@ -201,13 +145,6 @@
     "old_price": "895",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-beskostnoe-v-yagodnom-marinade-99988/"
-  },
-  "55261": {
-    "name": "Утенок в ягодном соусе",
-    "price": "465",
-    "old_price": "775",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/utenok-v-yagodnom-souse-55261/"
   },
   "109310": {
     "name": "Тушка перепела",
@@ -265,13 +202,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
   },
-  "116341": {
-    "name": "Брецель \"Миндальный\" на сливочном масле",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-mindalnyy-na-slivochnom-masle-116341/"
-  },
   "36293": {
     "name": "Творог мягкий из цельного козьего молока",
     "price": "73",
@@ -292,6 +222,13 @@
     "old_price": "320",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-dva-syra-125731/"
+  },
+  "125278": {
+    "name": "Вонголе в масле, 150 г",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vongole-v-masle-125278/"
   },
   "127810": {
     "name": "Конвертики с форелью и сыром",
