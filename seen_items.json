@@ -1,30 +1,86 @@
 {
-  "113571": {
-    "name": "Батон \"Молодежная классика\", нарезка",
-    "price": "38",
-    "old_price": "63",
+  "95045": {
+    "name": "Куриные сердечки жареные с луком",
+    "price": "191",
+    "old_price": "318",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+    "link": "https://vkusvill.ru/goods/kurinye-serdechki-zharenye-s-lukom-95045/"
   },
-  "119539": {
-    "name": "Лепешка Шоти, 300 г",
-    "price": "56",
-    "old_price": "94",
+  "20542": {
+    "name": "Сэндвич ролл \"Цезарь\"",
+    "price": "137",
+    "old_price": "229",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
+    "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-20542/"
   },
-  "121208": {
-    "name": "Сыр Laime Пармезан выдержанный 40% стик 50 г",
-    "price": "99",
-    "old_price": "165",
+  "79662": {
+    "name": "Курица с картофельным хашбрауном в тортилье",
+    "price": "185",
+    "old_price": "308",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-laime-parmezan-vyderzhannyy-40-stik-50-g-121208/"
+    "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelnym-khashbraunom-v-tortile-79662/"
   },
-  "116366": {
-    "name": "Сэндвич ролл с индейкой и клюквой",
-    "price": "180",
-    "old_price": "300",
+  "39459": {
+    "name": "Салат сельдь под шубой, 300 г",
+    "price": "188",
+    "old_price": "314",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-klyukvoy-116366/"
+    "link": "https://vkusvill.ru/goods/salat-seld-pod-shuboy-39459/"
+  },
+  "96649": {
+    "name": "Онигири с запеченным тунцом",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
+  },
+  "50717": {
+    "name": "Сочник с творогом, 2 шт",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sochnik-s-tvorogom-50717/"
+  },
+  "126186": {
+    "name": "Онигири с кимчи, тофу и грибами",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-126186/"
+  },
+  "116725": {
+    "name": "Шницель куриный с пряным маслом и лимоном",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-s-pryanym-maslom-i-limonom-116725/"
+  },
+  "70505": {
+    "name": "Салат фасолевый с шампиньонами и грецким орехом",
+    "price": "191",
+    "old_price": "318",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-fasolevyy-s-shampinonami-i-gretskim-orekhom-70505/"
+  },
+  "32931": {
+    "name": "Тартин пшенично-ржаной, половинка",
+    "price": "50",
+    "old_price": "84",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
+  },
+  "109601": {
+    "name": "Конвертики с курицей, шпинатом и сыром",
+    "price": "183",
+    "old_price": "305",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konvertiki-s-kuritsey-109601/"
+  },
+  "66903": {
+    "name": "Гречка по-купечески",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grechka-po-kupecheski-66903/"
   }
 }
