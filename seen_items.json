@@ -55,33 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/golubika-gigant-89957/"
   },
-  "116717": {
-    "name": "Капуста Пак Чой, 70 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-pak-choy-116717/"
-  },
-  "78933": {
-    "name": "Котлетки из грудки цыпленка-бройлера с маслом",
-    "price": "301",
-    "old_price": "502",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
-  },
   "65794": {
     "name": "Нерка холодного копчения ломтики, 100 г",
     "price": "280",
     "old_price": "467",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nerka-kholodnogo-kopcheniya-lomtiki-65794/"
-  },
-  "117956": {
-    "name": "Перец острый ассорти, 100 г",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-ostryy-assorti-117956/"
   },
   "116366": {
     "name": "Сэндвич ролл с индейкой и клюквой",
@@ -97,19 +76,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-varenaya-mortadella-tryufelnaya-112416/"
   },
-  "121208": {
-    "name": "Сыр Laime Пармезан выдержанный 40% стик 50 г",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-laime-parmezan-vyderzhannyy-40-stik-50-g-121208/"
-  },
   "123577": {
     "name": "Ветчина из индейки со сливками",
     "price": "359",
     "old_price": "598",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-indeyki-so-slivkami-123577/"
+  },
+  "116717": {
+    "name": "Капуста Пак Чой, 70 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapusta-pak-choy-116717/"
+  },
+  "78933": {
+    "name": "Котлетки из грудки цыпленка-бройлера с маслом",
+    "price": "301",
+    "old_price": "502",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
+  },
+  "117956": {
+    "name": "Перец острый ассорти, 100 г",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/perets-ostryy-assorti-117956/"
   },
   "52893": {
     "name": "Сырок творожный Свитлогорье глазированный с какао 26% 50 г",
@@ -124,5 +117,12 @@
     "old_price": "125",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/marmelad-rostagrokompleks-vishnya-45-g-116408/"
+  },
+  "121208": {
+    "name": "Сыр Laime Пармезан выдержанный 40% стик 50 г",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syr-laime-parmezan-vyderzhannyy-40-stik-50-g-121208/"
   }
 }
