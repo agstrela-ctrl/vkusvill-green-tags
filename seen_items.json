@@ -1,4 +1,25 @@
 {
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "15817": {
+    "name": "Яблоко Слава победителям",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-slava-pobeditelyam-15817/"
+  },
+  "16215": {
+    "name": "Мед \"Гречишный\"",
+    "price": "266",
+    "old_price": "443",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/med-grechishnyy-16215/"
+  },
   "117956": {
     "name": "Перец острый ассорти, 100 г",
     "price": "99",
