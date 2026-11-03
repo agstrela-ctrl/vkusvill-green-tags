@@ -1,10 +1,59 @@
 {
-  "124221": {
-    "name": "Лазанья \"Болоньезе\" с говядиной",
-    "price": "269",
-    "old_price": "448",
+  "61483": {
+    "name": "Салат \"Цезарь\" с курицей и пекинской капустой",
+    "price": "181",
+    "old_price": "301",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/lazanya-boloneze-s-govyadinoy-124221/"
+    "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-pekinskoy-kapustoy-61483/"
+  },
+  "113571": {
+    "name": "Батон \"Молодежная классика\", нарезка",
+    "price": "38",
+    "old_price": "63",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+  },
+  "124982": {
+    "name": "Слойка французская с заварным кремом и изюмом",
+    "price": "130",
+    "old_price": "216",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sloyka-frantsuzskaya-s-zavarnym-kremom-i-izyumom-124982/"
+  },
+  "122385": {
+    "name": "Ветчина \"Легкая\" из филе куриной грудки с базиликом",
+    "price": "104",
+    "old_price": "173",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vetchina-legkaya-iz-file-kurinoy-grudki-s-bazilikom-122385/"
+  },
+  "109310": {
+    "name": "Тушка перепела",
+    "price": "729",
+    "old_price": "1215",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
+  },
+  "52952": {
+    "name": "Пита \"Ливанская\"",
+    "price": "52",
+    "old_price": "87",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pita-livanskaya-52952/"
+  },
+  "120057": {
+    "name": "Тортилья с отрубями и льном",
+    "price": "41",
+    "old_price": "68",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
+  },
+  "123611": {
+    "name": "Пирог \"Персик-абрикос\" на песочном тесте",
+    "price": "249",
+    "old_price": "415",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirog-persik-abrikos-na-pesochnom-teste-123611/"
   },
   "102350": {
     "name": "Торт \"Бонфуа\" с клубникой и крем-чиз",
@@ -12,75 +61,5 @@
     "old_price": "1098",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-bonfua-s-klubnikoy-i-krem-chiz-102350/"
-  },
-  "38977": {
-    "name": "Салат свекольный с грецким орехом",
-    "price": "124",
-    "old_price": "206",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-svekolnyy-s-gretskim-orekhom-38977/"
-  },
-  "28799": {
-    "name": "Плов с курицей",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-s-kuritsey-28799/"
-  },
-  "68797": {
-    "name": "Картофельное пюре, 500 г",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofelnoe-pyure-68797/"
-  },
-  "72834": {
-    "name": "Торт \"Светлые ночи\" с сырным кремом, 500 г",
-    "price": "490",
-    "old_price": "817",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-svetlye-nochi-s-syrnym-kremom-72834/"
-  },
-  "117172": {
-    "name": "Торт \"Шоколадный вулкан\" с арахисом, безе и карамелью",
-    "price": "635",
-    "old_price": "1058",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-shokoladnyy-vulkan-s-arakhisom-117172/"
-  },
-  "121273": {
-    "name": "Торт \"Морковный\" с сырным кремом, 1 кг",
-    "price": "814",
-    "old_price": "1356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-morkovnyy-s-syrnym-kremom-121273/"
-  },
-  "126186": {
-    "name": "Онигири с кимчи, тофу и грибами",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-126186/"
-  },
-  "70505": {
-    "name": "Салат фасолевый с шампиньонами и грецким орехом",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-fasolevyy-s-shampinonami-i-gretskim-orekhom-70505/"
-  },
-  "126684": {
-    "name": "Люля-кебаб из говядины и баранины по-гиждувански",
-    "price": "269",
-    "old_price": "448",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lyulya-kebab-iz-govyadiny-i-baraniny-po-gizhduvanski-126684/"
-  },
-  "111102": {
-    "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
   }
 }
