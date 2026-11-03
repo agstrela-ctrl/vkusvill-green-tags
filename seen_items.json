@@ -20,27 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-filadelfiya-70530/"
   },
-  "63729": {
-    "name": "Шаурма с курицей и печеным картофелем",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-pechenym-kartofelem-63729/"
-  },
-  "24293": {
-    "name": "Фрикадельки мини из телятины",
-    "price": "299",
-    "old_price": "499",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
-  },
-  "20672": {
-    "name": "Кинза в горшочке",
-    "price": "75",
-    "old_price": "125",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kinza-v-gorshochke-20672/"
-  },
   "108138": {
     "name": "Шаурма с грибным жюльеном и курицей",
     "price": "210",
@@ -111,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kneli-iz-myasa-tsyplyenka-broylera-s-ovoshchami-123169/"
   },
-  "126028": {
-    "name": "Биойогурт питьевой ПРОБИОТИК + \"Малина\" на сиропе топинамбура, 1,5%",
-    "price": "68",
-    "old_price": "114",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bioyogurt-pitevoy-probiotik-malina-na-sirope-topinambura-126028/"
-  },
   "126353": {
     "name": "Йогурт питьевой безлактозный с яблоком без доб.сахара, 2,5%",
     "price": "64",
@@ -145,13 +117,6 @@
     "old_price": "895",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bedro-indeyki-beskostnoe-v-yagodnom-marinade-99988/"
-  },
-  "109310": {
-    "name": "Тушка перепела",
-    "price": "729",
-    "old_price": "1215",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
   },
   "121009": {
     "name": "Гнезда из цыпленка-бройлера и индейки \"По-итальянски\"",
