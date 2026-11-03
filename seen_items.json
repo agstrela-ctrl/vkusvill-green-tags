@@ -1,10 +1,17 @@
 {
-  "72834": {
-    "name": "Торт \"Светлые ночи\" с сырным кремом, 500 г",
-    "price": "490",
-    "old_price": "817",
+  "113571": {
+    "name": "Батон \"Молодежная классика\", нарезка",
+    "price": "38",
+    "old_price": "63",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-svetlye-nochi-s-syrnym-kremom-72834/"
+    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+  },
+  "126793": {
+    "name": "Кранч \"Калининградский\" с маком",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kranch-kaliningradskiy-s-makom-126793/"
   },
   "112143": {
     "name": "Торт \"Половинки Маракуйя-Малина\"",
@@ -13,12 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-malina-112143/"
   },
-  "116366": {
-    "name": "Сэндвич ролл с индейкой и клюквой",
-    "price": "180",
-    "old_price": "300",
+  "117956": {
+    "name": "Перец острый ассорти, 100 г",
+    "price": "99",
+    "old_price": "165",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-klyukvoy-116366/"
+    "link": "https://vkusvill.ru/goods/perets-ostryy-assorti-117956/"
   },
   "112416": {
     "name": "Колбаса вареная \"Мортаделла Трюфельная\", нарезка 120 г",
@@ -27,19 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-varenaya-mortadella-tryufelnaya-112416/"
   },
-  "123577": {
-    "name": "Ветчина из индейки со сливками",
-    "price": "359",
-    "old_price": "598",
+  "100449": {
+    "name": "Шоколад молочный Milka 80 г",
+    "price": "139",
+    "old_price": "231",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-indeyki-so-slivkami-123577/"
-  },
-  "117956": {
-    "name": "Перец острый ассорти, 100 г",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-ostryy-assorti-117956/"
+    "link": "https://vkusvill.ru/goods/shokolad-molochnyy-milka-80-g-100449/"
   },
   "121208": {
     "name": "Сыр Laime Пармезан выдержанный 40% стик 50 г",
@@ -47,5 +47,12 @@
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syr-laime-parmezan-vyderzhannyy-40-stik-50-g-121208/"
+  },
+  "116366": {
+    "name": "Сэндвич ролл с индейкой и клюквой",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-klyukvoy-116366/"
   }
 }
