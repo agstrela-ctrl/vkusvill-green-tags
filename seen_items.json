@@ -1,9 +1,198 @@
 {
-  "57890": {
-    "name": "Торт \"Морковный\" с сырным кремом",
-    "price": "355",
-    "old_price": "592",
+  "22300": {
+    "name": "Круассан на масле",
+    "price": "67",
+    "old_price": "112",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-morkovnyy-s-syrnym-kremom-57890/"
+    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
+  },
+  "1681": {
+    "name": "Цыпленок табака",
+    "price": "331",
+    "old_price": "552",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tsyplenok-tabaka-1681/"
+  },
+  "126793": {
+    "name": "Кранч \"Калининградский\" с маком",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kranch-kaliningradskiy-s-makom-126793/"
+  },
+  "123169": {
+    "name": "Кнели из мяса цыплёнка-бройлера с овощами",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kneli-iz-myasa-tsyplyenka-broylera-s-ovoshchami-123169/"
+  },
+  "125598": {
+    "name": "Хлеб для брускетт \"Ароматный\" с травами и семен., на закваске",
+    "price": "86",
+    "old_price": "143",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-aromatnyy-s-travami-i-semen-125598/"
+  },
+  "15197": {
+    "name": "Ассорти из зелени, 100 г",
+    "price": "69",
+    "old_price": "115",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
+  },
+  "15310": {
+    "name": "Кинза, 50 г",
+    "price": "59",
+    "old_price": "98",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kinza-15310/"
+  },
+  "77145": {
+    "name": "Плюшка сдобная с посыпкой 2 шт",
+    "price": "70",
+    "old_price": "116",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/plyushka-sdobnaya-s-posypkoy-2-sht-77145/"
+  },
+  "71035": {
+    "name": "Круассан \"Классический\", 35 г (2 шт)",
+    "price": "75",
+    "old_price": "125",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-klassicheskiy-71035/"
+  },
+  "25528": {
+    "name": "Авокадо Хасс, 600 г",
+    "price": "345",
+    "old_price": "575",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/avokado-khass-25528/"
+  },
+  "113039": {
+    "name": "Томаты черри \"Красный жемчуг\", 200 г",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-cherri-krasnyy-zhemchug-113039/"
+  },
+  "62810": {
+    "name": "Бефстроганов, 360 г",
+    "price": "380",
+    "old_price": "633",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/befstroganov-62810/"
+  },
+  "99988": {
+    "name": "Бедро индейки бескостное в ягодном маринаде",
+    "price": "537",
+    "old_price": "895",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bedro-indeyki-beskostnoe-v-yagodnom-marinade-99988/"
+  },
+  "55261": {
+    "name": "Утенок в ягодном соусе",
+    "price": "465",
+    "old_price": "775",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/utenok-v-yagodnom-souse-55261/"
+  },
+  "65996": {
+    "name": "Круассан с сыром",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-s-syrom-65996/"
+  },
+  "20672": {
+    "name": "Кинза в горшочке",
+    "price": "75",
+    "old_price": "125",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kinza-v-gorshochke-20672/"
+  },
+  "100069": {
+    "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
+    "price": "241",
+    "old_price": "401",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-s-indeykoy-i-slivochnym-syrom-100069/"
+  },
+  "511": {
+    "name": "Окорок свиной, охлажденный",
+    "price": "402",
+    "old_price": "670",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
+  },
+  "120570": {
+    "name": "Бедро бескостное цыпленка-бройлера в грибном маринаде",
+    "price": "405",
+    "old_price": "675",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bedro-beskostnoe-tsyplenka-broylera-v-gribnom-marinade-120570/"
+  },
+  "65170": {
+    "name": "Мойва жареная, 200 г",
+    "price": "214",
+    "old_price": "356",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+  },
+  "108605": {
+    "name": "Гата миндальная",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/gata-mindalnaya-108605/"
+  },
+  "125068": {
+    "name": "Круассан \"Калининградский\" с марципановой начинкой",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
+  },
+  "119124": {
+    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
+    "price": "273",
+    "old_price": "455",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
+  },
+  "120751": {
+    "name": "Батон-мини \"Брецель\"",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
+  },
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
+  },
+  "116341": {
+    "name": "Брецель \"Миндальный\" на сливочном масле",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-mindalnyy-na-slivochnom-masle-116341/"
+  },
+  "125278": {
+    "name": "Вонголе в масле, 150 г",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vongole-v-masle-125278/"
+  },
+  "121184": {
+    "name": "\"Ассорти рыбное\" из сельди и горбуши холодного копчения, 90 г",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-rybnoe-iz-seldi-i-gorbushi-kholodnogo-kopcheniya-121184/"
   }
 }
