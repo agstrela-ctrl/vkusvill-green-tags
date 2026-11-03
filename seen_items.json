@@ -6,19 +6,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
-  "98242": {
-    "name": "Мандарины Хани голд",
-    "price": "233",
-    "old_price": "388",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mandariny-khani-gold-98242/"
-  },
   "113571": {
     "name": "Батон \"Молодежная классика\", нарезка",
     "price": "38",
     "old_price": "63",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+  },
+  "603": {
+    "name": "Картофель красный",
+    "price": "39",
+    "old_price": "65",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-krasnyy-603/"
   },
   "16556": {
     "name": "Киви",
@@ -33,12 +33,5 @@
     "old_price": "210",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yabloko-slava-pobeditelyam-15817/"
-  },
-  "62711": {
-    "name": "Соус \"Песто Фреш с зелёным базиликом\"",
-    "price": "225",
-    "old_price": "375",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sous-pesto-fresh-s-zelyenym-bazilikom-62711/"
   }
 }
