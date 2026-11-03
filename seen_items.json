@@ -1,11 +1,4 @@
 {
-  "23074": {
-    "name": "Манго Египет",
-    "price": "231",
-    "old_price": "385",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
-  },
   "605": {
     "name": "Лук репчатый",
     "price": "35",
@@ -13,11 +6,39 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
-  "1713": {
-    "name": "Картофель",
-    "price": "32",
-    "old_price": "54",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/kartofel-1713/"
+  "98242": {
+    "name": "Мандарины Хани голд",
+    "price": "233",
+    "old_price": "388",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mandariny-khani-gold-98242/"
+  },
+  "113571": {
+    "name": "Батон \"Молодежная классика\", нарезка",
+    "price": "38",
+    "old_price": "63",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+  },
+  "16556": {
+    "name": "Киви",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kivi-16556/"
+  },
+  "15817": {
+    "name": "Яблоко Слава победителям",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-slava-pobeditelyam-15817/"
+  },
+  "62711": {
+    "name": "Соус \"Песто Фреш с зелёным базиликом\"",
+    "price": "225",
+    "old_price": "375",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sous-pesto-fresh-s-zelyenym-bazilikom-62711/"
   }
 }
