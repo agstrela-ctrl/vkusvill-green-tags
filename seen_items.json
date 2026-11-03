@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
-  "120751": {
-    "name": "Батон-мини \"Брецель\"",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
   "124143": {
     "name": "Креветки с булгуром, брокколи, тыквой и соусом Тахини",
     "price": "293",
@@ -34,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gnezda-iz-tsyplenka-broylera-i-indeyki-po-italyanski-121009/"
   },
-  "26582": {
-    "name": "Стрипсы в панировке",
-    "price": "182",
-    "old_price": "303",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
   "99743": {
     "name": "Завтрак боул с хашбрауном, кафе",
     "price": "204",
@@ -54,19 +40,5 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlyk-iz-svinogo-okoroka-s-adzhapsandali-118102/"
-  },
-  "125278": {
-    "name": "Вонголе в масле, 150 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vongole-v-masle-125278/"
-  },
-  "121184": {
-    "name": "\"Ассорти рыбное\" из сельди и горбуши холодного копчения, 90 г",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-rybnoe-iz-seldi-i-gorbushi-kholodnogo-kopcheniya-121184/"
   }
 }
