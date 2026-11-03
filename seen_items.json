@@ -6,20 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
   },
-  "112775": {
-    "name": "Изделие х/б \"Зерновой\" с куркумой",
-    "price": "61",
-    "old_price": "102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
-  },
-  "31268": {
-    "name": "Имбирь, 200 г",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/imbir-31268/"
-  },
   "117956": {
     "name": "Перец острый ассорти, 100 г",
     "price": "99",
@@ -33,19 +19,5 @@
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syr-laime-parmezan-vyderzhannyy-40-stik-50-g-121208/"
-  },
-  "44121": {
-    "name": "Цукини, 600 г",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tsukini-44121/"
-  },
-  "112416": {
-    "name": "Колбаса вареная \"Мортаделла Трюфельная\", нарезка 120 г",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-mortadella-tryufelnaya-112416/"
   }
 }
