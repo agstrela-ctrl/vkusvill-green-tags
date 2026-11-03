@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
   },
-  "123188": {
-    "name": "Печенье \"Рулетики\" с инжиром на сиропе топинамбура",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-ruletiki-s-inzhirom-na-sirope-topinambura-123188/"
-  },
   "120057": {
     "name": "Тортилья с отрубями и льном",
     "price": "41",
@@ -20,19 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
   },
-  "115752": {
-    "name": "Кольцо песочное с вареной сгущенкой и арахисом",
-    "price": "80",
-    "old_price": "133",
+  "123188": {
+    "name": "Печенье \"Рулетики\" с инжиром на сиропе топинамбура",
+    "price": "209",
+    "old_price": "348",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/koltso-pesochnoe-s-varenoy-sgushchenkoy-i-arakhisom-115752/"
-  },
-  "685": {
-    "name": "Пряник \"Паломник\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pryanik-palomnik-685/"
+    "link": "https://vkusvill.ru/goods/pechene-ruletiki-s-inzhirom-na-sirope-topinambura-123188/"
   },
   "109399": {
     "name": "Рис Мистраль Жасмин с красным киноа 500 г",
