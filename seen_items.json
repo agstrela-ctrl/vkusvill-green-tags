@@ -1,24 +1,10 @@
 {
-  "126015": {
-    "name": "Йогурт термостатный безлактозный, 2,5%",
-    "price": "53",
-    "old_price": "88",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-termostatnyy-bezlaktoznyy-126015/"
-  },
   "101864": {
     "name": "Сэндвич ролл с запеченным тунцом",
     "price": "178",
     "old_price": "296",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
-  "76795": {
-    "name": "Биточки из курицы и капусты, 480 г",
-    "price": "305",
-    "old_price": "508",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-kuritsy-i-kapusty-76795/"
   },
   "125183": {
     "name": "Омлет \"Школьный\"",
@@ -76,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-s-mango-i-semenami-chia-23-116355/"
   },
-  "108688": {
-    "name": "Картофель жареный с грибами, 500 г",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
-  },
   "109045": {
     "name": "Сэндвич ролл нори с овощами и кунжутным соусом",
     "price": "144",
@@ -96,6 +75,13 @@
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-pshenichnyy-s-kurinoy-vetchinoy-i-syrom-motsarella-81523/"
+  },
+  "21419": {
+    "name": "Сэндвич ролл с бужениной запеченной",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
   },
   "108138": {
     "name": "Шаурма с грибным жюльеном и курицей",
@@ -131,13 +117,6 @@
     "old_price": "196",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keks-biskvit-osennyaya-oblepikha-125144/"
-  },
-  "21419": {
-    "name": "Сэндвич ролл с бужениной запеченной",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
   },
   "122792": {
     "name": "Сэндвич ролл \"Гарвардский\" с курицей и овощами",
