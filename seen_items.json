@@ -1,11 +1,4 @@
 {
-  "92210": {
-    "name": "Шницель из мяса цыплят-бройлеров в кукурузной панировке",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-iz-myasa-tsyplyat-broylerov-v-kukuruznoy-panirovke-92210/"
-  },
   "29044": {
     "name": "Манго Кубики, 200 г",
     "price": "239",
@@ -41,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-nori-s-ovoshchami-i-kunzhutnym-sousom-109045/"
   },
-  "108138": {
-    "name": "Шаурма с грибным жюльеном и курицей",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-gribnym-zhyulenom-i-kuritsey-108138/"
-  },
   "114979": {
     "name": "Паста Мальфадине с белыми грибами и лисичками",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-malfadine-s-belymi-gribami-i-lisichkami-114979/"
-  },
-  "115250": {
-    "name": "Перец фаршированный с курицей",
-    "price": "361",
-    "old_price": "602",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-farshirovannyy-s-kuritsey-115250/"
   },
   "20231": {
     "name": "Творог \"Зернышко\" обезжиренный",
