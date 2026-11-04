@@ -1,4 +1,11 @@
 {
+  "58728": {
+    "name": "Хлеб цельнозерновой с отрубями",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+  },
   "25262": {
     "name": "Суп-крем куриный",
     "price": "137",
@@ -26,6 +33,13 @@
     "old_price": "160",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/marmelad-apelsin-i-vishnya-112601/"
+  },
+  "117179": {
+    "name": "Торт \"Половинки Медовик-Наполеон\"",
+    "price": "451",
+    "old_price": "752",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-polovinki-medovik-napoleon-117179/"
   },
   "118274": {
     "name": "Кексы-мини с вареной сгущенкой в форме мишек",
