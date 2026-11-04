@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
-  "117179": {
-    "name": "Торт \"Половинки Медовик-Наполеон\"",
-    "price": "451",
-    "old_price": "752",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-polovinki-medovik-napoleon-117179/"
-  },
   "25262": {
     "name": "Суп-крем куриный",
     "price": "137",
@@ -33,6 +26,13 @@
     "old_price": "92",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-1-110143/"
+  },
+  "125659": {
+    "name": "Сок ананасовый прямого отжима, 250 мл",
+    "price": "117",
+    "old_price": "195",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sok-ananasovyy-pryamogo-otzhima-125659/"
   },
   "119539": {
     "name": "Лепешка Шоти, 300 г",
