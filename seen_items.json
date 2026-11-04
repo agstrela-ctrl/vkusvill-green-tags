@@ -41,12 +41,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
   },
-  "112601": {
-    "name": "Мармелад \"Апельсин и Вишня\", ассорти",
-    "price": "96",
-    "old_price": "160",
+  "121009": {
+    "name": "Гнезда из цыпленка-бройлера и индейки \"По-итальянски\"",
+    "price": "204",
+    "old_price": "340",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/marmelad-apelsin-i-vishnya-112601/"
+    "link": "https://vkusvill.ru/goods/gnezda-iz-tsyplenka-broylera-i-indeyki-po-italyanski-121009/"
+  },
+  "108186": {
+    "name": "Салат с консервированным тунцом и яблоком",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-s-konservirovannym-tuntsom-i-yablokom-108186/"
   },
   "118274": {
     "name": "Кексы-мини с вареной сгущенкой в форме мишек",
@@ -54,13 +61,6 @@
     "old_price": "208",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/keksy-mini-s-varenoy-sgushchenkoy-v-forme-mishek-118274/"
-  },
-  "121009": {
-    "name": "Гнезда из цыпленка-бройлера и индейки \"По-итальянски\"",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gnezda-iz-tsyplenka-broylera-i-indeyki-po-italyanski-121009/"
   },
   "118102": {
     "name": "Шашлык из свиного окорока с аджапсандали",
