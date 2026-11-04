@@ -1,10 +1,31 @@
 {
+  "121697": {
+    "name": "Тарт \"Черная смородина с меренгой\"",
+    "price": "419",
+    "old_price": "698",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tart-chernaya-smorodina-s-merengoy-121697/"
+  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+  },
+  "1066": {
+    "name": "Филе грудки индейки",
+    "price": "557",
+    "old_price": "928",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-indeyki-1066/"
+  },
+  "117179": {
+    "name": "Торт \"Половинки Медовик-Наполеон\"",
+    "price": "451",
+    "old_price": "752",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-polovinki-medovik-napoleon-117179/"
   },
   "25262": {
     "name": "Суп-крем куриный",
@@ -20,6 +41,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
   },
+  "110143": {
+    "name": "Йогурт питьевой безлактозный 1,5%",
+    "price": "55",
+    "old_price": "92",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-1-110143/"
+  },
   "119539": {
     "name": "Лепешка Шоти, 300 г",
     "price": "56",
@@ -33,13 +61,6 @@
     "old_price": "160",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/marmelad-apelsin-i-vishnya-112601/"
-  },
-  "117179": {
-    "name": "Торт \"Половинки Медовик-Наполеон\"",
-    "price": "451",
-    "old_price": "752",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-polovinki-medovik-napoleon-117179/"
   },
   "118274": {
     "name": "Кексы-мини с вареной сгущенкой в форме мишек",
