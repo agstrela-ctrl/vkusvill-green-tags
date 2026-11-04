@@ -1,11 +1,4 @@
 {
-  "118274": {
-    "name": "Кексы-мини с вареной сгущенкой в форме мишек",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-s-varenoy-sgushchenkoy-v-forme-mishek-118274/"
-  },
   "33849": {
     "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
     "price": "81",
@@ -33,6 +26,13 @@
     "old_price": "160",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/marmelad-apelsin-i-vishnya-112601/"
+  },
+  "118274": {
+    "name": "Кексы-мини с вареной сгущенкой в форме мишек",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keksy-mini-s-varenoy-sgushchenkoy-v-forme-mishek-118274/"
   },
   "121009": {
     "name": "Гнезда из цыпленка-бройлера и индейки \"По-итальянски\"",
