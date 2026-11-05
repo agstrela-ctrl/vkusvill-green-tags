@@ -1,9 +1,30 @@
 {
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
   "94210": {
     "name": "Зефир на сиропе топинамбура в темном шоколаде, ВЕС",
     "price": "2112",
     "old_price": "3520",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zefir-na-sirope-topinambura-v-temnom-shokolade-94210/"
+  },
+  "93865": {
+    "name": "Конфеты \"Суфле дуэт\" сливочный вкус, ВЕС",
+    "price": "1038",
+    "old_price": "1730",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konfety-sufle-duet-slivochnyy-vkus-93865/"
   }
 }
