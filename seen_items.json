@@ -1,18 +1,4 @@
 {
-  "53515": {
-    "name": "Котлеты куриные с моцареллой с булгуром, киноа и овощами",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-s-motsarelloy-s-bulgurom-53515/"
-  },
-  "58178": {
-    "name": "Крем-суп с тыквой и индейкой",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
-  },
   "124531": {
     "name": "Паста каннеллони с грибами и рикоттой",
     "price": "249",
@@ -33,13 +19,6 @@
     "old_price": "320",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-115261/"
-  },
-  "37284": {
-    "name": "Блины шоколадные с маскарпоне и вишней",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
   },
   "123910": {
     "name": "Сэндвич \"Вкусмаффин\" с яйцом и беконом",
