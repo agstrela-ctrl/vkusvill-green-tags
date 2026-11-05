@@ -1,11 +1,4 @@
 {
-  "76795": {
-    "name": "Биточки из курицы и капусты, 480 г",
-    "price": "305",
-    "old_price": "508",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-kuritsy-i-kapusty-76795/"
-  },
   "52515": {
     "name": "Омлет белковый с куриным филе, овощами и мягким сыром",
     "price": "172",
@@ -33,13 +26,6 @@
     "old_price": "198",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
-  },
-  "99884": {
-    "name": "Шаурма с рваной говядиной и горчичным соусом",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-rvanoy-govyadinoy-i-gorchichnym-sousom-99884/"
   },
   "86669": {
     "name": "Корюшка жареная, 200 г",
@@ -69,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/karpachcho-iz-indeyki-syrokopchenoe-17660/"
   },
-  "99925": {
-    "name": "Шаурма с креветкой, соусом тысяча островов и салатом Романо",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
-  },
   "77063": {
     "name": "Стейк Рибай из говядины с пряным маслом",
     "price": "504",
@@ -83,33 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-ribay-iz-govyadiny-s-pryanym-maslom-77063/"
   },
-  "115246": {
-    "name": "Фрикадельки из индейки и говядины",
-    "price": "220",
-    "old_price": "366",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-iz-indeyki-i-govyadiny-115246/"
-  },
   "126446": {
     "name": "Брецель с солью",
     "price": "99",
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
-  },
-  "61707": {
-    "name": "Кексы-мини ванильно-сливочные",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-61707/"
-  },
-  "125271": {
-    "name": "Вертута-мини с грибами в сметане",
-    "price": "112",
-    "old_price": "187",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vertuta-mini-s-gribami-v-smetane-125271/"
   },
   "116366": {
     "name": "Сэндвич ролл с индейкой и клюквой",
