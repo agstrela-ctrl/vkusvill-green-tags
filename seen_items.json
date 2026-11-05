@@ -1,17 +1,17 @@
 {
-  "33849": {
-    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
-    "price": "81",
-    "old_price": "135",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
-  },
   "121032": {
     "name": "Морс клюква-облепиха, 1 л",
     "price": "119",
     "old_price": "198",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mors-klyukva-oblepikha-121032/"
+  },
+  "122489": {
+    "name": "Чиабатта с куриной ветчиной и соусом \"Цезарь\", кафе",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinoy-vetchinoy-i-sousom-tsezar-122489/"
   },
   "126369": {
     "name": "Напиток \"тыквенно-облепиховый\", 1 л",
@@ -26,6 +26,13 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-shot-yabloko-imbir-malina-s-vitaminom-s-121361/"
+  },
+  "123729": {
+    "name": "Чиабатта оливковая с ветчиной из индейки, омлетом и сырным соусом, кафе",
+    "price": "169",
+    "old_price": "282",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-olivkovaya-s-vetchinoy-iz-indeyki-123729/"
   },
   "108688": {
     "name": "Картофель жареный с грибами, 500 г",
