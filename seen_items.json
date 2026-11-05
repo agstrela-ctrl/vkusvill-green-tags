@@ -1,24 +1,10 @@
 {
-  "121032": {
-    "name": "Морс клюква-облепиха, 1 л",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mors-klyukva-oblepikha-121032/"
-  },
-  "122489": {
-    "name": "Чиабатта с куриной ветчиной и соусом \"Цезарь\", кафе",
+  "39249": {
+    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
     "price": "173",
     "old_price": "288",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinoy-vetchinoy-i-sousom-tsezar-122489/"
-  },
-  "126369": {
-    "name": "Напиток \"тыквенно-облепиховый\", 1 л",
-    "price": "118",
-    "old_price": "197",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-tykvenno-oblepikhovyy-126369/"
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
   },
   "121361": {
     "name": "Напиток-шот \"Яблоко-имбирь-малина\" с витамином С, 100 мл",
@@ -27,18 +13,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-shot-yabloko-imbir-malina-s-vitaminom-s-121361/"
   },
-  "123729": {
-    "name": "Чиабатта оливковая с ветчиной из индейки, омлетом и сырным соусом, кафе",
-    "price": "169",
-    "old_price": "282",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-olivkovaya-s-vetchinoy-iz-indeyki-123729/"
-  },
   "108688": {
     "name": "Картофель жареный с грибами, 500 г",
     "price": "251",
     "old_price": "418",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
+  },
+  "123729": {
+    "name": "Чиабатта оливковая с ветчиной из индейки, омлетом и сырным соусом, кафе",
+    "price": "169",
+    "old_price": "282",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-olivkovaya-s-vetchinoy-iz-indeyki-123729/"
   }
 }
