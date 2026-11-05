@@ -1,32 +1,4 @@
 {
-  "30220": {
-    "name": "Паста с лососем в сливочном соусе",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-lososem-v-slivochnom-souse-30220/"
-  },
-  "125084": {
-    "name": "Биолакт детский с инулином, 210 г",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/biolakt-detskiy-s-inulinom-125084/"
-  },
-  "102354": {
-    "name": "Салат с баклажанами и крем-чизом в азиатском соусе",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-baklazhanami-i-krem-chizom-v-aziatskom-souse-102354/"
-  },
-  "89458": {
-    "name": "Салат \"Коул Слоу\" постный",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
-  },
   "76795": {
     "name": "Биточки из курицы и капусты, 480 г",
     "price": "305",
@@ -62,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
   },
-  "43060": {
-    "name": "Творог с изюмом без доб. сахара 9%, 90 г",
-    "price": "53",
-    "old_price": "88",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-s-izyumom-bez-dob-sakhara-9-43060/"
-  },
   "99884": {
     "name": "Шаурма с рваной говядиной и горчичным соусом",
     "price": "210",
@@ -83,33 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koryushka-zharenaya-86669/"
   },
-  "116530": {
-    "name": "Творог детский \"Земляника\" 4,2%",
-    "price": "49",
-    "old_price": "82",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-detskiy-zemlyanika-4-116530/"
-  },
-  "61709": {
-    "name": "Кексы-мини ванильно-сливочные с изюмом",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-vanilno-slivochnye-s-izyumom-61709/"
-  },
   "65425": {
     "name": "Креветки жареные, 150 г",
     "price": "348",
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
-  "120751": {
-    "name": "Батон-мини \"Брецель\"",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
   },
   "125444": {
     "name": "Салат винегрет с маринованными лисичками",
