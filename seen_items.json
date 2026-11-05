@@ -1,30 +1,170 @@
 {
-  "69056": {
-    "name": "Улитка слоеная с корицей",
-    "price": "103",
-    "old_price": "172",
+  "121697": {
+    "name": "Тарт \"Черная смородина с меренгой\"",
+    "price": "419",
+    "old_price": "698",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ulitka-sloenaya-s-koritsey-69056/"
+    "link": "https://vkusvill.ru/goods/tart-chernaya-smorodina-s-merengoy-121697/"
   },
-  "124531": {
-    "name": "Паста каннеллони с грибами и рикоттой",
-    "price": "249",
-    "old_price": "415",
+  "61602": {
+    "name": "Суп с куриными фрикадельками и пастой \"Звездочки\"",
+    "price": "130",
+    "old_price": "216",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-kannelloni-s-gribami-i-rikottoy-124531/"
+    "link": "https://vkusvill.ru/goods/sup-s-kurinymi-frikadelkami-i-pastoy-zvezdochki-61602/"
   },
-  "115261": {
-    "name": "Плов \"Узбекский\" с говядиной, 250 г",
-    "price": "192",
-    "old_price": "320",
+  "126076": {
+    "name": "Равиоли с сыром и шпинатом в сливочно-сырном соусе",
+    "price": "185",
+    "old_price": "308",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-115261/"
+    "link": "https://vkusvill.ru/goods/ravioli-s-syrom-i-shpinatom-v-slivochno-syrnom-souse-126076/"
   },
-  "123910": {
-    "name": "Сэндвич \"Вкусмаффин\" с яйцом и беконом",
+  "53515": {
+    "name": "Котлеты куриные с моцареллой с булгуром, киноа и овощами",
+    "price": "204",
+    "old_price": "340",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-kurinye-s-motsarelloy-s-bulgurom-53515/"
+  },
+  "122564": {
+    "name": "Паста цельнозерновая с тунцом и запеченными томатами",
+    "price": "210",
+    "old_price": "350",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-tselnozernovaya-s-tuntsom-i-zapechennymi-tomatami-122564/"
+  },
+  "112775": {
+    "name": "Изделие х/б \"Зерновой\" с куркумой",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
+  },
+  "124143": {
+    "name": "Креветки с булгуром, брокколи, тыквой и соусом Тахини",
+    "price": "293",
+    "old_price": "488",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-s-bulgurom-124143/"
+  },
+  "18271": {
+    "name": "Кефир 3,2% в бутылке, 900 г",
+    "price": "70",
+    "old_price": "117",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kefir-3-18271/"
+  },
+  "124982": {
+    "name": "Слойка французская с заварным кремом и изюмом",
+    "price": "130",
+    "old_price": "216",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sloyka-frantsuzskaya-s-zavarnym-kremom-i-izyumom-124982/"
+  },
+  "270": {
+    "name": "Молоко детское 3,2%",
+    "price": "29",
+    "old_price": "48",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-detskoe-3-270/"
+  },
+  "16416": {
+    "name": "Суп с фрикадельками из индейки",
+    "price": "130",
+    "old_price": "216",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
+  },
+  "102082": {
+    "name": "Омлет с томатами и моцареллой",
     "price": "144",
     "old_price": "240",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-vkusmaffin-s-yaytsom-i-bekonom-123910/"
+    "link": "https://vkusvill.ru/goods/omlet-s-tomatami-i-motsarelloy-102082/"
+  },
+  "98731": {
+    "name": "Арбуз сердцевина, 300 г",
+    "price": "213",
+    "old_price": "355",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
+  },
+  "29044": {
+    "name": "Манго Кубики, 200 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
+  },
+  "23954": {
+    "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
+  },
+  "126782": {
+    "name": "Онигири из перловки с треской и креветкой",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
+  },
+  "119316": {
+    "name": "Рис с угрем \"Домбури\"",
+    "price": "287",
+    "old_price": "478",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ris-s-ugrem-domburi-119316/"
+  },
+  "104701": {
+    "name": "Закрытый омлет с ветчиной и сыром, кафе",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
+  },
+  "48167": {
+    "name": "Филе индейки \"Гриль\" с пастой птитим со шпинатом и овощами",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-pastoy-ptitim-so-shpinatom-i-ovoshchami-48167/"
+  },
+  "115321": {
+    "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
+  },
+  "43041": {
+    "name": "Сок гранатовый прямого отжима, 200 мл, тетра пак",
+    "price": "69",
+    "old_price": "115",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sok-granatovyy-pryamogo-otzhima-43041/"
+  },
+  "122769": {
+    "name": "Суп \"Легкий\" с птитимом и креветками",
+    "price": "191",
+    "old_price": "318",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-legkiy-s-ptitimom-i-krevetkami-122769/"
+  },
+  "109046": {
+    "name": "Картофель жареный с грибами, 200 г",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-109046/"
+  },
+  "109310": {
+    "name": "Тушка перепела",
+    "price": "729",
+    "old_price": "1215",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
   }
 }
