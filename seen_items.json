@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mors-brusnichnyy-22558/"
   },
-  "116187": {
-    "name": "Печенье овсяное с яблоком, брусникой, грецким орехом, веган",
-    "price": "154",
-    "old_price": "257",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-s-yablokom-116187/"
-  },
   "33849": {
     "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
     "price": "81",
@@ -27,19 +20,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-sakharnoe-s-klyukvoy-i-gretskim-orekhom-27830/"
   },
-  "121600": {
-    "name": "Гриссини с сыром \"Палермо\"",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grissini-s-syrom-palermo-121600/"
-  },
   "117441": {
     "name": "Напиток соевый Green Milk со вкусом Имбирный пряник 1 л",
     "price": "107",
     "old_price": "178",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-soevyy-green-milk-so-vkusom-imbirnyy-pryanik-1-l-117441/"
+  },
+  "121600": {
+    "name": "Гриссини с сыром \"Палермо\"",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grissini-s-syrom-palermo-121600/"
   },
   "126446": {
     "name": "Брецель с солью",
