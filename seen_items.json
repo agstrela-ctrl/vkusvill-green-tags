@@ -1,11 +1,4 @@
 {
-  "22558": {
-    "name": "Морс брусничный, 1 л",
-    "price": "121",
-    "old_price": "202",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mors-brusnichnyy-22558/"
-  },
   "33849": {
     "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
     "price": "81",
@@ -33,12 +26,5 @@
     "old_price": "258",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grissini-s-syrom-palermo-121600/"
-  },
-  "126446": {
-    "name": "Брецель с солью",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
   }
 }
