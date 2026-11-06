@@ -1,51 +1,9 @@
 {
-  "38710": {
-    "name": "Голубика, 300 г",
-    "price": "405",
-    "old_price": "675",
+  "17150": {
+    "name": "Бифилайф детский \"Чернослив\" 2,5%",
+    "price": "36",
+    "old_price": "60",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-38710/"
-  },
-  "76038": {
-    "name": "Джекфрут очищенный, 150 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
-  },
-  "123860": {
-    "name": "Стрипсы из филе цыпленка-бройлера на зерновом откорме",
-    "price": "193",
-    "old_price": "322",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-iz-file-tsyplenka-broylera-na-zernovom-otkorme-123860/"
-  },
-  "15309": {
-    "name": "Щавель, 100г",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchavel-15309/"
-  },
-  "117805": {
-    "name": "Фарш из филе цыпленка-бройлера на зерновом откорме",
-    "price": "287",
-    "old_price": "479",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-file-tsyplenka-broylera-na-zernovom-otkorme-117805/"
-  },
-  "125271": {
-    "name": "Вертута-мини с грибами в сметане",
-    "price": "112",
-    "old_price": "187",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vertuta-mini-s-gribami-v-smetane-125271/"
-  },
-  "117441": {
-    "name": "Напиток соевый Green Milk со вкусом Имбирный пряник 1 л",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/napitok-soevyy-green-milk-so-vkusom-imbirnyy-pryanik-1-l-117441/"
+    "link": "https://vkusvill.ru/goods/bifilayf-detskiy-chernosliv-2-17150/"
   }
 }
