@@ -1,9 +1,100 @@
 {
-  "17150": {
-    "name": "Бифилайф детский \"Чернослив\" 2,5%",
-    "price": "36",
-    "old_price": "60",
+  "74272": {
+    "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
+    "price": "72",
+    "old_price": "120",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bifilayf-detskiy-chernosliv-2-17150/"
+    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
+  },
+  "20698": {
+    "name": "Творог \"Пластовой\" из цельного молока, 350 г",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-iz-tselnogo-moloka-20698/"
+  },
+  "98731": {
+    "name": "Арбуз сердцевина, 300 г",
+    "price": "213",
+    "old_price": "355",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
+  },
+  "29044": {
+    "name": "Манго Кубики, 200 г",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
+  },
+  "65549": {
+    "name": "Семга слабосоленая ломтики, 100 г",
+    "price": "288",
+    "old_price": "480",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/semga-slabosolenaya-lomtiki-65549/"
+  },
+  "122910": {
+    "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/fruktovyy-miks-ananas-122910/"
+  },
+  "109310": {
+    "name": "Тушка перепела",
+    "price": "729",
+    "old_price": "1215",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
+  },
+  "113684": {
+    "name": "Опята маринованные по-корейски",
+    "price": "149",
+    "old_price": "248",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/opyata-marinovannye-po-koreyski-113684/"
+  },
+  "84710": {
+    "name": "Гранат зерна, 100 г",
+    "price": "147",
+    "old_price": "245",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/granat-zerna-84710/"
+  },
+  "124094": {
+    "name": "Скумбрия филе-кусок горячего копчения, 200 г",
+    "price": "375",
+    "old_price": "625",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/skumbriya-file-kusok-goryachego-kopcheniya-124094/"
+  },
+  "15309": {
+    "name": "Щавель, 100г",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shchavel-15309/"
+  },
+  "78933": {
+    "name": "Котлетки из грудки цыпленка-бройлера с маслом",
+    "price": "301",
+    "old_price": "502",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
+  },
+  "106055": {
+    "name": "Кальмар гигантский филе горячего копчения, 150 г",
+    "price": "249",
+    "old_price": "415",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kalmar-gigantskiy-file-goryachego-kopcheniya-106055/"
+  },
+  "125469": {
+    "name": "Мойва неразделанная холодного копчения, 200 г",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moyva-nerazdelannaya-kholodnogo-kopcheniya-125469/"
   }
 }
