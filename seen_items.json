@@ -1,86 +1,30 @@
 {
-  "79662": {
-    "name": "Курица с картофельным хашбрауном в тортилье",
-    "price": "185",
-    "old_price": "308",
+  "71220": {
+    "name": "Каша рисовая безмолочная на кокосе, 250 г",
+    "price": "145",
+    "old_price": "242",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelnym-khashbraunom-v-tortile-79662/"
+    "link": "https://vkusvill.ru/goods/kasha-risovaya-bezmolochnaya-na-kokose-71220/"
   },
-  "30220": {
-    "name": "Паста с лососем в сливочном соусе",
-    "price": "204",
-    "old_price": "340",
+  "120563": {
+    "name": "Десерт кокосовый питьевой с йогуртовой закваской \"Вишня\"",
+    "price": "97",
+    "old_price": "162",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-lososem-v-slivochnom-souse-30220/"
+    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-vishnya-120563/"
   },
-  "124143": {
-    "name": "Креветки с булгуром, брокколи, тыквой и соусом Тахини",
-    "price": "293",
-    "old_price": "488",
+  "126446": {
+    "name": "Брецель с солью",
+    "price": "99",
+    "old_price": "165",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-s-bulgurom-124143/"
+    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
   },
-  "125687": {
-    "name": "Хлеб \"Тыквенный\" с семечками",
-    "price": "80",
-    "old_price": "133",
+  "123819": {
+    "name": "Крем-суп тыквенный в бутылке",
+    "price": "131",
+    "old_price": "218",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tykvennyy-s-semechkami-125687/"
-  },
-  "32931": {
-    "name": "Тартин пшенично-ржаной, половинка",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
-  },
-  "127069": {
-    "name": "Боул \"50/25/25\" с булгуром, киноа и куриным филе су-вид",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-50-25-25-s-bulgurom-127069/"
-  },
-  "98731": {
-    "name": "Арбуз сердцевина, 300 г",
-    "price": "213",
-    "old_price": "355",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
-  "29044": {
-    "name": "Манго Кубики, 200 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
-  },
-  "110372": {
-    "name": "Фарш из филе грудки цыплёнка-бройлера \"Фитнес\"",
-    "price": "224",
-    "old_price": "374",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-file-grudki-tsyplyenka-broylera-fitnes-110372/"
-  },
-  "47061": {
-    "name": "Суп \"Том-ям\"",
-    "price": "288",
-    "old_price": "480",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-tom-yam-47061/"
-  },
-  "72739": {
-    "name": "Биолакт детский \"Лесные ягоды\" 2,5%",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/biolakt-detskiy-lesnye-yagody-2-72739/"
-  },
-  "115074": {
-    "name": "Бекон из свинины для жарки, охлажденный",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bekon-iz-svininy-dlya-zharki-115074/"
+    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-v-butylke-123819/"
   }
 }
