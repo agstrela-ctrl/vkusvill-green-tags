@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
   },
-  "20698": {
-    "name": "Творог \"Пластовой\" из цельного молока, 350 г",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-iz-tselnogo-moloka-20698/"
-  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
@@ -40,20 +33,6 @@
     "old_price": "271",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-dlya-burgera-iz-govyadiny-blek-angus-108513/"
-  },
-  "66833": {
-    "name": "Набор для супа из индейки",
-    "price": "197",
-    "old_price": "329",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-dlya-supa-iz-indeyki-66833/"
-  },
-  "63414": {
-    "name": "\"Кебаб\" из мраморной говядины, 400 г",
-    "price": "379",
-    "old_price": "632",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kebab-iz-mramornoy-govyadiny-63414/"
   },
   "113684": {
     "name": "Опята маринованные по-корейски",
@@ -83,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
   },
-  "15309": {
-    "name": "Щавель, 100г",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchavel-15309/"
-  },
   "26198": {
     "name": "Изделие х/б \"Бородинский\" бездрожжевой",
     "price": "49",
@@ -111,20 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-grudki-utenka-tabaka-109574/"
   },
-  "78933": {
-    "name": "Котлетки из грудки цыпленка-бройлера с маслом",
-    "price": "301",
-    "old_price": "502",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
-  },
-  "125448": {
-    "name": "Хлеб “Медово-солодовый”, на закваске",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
-  },
   "125068": {
     "name": "Круассан \"Калининградский\" с марципановой начинкой",
     "price": "119",
@@ -132,12 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
   },
-  "124094": {
-    "name": "Скумбрия филе-кусок горячего копчения, 200 г",
-    "price": "375",
-    "old_price": "625",
+  "78933": {
+    "name": "Котлетки из грудки цыпленка-бройлера с маслом",
+    "price": "301",
+    "old_price": "502",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/skumbriya-file-kusok-goryachego-kopcheniya-124094/"
+    "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
   },
   "120752": {
     "name": "Булочки-брецель с кунжутом, 2 шт",
