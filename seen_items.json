@@ -1,23 +1,51 @@
 {
+  "22558": {
+    "name": "Морс брусничный, 1 л",
+    "price": "121",
+    "old_price": "202",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mors-brusnichnyy-22558/"
+  },
+  "116187": {
+    "name": "Печенье овсяное с яблоком, брусникой, грецким орехом, веган",
+    "price": "154",
+    "old_price": "257",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-s-yablokom-116187/"
+  },
+  "33849": {
+    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
+    "price": "81",
+    "old_price": "135",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
+  },
+  "27830": {
+    "name": "Печенье сахарное с клюквой и грецким орехом",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sakharnoe-s-klyukvoy-i-gretskim-orekhom-27830/"
+  },
+  "121600": {
+    "name": "Гриссини с сыром \"Палермо\"",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grissini-s-syrom-palermo-121600/"
+  },
+  "117441": {
+    "name": "Напиток соевый Green Milk со вкусом Имбирный пряник 1 л",
+    "price": "107",
+    "old_price": "178",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-soevyy-green-milk-so-vkusom-imbirnyy-pryanik-1-l-117441/"
+  },
   "126446": {
     "name": "Брецель с солью",
     "price": "99",
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
-  },
-  "123819": {
-    "name": "Крем-суп тыквенный в бутылке",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-v-butylke-123819/"
-  },
-  "118789": {
-    "name": "Равиоли с рикоттой, моцареллой и вялеными томатами",
-    "price": "312",
-    "old_price": "520",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ravioli-s-rikottoy-118789/"
   }
 }
