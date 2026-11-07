@@ -6,18 +6,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tomaty-slivka-krasnye-flamenko-65012/"
   },
-  "605": {
-    "name": "Лук репчатый",
-    "price": "33",
-    "old_price": "55",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
-  },
   "611": {
     "name": "Свекла",
     "price": "27",
     "old_price": "45",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekla-611/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "33",
+    "old_price": "55",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   }
 }
