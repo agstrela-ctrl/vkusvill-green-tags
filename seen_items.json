@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
   },
-  "16943": {
-    "name": "Блины с творогом, 210 г",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-tvorogom-16943/"
-  },
   "22664": {
     "name": "Сэндвич ролл с горбушей и яйцом",
     "price": "161",
@@ -27,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
   },
-  "123947": {
-    "name": "Десерт \"НеНаполеон\" с кокосовым кремом, веган",
-    "price": "140",
-    "old_price": "234",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-nenapoleon-s-kokosovym-kremom-123947/"
-  },
   "74272": {
     "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
     "price": "72",
     "old_price": "120",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
-  },
-  "43242": {
-    "name": "Блины с мясом, 7 шт",
-    "price": "323",
-    "old_price": "538",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-myasom-43242/"
   },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
@@ -153,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
-  "117903": {
-    "name": "Блины с яблоком, маскарпоне и карамелью",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-yablokom-117903/"
-  },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
     "price": "89",
@@ -194,13 +166,6 @@
     "old_price": "408",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/govyadina-v-tomatnom-souse-s-kabachkami-gril-i-grechkoy-119651/"
-  },
-  "124265": {
-    "name": "Розан с творогом и вишней",
-    "price": "117",
-    "old_price": "195",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rozan-s-tvorogom-i-vishney-124265/"
   },
   "124375": {
     "name": "Клаб-сэндвич с курицей и творожным сыром",
@@ -264,12 +229,5 @@
     "old_price": "310",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vareniki-s-syrom-i-zelenyu-119433/"
-  },
-  "78933": {
-    "name": "Котлетки из грудки цыпленка-бройлера с маслом",
-    "price": "301",
-    "old_price": "502",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
   }
 }
