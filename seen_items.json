@@ -1,11 +1,4 @@
 {
-  "50717": {
-    "name": "Сочник с творогом, 2 шт",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sochnik-s-tvorogom-50717/"
-  },
   "122737": {
     "name": "Куриное филе гриль с киноа и овощами",
     "price": "251",
@@ -174,13 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-pastoy-ptitim-so-shpinatom-i-ovoshchami-48167/"
   },
-  "38119": {
-    "name": "Блин сырный по-голландски",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blin-syrnyy-po-gollandski-38119/"
-  },
   "123710": {
     "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
     "price": "167",
@@ -215,12 +201,5 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-nerazdelannaya-kholodnogo-kopcheniya-125469/"
-  },
-  "119433": {
-    "name": "Вареники с сыром и зеленью",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vareniki-s-syrom-i-zelenyu-119433/"
   }
 }
