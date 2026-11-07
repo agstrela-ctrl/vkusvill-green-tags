@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-nenapoleon-s-kokosovym-kremom-123947/"
   },
-  "25291": {
-    "name": "Салат \"Мимоза\", 180 г",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
-  },
   "74272": {
     "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
     "price": "72",
@@ -167,13 +160,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-yablokom-117903/"
   },
-  "120554": {
-    "name": "Десерт кокосовый питьевой с йогуртовой закваской \"Апельсин-манго\"",
-    "price": "97",
-    "old_price": "162",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-kokosovyy-pitevoy-s-yogurtovoy-zakvaskoy-apelsin-mango-120554/"
-  },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
     "price": "89",
@@ -195,13 +181,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-po-italyanski-s-kolbasoy-felino-i-motsarelloy-126591/"
   },
-  "126186": {
-    "name": "Онигири с кимчи, тофу и грибами",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-126186/"
-  },
   "117897": {
     "name": "Сырники с начинкой из вареной сгущенки",
     "price": "132",
@@ -215,13 +194,6 @@
     "old_price": "408",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/govyadina-v-tomatnom-souse-s-kabachkami-gril-i-grechkoy-119651/"
-  },
-  "125132": {
-    "name": "Рулетики из цукини с творожным сыром и базиликом",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsukini-s-tvorozhnym-syrom-i-bazilikom-125132/"
   },
   "124265": {
     "name": "Розан с творогом и вишней",
@@ -250,13 +222,6 @@
     "old_price": "250",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blin-syrnyy-po-gollandski-38119/"
-  },
-  "119433": {
-    "name": "Вареники с сыром и зеленью",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vareniki-s-syrom-i-zelenyu-119433/"
   },
   "123710": {
     "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
@@ -292,6 +257,13 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-nerazdelannaya-kholodnogo-kopcheniya-125469/"
+  },
+  "119433": {
+    "name": "Вареники с сыром и зеленью",
+    "price": "186",
+    "old_price": "310",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vareniki-s-syrom-i-zelenyu-119433/"
   },
   "78933": {
     "name": "Котлетки из грудки цыпленка-бройлера с маслом",
