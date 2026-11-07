@@ -1,16 +1,23 @@
 {
+  "65012": {
+    "name": "Томаты сливка красные Фламенко",
+    "price": "233",
+    "old_price": "388",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-slivka-krasnye-flamenko-65012/"
+  },
+  "605": {
+    "name": "Лук репчатый",
+    "price": "33",
+    "old_price": "55",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
   "611": {
     "name": "Свекла",
     "price": "27",
     "old_price": "45",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekla-611/"
-  },
-  "124143": {
-    "name": "Креветки с булгуром, брокколи, тыквой и соусом Тахини",
-    "price": "293",
-    "old_price": "488",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-s-bulgurom-124143/"
   }
 }
