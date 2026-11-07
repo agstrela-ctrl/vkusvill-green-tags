@@ -1,95 +1,4 @@
 {
-  "22664": {
-    "name": "Сэндвич ролл с горбушей и яйцом",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
-  },
-  "74272": {
-    "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
-  },
-  "98731": {
-    "name": "Арбуз сердцевина, 300 г",
-    "price": "213",
-    "old_price": "355",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
-  "29044": {
-    "name": "Манго Кубики, 200 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
-  },
-  "67887": {
-    "name": "Шницель куриный в яйце, 360 г",
-    "price": "312",
-    "old_price": "520",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-yaytse-67887/"
-  },
-  "23954": {
-    "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
-  },
-  "115261": {
-    "name": "Плов \"Узбекский\" с говядиной, 250 г",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-115261/"
-  },
-  "119243": {
-    "name": "Ролл с креветкой запеченный под сырной шапочкой",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-krevetkoy-zapechennyy-pod-syrnoy-shapochkoy-119243/"
-  },
-  "65460": {
-    "name": "Изделие х/б из зеленой гречки (на закваске)",
-    "price": "86",
-    "old_price": "144",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
-  },
-  "76248": {
-    "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-76248/"
-  },
-  "100348": {
-    "name": "Каша овсяная на безлактозном молоке без добавления сахара",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-na-bezlaktoznom-moloke-bez-dobavleniya-sakhara-100348/"
-  },
-  "126386": {
-    "name": "Дюрюм с кюфтой из говядины",
-    "price": "196",
-    "old_price": "326",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dyuryum-s-kyuftoy-iz-govyadiny-126386/"
-  },
-  "1045": {
-    "name": "Биойогурт из козьего молока 3-4,5%",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bioyogurt-iz-kozego-moloka-3-4-1045/"
-  },
   "124143": {
     "name": "Креветки с булгуром, брокколи, тыквой и соусом Тахини",
     "price": "293",
@@ -97,32 +6,46 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-s-bulgurom-124143/"
   },
-  "125600": {
-    "name": "Хлеб для брускетт \"Спельта\" с отрубями, на закваске",
-    "price": "80",
-    "old_price": "133",
+  "86806": {
+    "name": "Печеночный пирог с морковью",
+    "price": "144",
+    "old_price": "240",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-spelta-s-otrubyami-125600/"
+    "link": "https://vkusvill.ru/goods/pechenochnyy-pirog-s-morkovyu-86806/"
   },
-  "124375": {
-    "name": "Клаб-сэндвич с курицей и творожным сыром",
-    "price": "197",
-    "old_price": "328",
+  "113595": {
+    "name": "Лимонад \"Грейпфрут-виноград\" с лемонграссом, 330 мл",
+    "price": "100",
+    "old_price": "166",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-tvorozhnym-syrom-124375/"
+    "link": "https://vkusvill.ru/goods/limonad-greypfrut-vinograd-s-lemongrassom-113595/"
   },
-  "124474": {
-    "name": "Трубочка-фило с яйцом, сыром и зеленым луком",
-    "price": "143",
-    "old_price": "238",
+  "96522": {
+    "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом",
+    "price": "299",
+    "old_price": "498",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
+    "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-96522/"
   },
-  "125469": {
-    "name": "Мойва неразделанная холодного копчения, 200 г",
-    "price": "179",
-    "old_price": "298",
+  "121692": {
+    "name": "Хлеб \"Кукурузный\", нарезка",
+    "price": "74",
+    "old_price": "123",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-nerazdelannaya-kholodnogo-kopcheniya-125469/"
+    "link": "https://vkusvill.ru/goods/khleb-kukuruznyy-121692/"
+  },
+  "107822": {
+    "name": "Брецель на сливочном масле с семечками",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
+  },
+  "123388": {
+    "name": "Чиабатта злаковая с куриным филе, соусом песто и томатным айоли",
+    "price": "191",
+    "old_price": "318",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-zlakovaya-s-kurinym-file-123388/"
   }
 }
