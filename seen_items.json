@@ -6,12 +6,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
   },
+  "125600": {
+    "name": "Хлеб для брускетт \"Спельта\" с отрубями, на закваске",
+    "price": "80",
+    "old_price": "133",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-spelta-s-otrubyami-125600/"
+  },
   "21124": {
     "name": "Яблоко Антоновка",
     "price": "165",
     "old_price": "275",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yabloko-antonovka-21124/"
+  },
+  "76248": {
+    "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
+    "price": "299",
+    "old_price": "498",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-76248/"
+  },
+  "78933": {
+    "name": "Котлетки из грудки цыпленка-бройлера с маслом",
+    "price": "301",
+    "old_price": "502",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotletki-iz-grudki-tsyplenka-broylera-s-maslom-78933/"
   },
   "605": {
     "name": "Лук репчатый",
