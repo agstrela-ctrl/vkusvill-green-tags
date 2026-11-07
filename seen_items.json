@@ -1,11 +1,4 @@
 {
-  "122737": {
-    "name": "Куриное филе гриль с киноа и овощами",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
-  },
   "125600": {
     "name": "Хлеб для брускетт \"Спельта\" с отрубями, на закваске",
     "price": "80",
@@ -83,20 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-76248/"
   },
-  "43330": {
-    "name": "Пирожки постные с яблоками, 90 г, (2 шт)",
-    "price": "82",
-    "old_price": "136",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-postnye-s-yablokami-43330/"
-  },
-  "53190": {
-    "name": "Пирожки слоеные с капустой",
-    "price": "127",
-    "old_price": "212",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-sloenye-s-kapustoy-53190/"
-  },
   "83776": {
     "name": "Лагман жареный с говядиной",
     "price": "161",
@@ -132,20 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-s-bulgurom-124143/"
   },
-  "117897": {
-    "name": "Сырники с начинкой из вареной сгущенки",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-s-nachinkoy-iz-varenoy-sgushchenki-117897/"
-  },
-  "119651": {
-    "name": "Говядина в томатном соусе с кабачками гриль и гречкой",
-    "price": "245",
-    "old_price": "408",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-v-tomatnom-souse-s-kabachkami-gril-i-grechkoy-119651/"
-  },
   "124375": {
     "name": "Клаб-сэндвич с курицей и творожным сыром",
     "price": "197",
@@ -153,26 +118,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-tvorozhnym-syrom-124375/"
   },
-  "48167": {
-    "name": "Филе индейки \"Гриль\" с пастой птитим со шпинатом и овощами",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-pastoy-ptitim-so-shpinatom-i-ovoshchami-48167/"
-  },
   "123710": {
     "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
     "price": "167",
     "old_price": "278",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klab-sendvich-s-vetchinoy-i-syrom-chedder-123710/"
-  },
-  "126299": {
-    "name": "Чахохбили с рисом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chakhokhbili-s-risom-126299/"
   },
   "124474": {
     "name": "Трубочка-фило с яйцом, сыром и зеленым луком",
