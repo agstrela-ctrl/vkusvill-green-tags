@@ -1,10 +1,10 @@
 {
-  "619": {
-    "name": "Кабачки",
-    "price": "141",
-    "old_price": "235",
+  "21124": {
+    "name": "Яблоко Антоновка",
+    "price": "165",
+    "old_price": "275",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kabachki-619/"
+    "link": "https://vkusvill.ru/goods/yabloko-antonovka-21124/"
   },
   "611": {
     "name": "Свекла",
@@ -19,12 +19,5 @@
     "old_price": "55",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
-  },
-  "82439": {
-    "name": "Мандарины сладкие сорт \"Ори\"",
-    "price": "237",
-    "old_price": "395",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mandariny-sladkie-sort-ori-82439/"
   }
 }
