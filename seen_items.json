@@ -13,6 +13,41 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yabloko-antonovka-21124/"
   },
+  "82834": {
+    "name": "Торт \"Половинки Маракуйя-Монтблан\"",
+    "price": "439",
+    "old_price": "732",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-montblan-82834/"
+  },
+  "23954": {
+    "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
+  },
+  "126386": {
+    "name": "Дюрюм с кюфтой из говядины",
+    "price": "196",
+    "old_price": "326",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dyuryum-s-kyuftoy-iz-govyadiny-126386/"
+  },
+  "124474": {
+    "name": "Трубочка-фило с яйцом, сыром и зеленым луком",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/trubochka-filo-s-yaytsom-124474/"
+  },
+  "69753": {
+    "name": "Шаурма грузинская",
+    "price": "204",
+    "old_price": "340",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-gruzinskaya-69753/"
+  },
   "605": {
     "name": "Лук репчатый",
     "price": "33",
