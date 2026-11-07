@@ -1,17 +1,17 @@
 {
-  "65012": {
-    "name": "Томаты сливка красные Фламенко",
-    "price": "233",
-    "old_price": "388",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-slivka-krasnye-flamenko-65012/"
-  },
   "611": {
     "name": "Свекла",
     "price": "27",
     "old_price": "45",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svekla-611/"
+  },
+  "82439": {
+    "name": "Мандарины сладкие сорт \"Ори\"",
+    "price": "237",
+    "old_price": "395",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mandariny-sladkie-sort-ori-82439/"
   },
   "605": {
     "name": "Лук репчатый",
