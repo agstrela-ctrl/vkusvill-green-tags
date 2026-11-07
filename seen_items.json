@@ -1,11 +1,4 @@
 {
-  "125600": {
-    "name": "Хлеб для брускетт \"Спельта\" с отрубями, на закваске",
-    "price": "80",
-    "old_price": "133",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-spelta-s-otrubyami-125600/"
-  },
   "22664": {
     "name": "Сэндвич ролл с горбушей и яйцом",
     "price": "161",
@@ -41,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-yaytse-67887/"
   },
-  "115261": {
-    "name": "Плов \"Узбекский\" с говядиной, 250 г",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-115261/"
-  },
   "23954": {
     "name": "Сэндвич ролл с курицей и соусом \"Дор-Блю\"",
     "price": "158",
@@ -55,12 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954/"
   },
-  "65460": {
-    "name": "Изделие х/б из зеленой гречки (на закваске)",
-    "price": "86",
-    "old_price": "144",
+  "115261": {
+    "name": "Плов \"Узбекский\" с говядиной, 250 г",
+    "price": "192",
+    "old_price": "320",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
+    "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-115261/"
   },
   "119243": {
     "name": "Ролл с креветкой запеченный под сырной шапочкой",
@@ -68,6 +54,13 @@
     "old_price": "418",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-s-krevetkoy-zapechennyy-pod-syrnoy-shapochkoy-119243/"
+  },
+  "65460": {
+    "name": "Изделие х/б из зеленой гречки (на закваске)",
+    "price": "86",
+    "old_price": "144",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   },
   "76248": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом, 300 г",
@@ -110,6 +103,13 @@
     "old_price": "488",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-s-bulgurom-124143/"
+  },
+  "125600": {
+    "name": "Хлеб для брускетт \"Спельта\" с отрубями, на закваске",
+    "price": "80",
+    "old_price": "133",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-spelta-s-otrubyami-125600/"
   },
   "124375": {
     "name": "Клаб-сэндвич с курицей и творожным сыром",
