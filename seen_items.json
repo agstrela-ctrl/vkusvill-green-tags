@@ -1,10 +1,10 @@
 {
-  "21124": {
-    "name": "Яблоко Антоновка",
-    "price": "165",
-    "old_price": "275",
+  "18735": {
+    "name": "Морковь мытая",
+    "price": "51",
+    "old_price": "85",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/yabloko-antonovka-21124/"
+    "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
   },
   "611": {
     "name": "Свекла",
@@ -19,5 +19,12 @@
     "old_price": "55",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+  },
+  "21124": {
+    "name": "Яблоко Антоновка",
+    "price": "165",
+    "old_price": "275",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-antonovka-21124/"
   }
 }
