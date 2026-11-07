@@ -1,11 +1,4 @@
 {
-  "124143": {
-    "name": "Креветки с булгуром, брокколи, тыквой и соусом Тахини",
-    "price": "293",
-    "old_price": "488",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-s-bulgurom-124143/"
-  },
   "86806": {
     "name": "Печеночный пирог с морковью",
     "price": "144",
@@ -13,12 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechenochnyy-pirog-s-morkovyu-86806/"
   },
-  "113595": {
-    "name": "Лимонад \"Грейпфрут-виноград\" с лемонграссом, 330 мл",
-    "price": "100",
-    "old_price": "166",
+  "611": {
+    "name": "Свекла",
+    "price": "27",
+    "old_price": "45",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/limonad-greypfrut-vinograd-s-lemongrassom-113595/"
+    "link": "https://vkusvill.ru/goods/svekla-611/"
   },
   "96522": {
     "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом",
@@ -27,25 +20,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-96522/"
   },
-  "121692": {
-    "name": "Хлеб \"Кукурузный\", нарезка",
-    "price": "74",
-    "old_price": "123",
+  "124143": {
+    "name": "Креветки с булгуром, брокколи, тыквой и соусом Тахини",
+    "price": "293",
+    "old_price": "488",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-kukuruznyy-121692/"
-  },
-  "107822": {
-    "name": "Брецель на сливочном масле с семечками",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
-  },
-  "123388": {
-    "name": "Чиабатта злаковая с куриным филе, соусом песто и томатным айоли",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-zlakovaya-s-kurinym-file-123388/"
+    "link": "https://vkusvill.ru/goods/krevetki-s-bulgurom-124143/"
   }
 }
