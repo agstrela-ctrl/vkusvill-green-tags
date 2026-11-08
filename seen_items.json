@@ -1,11 +1,4 @@
 {
-  "34835": {
-    "name": "Салат \"Витаминный\" с лимонной заправкой",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835/"
-  },
   "28799": {
     "name": "Плов с курицей",
     "price": "156",
@@ -20,34 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-s-lososem-v-slivochnom-souse-30220/"
   },
-  "61688": {
-    "name": "Котлета рыбная с картофельным пюре",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-rybnaya-s-kartofelnym-pyure-61688/"
-  },
-  "43719": {
-    "name": "Ежики мясные с отварной гречкой",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
-  },
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
-  "36801": {
-    "name": "Биточки курин. с цукини с пюре из батата",
-    "price": "170",
-    "old_price": "283",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-kurin-s-tsukini-s-pyure-iz-batata-36801/"
-  },
   "21626": {
     "name": "Фарш из цыпленка-бройлера \"Премиум\"",
     "price": "206",
@@ -55,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-tsyplenka-broylera-premium-21626/"
   },
-  "98204": {
-    "name": "Сэндвич ролл с индейкой и сладким чили",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
-  },
   "59515": {
     "name": "Сосиска в тесте (свинина, говядина), 2 шт.",
     "price": "141",
     "old_price": "235",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiska-v-teste-svinina-59515/"
-  },
-  "27158": {
-    "name": "Киш с курицей и грибами, кафе",
-    "price": "158",
-    "old_price": "264",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kish-s-kuritsey-i-gribami-27158/"
   },
   "116602": {
     "name": "Паста \"Болоньезе с соусом свит-чили\"",
@@ -89,13 +40,6 @@
     "old_price": "214",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-31906/"
-  },
-  "21419": {
-    "name": "Сэндвич ролл с бужениной запеченной",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
   },
   "117337": {
     "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
@@ -117,20 +61,6 @@
     "old_price": "198",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shchavel-15309/"
-  },
-  "101252": {
-    "name": "Ветчина из куриной грудки с травами, нарезка",
-    "price": "133",
-    "old_price": "221",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-kurinoy-grudki-s-travami-101252/"
-  },
-  "71054": {
-    "name": "Стейк из лосося с картофельным пюре",
-    "price": "288",
-    "old_price": "480",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-iz-lososya-s-kartofelnym-pyure-71054/"
   },
   "122344": {
     "name": "Котлеты с гречкой",
@@ -173,13 +103,6 @@
     "old_price": "698",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tart-limonnyy-pirog-s-merengoy-114608/"
-  },
-  "110598": {
-    "name": "Торт бисквитный \"Сметанный рай\" с вишней",
-    "price": "552",
-    "old_price": "920",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-biskvitnyy-smetannyy-ray-s-vishney-110598/"
   },
   "39281": {
     "name": "Сосиски \"Сочные\" с сыром",
@@ -236,13 +159,6 @@
     "old_price": "338",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-s-kuritsey-teriyaki-118342/"
-  },
-  "25360": {
-    "name": "Салат Винегрет без картофеля",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-bez-kartofelya-25360/"
   },
   "125635": {
     "name": "Оладушки с ванильным соусом",
