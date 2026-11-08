@@ -1,9 +1,212 @@
 {
-  "68413": {
-    "name": "Чиабатта с индейкой су-вид и горчичным соусом",
-    "price": "186",
-    "old_price": "310",
+  "117892": {
+    "name": "Запеканка творожная с яблоком, грецким орехом и корицей",
+    "price": "112",
+    "old_price": "186",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-indeykoy-su-vid-i-gorchichnym-sousom-68413/"
+    "link": "https://vkusvill.ru/goods/zapekanka-tvorozhnaya-s-yablokom-117892/"
+  },
+  "106756": {
+    "name": "Хлеб \"Монж\", нарезка",
+    "price": "77",
+    "old_price": "128",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
+  },
+  "74272": {
+    "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
+    "price": "72",
+    "old_price": "120",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
+  },
+  "70323": {
+    "name": "Форель малосоленая ломтики с укропом, 100 г",
+    "price": "218",
+    "old_price": "363",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/forel-malosolenaya-lomtiki-s-ukropom-70323/"
+  },
+  "20750": {
+    "name": "Стейк Мачете из говядины",
+    "price": "336",
+    "old_price": "560",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-machete-iz-govyadiny-20750/"
+  },
+  "38215": {
+    "name": "Филе грудки цыпленка-бройлера для запекания в маринаде \"Сливочно-пряный\"",
+    "price": "379",
+    "old_price": "632",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-dlya-zapekaniya-v-marinade-slivochno-pryanyy-38215/"
+  },
+  "44310": {
+    "name": "Морковь резаная \"Сочная морковь\"",
+    "price": "58",
+    "old_price": "97",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+  },
+  "63576": {
+    "name": "Семга филе-кусок на коже охл., 350 г",
+    "price": "798",
+    "old_price": "1330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/semga-file-kusok-na-kozhe-okhl-63576/"
+  },
+  "1680": {
+    "name": "Бифштекс рубленый, 400 г",
+    "price": "274",
+    "old_price": "456",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bifshteks-rublenyy-1680/"
+  },
+  "53190": {
+    "name": "Пирожки слоеные с капустой",
+    "price": "127",
+    "old_price": "212",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-sloenye-s-kapustoy-53190/"
+  },
+  "70449": {
+    "name": "Эскалоп свиной, 375 г",
+    "price": "193",
+    "old_price": "322",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/eskalop-svinoy-70449/"
+  },
+  "86669": {
+    "name": "Корюшка жареная, 200 г",
+    "price": "286",
+    "old_price": "477",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/koryushka-zharenaya-86669/"
+  },
+  "96079": {
+    "name": "Стейк индейки \"По-Аргентински\"",
+    "price": "368",
+    "old_price": "613",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-indeyki-po-argentinski-96079/"
+  },
+  "75991": {
+    "name": "Микс салатный \"Витамикс\" , 150 г",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
+  },
+  "116566": {
+    "name": "Салат \"Грибное ассорти\"",
+    "price": "142",
+    "old_price": "236",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-gribnoe-assorti-116566/"
+  },
+  "101883": {
+    "name": "Хлеб длительной ферментации, нарезка (на закваске)",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-dlitelnoy-fermentatsii-101883/"
+  },
+  "17718": {
+    "name": "Горбуша филе кусочки в масле, 180 г",
+    "price": "228",
+    "old_price": "380",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/gorbusha-file-kusochki-v-masle-17718/"
+  },
+  "23092": {
+    "name": "Мидии в масле с вялеными томатами, 200 г",
+    "price": "147",
+    "old_price": "245",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/midii-v-masle-s-vyalenymi-tomatami-23092/"
+  },
+  "116863": {
+    "name": "Колбаса вареная Casademont Мортадела нарезка 90 г",
+    "price": "146",
+    "old_price": "244",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-casademont-mortadela-narezka-90-g-116863/"
+  },
+  "123059": {
+    "name": "Сырок творожный А.Ростагрокомплекс Страчателла и Персик 24% 50 г",
+    "price": "75",
+    "old_price": "125",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-a-rostagrokompleks-strachatella-i-persik-24-50-g-123059/"
+  },
+  "125684": {
+    "name": "Азу из молодого барашка",
+    "price": "577",
+    "old_price": "962",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/azu-iz-molodogo-barashka-125684/"
+  },
+  "98952": {
+    "name": "Крылья цыпленка-бройлера в соусе \"Терияки\"",
+    "price": "333",
+    "old_price": "555",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylya-tsyplenka-broylera-v-souse-teriyaki-98952/"
+  },
+  "97307": {
+    "name": "Сырок творожный с какао 26%",
+    "price": "56",
+    "old_price": "93",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-s-kakao-26-97307/"
+  },
+  "114517": {
+    "name": "Йогурт сливочный с яблоком, изюмом и корицей 5%",
+    "price": "65",
+    "old_price": "109",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-slivochnyy-s-yablokom-114517/"
+  },
+  "119124": {
+    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
+    "price": "273",
+    "old_price": "455",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
+  },
+  "121663": {
+    "name": "Овощи свежие листовые резаные \"Кейл\", 65 г",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchi-svezhie-listovye-rezanye-keyl-121663/"
+  },
+  "18920": {
+    "name": "Омуль подкопченный ломтики, 100 г",
+    "price": "210",
+    "old_price": "350",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/omul-podkopchennyy-lomtiki-18920/"
+  },
+  "79222": {
+    "name": "Йогурт сливочный с инжиром 5,5%",
+    "price": "62",
+    "old_price": "103",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-slivochnyy-s-inzhirom-5-79222/"
+  },
+  "123581": {
+    "name": "Молоко овечье 4%-8%, 250 мл",
+    "price": "97",
+    "old_price": "162",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-oveche-4-8-123581/"
+  },
+  "125270": {
+    "name": "Вонголе в масле с вялеными томатами, 150 г",
+    "price": "120",
+    "old_price": "200",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vongole-v-masle-s-vyalenymi-tomatami-125270/"
   }
 }
