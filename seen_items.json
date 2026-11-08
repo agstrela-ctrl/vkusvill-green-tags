@@ -48,26 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-kurin-s-tsukini-s-pyure-iz-batata-36801/"
   },
-  "28997": {
-    "name": "Оладьи куриные",
-    "price": "168",
-    "old_price": "280",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-kurinye-28997/"
-  },
   "21626": {
     "name": "Фарш из цыпленка-бройлера \"Премиум\"",
     "price": "206",
     "old_price": "343",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-tsyplenka-broylera-premium-21626/"
-  },
-  "62414": {
-    "name": "Котлеты куриные",
-    "price": "258",
-    "old_price": "430",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-62414/"
   },
   "98204": {
     "name": "Сэндвич ролл с индейкой и сладким чили",
@@ -145,20 +131,6 @@
     "old_price": "480",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-iz-lososya-s-kartofelnym-pyure-71054/"
-  },
-  "80166": {
-    "name": "Десерт \"Наполеон\", постный",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-napoleon-80166/"
-  },
-  "121816": {
-    "name": "Ветчина из цыпленка-бройлера со сливочно-сырным соусом",
-    "price": "277",
-    "old_price": "462",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-tsyplenka-broylera-so-slivochno-syrnym-sousom-121816/"
   },
   "122344": {
     "name": "Котлеты с гречкой",
@@ -257,13 +229,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klab-sendvich-s-indeykoy-i-sousom-pesto-123553/"
-  },
-  "75365": {
-    "name": "Пирог осетинский с курицей, грибами и сыром, 250 г",
-    "price": "177",
-    "old_price": "295",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirog-osetinskiy-s-kuritsey-75365/"
   },
   "118342": {
     "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
