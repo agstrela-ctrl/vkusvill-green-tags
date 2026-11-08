@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/plov-s-kuritsey-28799/"
   },
-  "30220": {
-    "name": "Паста с лососем в сливочном соусе",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-lososem-v-slivochnom-souse-30220/"
-  },
   "21626": {
     "name": "Фарш из цыпленка-бройлера \"Премиум\"",
     "price": "206",
@@ -20,33 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-tsyplenka-broylera-premium-21626/"
   },
-  "59515": {
-    "name": "Сосиска в тесте (свинина, говядина), 2 шт.",
-    "price": "141",
-    "old_price": "235",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiska-v-teste-svinina-59515/"
-  },
   "116602": {
     "name": "Паста \"Болоньезе с соусом свит-чили\"",
     "price": "186",
     "old_price": "310",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-boloneze-s-sousom-svit-chili-116602/"
-  },
-  "31906": {
-    "name": "Пирожное \"НеМедовик\", веган",
-    "price": "128",
-    "old_price": "214",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-nemedovik-31906/"
-  },
-  "117337": {
-    "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
-    "price": "361",
-    "old_price": "602",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
   },
   "99757": {
     "name": "Минтай филе в пивном кляре, 200 г",
@@ -118,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
-  "123553": {
-    "name": "Клаб-сэндвич с индейкой и соусом песто",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-indeykoy-i-sousom-pesto-123553/"
-  },
   "118342": {
     "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
     "price": "203",
@@ -173,13 +138,6 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladushki-s-vanilnym-sousom-125635/"
-  },
-  "117502": {
-    "name": "Ветчина из говядины и курицы, нарезка",
-    "price": "176",
-    "old_price": "293",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-govyadiny-i-kuritsy-117502/"
   },
   "125193": {
     "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
