@@ -1,25 +1,4 @@
 {
-  "20542": {
-    "name": "Сэндвич ролл \"Цезарь\"",
-    "price": "137",
-    "old_price": "229",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-20542/"
-  },
-  "89458": {
-    "name": "Салат \"Коул Слоу\" постный",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-koul-slou-postnyy-89458/"
-  },
-  "61751": {
-    "name": "Гречка отварная с овощами, 200 г",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
-  },
   "21626": {
     "name": "Фарш из цыпленка-бройлера \"Премиум\"",
     "price": "206",
@@ -83,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-122344/"
   },
-  "95288": {
-    "name": "Витамин А 10000 МЕ, 90 капсул",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vitamin-a-10000-me-95288/"
-  },
   "79654": {
     "name": "Колбаса вареная Окраина Любительская 270 г",
     "price": "229",
@@ -111,47 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-svininy-rublevskiy-dlya-zavtraka-400-g-74328/"
   },
-  "125598": {
-    "name": "Хлеб для брускетт \"Ароматный\" с травами и семен., на закваске",
-    "price": "86",
-    "old_price": "143",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-aromatnyy-s-travami-i-semen-125598/"
-  },
-  "24293": {
-    "name": "Фрикадельки мини из телятины",
-    "price": "299",
-    "old_price": "499",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-mini-iz-telyatiny-24293/"
-  },
   "39281": {
     "name": "Сосиски \"Сочные\" с сыром",
     "price": "212",
     "old_price": "353",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-sochnye-s-syrom-39281/"
-  },
-  "26582": {
-    "name": "Стрипсы в панировке",
-    "price": "182",
-    "old_price": "303",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
-  "115873": {
-    "name": "Мак-н-чеддер с сосисками",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mak-n-chedder-s-sosiskami-115873/"
-  },
-  "122685": {
-    "name": "Филе цыпленка бройлера кусочками",
-    "price": "181",
-    "old_price": "302",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-tsyplenka-broylera-kusochkami-122685/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
@@ -201,13 +138,6 @@
     "old_price": "293",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-govyadiny-i-kuritsy-117502/"
-  },
-  "121036": {
-    "name": "Сыр для жарки, 180 г",
-    "price": "136",
-    "old_price": "227",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-dlya-zharki-121036/"
   },
   "123460": {
     "name": "Ассорти колбас Останкино Неаполитанский дуэт Тоскано и Милано нарезка 90 г",
