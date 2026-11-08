@@ -132,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chebureki-s-myasom-57963/"
   },
-  "83736": {
-    "name": "Торт \"Медовик карамельный с черной смородиной\"",
-    "price": "426",
-    "old_price": "710",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-medovik-karamelnyy-s-chernoy-smorodinoy-83736/"
-  },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
     "price": "47",
@@ -159,13 +152,6 @@
     "old_price": "338",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-s-kuritsey-teriyaki-118342/"
-  },
-  "125635": {
-    "name": "Оладушки с ванильным соусом",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladushki-s-vanilnym-sousom-125635/"
   },
   "125469": {
     "name": "Мойва неразделанная холодного копчения, 200 г",
@@ -188,12 +174,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
   },
+  "83736": {
+    "name": "Торт \"Медовик карамельный с черной смородиной\"",
+    "price": "426",
+    "old_price": "710",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-medovik-karamelnyy-s-chernoy-smorodinoy-83736/"
+  },
   "121225": {
     "name": "Колбаса \"Классическая су-вид\" вареная, нарезка",
     "price": "181",
     "old_price": "301",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-su-vid-varenaya-121225/"
+  },
+  "125635": {
+    "name": "Оладушки с ванильным соусом",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/oladushki-s-vanilnym-sousom-125635/"
   },
   "117502": {
     "name": "Ветчина из говядины и курицы, нарезка",
