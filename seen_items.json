@@ -13,20 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
   },
-  "124415": {
-    "name": "Творог безлактозный для сырников 5%, 350 г",
-    "price": "139",
-    "old_price": "232",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-bezlaktoznyy-dlya-syrnikov-5-124415/"
-  },
-  "123576": {
-    "name": "Сосиски \"Сочные\" из индейки",
-    "price": "242",
-    "old_price": "404",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-sochnye-iz-indeyki-123576/"
-  },
   "15309": {
     "name": "Щавель, 100г",
     "price": "119",
@@ -47,13 +33,6 @@
     "old_price": "462",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-tsyplenka-broylera-so-slivochno-syrnym-sousom-121816/"
-  },
-  "101105": {
-    "name": "Сосиски \"Смышленыши\" для питания детей от 3-х лет",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-smyshlenyshi-dlya-pitaniya-detey-ot-3-kh-let-101105/"
   },
   "122344": {
     "name": "Котлеты с гречкой",
@@ -97,33 +76,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
-  "117805": {
-    "name": "Фарш из филе цыпленка-бройлера на зерновом откорме",
-    "price": "287",
-    "old_price": "479",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-file-tsyplenka-broylera-na-zernovom-otkorme-117805/"
-  },
-  "121259": {
-    "name": "Сосиски из курицы и индейки с сыром Халяль",
-    "price": "211",
-    "old_price": "352",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-i-indeyki-s-syrom-khalyal-121259/"
-  },
   "121225": {
     "name": "Колбаса \"Классическая су-вид\" вареная, нарезка",
     "price": "181",
     "old_price": "301",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-su-vid-varenaya-121225/"
-  },
-  "98002": {
-    "name": "Йогурт \"Мюсли Бирхер по-швейцарски\" с яблоком и миндалем",
-    "price": "78",
-    "old_price": "130",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-myusli-birkher-po-shveytsarski-s-yablokom-i-mindalem-98002/"
   },
   "26570": {
     "name": "Изделие х/б \"Белково- полбяной с изюмом и семечками\"",
