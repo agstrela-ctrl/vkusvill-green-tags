@@ -1,18 +1,4 @@
 {
-  "95150": {
-    "name": "Сосиски куриные из филе грудки \"Легкие\"",
-    "price": "170",
-    "old_price": "284",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-iz-file-grudki-legkie-95150/"
-  },
-  "107646": {
-    "name": "Ветчина из филе куриной грудки \"Легкая классика\", нарезка",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-file-kurinoy-grudki-legkaya-klassika-107646/"
-  },
   "74328": {
     "name": "Ветчина из свинины Рублевский для завтрака 400 г",
     "price": "359",
@@ -27,11 +13,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-su-vid-varenaya-121225/"
   },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
+  "68413": {
+    "name": "Чиабатта с индейкой су-вид и горчичным соусом",
+    "price": "186",
+    "old_price": "310",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+    "link": "https://vkusvill.ru/goods/chiabatta-s-indeykoy-su-vid-i-gorchichnym-sousom-68413/"
   }
 }
