@@ -13,26 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
   },
-  "74272": {
-    "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
-  },
   "127222": {
     "name": "Бриошь с запеченной говядиной, авокадо и сыром чеддер",
     "price": "172",
     "old_price": "287",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/briosh-s-zapechennoy-govyadinoy-127222/"
-  },
-  "21159": {
-    "name": "Блины с начинкой \"Жюльен\"",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-nachinkoy-zhyulen-21159/"
   },
   "95811": {
     "name": "Сэндвич ролл с тигровыми креветками",
@@ -111,26 +97,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gorbusha-file-kusochki-v-masle-17718/"
   },
-  "23092": {
-    "name": "Мидии в масле с вялеными томатами, 200 г",
-    "price": "147",
-    "old_price": "245",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/midii-v-masle-s-vyalenymi-tomatami-23092/"
-  },
   "125099": {
     "name": "Паста Кампанелле с курицей и грибным соусом",
     "price": "221",
     "old_price": "368",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-kampanelle-s-kuritsey-i-gribnym-sousom-125099/"
-  },
-  "125684": {
-    "name": "Азу из молодого барашка",
-    "price": "577",
-    "old_price": "962",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/azu-iz-molodogo-barashka-125684/"
   },
   "125411": {
     "name": "Пирожки жареные с тушеной капустой, 2 шт",
@@ -146,20 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylya-tsyplenka-broylera-v-souse-teriyaki-98952/"
   },
-  "97307": {
-    "name": "Сырок творожный с какао 26%",
-    "price": "56",
-    "old_price": "93",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-s-kakao-26-97307/"
-  },
-  "99925": {
-    "name": "Шаурма с креветкой, соусом тысяча островов и салатом Романо",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
-  },
   "119124": {
     "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
     "price": "273",
@@ -173,20 +131,6 @@
     "old_price": "105",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchi-svezhie-listovye-rezanye-keyl-121663/"
-  },
-  "18920": {
-    "name": "Омуль подкопченный ломтики, 100 г",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omul-podkopchennyy-lomtiki-18920/"
-  },
-  "76538": {
-    "name": "Лепешка с курицей и овощами",
-    "price": "179",
-    "old_price": "299",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-kuritsey-i-ovoshchami-76538/"
   },
   "115250": {
     "name": "Перец фаршированный с курицей",
