@@ -272,13 +272,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-s-kuritsey-teriyaki-118342/"
   },
-  "121225": {
-    "name": "Колбаса \"Классическая су-вид\" вареная, нарезка",
-    "price": "181",
-    "old_price": "301",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-su-vid-varenaya-121225/"
-  },
   "25360": {
     "name": "Салат Винегрет без картофеля",
     "price": "114",
@@ -314,6 +307,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
   },
+  "121225": {
+    "name": "Колбаса \"Классическая су-вид\" вареная, нарезка",
+    "price": "181",
+    "old_price": "301",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-su-vid-varenaya-121225/"
+  },
   "117502": {
     "name": "Ветчина из говядины и курицы, нарезка",
     "price": "176",
@@ -321,18 +321,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-govyadiny-i-kuritsy-117502/"
   },
-  "123460": {
-    "name": "Ассорти колбас Останкино Неаполитанский дуэт Тоскано и Милано нарезка 90 г",
-    "price": "167",
-    "old_price": "279",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-kolbas-ostankino-neapolitanskiy-duet-toskano-i-milano-narezka-90-g-123460/"
-  },
   "125193": {
     "name": "Колбаски \"Кёнигсбергские\" с полбой в сливочном соусе с хреном",
     "price": "401",
     "old_price": "668",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbaski-kyenigsbergskie-s-polboy-v-slivochnom-souse-s-khrenom-125193/"
+  },
+  "123460": {
+    "name": "Ассорти колбас Останкино Неаполитанский дуэт Тоскано и Милано нарезка 90 г",
+    "price": "167",
+    "old_price": "279",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-kolbas-ostankino-neapolitanskiy-duet-toskano-i-milano-narezka-90-g-123460/"
   }
 }
