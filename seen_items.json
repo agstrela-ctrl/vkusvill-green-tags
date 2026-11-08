@@ -13,12 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-file-kurinoy-grudki-legkaya-klassika-107646/"
   },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
+  "74328": {
+    "name": "Ветчина из свинины Рублевский для завтрака 400 г",
+    "price": "359",
+    "old_price": "599",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+    "link": "https://vkusvill.ru/goods/vetchina-iz-svininy-rublevskiy-dlya-zavtraka-400-g-74328/"
   },
   "121225": {
     "name": "Колбаса \"Классическая су-вид\" вареная, нарезка",
@@ -27,11 +27,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-klassicheskaya-su-vid-varenaya-121225/"
   },
-  "74328": {
-    "name": "Ветчина из свинины Рублевский для завтрака 400 г",
-    "price": "359",
-    "old_price": "599",
+  "123009": {
+    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
+    "price": "47",
+    "old_price": "78",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-iz-svininy-rublevskiy-dlya-zavtraka-400-g-74328/"
+    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   }
 }
