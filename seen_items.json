@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-belye-nochi-s-syrnym-kremom-82232/"
   },
-  "106756": {
-    "name": "Хлеб \"Монж\", нарезка",
-    "price": "77",
-    "old_price": "128",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-monzh-106756/"
-  },
   "127222": {
     "name": "Бриошь с запеченной говядиной, авокадо и сыром чеддер",
     "price": "172",
@@ -41,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
-  "1680": {
-    "name": "Бифштекс рубленый, 400 г",
-    "price": "274",
-    "old_price": "456",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bifshteks-rublenyy-1680/"
-  },
   "70449": {
     "name": "Эскалоп свиной, 375 г",
     "price": "193",
@@ -61,27 +47,6 @@
     "old_price": "477",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koryushka-zharenaya-86669/"
-  },
-  "118959": {
-    "name": "Салат-боул с креветкой, авокадо и кукурузой",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
-  },
-  "102642": {
-    "name": "Сэндвич-ролл с курицей и сливочным сыром",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-slivochnym-syrom-102642/"
-  },
-  "93909": {
-    "name": "Сэндвич ролл с курицей “Терияки”",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-teriyaki-93909/"
   },
   "101883": {
     "name": "Хлеб длительной ферментации, нарезка (на закваске)",
@@ -125,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
   },
-  "121663": {
-    "name": "Овощи свежие листовые резаные \"Кейл\", 65 г",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-svezhie-listovye-rezanye-keyl-121663/"
-  },
   "115250": {
     "name": "Перец фаршированный с курицей",
     "price": "361",
@@ -145,13 +103,6 @@
     "old_price": "162",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moloko-oveche-4-8-123581/"
-  },
-  "117863": {
-    "name": "Салат по-азиатски с курицей, арахисом и соусом Унаги",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
   },
   "125270": {
     "name": "Вонголе в масле с вялеными томатами, 150 г",
