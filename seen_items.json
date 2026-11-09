@@ -34,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-zhitnyy-1039/"
   },
-  "15197": {
-    "name": "Ассорти из зелени, 100 г",
-    "price": "69",
-    "old_price": "115",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
-  },
   "17243": {
     "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
     "price": "38",
     "old_price": "63",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
-  },
-  "125448": {
-    "name": "Хлеб “Медово-солодовый”, на закваске",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
   },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
@@ -160,13 +146,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
   },
-  "123016": {
-    "name": "\"Пицца-кот\" с ветчиной и сыром",
-    "price": "300",
-    "old_price": "500",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstsa-kot-s-vetchinoy-i-syrom-123016/"
-  },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
     "price": "89",
@@ -237,6 +216,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-po-italyanski-s-kolbasoy-felino-i-motsarelloy-126591/"
   },
+  "125448": {
+    "name": "Хлеб “Медово-солодовый”, на закваске",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
+  },
   "115074": {
     "name": "Бекон из свинины для жарки, охлажденный",
     "price": "179",
@@ -250,13 +236,6 @@
     "old_price": "312",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khachapuri-s-kuritsey-123012/"
-  },
-  "65835": {
-    "name": "Круассан миндальный с малиной",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-s-malinoy-65835/"
   },
   "124993": {
     "name": "Рулетики из ветчины с сырной начинкой и укропом",
@@ -292,13 +271,6 @@
     "old_price": "270",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tomaty-cherri-sladkaya-vishnya-116030/"
-  },
-  "115249": {
-    "name": "Курица в сливочно-грибном соусе \"Альфредо\"",
-    "price": "307",
-    "old_price": "512",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochno-gribnom-souse-alfredo-115249/"
   },
   "122344": {
     "name": "Котлеты с гречкой",
