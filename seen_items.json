@@ -27,20 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
   },
-  "1039": {
-    "name": "Изделие цельнозер. без муки \"Житный\", нарезка",
-    "price": "56",
-    "old_price": "93",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-zhitnyy-1039/"
-  },
-  "17243": {
-    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
-    "price": "38",
-    "old_price": "63",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
-  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "66",
@@ -68,13 +54,6 @@
     "old_price": "355",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
-  "63729": {
-    "name": "Шаурма с курицей и печеным картофелем",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-pechenym-kartofelem-63729/"
   },
   "128341": {
     "name": "Хурма Королек дольки, 140 г",
@@ -188,13 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kukuruza-mini-21394/"
   },
-  "20585": {
-    "name": "Мидии в горчичном соусе, 180 г",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/midii-v-gorchichnom-souse-20585/"
-  },
   "127599": {
     "name": "Проростки микс основа для салата, 115г",
     "price": "117",
@@ -264,12 +236,5 @@
     "old_price": "201",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/flan-klassicheskiy-karamelnyy-123558/"
-  },
-  "122344": {
-    "name": "Котлеты с гречкой",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-122344/"
   }
 }
