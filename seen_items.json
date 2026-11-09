@@ -20,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
   },
-  "16416": {
-    "name": "Суп с фрикадельками из индейки",
-    "price": "130",
-    "old_price": "216",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
-  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "66",
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
-  "20744": {
-    "name": "Десерт молочный \"Наполеон\"",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-20744/"
   },
   "125081": {
     "name": "Крокеты по-французски с грибами и творожным сыром",
@@ -82,13 +68,6 @@
     "old_price": "144",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
-  },
-  "39781": {
-    "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
   },
   "22639": {
     "name": "Курица \"Терияки\" с рисом по-сингапурски",
@@ -167,6 +146,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kukuruza-mini-21394/"
   },
+  "78481": {
+    "name": "Чиабатта с куриным филе и соусом \"Песто\"",
+    "price": "186",
+    "old_price": "310",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
+  },
   "127599": {
     "name": "Проростки микс основа для салата, 115г",
     "price": "117",
@@ -201,34 +187,6 @@
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
-  },
-  "123012": {
-    "name": "Хачапури с курицей, томатами и базиликом",
-    "price": "187",
-    "old_price": "312",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khachapuri-s-kuritsey-123012/"
-  },
-  "124993": {
-    "name": "Рулетики из ветчины с сырной начинкой и укропом",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-iz-vetchiny-s-syrnoy-nachinkoy-i-ukropom-124993/"
-  },
-  "78481": {
-    "name": "Чиабатта с куриным филе и соусом \"Песто\"",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
-  },
-  "119433": {
-    "name": "Вареники с сыром и зеленью",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vareniki-s-syrom-i-zelenyu-119433/"
   },
   "123558": {
     "name": "Флан \"Классический\" карамельный",
