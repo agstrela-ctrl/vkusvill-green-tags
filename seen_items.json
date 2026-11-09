@@ -1,4 +1,88 @@
 {
+  "43719": {
+    "name": "Ежики мясные с отварной гречкой",
+    "price": "156",
+    "old_price": "260",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
+  },
+  "127069": {
+    "name": "Боул \"50/25/25\" с булгуром, киноа и куриным филе су-вид",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-50-25-25-s-bulgurom-127069/"
+  },
+  "98575": {
+    "name": "Крем-суп с лисичками и белыми грибами",
+    "price": "187",
+    "old_price": "312",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-s-lisichkami-i-belymi-gribami-98575/"
+  },
+  "123947": {
+    "name": "Десерт \"НеНаполеон\" с кокосовым кремом, веган",
+    "price": "140",
+    "old_price": "234",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-nenapoleon-s-kokosovym-kremom-123947/"
+  },
+  "122949": {
+    "name": "Сэндвич на \"гречневом\" хлебе с окороком котто и соусом релиш",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-na-grechnevom-khlebe-s-okorokom-kotto-i-sousom-relish-122949/"
+  },
+  "125730": {
+    "name": "Кимпаб с курицей, овощами и омлетом",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kimpab-s-kuritsey-125730/"
+  },
+  "45767": {
+    "name": "Салат \"Оливье вегетарианский\"",
+    "price": "142",
+    "old_price": "236",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-olive-vegetarianskiy-45767/"
+  },
+  "108295": {
+    "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
+  },
+  "66833": {
+    "name": "Набор для супа из индейки",
+    "price": "197",
+    "old_price": "329",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/nabor-dlya-supa-iz-indeyki-66833/"
+  },
+  "25023": {
+    "name": "Блинчики \"Цезарь\"",
+    "price": "152",
+    "old_price": "254",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/blinchiki-tsezar-25023/"
+  },
+  "72200": {
+    "name": "Курабье с апельсином, 140 г (веган)",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurabe-s-apelsinom-72200/"
+  },
+  "118965": {
+    "name": "\"Грейнсы\" с семенами тыквы, чиа и конопли",
+    "price": "157",
+    "old_price": "262",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/greynsy-s-semenami-tykvy-118965/"
+  },
   "125683": {
     "name": "Митболы из кролика и индейки с сыром \"Сулугуни\"",
     "price": "315",
@@ -12,5 +96,12 @@
     "old_price": "455",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
+  },
+  "48025": {
+    "name": "Безе ассорти с кусочками ягод",
+    "price": "139",
+    "old_price": "231",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/beze-assorti-s-kusochkami-yagod-48025/"
   }
 }
