@@ -13,12 +13,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tomaty-rozovye-15378/"
   },
-  "45767": {
-    "name": "Салат \"Оливье вегетарианский\"",
-    "price": "142",
-    "old_price": "236",
+  "22189": {
+    "name": "Микс салатный \"Тоскана\"",
+    "price": "114",
+    "old_price": "190",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-olive-vegetarianskiy-45767/"
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-toskana-22189/"
+  },
+  "43719": {
+    "name": "Ежики мясные с отварной гречкой",
+    "price": "156",
+    "old_price": "260",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
   },
   "108295": {
     "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
@@ -26,5 +33,19 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
+  },
+  "124045": {
+    "name": "Тарталетка \"Яблоко-корица\", веган",
+    "price": "130",
+    "old_price": "216",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartaletka-yabloko-koritsa-124045/"
+  },
+  "117897": {
+    "name": "Сырники с начинкой из вареной сгущенки",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-s-nachinkoy-iz-varenoy-sgushchenki-117897/"
   }
 }
