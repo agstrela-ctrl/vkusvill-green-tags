@@ -1,25 +1,4 @@
 {
-  "127222": {
-    "name": "Бриошь с запеченной говядиной, авокадо и сыром чеддер",
-    "price": "172",
-    "old_price": "287",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/briosh-s-zapechennoy-govyadinoy-127222/"
-  },
-  "20750": {
-    "name": "Стейк Мачете из говядины",
-    "price": "336",
-    "old_price": "560",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-machete-iz-govyadiny-20750/"
-  },
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "58",
-    "old_price": "97",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
-  },
   "125683": {
     "name": "Митболы из кролика и индейки с сыром \"Сулугуни\"",
     "price": "315",
