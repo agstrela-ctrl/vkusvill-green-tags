@@ -1,4 +1,11 @@
 {
+  "22300": {
+    "name": "Круассан на масле",
+    "price": "67",
+    "old_price": "112",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
+  },
   "70074": {
     "name": "Котлеты \"По-киевски\" с сырной начинкой с картофельным пюре, 270 г",
     "price": "234",
@@ -20,6 +27,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
   },
+  "1039": {
+    "name": "Изделие цельнозер. без муки \"Житный\", нарезка",
+    "price": "56",
+    "old_price": "93",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-zhitnyy-1039/"
+  },
   "15197": {
     "name": "Ассорти из зелени, 100 г",
     "price": "69",
@@ -27,12 +41,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
   },
-  "74272": {
-    "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
-    "price": "72",
-    "old_price": "120",
+  "17243": {
+    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
+    "price": "38",
+    "old_price": "63",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
+    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
+  },
+  "125448": {
+    "name": "Хлеб “Медово-солодовый”, на закваске",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
   },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
@@ -69,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-pechenym-kartofelem-63729/"
   },
-  "124183": {
-    "name": "Эклеры \"Манго и маракуйя\" с кремчиз, 3 шт",
-    "price": "190",
-    "old_price": "316",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-mango-i-marakuyya-s-kremchiz-124183/"
-  },
   "128341": {
     "name": "Хурма Королек дольки, 140 г",
     "price": "105",
@@ -97,12 +111,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/petrushka-15196/"
   },
-  "71220": {
-    "name": "Каша рисовая безмолочная на кокосе, 250 г",
-    "price": "145",
-    "old_price": "242",
+  "65460": {
+    "name": "Изделие х/б из зеленой гречки (на закваске)",
+    "price": "86",
+    "old_price": "144",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-risovaya-bezmolochnaya-na-kokose-71220/"
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   },
   "39781": {
     "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
@@ -125,12 +139,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-yaytsom-i-lukom-96067/"
   },
+  "107822": {
+    "name": "Брецель на сливочном масле с семечками",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
+  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
     "old_price": "356",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+  },
+  "125068": {
+    "name": "Круассан \"Калининградский\" с марципановой начинкой",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
   },
   "123016": {
     "name": "\"Пицца-кот\" с ветчиной и сыром",
@@ -139,12 +167,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pitstsa-kot-s-vetchinoy-i-syrom-123016/"
   },
-  "65425": {
-    "name": "Креветки жареные, 150 г",
-    "price": "348",
-    "old_price": "580",
+  "120751": {
+    "name": "Батон-мини \"Брецель\"",
+    "price": "89",
+    "old_price": "148",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
+    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
   },
   "124131": {
     "name": "Пирожное \"Медовик\" в дубайском стиле",
@@ -223,6 +251,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khachapuri-s-kuritsey-123012/"
   },
+  "65835": {
+    "name": "Круассан миндальный с малиной",
+    "price": "118",
+    "old_price": "196",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-s-malinoy-65835/"
+  },
   "124993": {
     "name": "Рулетики из ветчины с сырной начинкой и укропом",
     "price": "167",
@@ -236,13 +271,6 @@
     "old_price": "310",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
-  },
-  "81523": {
-    "name": "Круассан пшеничный с куриной ветчиной и сыром \"Моцарелла\"",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-pshenichnyy-s-kurinoy-vetchinoy-i-syrom-motsarella-81523/"
   },
   "119433": {
     "name": "Вареники с сыром и зеленью",
@@ -278,12 +306,5 @@
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-s-grechkoy-122344/"
-  },
-  "115802": {
-    "name": "Биточки из индейки с сыром",
-    "price": "176",
-    "old_price": "294",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-indeyki-s-syrom-115802/"
   }
 }
