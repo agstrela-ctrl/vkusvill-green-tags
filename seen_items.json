@@ -27,6 +27,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
   },
+  "117897": {
+    "name": "Сырники с начинкой из вареной сгущенки",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-s-nachinkoy-iz-varenoy-sgushchenki-117897/"
+  },
   "108295": {
     "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
     "price": "174",
@@ -40,12 +47,5 @@
     "old_price": "216",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tartaletka-yabloko-koritsa-124045/"
-  },
-  "117897": {
-    "name": "Сырники с начинкой из вареной сгущенки",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-s-nachinkoy-iz-varenoy-sgushchenki-117897/"
   }
 }
