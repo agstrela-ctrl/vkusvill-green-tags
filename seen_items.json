@@ -69,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   },
-  "96067": {
-    "name": "Конвертики с яйцом и луком",
-    "price": "137",
-    "old_price": "229",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-yaytsom-i-lukom-96067/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
@@ -104,13 +97,6 @@
     "discount": "41",
     "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-svitlogore-s-vanilyu-v-karamelnoy-glazuri-23-50-g-52899/"
   },
-  "92214": {
-    "name": "Торт шоколадный с карамелью и арахисом",
-    "price": "491",
-    "old_price": "818",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-shokoladnyy-s-karamelyu-i-arakhisom-92214/"
-  },
   "125448": {
     "name": "Хлеб “Медово-солодовый”, на закваске",
     "price": "64",
@@ -131,12 +117,5 @@
     "old_price": "310",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
-  },
-  "81642": {
-    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
   }
 }
