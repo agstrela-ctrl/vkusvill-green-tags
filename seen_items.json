@@ -1,4 +1,11 @@
 {
+  "24372": {
+    "name": "Томаты черри красные на ветке, 250 г",
+    "price": "165",
+    "old_price": "275",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-cherri-krasnye-na-vetke-24372/"
+  },
   "606": {
     "name": "Морковь",
     "price": "32",
@@ -13,12 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tomaty-rozovye-15378/"
   },
-  "29450": {
-    "name": "Яблоко Медовый хруст",
-    "price": "135",
-    "old_price": "225",
+  "1169": {
+    "name": "Брокколи",
+    "price": "236",
+    "old_price": "394",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
+    "link": "https://vkusvill.ru/goods/brokkoli-1169/"
   },
   "108295": {
     "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
