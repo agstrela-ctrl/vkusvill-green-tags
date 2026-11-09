@@ -181,13 +181,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-shokoladnyy-s-karamelyu-i-arakhisom-92214/"
   },
-  "81642": {
-    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
-  },
   "21394": {
     "name": "Кукуруза мини",
     "price": "156",
@@ -230,6 +223,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bekon-iz-svininy-dlya-zharki-115074/"
   },
+  "81642": {
+    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
+  },
   "123012": {
     "name": "Хачапури с курицей, томатами и базиликом",
     "price": "187",
@@ -264,13 +264,6 @@
     "old_price": "201",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/flan-klassicheskiy-karamelnyy-123558/"
-  },
-  "116030": {
-    "name": "Томаты черри \"Сладкая вишня\", 200 г",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-cherri-sladkaya-vishnya-116030/"
   },
   "122344": {
     "name": "Котлеты с гречкой",
