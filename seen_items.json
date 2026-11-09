@@ -1,24 +1,10 @@
 {
-  "43719": {
-    "name": "Ежики мясные с отварной гречкой",
-    "price": "156",
-    "old_price": "260",
+  "15378": {
+    "name": "Томаты розовые",
+    "price": "177",
+    "old_price": "295",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
-  },
-  "127069": {
-    "name": "Боул \"50/25/25\" с булгуром, киноа и куриным филе су-вид",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-50-25-25-s-bulgurom-127069/"
-  },
-  "98575": {
-    "name": "Крем-суп с лисичками и белыми грибами",
-    "price": "187",
-    "old_price": "312",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-lisichkami-i-belymi-gribami-98575/"
+    "link": "https://vkusvill.ru/goods/tomaty-rozovye-15378/"
   },
   "123947": {
     "name": "Десерт \"НеНаполеон\" с кокосовым кремом, веган",
@@ -26,13 +12,6 @@
     "old_price": "234",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-nenapoleon-s-kokosovym-kremom-123947/"
-  },
-  "125730": {
-    "name": "Кимпаб с курицей, овощами и омлетом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kimpab-s-kuritsey-125730/"
   },
   "45767": {
     "name": "Салат \"Оливье вегетарианский\"",
@@ -48,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
   },
-  "66833": {
-    "name": "Набор для супа из индейки",
-    "price": "197",
-    "old_price": "329",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-dlya-supa-iz-indeyki-66833/"
-  },
   "25023": {
     "name": "Блинчики \"Цезарь\"",
     "price": "152",
@@ -68,19 +40,5 @@
     "old_price": "262",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/greynsy-s-semenami-tykvy-118965/"
-  },
-  "125683": {
-    "name": "Митболы из кролика и индейки с сыром \"Сулугуни\"",
-    "price": "315",
-    "old_price": "525",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mitboly-iz-krolika-i-indeyki-s-syrom-suluguni-125683/"
-  },
-  "119124": {
-    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
-    "price": "273",
-    "old_price": "455",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
   }
 }
