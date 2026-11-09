@@ -83,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-yaytsom-i-lukom-96067/"
   },
-  "107822": {
-    "name": "Брецель на сливочном масле с семечками",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
@@ -111,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
   },
-  "124131": {
-    "name": "Пирожное \"Медовик\" в дубайском стиле",
-    "price": "253",
-    "old_price": "422",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-medovik-v-dubayskom-stile-124131/"
-  },
   "125477": {
     "name": "Салат с фасолью и куриной ветчиной",
     "price": "159",
@@ -132,12 +118,33 @@
     "discount": "41",
     "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-svitlogore-s-vanilyu-v-karamelnoy-glazuri-23-50-g-52899/"
   },
+  "126591": {
+    "name": "Сэндвич-ролл по-итальянски с колбасой \"Фелино\" и моцареллой",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-po-italyanski-s-kolbasoy-felino-i-motsarelloy-126591/"
+  },
   "92214": {
     "name": "Торт шоколадный с карамелью и арахисом",
     "price": "491",
     "old_price": "818",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-shokoladnyy-s-karamelyu-i-arakhisom-92214/"
+  },
+  "125448": {
+    "name": "Хлеб “Медово-солодовый”, на закваске",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
+  },
+  "115074": {
+    "name": "Бекон из свинины для жарки, охлажденный",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bekon-iz-svininy-dlya-zharki-115074/"
   },
   "21394": {
     "name": "Кукуруза мини",
@@ -159,40 +166,5 @@
     "old_price": "195",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/prorostki-miks-osnova-dlya-salata-127599/"
-  },
-  "126591": {
-    "name": "Сэндвич-ролл по-итальянски с колбасой \"Фелино\" и моцареллой",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-po-italyanski-s-kolbasoy-felino-i-motsarelloy-126591/"
-  },
-  "125448": {
-    "name": "Хлеб “Медово-солодовый”, на закваске",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
-  },
-  "115074": {
-    "name": "Бекон из свинины для жарки, охлажденный",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bekon-iz-svininy-dlya-zharki-115074/"
-  },
-  "81642": {
-    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
-  },
-  "123558": {
-    "name": "Флан \"Классический\" карамельный",
-    "price": "121",
-    "old_price": "201",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/flan-klassicheskiy-karamelnyy-123558/"
   }
 }
