@@ -90,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
-  "125068": {
-    "name": "Круассан \"Калининградский\" с марципановой начинкой",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-kaliningradskiy-s-martsipanovoy-nachinkoy-125068/"
-  },
   "120751": {
     "name": "Батон-мини \"Брецель\"",
     "price": "89",
@@ -139,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
   },
-  "115074": {
-    "name": "Бекон из свинины для жарки, охлажденный",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bekon-iz-svininy-dlya-zharki-115074/"
-  },
   "21394": {
     "name": "Кукуруза мини",
     "price": "156",
@@ -160,11 +146,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
   },
-  "127599": {
-    "name": "Проростки микс основа для салата, 115г",
-    "price": "117",
-    "old_price": "195",
+  "81642": {
+    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
+    "price": "161",
+    "old_price": "268",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/prorostki-miks-osnova-dlya-salata-127599/"
+    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
   }
 }
