@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-nenapoleon-s-kokosovym-kremom-123947/"
   },
-  "122949": {
-    "name": "Сэндвич на \"гречневом\" хлебе с окороком котто и соусом релиш",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-na-grechnevom-khlebe-s-okorokom-kotto-i-sousom-relish-122949/"
-  },
   "125730": {
     "name": "Кимпаб с курицей, овощами и омлетом",
     "price": "174",
@@ -69,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blinchiki-tsezar-25023/"
   },
-  "72200": {
-    "name": "Курабье с апельсином, 140 г (веган)",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurabe-s-apelsinom-72200/"
-  },
   "118965": {
     "name": "\"Грейнсы\" с семенами тыквы, чиа и конопли",
     "price": "157",
@@ -96,12 +82,5 @@
     "old_price": "455",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
-  },
-  "48025": {
-    "name": "Безе ассорти с кусочками ягод",
-    "price": "139",
-    "old_price": "231",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/beze-assorti-s-kusochkami-yagod-48025/"
   }
 }
