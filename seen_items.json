@@ -20,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-fasolyu-i-kurinoy-vetchinoy-125477/"
   },
+  "38215": {
+    "name": "Филе грудки цыпленка-бройлера для запекания в маринаде \"Сливочно-пряный\"",
+    "price": "379",
+    "old_price": "632",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-dlya-zapekaniya-v-marinade-slivochno-pryanyy-38215/"
+  },
   "128341": {
     "name": "Хурма Королек дольки, 140 г",
     "price": "105",
@@ -41,11 +48,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
   },
+  "115459": {
+    "name": "Котлеты из мяса цыплят-бройлеров с сыром сулугуни и базиликом",
+    "price": "307",
+    "old_price": "511",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyat-broylerov-s-syrom-suluguni-i-bazilikom-115459/"
+  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
     "old_price": "356",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+  },
+  "104067": {
+    "name": "Шарики \"Пикантные\" с творожным сыром",
+    "price": "217",
+    "old_price": "362",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shariki-pikantnye-s-tvorozhnym-syrom-104067/"
   }
 }
