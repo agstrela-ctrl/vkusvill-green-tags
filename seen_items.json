@@ -6,19 +6,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-belye-nochi-s-syrnym-kremom-82232/"
   },
-  "23160": {
-    "name": "Микс салатный \"Грасс\"",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
-  },
   "127532": {
     "name": "Курица с картофелем по-деревенски и маринованной капустой",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelem-po-derevenski-i-marinovannoy-kapustoy-127532/"
+  },
+  "23160": {
+    "name": "Микс салатный \"Грасс\"",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
   },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
@@ -33,6 +33,13 @@
     "old_price": "355",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
+  },
+  "125477": {
+    "name": "Салат с фасолью и куриной ветчиной",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-s-fasolyu-i-kurinoy-vetchinoy-125477/"
   },
   "128341": {
     "name": "Хурма Королек дольки, 140 г",
@@ -75,12 +82,5 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
-  },
-  "125477": {
-    "name": "Салат с фасолью и куриной ветчиной",
-    "price": "159",
-    "old_price": "265",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-fasolyu-i-kurinoy-vetchinoy-125477/"
   }
 }
