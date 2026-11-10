@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grechka-po-kupecheski-66903/"
   },
-  "70323": {
-    "name": "Форель малосоленая ломтики с укропом, 100 г",
-    "price": "218",
-    "old_price": "363",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-malosolenaya-lomtiki-s-ukropom-70323/"
-  },
   "50389": {
     "name": "Ролл \"Симфония классики\" с креветкой",
     "price": "224",
@@ -55,33 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-krevetkoy-50389/"
   },
-  "20171": {
-    "name": "Борщ \"Вегетарианский\"",
-    "price": "112",
-    "old_price": "186",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/borshch-vegetarianskiy-20171/"
-  },
-  "29461": {
-    "name": "Коврижка яблочная постная, кафе",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
-  },
   "47061": {
     "name": "Суп \"Том-ям\"",
     "price": "288",
     "old_price": "480",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-tom-yam-47061/"
-  },
-  "19417": {
-    "name": "Вырезка из свинины",
-    "price": "484",
-    "old_price": "807",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vyrezka-iz-svininy-19417/"
   },
   "61751": {
     "name": "Гречка отварная с овощами, 200 г",
@@ -111,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-machete-iz-govyadiny-20750/"
   },
-  "109665": {
-    "name": "Филе форели радужной на гриле с рисом",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-foreli-raduzhnoy-na-grile-s-risom-109665/"
-  },
   "125730": {
     "name": "Кимпаб с курицей, овощами и омлетом",
     "price": "174",
@@ -139,20 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ris-s-kurinoy-brizolyu-94646/"
   },
-  "28698": {
-    "name": "Ребрышки говяжьи, 400 г",
-    "price": "272",
-    "old_price": "453",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rebryshki-govyazhi-28698/"
-  },
-  "123587": {
-    "name": "Масса творожная с клюквой 16,5%",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-s-klyukvoy-16-123587/"
-  },
   "84710": {
     "name": "Гранат зерна, 100 г",
     "price": "147",
@@ -166,13 +117,6 @@
     "old_price": "166",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
-  },
-  "41142": {
-    "name": "Сырники с малиновой начинкой",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-s-malinovoy-nachinkoy-41142/"
   },
   "117337": {
     "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
@@ -202,13 +146,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
-  "50070": {
-    "name": "Рис азиатский с креветками аргентинскими и овощами",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-aziatskiy-s-krevetkami-argentinskimi-i-ovoshchami-50070/"
-  },
   "40936": {
     "name": "Пирожки постные с капустой и зеленью, 140 г (2 шт)",
     "price": "96",
@@ -229,13 +166,6 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-klassicheskie-127332/"
-  },
-  "126057": {
-    "name": "Йогурт питьевой безлактозный с клубникой и киви без доб. сахара, 2,5%",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-s-klubnikoy-i-kivi-bez-dob-sakhara-126057/"
   },
   "125477": {
     "name": "Салат с фасолью и куриной ветчиной",
