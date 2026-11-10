@@ -1,10 +1,24 @@
 {
+  "82232": {
+    "name": "Торт \"Белые ночи\" с сырным кремом, 1,1 кг",
+    "price": "695",
+    "old_price": "1158",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-belye-nochi-s-syrnym-kremom-82232/"
+  },
   "23160": {
     "name": "Микс салатный \"Грасс\"",
     "price": "144",
     "old_price": "240",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
+  },
+  "127532": {
+    "name": "Курица с картофелем по-деревенски и маринованной капустой",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelem-po-derevenski-i-marinovannoy-kapustoy-127532/"
   },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
@@ -47,6 +61,13 @@
     "old_price": "144",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
+  },
+  "70874": {
+    "name": "Шаурма с курицей, 230 г",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-70874/"
   },
   "65170": {
     "name": "Мойва жареная, 200 г",
