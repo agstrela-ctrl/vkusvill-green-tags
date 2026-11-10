@@ -20,20 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
   },
-  "44309": {
-    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
-  "98731": {
-    "name": "Арбуз сердцевина, 300 г",
-    "price": "213",
-    "old_price": "355",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
   "125477": {
     "name": "Салат с фасолью и куриной ветчиной",
     "price": "159",
@@ -47,13 +33,6 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khurma-korolek-dolki-128341/"
-  },
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "58",
-    "old_price": "97",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
   "15196": {
     "name": "Петрушка, 50 г",
@@ -69,11 +48,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   },
+  "33849": {
+    "name": "Напиток \"Компот из сухофруктов\", 0,5 л",
+    "price": "81",
+    "old_price": "135",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-kompot-iz-sukhofruktov-33849/"
+  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
     "old_price": "356",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+  },
+  "124790": {
+    "name": "Безе \"Клубника-лайм\" с мятой",
+    "price": "95",
+    "old_price": "158",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/beze-klubnika-laym-s-myatoy-124790/"
   }
 }
