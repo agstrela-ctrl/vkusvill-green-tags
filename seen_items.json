@@ -20,20 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladi-kurinye-68438/"
   },
-  "25292": {
-    "name": "Салат \"Сельдь под шубой\", 180 г",
-    "price": "139",
-    "old_price": "231",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-seld-pod-shuboy-25292/"
-  },
-  "19347": {
-    "name": "Блины с мясом",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-myasom-19347/"
-  },
   "86806": {
     "name": "Печеночный пирог с морковью",
     "price": "144",
@@ -89,13 +75,6 @@
     "old_price": "480",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-tom-yam-47061/"
-  },
-  "108186": {
-    "name": "Салат с консервированным тунцом и яблоком",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-konservirovannym-tuntsom-i-yablokom-108186/"
   },
   "19417": {
     "name": "Вырезка из свинины",
@@ -188,13 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
   },
-  "121689": {
-    "name": "Винегрет по-грузински с лобио",
-    "price": "84",
-    "old_price": "140",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vinegret-po-gruzinski-s-lobio-121689/"
-  },
   "41142": {
     "name": "Сырники с малиновой начинкой",
     "price": "132",
@@ -279,13 +251,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/golubika-38710/"
   },
-  "89997": {
-    "name": "Капуста тушеная с овощами",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-tushenaya-s-ovoshchami-89997/"
-  },
   "65460": {
     "name": "Изделие х/б из зеленой гречки (на закваске)",
     "price": "86",
@@ -356,26 +321,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-tiramisu-52868/"
   },
-  "70519": {
-    "name": "Салат с курицей, ананасами и сельдереем",
-    "price": "141",
-    "old_price": "235",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-70519/"
-  },
   "68413": {
     "name": "Чиабатта с индейкой су-вид и горчичным соусом",
     "price": "192",
     "old_price": "320",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-indeykoy-su-vid-i-gorchichnym-sousom-68413/"
-  },
-  "111433": {
-    "name": "Чизкейк \"Японский\", 140 г",
-    "price": "157",
-    "old_price": "262",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-yaponskiy-111433/"
   },
   "68412": {
     "name": "Сэндвич ролл \"Сельдь под шубой\"",
