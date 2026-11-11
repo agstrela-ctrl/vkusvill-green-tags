@@ -48,12 +48,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
   },
+  "126291": {
+    "name": "Курица по-чкмерски в сливочно-чесночном соусе с картофелем",
+    "price": "209",
+    "old_price": "348",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-po-chkmerski-v-slivochno-chesnochnom-souse-s-kartofelem-126291/"
+  },
   "112904": {
     "name": "Рулет шоколадный \"Черничная магия\"",
     "price": "239",
     "old_price": "398",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-shokoladnyy-chernichnaya-magiya-112904/"
+  },
+  "58742": {
+    "name": "Блины с \"Крем чиз\" и вишней",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-krem-chiz-i-vishney-58742/"
   },
   "97552": {
     "name": "Котлеты из мяса цыплёнка-бройлера и индейки с моцареллой",
@@ -104,12 +118,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
   },
-  "89997": {
-    "name": "Капуста тушеная с овощами",
-    "price": "114",
-    "old_price": "190",
+  "21419": {
+    "name": "Сэндвич ролл с бужениной запеченной",
+    "price": "162",
+    "old_price": "270",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-tushenaya-s-ovoshchami-89997/"
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
   },
   "116602": {
     "name": "Паста \"Болоньезе с соусом свит-чили\"",
@@ -131,6 +145,13 @@
     "old_price": "152",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
+  },
+  "116367": {
+    "name": "Блины с ягодами и мягким сыром",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-yagodami-i-myagkim-syrom-116367/"
   },
   "41672": {
     "name": "Эклеры \"Шоколад и ваниль\"",
@@ -159,6 +180,13 @@
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
+  },
+  "69753": {
+    "name": "Шаурма грузинская",
+    "price": "204",
+    "old_price": "340",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-gruzinskaya-69753/"
   },
   "125536": {
     "name": "Паста с фаршем из индейки \"Альфредо\"",
