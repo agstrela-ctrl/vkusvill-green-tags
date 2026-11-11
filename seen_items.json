@@ -1,4 +1,130 @@
 {
+  "124143": {
+    "name": "Креветки с булгуром, брокколи, тыквой и соусом Тахини",
+    "price": "293",
+    "old_price": "488",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-s-bulgurom-124143/"
+  },
+  "97075": {
+    "name": "Оладьи куриные с кабачком, 130 г",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/oladi-kurinye-s-kabachkom-97075/"
+  },
+  "126408": {
+    "name": "Рулет \"Мияри\" вишня на японском бисквите",
+    "price": "103",
+    "old_price": "172",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulet-miyari-vishnya-na-yaponskom-biskvite-126408/"
+  },
+  "127069": {
+    "name": "Боул \"50/25/25\" с булгуром, киноа и куриным филе су-вид",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-50-25-25-s-bulgurom-127069/"
+  },
+  "102450": {
+    "name": "Салат \"Гнездо глухаря\" с копченой курицей, 260 г.",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-gnezdo-glukharya-s-kopchenoy-kuritsey-102450/"
+  },
+  "121046": {
+    "name": "Трубочки с сыром и шпинатом, 4 шт",
+    "price": "220",
+    "old_price": "367",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/trubochki-s-syrom-i-shpinatom-121046/"
+  },
+  "25291": {
+    "name": "Салат \"Мимоза\", 180 г",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
+  },
+  "112904": {
+    "name": "Рулет шоколадный \"Черничная магия\"",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulet-shokoladnyy-chernichnaya-magiya-112904/"
+  },
+  "97552": {
+    "name": "Котлеты из мяса цыплёнка-бройлера и индейки с моцареллой",
+    "price": "260",
+    "old_price": "433",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyenka-broylera-i-indeyki-s-motsarelloy-97552/"
+  },
+  "54391": {
+    "name": "Мясо по-французски с печеным картофелем",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-54391/"
+  },
+  "70074": {
+    "name": "Котлеты \"По-киевски\" с сырной начинкой с картофельным пюре, 270 г",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-70074/"
+  },
+  "114372": {
+    "name": "Фетучини с курицей и лисичками",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/fetuchini-s-kuritsey-i-lisichkami-114372/"
+  },
+  "82543": {
+    "name": "Крыло цыпленка-бройлера, упаковка от 1.3 кг",
+    "price": "305",
+    "old_price": "508",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-82543/"
+  },
+  "27161": {
+    "name": "Сырники из творога, кафе",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-27161/"
+  },
+  "98527": {
+    "name": "Овощи микс на пару",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
+  },
+  "89997": {
+    "name": "Капуста тушеная с овощами",
+    "price": "114",
+    "old_price": "190",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapusta-tushenaya-s-ovoshchami-89997/"
+  },
+  "116602": {
+    "name": "Паста \"Болоньезе с соусом свит-чили\"",
+    "price": "186",
+    "old_price": "310",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-boloneze-s-sousom-svit-chili-116602/"
+  },
+  "96008": {
+    "name": "Крылышки цыпленка-бройлера с куркумой",
+    "price": "390",
+    "old_price": "650",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krylyshki-tsyplenka-broylera-s-kurkumoy-96008/"
+  },
   "107822": {
     "name": "Брецель на сливочном масле с семечками",
     "price": "91",
@@ -6,19 +132,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
   },
+  "41672": {
+    "name": "Эклеры \"Шоколад и ваниль\"",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
+  },
+  "25023": {
+    "name": "Блинчики \"Цезарь\"",
+    "price": "152",
+    "old_price": "254",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/blinchiki-tsezar-25023/"
+  },
+  "53640": {
+    "name": "Ассорти эклеров \"Манго, Сырный, Лесные ягоды\"",
+    "price": "214",
+    "old_price": "356",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-eklerov-mango-53640/"
+  },
   "65425": {
     "name": "Креветки жареные, 150 г",
     "price": "348",
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
-  },
-  "120751": {
-    "name": "Батон-мини \"Брецель\"",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baton-mini-bretsel-120751/"
   },
   "125536": {
     "name": "Паста с фаршем из индейки \"Альфредо\"",
@@ -34,12 +174,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-klassicheskie-127332/"
   },
-  "109310": {
-    "name": "Тушка перепела",
-    "price": "729",
-    "old_price": "1215",
+  "127027": {
+    "name": "Сэндвич с грибами и сливочным соусом",
+    "price": "174",
+    "old_price": "290",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
+    "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
+  },
+  "126844": {
+    "name": "Фрикадельки из говядины, 150г",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/frikadelki-iz-govyadiny-126844/"
   },
   "128342": {
     "name": "Хурма Персимон дольки, 140 г",
