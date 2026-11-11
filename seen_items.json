@@ -1,11 +1,4 @@
 {
-  "102450": {
-    "name": "Салат \"Гнездо глухаря\" с копченой курицей, 260 г.",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-gnezdo-glukharya-s-kopchenoy-kuritsey-102450/"
-  },
   "74272": {
     "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
     "price": "72",
@@ -27,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "69185": {
-    "name": "Микс укроп, петрушка, 50 г",
-    "price": "54",
-    "old_price": "90",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-ukrop-69185/"
-  },
   "15196": {
     "name": "Петрушка, 50 г",
     "price": "47",
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/petrushka-15196/"
-  },
-  "98527": {
-    "name": "Овощи микс на пару",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
   },
   "31277": {
     "name": "Петрушка, 100 г",
@@ -61,6 +40,13 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
+  },
+  "122910": {
+    "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/fruktovyy-miks-ananas-122910/"
   },
   "107822": {
     "name": "Брецель на сливочном масле с семечками",
