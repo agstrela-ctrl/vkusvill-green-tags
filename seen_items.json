@@ -1,16 +1,16 @@
 {
-  "119016": {
-    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
-    "price": "66",
-    "old_price": "110",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
   },
-  "126844": {
-    "name": "Фрикадельки из говядины, 150г",
-    "price": "215",
-    "old_price": "358",
+  "14405": {
+    "name": "Грейпфрут",
+    "price": "141",
+    "old_price": "235",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-iz-govyadiny-126844/"
+    "link": "https://vkusvill.ru/goods/greypfrut-14405/"
   }
 }
