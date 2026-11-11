@@ -1,11 +1,4 @@
 {
-  "74272": {
-    "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
-  },
   "15196": {
     "name": "Петрушка, 50 г",
     "price": "47",
@@ -26,12 +19,5 @@
     "old_price": "358",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-iz-govyadiny-126844/"
-  },
-  "112185": {
-    "name": "Пряник Ясная Поляна Тульский вареная сгущенка 130 г",
-    "price": "45",
-    "old_price": "75",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pryanik-yasnaya-polyana-tulskiy-varenaya-sgushchenka-130-g-112185/"
   }
 }
