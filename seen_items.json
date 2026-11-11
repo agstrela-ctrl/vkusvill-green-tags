@@ -1,18 +1,4 @@
 {
-  "97075": {
-    "name": "Оладьи куриные с кабачком, 130 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-kurinye-s-kabachkom-97075/"
-  },
-  "15197": {
-    "name": "Ассорти из зелени, 100 г",
-    "price": "69",
-    "old_price": "115",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
-  },
   "102450": {
     "name": "Салат \"Гнездо глухаря\" с копченой курицей, 260 г.",
     "price": "198",
@@ -69,26 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
   },
-  "21419": {
-    "name": "Сэндвич ролл с бужениной запеченной",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
-  },
   "31277": {
     "name": "Петрушка, 100 г",
     "price": "60",
     "old_price": "100",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/petrushka-31277/"
-  },
-  "94646": {
-    "name": "Рис с куриной бризолью, 400 г",
-    "price": "252",
-    "old_price": "420",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-s-kurinoy-brizolyu-94646/"
   },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
@@ -110,13 +82,6 @@
     "old_price": "152",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
-  },
-  "116367": {
-    "name": "Блины с ягодами и мягким сыром",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-yagodami-i-myagkim-syrom-116367/"
   },
   "75991": {
     "name": "Микс салатный \"Витамикс\" , 150 г",
@@ -153,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-gruzinskaya-69753/"
   },
-  "118916": {
-    "name": "Блинчики с бананом и соленой карамелью, зам.",
-    "price": "232",
-    "old_price": "387",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blinchiki-s-bananom-i-solenoy-karamelyu-118916/"
-  },
   "125536": {
     "name": "Паста с фаршем из индейки \"Альфредо\"",
     "price": "209",
@@ -173,13 +131,6 @@
     "old_price": "496",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/maksi-blinchiki-derevenskie-s-kapustoy-119615/"
-  },
-  "127332": {
-    "name": "Сырники из творога классические",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-klassicheskie-127332/"
   },
   "127027": {
     "name": "Сэндвич с грибами и сливочным соусом",
