@@ -1,16 +1,9 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
+  "619": {
+    "name": "Кабачки",
+    "price": "155",
+    "old_price": "258",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
-  },
-  "14405": {
-    "name": "Грейпфрут",
-    "price": "141",
-    "old_price": "235",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/greypfrut-14405/"
+    "link": "https://vkusvill.ru/goods/kabachki-619/"
   }
 }
