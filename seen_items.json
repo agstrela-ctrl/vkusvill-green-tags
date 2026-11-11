@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-nezhnaya-so-slivochnym-maslom-i-kartofelnym-pyure-67243/"
   },
-  "27195": {
-    "name": "Суп щавелевый с курицей",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-shchavelevyy-s-kuritsey-27195/"
-  },
   "68438": {
     "name": "Оладьи куриные, 320 г",
     "price": "228",
@@ -26,13 +19,6 @@
     "old_price": "240",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechenochnyy-pirog-s-morkovyu-86806/"
-  },
-  "16417": {
-    "name": "Суп \"Гороховый\" с копчёностями",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-gorokhovyy-s-kopchyenostyami-16417/"
   },
   "66903": {
     "name": "Гречка по-купечески",
@@ -82,6 +68,13 @@
     "old_price": "560",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyk-machete-iz-govyadiny-20750/"
+  },
+  "108295": {
+    "name": "Шаурма с растительным \"мясом\" и печеным картофелем",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
   },
   "125730": {
     "name": "Кимпаб с курицей, овощами и омлетом",
