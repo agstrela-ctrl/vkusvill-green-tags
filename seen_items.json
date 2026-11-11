@@ -1,23 +1,9 @@
 {
-  "65012": {
-    "name": "Томаты сливка красные Фламенко",
-    "price": "233",
-    "old_price": "388",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-slivka-krasnye-flamenko-65012/"
-  },
   "15378": {
     "name": "Томаты розовые",
     "price": "177",
     "old_price": "295",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tomaty-rozovye-15378/"
-  },
-  "738": {
-    "name": "Хурма спелая",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khurma-spelaya-738/"
   }
 }
