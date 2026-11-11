@@ -1,16 +1,9 @@
 {
-  "619": {
-    "name": "Кабачки",
-    "price": "155",
-    "old_price": "258",
+  "611": {
+    "name": "Свекла",
+    "price": "27",
+    "old_price": "45",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kabachki-619/"
-  },
-  "738": {
-    "name": "Хурма спелая",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khurma-spelaya-738/"
+    "link": "https://vkusvill.ru/goods/svekla-611/"
   }
 }
