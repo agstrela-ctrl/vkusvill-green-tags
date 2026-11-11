@@ -62,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-rastitelnym-myasom-i-pechenym-kartofelem-108295/"
   },
-  "125730": {
-    "name": "Кимпаб с курицей, овощами и омлетом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kimpab-s-kuritsey-125730/"
-  },
   "106625": {
     "name": "Рулет бисквитный \"Шоколад-карамель-арахис\", 140 г",
     "price": "172",
@@ -160,13 +153,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
   },
-  "126386": {
-    "name": "Дюрюм с кюфтой из говядины",
-    "price": "196",
-    "old_price": "326",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dyuryum-s-kyuftoy-iz-govyadiny-126386/"
-  },
   "48167": {
     "name": "Филе индейки \"Гриль\" с пастой птитим со шпинатом и овощами",
     "price": "222",
@@ -187,13 +173,6 @@
     "old_price": "1215",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
-  },
-  "38119": {
-    "name": "Блин сырный по-голландски",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blin-syrnyy-po-gollandski-38119/"
   },
   "511": {
     "name": "Окорок свиной, охлажденный",
