@@ -1,18 +1,4 @@
 {
-  "17077": {
-    "name": "Йогурт греческий из овечьего молока 4-8%",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-grecheskiy-iz-ovechego-moloka-4-8-17077/"
-  },
-  "61751": {
-    "name": "Гречка отварная с овощами, 200 г",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
-  },
   "107822": {
     "name": "Брецель на сливочном масле с семечками",
     "price": "91",
@@ -47,20 +33,6 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-klassicheskie-127332/"
-  },
-  "38710": {
-    "name": "Голубика, 300 г",
-    "price": "411",
-    "old_price": "685",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-38710/"
-  },
-  "48167": {
-    "name": "Филе индейки \"Гриль\" с пастой птитим со шпинатом и овощами",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-indeyki-gril-s-pastoy-ptitim-so-shpinatom-i-ovoshchami-48167/"
   },
   "109310": {
     "name": "Тушка перепела",
