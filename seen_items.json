@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
   },
-  "25291": {
-    "name": "Салат \"Мимоза\", 180 г",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
-  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "66",
@@ -41,33 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
   },
-  "122910": {
-    "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/fruktovyy-miks-ananas-122910/"
-  },
-  "107822": {
-    "name": "Брецель на сливочном масле с семечками",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
-  },
   "75991": {
     "name": "Микс салатный \"Витамикс\" , 150 г",
     "price": "159",
     "old_price": "265",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-vitamiks--75991/"
-  },
-  "41672": {
-    "name": "Эклеры \"Шоколад и ваниль\"",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
   },
   "65425": {
     "name": "Креветки жареные, 150 г",
@@ -76,20 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
-  "125536": {
-    "name": "Паста с фаршем из индейки \"Альфредо\"",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-farshem-iz-indeyki-alfredo-125536/"
-  },
-  "127027": {
-    "name": "Сэндвич с грибами и сливочным соусом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
-  },
   "126844": {
     "name": "Фрикадельки из говядины, 150г",
     "price": "215",
@@ -97,12 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-iz-govyadiny-126844/"
   },
-  "88264": {
-    "name": "Микс салатный \"Римини\" 120 г",
-    "price": "102",
-    "old_price": "170",
+  "122910": {
+    "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
+    "price": "198",
+    "old_price": "330",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-rimini-120-g-88264/"
+    "link": "https://vkusvill.ru/goods/fruktovyy-miks-ananas-122910/"
   },
   "128342": {
     "name": "Хурма Персимон дольки, 140 г",
