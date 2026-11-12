@@ -13,41 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-kurinyy-s-domashney-lapshoy-19434/"
   },
-  "71215": {
-    "name": "Биточек куриный с капустой и картофельным пюре",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochek-kurinyy-s-kapustoy-i-kartofelnym-pyure-71215/"
-  },
-  "68083": {
-    "name": "Салат с курицей и ананасами, 180 г",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-ananasami-68083/"
-  },
-  "19347": {
-    "name": "Блины с мясом",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-myasom-19347/"
-  },
-  "106904": {
-    "name": "Макароны с тушёной говядиной",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
-  },
-  "46648": {
-    "name": "Ролл Филадельфия",
-    "price": "359",
-    "old_price": "598",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-filadelfiya-46648/"
-  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
@@ -90,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-buterfest-s-semenami-podsolnechnika-125861/"
   },
-  "124133": {
-    "name": "Тарт \"Клубника-земляника\" со сливочно-сырным кремом",
-    "price": "629",
-    "old_price": "1048",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tart-klubnika-zemlyanika-so-slivochno-syrnym-kremom-124133/"
-  },
   "16416": {
     "name": "Суп с фрикадельками из индейки",
     "price": "136",
@@ -117,13 +75,6 @@
     "old_price": "264",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnye-shariki-muraveshkino-s-grets-orekhom-124136/"
-  },
-  "78100": {
-    "name": "Паста Орзо с креветками",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-orzo-s-krevetkami-78100/"
   },
   "125444": {
     "name": "Салат винегрет с маринованными лисичками",
@@ -152,13 +103,6 @@
     "old_price": "136",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
-  },
-  "19345": {
-    "name": "Блины пшеничные",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-pshenichnye-19345/"
   },
   "29461": {
     "name": "Коврижка яблочная постная, кафе",
@@ -209,20 +153,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
   },
-  "106420": {
-    "name": "Торт \"Медовый\", 760 г.",
-    "price": "628",
-    "old_price": "1046",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-medovyy-106420/"
-  },
-  "58465": {
-    "name": "Булочка с маком и шоколадом",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-s-makom-i-shokoladom-58465/"
-  },
   "26305": {
     "name": "Хлеб \"Романовский\", нарезка",
     "price": "181",
@@ -243,13 +173,6 @@
     "old_price": "280",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-shariki-klubnika-88563/"
-  },
-  "100938": {
-    "name": "Мусака",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/musaka-100938/"
   },
   "112770": {
     "name": "Хлеб \"Свекольно-морковный\"",
@@ -272,26 +195,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
-  "123548": {
-    "name": "Клаб-сэндвич \"Цезарь\" с курицей и беконом, 190 г",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-tsezar-s-kuritsey-i-bekonom-123548/"
-  },
   "93909": {
     "name": "Сэндвич ролл с курицей “Терияки”",
     "price": "173",
     "old_price": "288",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-teriyaki-93909/"
-  },
-  "119496": {
-    "name": "Лепешка \"Три сыра\" на гриле, 2 шт",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-tri-syra-na-grile-119496/"
   },
   "99757": {
     "name": "Минтай филе в пивном кляре, 200 г",
@@ -320,13 +229,6 @@
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-iz-file-kusochkov-gorbushi-94227/"
-  },
-  "76598": {
-    "name": "Творог зерненый \"Клубника\" 5%",
-    "price": "65",
-    "old_price": "108",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-zernenyy-klubnika-5-76598/"
   },
   "116302": {
     "name": "Изделие х/б \"Энергия полбы\"",
@@ -377,13 +279,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
   },
-  "119004": {
-    "name": "Торт \"Темные ночи\" с сырным кремом",
-    "price": "485",
-    "old_price": "808",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-temnye-nochi-s-syrnym-kremom-119004/"
-  },
   "125683": {
     "name": "Митболы из кролика и индейки с сыром \"Сулугуни\"",
     "price": "315",
@@ -412,26 +307,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/smetana-bezlaktoznaya-20-50142/"
   },
-  "109574": {
-    "name": "Филе грудки утенка табака",
-    "price": "397",
-    "old_price": "662",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-utenka-tabaka-109574/"
-  },
   "66833": {
     "name": "Набор для супа из индейки",
     "price": "197",
     "old_price": "329",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nabor-dlya-supa-iz-indeyki-66833/"
-  },
-  "99192": {
-    "name": "Филе грудки утенка в ягодном соусе",
-    "price": "445",
-    "old_price": "741",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-utenka-v-yagodnom-souse-99192/"
   },
   "123943": {
     "name": "Десерт \"Ореховый\" с карамелью, веган",
