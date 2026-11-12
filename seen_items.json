@@ -20,12 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
   },
-  "116302": {
-    "name": "Изделие х/б \"Энергия полбы\"",
-    "price": "122",
-    "old_price": "203",
+  "125536": {
+    "name": "Паста с фаршем из индейки \"Альфредо\"",
+    "price": "209",
+    "old_price": "348",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-energiya-polby-116302/"
+    "link": "https://vkusvill.ru/goods/pasta-s-farshem-iz-indeyki-alfredo-125536/"
   },
   "65425": {
     "name": "Креветки жареные, 150 г",
@@ -34,26 +34,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
+  "116302": {
+    "name": "Изделие х/б \"Энергия полбы\"",
+    "price": "122",
+    "old_price": "203",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-energiya-polby-116302/"
+  },
   "117331": {
     "name": "Ветчина \"Из курицы с кроликом запеченная\"",
     "price": "271",
     "old_price": "451",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-kuritsy-s-krolikom-zapechennaya-117331/"
-  },
-  "125536": {
-    "name": "Паста с фаршем из индейки \"Альфредо\"",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-farshem-iz-indeyki-alfredo-125536/"
-  },
-  "88264": {
-    "name": "Микс салатный \"Римини\" 120 г",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-rimini-120-g-88264/"
   },
   "65306": {
     "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
