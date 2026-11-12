@@ -1,52 +1,10 @@
 {
-  "124131": {
-    "name": "Пирожное \"Медовик\" в дубайском стиле",
-    "price": "253",
-    "old_price": "422",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-medovik-v-dubayskom-stile-124131/"
-  },
-  "105477": {
-    "name": "Набор пирожных \"Суфле, Медовик, Эклер\"",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-pirozhnykh-sufle-105477/"
-  },
-  "99853": {
-    "name": "Суп из печеных томатов с креветками",
-    "price": "154",
-    "old_price": "256",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-iz-pechenykh-tomatov-s-krevetkami-99853/"
-  },
-  "82338": {
-    "name": "Наггетсы куриные, 500 г",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/naggetsy-kurinye-82338/"
-  },
   "124473": {
     "name": "Слойка-фило с курицей и грибами (в сливках)",
     "price": "161",
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sloyka-filo-s-kuritsey-i-gribami-v-slivkakh-124473/"
-  },
-  "19345": {
-    "name": "Блины пшеничные",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-pshenichnye-19345/"
-  },
-  "75195": {
-    "name": "Йогурт греческий безлактозный 4%",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-grecheskiy-bezlaktoznyy-4-75195/"
   },
   "74272": {
     "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
@@ -55,75 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
   },
-  "19626": {
-    "name": "Сыр \"Страчателла\", 200 г",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-strachatella-19626/"
-  },
-  "124142": {
-    "name": "Тарталетка \"Клубника - земляника \" слив. сырн. крем",
-    "price": "154",
-    "old_price": "256",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartaletka-klubnika-zemlyanika-sliv-syrn-krem-124142/"
-  },
-  "21629": {
-    "name": "Томаты черри красные, 250 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-cherri-krasnye-21629/"
-  },
-  "128342": {
-    "name": "Хурма Персимон дольки, 140 г",
-    "price": "117",
-    "old_price": "195",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khurma-persimon-dolki-128342/"
-  },
-  "61936": {
-    "name": "Фарш из мяса курицы, индейки и кролика",
-    "price": "318",
-    "old_price": "530",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
-  },
-  "86796": {
-    "name": "Ассорти эклеров \"Классика вкусов\", 3 шт",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-eklerov-klassika-vkusov-86796/"
-  },
-  "93516": {
-    "name": "Набор из цыплят-бройлеров (бедро, крыло, голень)",
-    "price": "317",
-    "old_price": "528",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-iz-tsyplyat-broylerov-bedro-93516/"
-  },
   "83055": {
     "name": "Изделие х/б \"Полбяной цельнозер. мультизлак.\", нарезка",
     "price": "80",
     "old_price": "134",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
-  },
-  "53190": {
-    "name": "Пирожки слоеные с капустой",
-    "price": "127",
-    "old_price": "212",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-sloenye-s-kapustoy-53190/"
-  },
-  "70874": {
-    "name": "Шаурма с курицей, 230 г",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-70874/"
   },
   "117337": {
     "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
@@ -146,27 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-s-farshem-iz-indeyki-alfredo-125536/"
   },
-  "125206": {
-    "name": "Блины с картошкой и лисичками",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-kartoshkoy-i-lisichkami-125206/"
-  },
-  "116302": {
-    "name": "Изделие х/б \"Энергия полбы\"",
-    "price": "122",
-    "old_price": "203",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-energiya-polby-116302/"
-  },
-  "125281": {
-    "name": "Стрелки чеснока соленые",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/strelki-chesnoka-solenye-125281/"
-  },
   "71029": {
     "name": "Фарш из говядины и курицы",
     "price": "216",
@@ -187,5 +61,19 @@
     "old_price": "116",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorozhok-danissimo-bravo-shokolad-6-78333/"
+  },
+  "61936": {
+    "name": "Фарш из мяса курицы, индейки и кролика",
+    "price": "318",
+    "old_price": "530",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
+  },
+  "86796": {
+    "name": "Ассорти эклеров \"Классика вкусов\", 3 шт",
+    "price": "186",
+    "old_price": "310",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-eklerov-klassika-vkusov-86796/"
   }
 }
