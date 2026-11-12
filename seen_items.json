@@ -1,16 +1,9 @@
 {
-  "33006": {
-    "name": "Котлеты куриные жареные, зам.",
-    "price": "279",
-    "old_price": "465",
+  "108502": {
+    "name": "Томаты черри \"Виноградные\" сладкие, 200 г",
+    "price": "153",
+    "old_price": "255",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-zharenye-33006/"
-  },
-  "105065": {
-    "name": "Горячий шоколад в белой глазури, зам.",
-    "price": "75",
-    "old_price": "125",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/goryachiy-shokolad-v-beloy-glazuri-105065/"
+    "link": "https://vkusvill.ru/goods/tomaty-cherri-vinogradnye-sladkie-108502/"
   }
 }
