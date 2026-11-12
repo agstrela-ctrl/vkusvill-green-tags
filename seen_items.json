@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
-  "22618": {
-    "name": "Голубика, 500 г",
-    "price": "570",
-    "old_price": "950",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-22618/"
-  },
   "23160": {
     "name": "Микс салатный \"Грасс\"",
     "price": "144",
@@ -76,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "16536": {
-    "name": "Хлеб \"Литовский\", нарезка",
-    "price": "44",
-    "old_price": "73",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-litovskiy-16536/"
-  },
   "71623": {
     "name": "Блины с клубникой",
     "price": "137",
@@ -104,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-tsyplyat-broylerov-s-syrom-36430/"
   },
-  "125444": {
-    "name": "Салат винегрет с маринованными лисичками",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-s-marinovannymi-lisichkami-125444/"
-  },
   "20750": {
     "name": "Стейк Мачете из говядины",
     "price": "336",
@@ -124,13 +103,6 @@
     "old_price": "483",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-steykburger-38362/"
-  },
-  "115332": {
-    "name": "Конвертики с начинкой \"Шакшука\"",
-    "price": "120",
-    "old_price": "200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-nachinkoy-shakshuka-115332/"
   },
   "121690": {
     "name": "Вок фунчоза с курицей в имбирно-соевом соусе",
@@ -195,20 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khurma-korolek-dolki-128341/"
   },
-  "73022": {
-    "name": "Горбуша филе-кусок горячего копчения, 200 г",
-    "price": "352",
-    "old_price": "586",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gorbusha-file-kusok-goryachego-kopcheniya-73022/"
-  },
-  "108518": {
-    "name": "Конвертики с капустой и грибами, постные",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-kapustoy-i-gribami-108518/"
-  },
   "119342": {
     "name": "Изделие х/б \"Сытный\"",
     "price": "111",
@@ -243,13 +201,6 @@
     "old_price": "910",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/telyatina-lopatochnaya-chast-112813/"
-  },
-  "110084": {
-    "name": "Скумбрия атлантическая в растительном масле подкопченная, 300 г",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/skumbriya-atlanticheskaya-v-rastitelnom-masle-podkopchennaya-110084/"
   },
   "127332": {
     "name": "Сырники из творога классические",
