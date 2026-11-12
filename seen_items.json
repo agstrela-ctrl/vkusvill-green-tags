@@ -6,40 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
-  "68438": {
-    "name": "Оладьи куриные, 320 г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-kurinye-68438/"
-  },
   "16416": {
     "name": "Суп с фрикадельками из индейки",
     "price": "136",
     "old_price": "226",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
-  },
-  "125444": {
-    "name": "Салат винегрет с маринованными лисичками",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-s-marinovannymi-lisichkami-125444/"
-  },
-  "113574": {
-    "name": "Батон \"Сдобный\" на сливочном масле",
-    "price": "47",
-    "old_price": "79",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
-  },
-  "65409": {
-    "name": "Салат \"Витаминный\" с лимонной заправкой, 500 г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
   },
   "63575": {
     "name": "Форель филе-кусок на коже охл., 350 г",
@@ -118,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-kuritsy-s-krolikom-zapechennaya-117331/"
   },
-  "40936": {
-    "name": "Пирожки постные с капустой и зеленью, 140 г (2 шт)",
-    "price": "96",
-    "old_price": "160",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-postnye-s-kapustoy-i-zelenyu-40936/"
-  },
   "125536": {
     "name": "Паста с фаршем из индейки \"Альфредо\"",
     "price": "209",
@@ -167,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klab-sendvich-so-svinym-okorokom-i-omletom-126385/"
   },
-  "50142": {
-    "name": "Сметана безлактозная 20%, 200 г",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/smetana-bezlaktoznaya-20-50142/"
-  },
   "23151": {
     "name": "Шницель куриный с сыром, 480 г",
     "price": "251",
@@ -194,12 +152,5 @@
     "old_price": "381",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-i-indeyki-s-syrom-66863/"
-  },
-  "119539": {
-    "name": "Лепешка Шоти, 300 г",
-    "price": "56",
-    "old_price": "94",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
   }
 }
