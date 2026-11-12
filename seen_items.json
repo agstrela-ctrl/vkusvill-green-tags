@@ -1,11 +1,4 @@
 {
-  "19434": {
-    "name": "Суп \"Куриный\" с домашней лапшой",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-kurinyy-s-domashney-lapshoy-19434/"
-  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
@@ -146,6 +139,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-s-farshem-iz-indeyki-alfredo-125536/"
   },
+  "88264": {
+    "name": "Микс салатный \"Римини\" 120 г",
+    "price": "102",
+    "old_price": "170",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-rimini-120-g-88264/"
+  },
   "65306": {
     "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
     "price": "899",
@@ -188,33 +188,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-s-syrom-23151/"
   },
-  "127034": {
-    "name": "Котлеты из свинины и говядины",
-    "price": "154",
-    "old_price": "256",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-127034/"
-  },
-  "126028": {
-    "name": "Биойогурт питьевой ПРОБИОТИК + \"Малина\" на сиропе топинамбура, 1,5%",
-    "price": "68",
-    "old_price": "114",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bioyogurt-pitevoy-probiotik-malina-na-sirope-topinambura-126028/"
-  },
   "126353": {
     "name": "Йогурт питьевой безлактозный с яблоком без доб.сахара, 2,5%",
     "price": "64",
     "old_price": "107",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-s-yablokom-bez-dob-sakhara-126353/"
-  },
-  "123944": {
-    "name": "Шаверма \"Как в Питере\" с курицей и овощами",
-    "price": "183",
-    "old_price": "305",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaverma-kak-v-pitere-s-kuritsey-i-ovoshchami-123944/"
   },
   "66863": {
     "name": "Сосиски \"Из курицы и индейки с сыром\"",
