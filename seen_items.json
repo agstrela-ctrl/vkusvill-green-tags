@@ -1,37 +1,86 @@
 {
-  "58728": {
-    "name": "Хлеб цельнозерновой с отрубями",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
-  },
-  "83055": {
-    "name": "Изделие х/б \"Полбяной цельнозер. мультизлак.\", нарезка",
-    "price": "80",
-    "old_price": "134",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-polbyanoy-tselnozer-multizlak--83055/"
-  },
-  "125536": {
-    "name": "Паста с фаршем из индейки \"Альфредо\"",
+  "126593": {
+    "name": "Курица с лапшой в темном соусе по-корейски",
     "price": "209",
     "old_price": "348",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-farshem-iz-indeyki-alfredo-125536/"
+    "link": "https://vkusvill.ru/goods/kuritsa-s-lapshoy-v-temnom-souse-po-koreyski-126593/"
   },
-  "116302": {
-    "name": "Изделие х/б \"Энергия полбы\"",
-    "price": "122",
-    "old_price": "203",
+  "65192": {
+    "name": "Изделие х/б \"Цельнозерновой\" полбяной с семенами льна",
+    "price": "89",
+    "old_price": "149",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-energiya-polby-116302/"
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoy-polbyanoy-s-semenami-lna-65192/"
   },
-  "65306": {
-    "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
-    "price": "899",
-    "old_price": "1499",
+  "112775": {
+    "name": "Изделие х/б \"Зерновой\" с куркумой",
+    "price": "67",
+    "old_price": "112",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
+  },
+  "23160": {
+    "name": "Микс салатный \"Грасс\"",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
+  },
+  "126124": {
+    "name": "Свинина кимчи по-корейски с рисом",
+    "price": "227",
+    "old_price": "378",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/svinina-kimchi-po-koreyski-s-risom-126124/"
+  },
+  "82338": {
+    "name": "Наггетсы куриные, 500 г",
+    "price": "299",
+    "old_price": "498",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/naggetsy-kurinye-82338/"
+  },
+  "17243": {
+    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
+    "price": "38",
+    "old_price": "63",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
+  },
+  "29622": {
+    "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
+    "price": "82",
+    "old_price": "136",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
+  },
+  "44309": {
+    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
+    "price": "66",
+    "old_price": "110",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
+  },
+  "97844": {
+    "name": "Крем-суп тыквенный",
+    "price": "127",
+    "old_price": "212",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
+  },
+  "98731": {
+    "name": "Арбуз сердцевина, 300 г",
+    "price": "213",
+    "old_price": "355",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
+  },
+  "43269": {
+    "name": "Желе фруктово-ягодное голубика, банан, клубника, яблоко",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zhele-fruktovo-yagodnoe-golubika-43269/"
   }
 }
