@@ -118,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mitboly-iz-krolika-i-indeyki-s-syrom-suluguni-125683/"
   },
-  "125081": {
-    "name": "Крокеты по-французски с грибами и творожным сыром",
-    "price": "279",
-    "old_price": "465",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krokety-po-frantsuzski-s-gribami-i-tvorozhnym-syrom-125081/"
-  },
   "126385": {
     "name": "Клаб-сэндвич со свиным окороком и омлетом",
     "price": "167",
@@ -132,12 +125,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klab-sendvich-so-svinym-okorokom-i-omletom-126385/"
   },
-  "23151": {
-    "name": "Шницель куриный с сыром, 480 г",
-    "price": "251",
-    "old_price": "418",
+  "125081": {
+    "name": "Крокеты по-французски с грибами и творожным сыром",
+    "price": "279",
+    "old_price": "465",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-s-syrom-23151/"
+    "link": "https://vkusvill.ru/goods/krokety-po-frantsuzski-s-gribami-i-tvorozhnym-syrom-125081/"
   },
   "126353": {
     "name": "Йогурт питьевой безлактозный с яблоком без доб.сахара, 2,5%",
@@ -145,6 +138,13 @@
     "old_price": "107",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-s-yablokom-bez-dob-sakhara-126353/"
+  },
+  "23151": {
+    "name": "Шницель куриный с сыром, 480 г",
+    "price": "251",
+    "old_price": "418",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-s-syrom-23151/"
   },
   "66863": {
     "name": "Сосиски \"Из курицы и индейки с сыром\"",
