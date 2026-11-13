@@ -1,9 +1,16 @@
 {
-  "1713": {
-    "name": "Картофель",
-    "price": "32",
-    "old_price": "54",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/kartofel-1713/"
+  "22646": {
+    "name": "Киви Голд, шт",
+    "price": "41",
+    "old_price": "68",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kivi-gold-22646/"
+  },
+  "112813": {
+    "name": "Телятина лопаточная часть, 400 г",
+    "price": "546",
+    "old_price": "910",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/telyatina-lopatochnaya-chast-112813/"
   }
 }
