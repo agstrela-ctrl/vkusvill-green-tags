@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-731/"
   },
-  "15197": {
-    "name": "Ассорти из зелени, 100 г",
-    "price": "69",
-    "old_price": "115",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
-  },
   "127069": {
     "name": "Боул \"50/25/25\" с булгуром, киноа и куриным филе су-вид",
     "price": "222",
@@ -48,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiska-v-teste-svinina-59515/"
   },
-  "26305": {
-    "name": "Хлеб \"Романовский\", нарезка",
-    "price": "181",
-    "old_price": "302",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
-  },
   "31277": {
     "name": "Петрушка, 100 г",
     "price": "60",
@@ -62,19 +48,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/petrushka-31277/"
   },
+  "81295": {
+    "name": "Груша белая",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grusha-belaya-81295/"
+  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
     "old_price": "356",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
-  "74797": {
-    "name": "Чизкейк \"Манго-маракуйя\", 140 г",
-    "price": "160",
-    "old_price": "266",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-mango-marakuyya-74797/"
   },
   "33233": {
     "name": "Хлеб \"Заварной с клюквой\", нарезка",
@@ -103,13 +89,6 @@
     "old_price": "64",
     "discount": "41",
     "link": "https://vkusvill.ru/goods/voda-pitevaya-senezhskaya-gazirovannaya-pet-1-43723/"
-  },
-  "110866": {
-    "name": "Кефир Село Зеленое 1% 930 мл",
-    "price": "77",
-    "old_price": "129",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-selo-zelenoe-1-930-ml-110866/"
   },
   "113801": {
     "name": "Молоко Село Зеленое питьевое пастеризованное 3,2% 2 кг",
