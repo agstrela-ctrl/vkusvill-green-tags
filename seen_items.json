@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-50-25-25-s-bulgurom-127069/"
   },
-  "44309": {
-    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
@@ -117,12 +110,5 @@
     "old_price": "299",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moloko-selo-zelenoe-pitevoe-pasterizovannoe-3-113801/"
-  },
-  "128341": {
-    "name": "Хурма Королек дольки, 140 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khurma-korolek-dolki-128341/"
   }
 }
