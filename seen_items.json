@@ -27,26 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
-  "116187": {
-    "name": "Печенье овсяное с яблоком, брусникой, грецким орехом, веган",
-    "price": "154",
-    "old_price": "257",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-s-yablokom-116187/"
-  },
   "15196": {
     "name": "Петрушка, 50 г",
     "price": "47",
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/petrushka-15196/"
-  },
-  "98213": {
-    "name": "Запеканка картофельная с курицей",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-98213/"
   },
   "122780": {
     "name": "Микс салатный \"Тулон\", 180г",
@@ -76,20 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/petrushka-31277/"
   },
-  "112770": {
-    "name": "Хлеб \"Свекольно-морковный\"",
-    "price": "70",
-    "old_price": "116",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
-  },
-  "86669": {
-    "name": "Корюшка жареная, 200 г",
-    "price": "286",
-    "old_price": "477",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koryushka-zharenaya-86669/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
@@ -110,13 +82,6 @@
     "old_price": "122",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-zavarnoy-s-klyukvoy-33233/"
-  },
-  "125599": {
-    "name": "Вертута \"Три сыра\"",
-    "price": "170",
-    "old_price": "284",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vertuta-tri-syra-125599/"
   },
   "119742": {
     "name": "Форель филе-кусок горячего копчения, 150 г",
@@ -159,12 +124,5 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khurma-korolek-dolki-128341/"
-  },
-  "21419": {
-    "name": "Сэндвич ролл с бужениной запеченной",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
   }
 }
