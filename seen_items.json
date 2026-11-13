@@ -1,11 +1,4 @@
 {
-  "127532": {
-    "name": "Курица с картофелем по-деревенски и маринованной капустой",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelem-po-derevenski-i-marinovannoy-kapustoy-127532/"
-  },
   "73475": {
     "name": "Торт \"Бенто\" с клубникой (С Днем Рождения)",
     "price": "322",
@@ -19,13 +12,6 @@
     "old_price": "173",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-legkaya-iz-file-kurinoy-grudki-s-bazilikom-122385/"
-  },
-  "68814": {
-    "name": "Сосиска в слоеном тесте с сыром и горчицей",
-    "price": "121",
-    "old_price": "202",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiska-v-sloenom-teste-s-syrom-i-gorchitsey-68814/"
   },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
@@ -55,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-shokolad-myagkaya-karamel-vegan-119614/"
   },
-  "66208": {
-    "name": "Пирожное \"Муравьешкино\", веган",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-muraveshkino-66208/"
-  },
   "113057": {
     "name": "Дыня резаная полукольца, 300 г",
     "price": "282",
@@ -69,19 +48,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/dynya-rezanaya-polukoltsa-113057/"
   },
-  "116367": {
-    "name": "Блины с ягодами и мягким сыром",
-    "price": "137",
-    "old_price": "228",
+  "21194": {
+    "name": "Фарш из цыплят-бройлеров, 500 г",
+    "price": "209",
+    "old_price": "349",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-yagodami-i-myagkim-syrom-116367/"
+    "link": "https://vkusvill.ru/goods/farsh-iz-tsyplyat-broylerov-21194/"
   },
-  "109184": {
-    "name": "Жюльен грибной с картофелем бэби постный",
-    "price": "180",
-    "old_price": "300",
+  "110342": {
+    "name": "Сосиски вареные \"Сочные с сыром\"",
+    "price": "127",
+    "old_price": "212",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhyulen-gribnoy-s-kartofelem-bebi-postnyy-109184/"
+    "link": "https://vkusvill.ru/goods/sosiski-varenye-sochnye-s-syrom-110342/"
+  },
+  "121262": {
+    "name": "Филе куриной грудки в беконе, запеченное",
+    "price": "256",
+    "old_price": "426",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-v-bekone-121262/"
   },
   "124269": {
     "name": "Сосиски \"Легкие\" с греческим йогуртом и семенами чиа",
@@ -96,41 +82,6 @@
     "old_price": "375",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shchuka-vyalenaya-125080/"
-  },
-  "21194": {
-    "name": "Фарш из цыплят-бройлеров, 500 г",
-    "price": "209",
-    "old_price": "349",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-tsyplyat-broylerov-21194/"
-  },
-  "26904": {
-    "name": "Сэндвич с форелью.",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
-  },
-  "110342": {
-    "name": "Сосиски вареные \"Сочные с сыром\"",
-    "price": "127",
-    "old_price": "212",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-varenye-sochnye-s-syrom-110342/"
-  },
-  "123576": {
-    "name": "Сосиски \"Сочные\" из индейки",
-    "price": "242",
-    "old_price": "404",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-sochnye-iz-indeyki-123576/"
-  },
-  "121262": {
-    "name": "Филе куриной грудки в беконе, запеченное",
-    "price": "256",
-    "old_price": "426",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-v-bekone-121262/"
   },
   "65306": {
     "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
