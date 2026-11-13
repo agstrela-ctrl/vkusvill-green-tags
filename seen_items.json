@@ -6,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirog-smetannik-s-malinoy-96093/"
   },
-  "112775": {
-    "name": "Изделие х/б \"Зерновой\" с куркумой",
-    "price": "67",
-    "old_price": "112",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
-  },
   "127532": {
     "name": "Курица с картофелем по-деревенски и маринованной капустой",
     "price": "198",
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelem-po-derevenski-i-marinovannoy-kapustoy-127532/"
-  },
-  "109471": {
-    "name": "Тартин \"Зерновой\", нарезка, 250 г",
-    "price": "62",
-    "old_price": "104",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
   },
   "73475": {
     "name": "Торт \"Бенто\" с клубникой (С Днем Рождения)",
@@ -48,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-96522/"
   },
-  "121692": {
-    "name": "Хлеб \"Кукурузный\", нарезка",
-    "price": "74",
-    "old_price": "123",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-kukuruznyy-121692/"
-  },
   "68814": {
     "name": "Сосиска в слоеном тесте с сыром и горчицей",
     "price": "121",
     "old_price": "202",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiska-v-sloenom-teste-s-syrom-i-gorchitsey-68814/"
-  },
-  "83512": {
-    "name": "Хлеб \"Домашний на закваске\" с сем. льна, нарезка",
-    "price": "71",
-    "old_price": "118",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-domashniy-na-zakvaske-s-sem-lna-83512/"
   },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
@@ -118,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-yagodami-i-myagkim-syrom-116367/"
   },
-  "121262": {
-    "name": "Филе куриной грудки в беконе, запеченное",
-    "price": "256",
-    "old_price": "426",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-v-bekone-121262/"
-  },
   "109184": {
     "name": "Жюльен грибной с картофелем бэби постный",
     "price": "180",
@@ -166,5 +131,26 @@
     "old_price": "212",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-varenye-sochnye-s-syrom-110342/"
+  },
+  "123576": {
+    "name": "Сосиски \"Сочные\" из индейки",
+    "price": "242",
+    "old_price": "404",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-sochnye-iz-indeyki-123576/"
+  },
+  "121262": {
+    "name": "Филе куриной грудки в беконе, запеченное",
+    "price": "256",
+    "old_price": "426",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-v-bekone-121262/"
+  },
+  "65306": {
+    "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
+    "price": "899",
+    "old_price": "1499",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
   }
 }
