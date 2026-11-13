@@ -104,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
   },
-  "128341": {
-    "name": "Хурма Королек дольки, 140 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khurma-korolek-dolki-128341/"
-  },
   "119342": {
     "name": "Изделие х/б \"Сытный\"",
     "price": "111",
@@ -132,13 +125,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-belkovo-polbyanoy-s-izyumom-i-semechkami-26570/"
   },
-  "112813": {
-    "name": "Телятина лопаточная часть, 400 г",
-    "price": "546",
-    "old_price": "910",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/telyatina-lopatochnaya-chast-112813/"
-  },
   "127332": {
     "name": "Сырники из творога классические",
     "price": "131",
@@ -159,6 +145,20 @@
     "old_price": "275",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/navaga-zharenaya-119741/"
+  },
+  "128341": {
+    "name": "Хурма Королек дольки, 140 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khurma-korolek-dolki-128341/"
+  },
+  "112813": {
+    "name": "Телятина лопаточная часть, 400 г",
+    "price": "546",
+    "old_price": "910",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/telyatina-lopatochnaya-chast-112813/"
   },
   "119742": {
     "name": "Форель филе-кусок горячего копчения, 150 г",
