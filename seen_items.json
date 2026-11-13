@@ -13,12 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
-  "15310": {
-    "name": "Кинза, 50 г",
-    "price": "59",
-    "old_price": "98",
+  "44309": {
+    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
+    "price": "66",
+    "old_price": "110",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kinza-15310/"
+    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
   "74272": {
     "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
   },
-  "44309": {
-    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
@@ -41,19 +34,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
   },
-  "20750": {
-    "name": "Стейк Мачете из говядины",
-    "price": "336",
-    "old_price": "560",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-machete-iz-govyadiny-20750/"
-  },
   "38362": {
     "name": "Котлета \"Стейкбургер\"",
     "price": "290",
     "old_price": "483",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-steykburger-38362/"
+  },
+  "20750": {
+    "name": "Стейк Мачете из говядины",
+    "price": "336",
+    "old_price": "560",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/steyk-machete-iz-govyadiny-20750/"
   },
   "119016": {
     "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
@@ -76,19 +69,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
   },
-  "59848": {
-    "name": "Рулет бисквитный \"Малиновый\" с рикоттой",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-malinovyy-s-rikottoy-59848/"
-  },
   "26570": {
     "name": "Изделие х/б \"Белково- полбяной с изюмом и семечками\"",
     "price": "103",
     "old_price": "172",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-belkovo-polbyanoy-s-izyumom-i-semechkami-26570/"
+  },
+  "59848": {
+    "name": "Рулет бисквитный \"Малиновый\" с рикоттой",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-malinovyy-s-rikottoy-59848/"
   },
   "116366": {
     "name": "Сэндвич ролл с индейкой и клюквой",
