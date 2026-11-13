@@ -1,10 +1,10 @@
 {
-  "29450": {
-    "name": "Яблоко Медовый хруст",
-    "price": "135",
-    "old_price": "225",
+  "65012": {
+    "name": "Томаты сливка красные Фламенко",
+    "price": "233",
+    "old_price": "388",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
+    "link": "https://vkusvill.ru/goods/tomaty-slivka-krasnye-flamenko-65012/"
   },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
@@ -26,12 +26,5 @@
     "old_price": "175",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-tulon-122780/"
-  },
-  "43723": {
-    "name": "Вода питьевая Сенежская газированная пэт 1,5 л",
-    "price": "38",
-    "old_price": "64",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/voda-pitevaya-senezhskaya-gazirovannaya-pet-1-43723/"
   }
 }
