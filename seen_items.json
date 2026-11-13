@@ -6,11 +6,39 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
   },
-  "619": {
-    "name": "Кабачки",
-    "price": "155",
-    "old_price": "258",
+  "122780": {
+    "name": "Микс салатный \"Тулон\", 180г",
+    "price": "105",
+    "old_price": "175",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kabachki-619/"
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-tulon-122780/"
+  },
+  "65170": {
+    "name": "Мойва жареная, 200 г",
+    "price": "214",
+    "old_price": "356",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+  },
+  "119124": {
+    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
+    "price": "273",
+    "old_price": "455",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
+  },
+  "117903": {
+    "name": "Блины с яблоком, маскарпоне и карамелью",
+    "price": "143",
+    "old_price": "238",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-yablokom-117903/"
+  },
+  "44323": {
+    "name": "Чипсы картофельные Lorenz Naturals со вкусом соуса песто 100 г",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chipsy-kartofelnye-lorenz-naturals-so-vkusom-sousa-pesto-100-g-44323/"
   }
 }
