@@ -6,18 +6,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
+  "103567": {
+    "name": "Картофель домик \"С любовью из Беларуси\", 3 кг",
+    "price": "159",
+    "old_price": "265",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-domik-s-lyubovyu-iz-belarusi-103567/"
+  },
+  "82232": {
+    "name": "Торт \"Белые ночи\" с сырным кремом, 1,1 кг",
+    "price": "695",
+    "old_price": "1158",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-belye-nochi-s-syrnym-kremom-82232/"
+  },
   "22646": {
     "name": "Киви Голд, шт",
     "price": "41",
     "old_price": "68",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kivi-gold-22646/"
-  },
-  "112813": {
-    "name": "Телятина лопаточная часть, 400 г",
-    "price": "546",
-    "old_price": "910",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/telyatina-lopatochnaya-chast-112813/"
   }
 }
