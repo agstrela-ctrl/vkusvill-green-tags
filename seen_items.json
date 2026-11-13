@@ -1,11 +1,4 @@
 {
-  "96093": {
-    "name": "Пирог \"Сметанник\" с малиной\"",
-    "price": "190",
-    "old_price": "316",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirog-smetannik-s-malinoy-96093/"
-  },
   "127532": {
     "name": "Курица с картофелем по-деревенски и маринованной капустой",
     "price": "198",
@@ -26,13 +19,6 @@
     "old_price": "173",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-legkaya-iz-file-kurinoy-grudki-s-bazilikom-122385/"
-  },
-  "96522": {
-    "name": "Десерт \"Морковный на двоих\" с сырно-сливочным кремом",
-    "price": "299",
-    "old_price": "498",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-morkovnyy-na-dvoikh-s-syrno-slivochnym-kremom-96522/"
   },
   "68814": {
     "name": "Сосиска в слоеном тесте с сыром и горчицей",
