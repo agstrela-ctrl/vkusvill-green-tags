@@ -13,12 +13,47 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
   },
+  "32931": {
+    "name": "Тартин пшенично-ржаной, половинка",
+    "price": "50",
+    "old_price": "84",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
+  },
+  "19080": {
+    "name": "Хлеб \"Донской\", нарезка",
+    "price": "30",
+    "old_price": "50",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-donskoy-19080/"
+  },
+  "21482": {
+    "name": "Лаваш \"Армянский\" тандырный, 150 г",
+    "price": "44",
+    "old_price": "74",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-21482/"
+  },
+  "126844": {
+    "name": "Фрикадельки из говядины, 150г",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/frikadelki-iz-govyadiny-126844/"
+  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "66",
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
+  },
+  "127027": {
+    "name": "Сэндвич с грибами и сливочным соусом",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
   },
   "74272": {
     "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
@@ -27,40 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
   },
-  "98731": {
-    "name": "Арбуз сердцевина, 300 г",
-    "price": "213",
-    "old_price": "355",
+  "125600": {
+    "name": "Хлеб для брускетт \"Спельта\" с отрубями, на закваске",
+    "price": "80",
+    "old_price": "133",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
-  "38362": {
-    "name": "Котлета \"Стейкбургер\"",
-    "price": "290",
-    "old_price": "483",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-steykburger-38362/"
-  },
-  "20750": {
-    "name": "Стейк Мачете из говядины",
-    "price": "336",
-    "old_price": "560",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyk-machete-iz-govyadiny-20750/"
-  },
-  "119016": {
-    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
-  },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-spelta-s-otrubyami-125600/"
   },
   "125448": {
     "name": "Хлеб “Медово-солодовый”, на закваске",
@@ -69,46 +76,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
   },
-  "26570": {
-    "name": "Изделие х/б \"Белково- полбяной с изюмом и семечками\"",
-    "price": "103",
-    "old_price": "172",
+  "62613": {
+    "name": "Сыр \"Буррата\", 100 г",
+    "price": "154",
+    "old_price": "256",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-belkovo-polbyanoy-s-izyumom-i-semechkami-26570/"
-  },
-  "59848": {
-    "name": "Рулет бисквитный \"Малиновый\" с рикоттой",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-malinovyy-s-rikottoy-59848/"
-  },
-  "119741": {
-    "name": "Навага жареная, 200 г",
-    "price": "165",
-    "old_price": "275",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/navaga-zharenaya-119741/"
-  },
-  "128341": {
-    "name": "Хурма Королек дольки, 140 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khurma-korolek-dolki-128341/"
-  },
-  "112813": {
-    "name": "Телятина лопаточная часть, 400 г",
-    "price": "546",
-    "old_price": "910",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/telyatina-lopatochnaya-chast-112813/"
-  },
-  "119742": {
-    "name": "Форель филе-кусок горячего копчения, 150 г",
-    "price": "429",
-    "old_price": "715",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-file-kusok-goryachego-kopcheniya-119742/"
+    "link": "https://vkusvill.ru/goods/syr-burrata-62613/"
   }
 }
