@@ -1,11 +1,4 @@
 {
-  "18271": {
-    "name": "Кефир 3,2% в бутылке, 900 г",
-    "price": "70",
-    "old_price": "117",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-3-18271/"
-  },
   "15310": {
     "name": "Кинза, 50 г",
     "price": "59",
@@ -13,12 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kinza-15310/"
   },
-  "125235": {
-    "name": "Рулетики с грецким орехом",
-    "price": "167",
-    "old_price": "278",
+  "15197": {
+    "name": "Ассорти из зелени, 100 г",
+    "price": "69",
+    "old_price": "115",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-s-gretskim-orekhom-125235/"
+    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
   },
   "127069": {
     "name": "Боул \"50/25/25\" с булгуром, киноа и куриным филе су-вид",
@@ -34,26 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "125448": {
-    "name": "Хлеб “Медово-солодовый”, на закваске",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
-  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
     "old_price": "355",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/arbuz-serdtsevina-98731/"
-  },
-  "128341": {
-    "name": "Хурма Королек дольки, 140 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khurma-korolek-dolki-128341/"
   },
   "116187": {
     "name": "Печенье овсяное с яблоком, брусникой, грецким орехом, веган",
@@ -62,12 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-ovsyanoe-s-yablokom-116187/"
   },
-  "121046": {
-    "name": "Трубочки с сыром и шпинатом, 4 шт",
-    "price": "220",
-    "old_price": "367",
+  "15196": {
+    "name": "Петрушка, 50 г",
+    "price": "47",
+    "old_price": "78",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-syrom-i-shpinatom-121046/"
+    "link": "https://vkusvill.ru/goods/petrushka-15196/"
   },
   "98213": {
     "name": "Запеканка картофельная с курицей",
@@ -75,13 +54,6 @@
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zapekanka-kartofelnaya-s-kuritsey-98213/"
-  },
-  "46813": {
-    "name": "Пирожки с зеленью и яйцом на сметанном тесте, 120 г (2шт)",
-    "price": "103",
-    "old_price": "172",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-s-zelenyu-i-yaytsom-na-smetannom-teste-46813/"
   },
   "59515": {
     "name": "Сосиска в тесте (свинина, говядина), 2 шт.",
@@ -97,12 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-romanovskiy-26305/"
   },
-  "21419": {
-    "name": "Сэндвич ролл с бужениной запеченной",
-    "price": "162",
-    "old_price": "270",
+  "31277": {
+    "name": "Петрушка, 100 г",
+    "price": "60",
+    "old_price": "100",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
+    "link": "https://vkusvill.ru/goods/petrushka-31277/"
   },
   "112770": {
     "name": "Хлеб \"Свекольно-морковный\"",
@@ -132,40 +104,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
-  "107822": {
-    "name": "Брецель на сливочном масле с семечками",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
-  },
-  "110460": {
-    "name": "Фрикадельки \"Домашние\", 300 г",
-    "price": "197",
-    "old_price": "329",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-domashnie-110460/"
-  },
-  "112813": {
-    "name": "Телятина лопаточная часть, 400 г",
-    "price": "546",
-    "old_price": "910",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/telyatina-lopatochnaya-chast-112813/"
-  },
   "74797": {
     "name": "Чизкейк \"Манго-маракуйя\", 140 г",
     "price": "160",
     "old_price": "266",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chizkeyk-mango-marakuyya-74797/"
-  },
-  "125212": {
-    "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
   "33233": {
     "name": "Хлеб \"Заварной с клюквой\", нарезка",
@@ -180,13 +124,6 @@
     "old_price": "310",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konfety-sufle-v-shokolade-assorti-malina-116879/"
-  },
-  "125578": {
-    "name": "\"Просто шаурма\" с курицей и морковкой по-корейски",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/prosto-shaurma-s-kuritsey-i-morkovkoy-po-koreyski-125578/"
   },
   "125599": {
     "name": "Вертута \"Три сыра\"",
@@ -229,5 +166,40 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chipsy-kartofelnye-lorenz-naturals-so-vkusom-sousa-pesto-100-g-44323/"
+  },
+  "125448": {
+    "name": "Хлеб “Медово-солодовый”, на закваске",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
+  },
+  "128341": {
+    "name": "Хурма Королек дольки, 140 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khurma-korolek-dolki-128341/"
+  },
+  "21419": {
+    "name": "Сэндвич ролл с бужениной запеченной",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
+  },
+  "112813": {
+    "name": "Телятина лопаточная часть, 400 г",
+    "price": "546",
+    "old_price": "910",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/telyatina-lopatochnaya-chast-112813/"
+  },
+  "125212": {
+    "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   }
 }
