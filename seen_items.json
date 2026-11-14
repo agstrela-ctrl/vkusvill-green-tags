@@ -13,20 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-baklazhanami-i-krem-chizom-v-aziatskom-souse-102354/"
   },
-  "19080": {
-    "name": "Хлеб \"Донской\", нарезка",
-    "price": "30",
-    "old_price": "50",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-donskoy-19080/"
-  },
-  "92210": {
-    "name": "Шницель из мяса цыплят-бройлеров в кукурузной панировке",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-iz-myasa-tsyplyat-broylerov-v-kukuruznoy-panirovke-92210/"
-  },
   "98731": {
     "name": "Арбуз сердцевина, 300 г",
     "price": "213",
@@ -40,13 +26,6 @@
     "old_price": "195",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khurma-persimon-dolki-128342/"
-  },
-  "124375": {
-    "name": "Клаб-сэндвич с курицей и творожным сыром",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-tvorozhnym-syrom-124375/"
   },
   "33785": {
     "name": "Каша рисовая на кокосовой основе с с/фрукт, кафе",
@@ -89,13 +68,6 @@
     "old_price": "368",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-kampanelle-s-kuritsey-i-gribnym-sousom-125099/"
-  },
-  "124131": {
-    "name": "Пирожное \"Медовик\" в дубайском стиле",
-    "price": "253",
-    "old_price": "422",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-medovik-v-dubayskom-stile-124131/"
   },
   "37319": {
     "name": "Сэндвич ролл с лососем и шпинатом",
