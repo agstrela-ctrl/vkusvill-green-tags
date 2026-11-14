@@ -1,24 +1,10 @@
 {
-  "20542": {
-    "name": "Сэндвич ролл \"Цезарь\"",
-    "price": "137",
-    "old_price": "229",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-20542/"
-  },
   "67492": {
     "name": "Рис с куриной бризолью",
     "price": "192",
     "old_price": "320",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ris-s-kurinoy-brizolyu-67492/"
-  },
-  "61483": {
-    "name": "Салат \"Цезарь\" с курицей и пекинской капустой",
-    "price": "181",
-    "old_price": "301",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-pekinskoy-kapustoy-61483/"
   },
   "102354": {
     "name": "Салат с баклажанами и крем-чизом в азиатском соусе",
@@ -69,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kasha-risovaya-na-kokosovoy-osnove-s-s-frukt-33785/"
   },
-  "20324": {
-    "name": "Котлеты из трески охл., 300 г",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-treski-okhl-20324/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
@@ -103,13 +82,6 @@
     "old_price": "256",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-127034/"
-  },
-  "122385": {
-    "name": "Ветчина \"Легкая\" из филе куриной грудки с базиликом",
-    "price": "104",
-    "old_price": "173",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-legkaya-iz-file-kurinoy-grudki-s-bazilikom-122385/"
   },
   "125099": {
     "name": "Паста Кампанелле с курицей и грибным соусом",
@@ -145,13 +117,6 @@
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
-  },
-  "45519": {
-    "name": "Плов с овощами и нутом",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-s-ovoshchami-i-nutom-45519/"
   },
   "120903": {
     "name": "Творог Экомилк натуральный рассыпчатый обезжиренный 0,5% 280 г",
