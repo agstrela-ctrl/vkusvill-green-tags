@@ -6,11 +6,39 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
-  "22544": {
-    "name": "Апельсины Навелин",
-    "price": "159",
-    "old_price": "265",
+  "122385": {
+    "name": "Ветчина \"Легкая\" из филе куриной грудки с базиликом",
+    "price": "104",
+    "old_price": "173",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/apelsiny-navelin-22544/"
+    "link": "https://vkusvill.ru/goods/vetchina-legkaya-iz-file-kurinoy-grudki-s-bazilikom-122385/"
+  },
+  "44582": {
+    "name": "Пирожки с капустой и яйцом, 140 г (2 шт)",
+    "price": "109",
+    "old_price": "182",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-s-kapustoy-i-yaytsom-44582/"
+  },
+  "99282": {
+    "name": "Каша овсяная безмолочная детская с клубникой и земляникой",
+    "price": "83",
+    "old_price": "139",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-bezmolochnaya-detskaya-s-klubnikoy-i-zemlyanikoy-99282/"
+  },
+  "125080": {
+    "name": "Щука вяленая, 200 г",
+    "price": "225",
+    "old_price": "375",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shchuka-vyalenaya-125080/"
+  },
+  "65306": {
+    "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
+    "price": "899",
+    "old_price": "1499",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
   }
 }
