@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-borodinskiy-bezdrozhzhevoy-narezka-63310/"
   },
-  "126126": {
-    "name": "Курица с овощами и рисом по-корейски \"Топпаб с курицей\"",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-ovoshchami-i-risom-po-koreyski-toppab-s-kuritsey-126126/"
-  },
   "25291": {
     "name": "Салат \"Мимоза\", 180 г",
     "price": "143",
@@ -26,20 +19,6 @@
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurtsy-lukhovitskie-90429/"
-  },
-  "112143": {
-    "name": "Торт \"Половинки Маракуйя-Малина\"",
-    "price": "439",
-    "old_price": "732",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-malina-112143/"
-  },
-  "126408": {
-    "name": "Рулет \"Мияри\" вишня на японском бисквите",
-    "price": "103",
-    "old_price": "172",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-miyari-vishnya-na-yaponskom-biskvite-126408/"
   },
   "122385": {
     "name": "Ветчина \"Легкая\" из филе куриной грудки с базиликом",
@@ -55,19 +34,40 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-54391/"
   },
-  "110342": {
-    "name": "Сосиски вареные \"Сочные с сыром\"",
-    "price": "127",
-    "old_price": "212",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-varenye-sochnye-s-syrom-110342/"
-  },
   "59515": {
     "name": "Сосиска в тесте (свинина, говядина), 2 шт.",
     "price": "141",
     "old_price": "235",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiska-v-teste-svinina-59515/"
+  },
+  "79479": {
+    "name": "Сосиски куриные с картофельным пюре",
+    "price": "149",
+    "old_price": "248",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-79479/"
+  },
+  "126126": {
+    "name": "Курица с овощами и рисом по-корейски \"Топпаб с курицей\"",
+    "price": "203",
+    "old_price": "338",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-s-ovoshchami-i-risom-po-koreyski-toppab-s-kuritsey-126126/"
+  },
+  "126408": {
+    "name": "Рулет \"Мияри\" вишня на японском бисквите",
+    "price": "103",
+    "old_price": "172",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulet-miyari-vishnya-na-yaponskom-biskvite-126408/"
+  },
+  "14376": {
+    "name": "Сельдь филе-кусочки со специями в масле, 300 г",
+    "price": "148",
+    "old_price": "247",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/seld-file-kusochki-so-spetsiyami-v-masle-14376/"
   },
   "108518": {
     "name": "Конвертики с капустой и грибами, постные",
@@ -90,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bazilik-zelenyy-22870/"
   },
-  "79479": {
-    "name": "Сосиски куриные с картофельным пюре",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-79479/"
-  },
   "120891": {
     "name": "Щечки говяжьи с сушеными томатами",
     "price": "332",
@@ -104,18 +97,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shchechki-govyazhi-s-sushenymi-tomatami-120891/"
   },
-  "14376": {
-    "name": "Сельдь филе-кусочки со специями в масле, 300 г",
-    "price": "148",
-    "old_price": "247",
+  "110342": {
+    "name": "Сосиски вареные \"Сочные с сыром\"",
+    "price": "127",
+    "old_price": "212",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/seld-file-kusochki-so-spetsiyami-v-masle-14376/"
-  },
-  "65996": {
-    "name": "Круассан с сыром",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-s-syrom-65996/"
+    "link": "https://vkusvill.ru/goods/sosiski-varenye-sochnye-s-syrom-110342/"
   }
 }
