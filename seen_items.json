@@ -1,38 +1,10 @@
 {
-  "125536": {
-    "name": "Паста с фаршем из индейки \"Альфредо\"",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-farshem-iz-indeyki-alfredo-125536/"
-  },
   "126408": {
     "name": "Рулет \"Мияри\" вишня на японском бисквите",
     "price": "103",
     "old_price": "172",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-miyari-vishnya-na-yaponskom-biskvite-126408/"
-  },
-  "29044": {
-    "name": "Манго Кубики, 200 г",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
-  },
-  "73475": {
-    "name": "Торт \"Бенто\" с клубникой (С Днем Рождения)",
-    "price": "322",
-    "old_price": "536",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
-  },
-  "119614": {
-    "name": "Десерт \"Шоколад-мягкая карамель\" (веган)",
-    "price": "122",
-    "old_price": "203",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-shokolad-myagkaya-karamel-vegan-119614/"
   },
   "122739": {
     "name": "Куриное филе с кускусом и зеленым горошком",
@@ -41,19 +13,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-s-kuskusom-i-zelenym-goroshkom-122739/"
   },
-  "110342": {
-    "name": "Сосиски вареные \"Сочные с сыром\"",
-    "price": "127",
-    "old_price": "212",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-varenye-sochnye-s-syrom-110342/"
-  },
   "511": {
     "name": "Окорок свиной, охлажденный",
     "price": "402",
     "old_price": "670",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
+  },
+  "65306": {
+    "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
+    "price": "899",
+    "old_price": "1499",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
   },
   "124269": {
     "name": "Сосиски \"Легкие\" с греческим йогуртом и семенами чиа",
@@ -62,25 +34,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-legkie-s-grecheskim-yogurtom-i-semenami-chia-124269/"
   },
+  "110342": {
+    "name": "Сосиски вареные \"Сочные с сыром\"",
+    "price": "127",
+    "old_price": "212",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-varenye-sochnye-s-syrom-110342/"
+  },
   "125188": {
     "name": "Рулька \"Калининградская\" с квашеной капустой и брусникой",
     "price": "407",
     "old_price": "678",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
-  },
-  "100449": {
-    "name": "Шоколад молочный Milka 80 г",
-    "price": "139",
-    "old_price": "231",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shokolad-molochnyy-milka-80-g-100449/"
-  },
-  "65306": {
-    "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
-    "price": "899",
-    "old_price": "1499",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
   }
 }
