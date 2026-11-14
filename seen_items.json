@@ -1,4 +1,18 @@
 {
+  "24643": {
+    "name": "Напиток \"Лимон-Имбирь\", 500 мл",
+    "price": "51",
+    "old_price": "85",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-limon-imbir-24643/"
+  },
+  "118274": {
+    "name": "Кексы-мини с вареной сгущенкой в форме мишек",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keksy-mini-s-varenoy-sgushchenkoy-v-forme-mishek-118274/"
+  },
   "65306": {
     "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
     "price": "899",
