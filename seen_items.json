@@ -6,18 +6,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/napitok-limon-imbir-24643/"
   },
-  "118274": {
-    "name": "Кексы-мини с вареной сгущенкой в форме мишек",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/keksy-mini-s-varenoy-sgushchenkoy-v-forme-mishek-118274/"
-  },
   "65306": {
     "name": "Окорочка варено-копченые Рублевский куриные ~300 г",
     "price": "899",
     "old_price": "1499",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/okorochka-vareno-kopchenye-rublevskiy-kurinye-300-g-65306/"
+  },
+  "118274": {
+    "name": "Кексы-мини с вареной сгущенкой в форме мишек",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keksy-mini-s-varenoy-sgushchenkoy-v-forme-mishek-118274/"
   }
 }
