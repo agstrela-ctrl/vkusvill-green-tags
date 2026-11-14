@@ -1,46 +1,4 @@
 {
-  "63310": {
-    "name": "Изделие х/б \"Бородинский\" бездрожжевой нарезка, 270 г",
-    "price": "59",
-    "old_price": "98",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-borodinskiy-bezdrozhzhevoy-narezka-63310/"
-  },
-  "25291": {
-    "name": "Салат \"Мимоза\", 180 г",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
-  },
-  "90429": {
-    "name": "Огурцы Луховицкие, 500 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurtsy-lukhovitskie-90429/"
-  },
-  "122385": {
-    "name": "Ветчина \"Легкая\" из филе куриной грудки с базиликом",
-    "price": "104",
-    "old_price": "173",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vetchina-legkaya-iz-file-kurinoy-grudki-s-bazilikom-122385/"
-  },
-  "54391": {
-    "name": "Мясо по-французски с печеным картофелем",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-54391/"
-  },
-  "59515": {
-    "name": "Сосиска в тесте (свинина, говядина), 2 шт.",
-    "price": "141",
-    "old_price": "235",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiska-v-teste-svinina-59515/"
-  },
   "79479": {
     "name": "Сосиски куриные с картофельным пюре",
     "price": "149",
@@ -62,33 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-miyari-vishnya-na-yaponskom-biskvite-126408/"
   },
-  "14376": {
-    "name": "Сельдь филе-кусочки со специями в масле, 300 г",
-    "price": "148",
-    "old_price": "247",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/seld-file-kusochki-so-spetsiyami-v-masle-14376/"
-  },
   "108518": {
     "name": "Конвертики с капустой и грибами, постные",
     "price": "118",
     "old_price": "196",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-kapustoy-i-gribami-108518/"
-  },
-  "121642": {
-    "name": "Пирог \"Тёртый\" яблоко-черная смородина",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirog-tyertyy-yabloko-chernaya-smorodina-121642/"
-  },
-  "22870": {
-    "name": "Базилик зеленый, 30 г",
-    "price": "104",
-    "old_price": "174",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bazilik-zelenyy-22870/"
   },
   "120891": {
     "name": "Щечки говяжьи с сушеными томатами",
