@@ -1,9 +1,44 @@
 {
-  "110342": {
-    "name": "Сосиски вареные \"Сочные с сыром\"",
-    "price": "127",
-    "old_price": "212",
+  "34217": {
+    "name": "Батон нарезной, половинка",
+    "price": "28",
+    "old_price": "46",
+    "discount": "39",
+    "link": "https://vkusvill.ru/goods/baton-nareznoy-34217/"
+  },
+  "128817": {
+    "name": "Желе ягодное черная смородина, 200г",
+    "price": "132",
+    "old_price": "220",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-varenye-sochnye-s-syrom-110342/"
+    "link": "https://vkusvill.ru/goods/zhele-yagodnoe-chernaya-smorodina-128817/"
+  },
+  "21749": {
+    "name": "Торт \"Арахисовый\"",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-arakhisovyy-21749/"
+  },
+  "117237": {
+    "name": "Микс салатный \"Шпинат и мангольд\", 75 г",
+    "price": "90",
+    "old_price": "150",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-shpinat-i-mangold-117237/"
+  },
+  "26198": {
+    "name": "Изделие х/б \"Бородинский\" бездрожжевой",
+    "price": "49",
+    "old_price": "82",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-borodinskiy-bezdrozhzhevoy-26198/"
+  },
+  "116823": {
+    "name": "Безе с какао и арахисом",
+    "price": "136",
+    "old_price": "226",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/beze-s-kakao-i-arakhisom-116823/"
   }
 }
