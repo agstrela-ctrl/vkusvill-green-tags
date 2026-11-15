@@ -1,17 +1,17 @@
 {
-  "32936": {
-    "name": "Тартин пшеничный, половинка",
+  "58728": {
+    "name": "Хлеб цельнозерновой с отрубями",
+    "price": "180",
+    "old_price": "300",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+  },
+  "32931": {
+    "name": "Тартин пшенично-ржаной, половинка",
     "price": "50",
     "old_price": "84",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
-  },
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
+    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
   },
   "128342": {
     "name": "Хурма Персимон дольки, 140 г",
@@ -20,11 +20,32 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khurma-persimon-dolki-128342/"
   },
-  "117119": {
-    "name": "Шашлычки куриные в беконе с печеными овощами и сырным соусом",
-    "price": "426",
-    "old_price": "710",
+  "99743": {
+    "name": "Завтрак боул с хашбрауном, кафе",
+    "price": "204",
+    "old_price": "340",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlychki-kurinye-v-bekone-s-pechenymi-ovoshchami-i-syrnym-sousom-117119/"
+    "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
+  },
+  "107822": {
+    "name": "Брецель на сливочном масле с семечками",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
+  },
+  "66208": {
+    "name": "Пирожное \"Муравьешкино\", веган",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-muraveshkino-66208/"
+  },
+  "127034": {
+    "name": "Котлеты из свинины и говядины",
+    "price": "154",
+    "old_price": "256",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-127034/"
   }
 }
