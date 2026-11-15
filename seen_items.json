@@ -1,9 +1,303 @@
 {
-  "91256": {
-    "name": "Набор из пряников \"Игра-Слова\" (12 шт)",
-    "price": "294",
-    "old_price": "490",
+  "20542": {
+    "name": "Сэндвич ролл \"Цезарь\"",
+    "price": "137",
+    "old_price": "229",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-iz-pryanikov-igra-slova-12-sht-91256/"
+    "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-20542/"
+  },
+  "28648": {
+    "name": "Бифштекс из говядины с картофелем",
+    "price": "219",
+    "old_price": "365",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bifshteks-iz-govyadiny-s-kartofelem-28648/"
+  },
+  "61602": {
+    "name": "Суп с куриными фрикадельками и пастой \"Звездочки\"",
+    "price": "136",
+    "old_price": "226",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-kurinymi-frikadelkami-i-pastoy-zvezdochki-61602/"
+  },
+  "122737": {
+    "name": "Куриное филе гриль с киноа и овощами",
+    "price": "251",
+    "old_price": "418",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
+  },
+  "106904": {
+    "name": "Макароны с тушёной говядиной",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
+  },
+  "105270": {
+    "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
+    "price": "240",
+    "old_price": "400",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
+  },
+  "125553": {
+    "name": "Йогурт безлактозный высокобелковый \"Вишня-черешня\" с коллагеном",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-bezlaktoznyy-vysokobelkovyy-vishnya-chereshnya-s-kollagenom-125553/"
+  },
+  "126013": {
+    "name": "Булочка \"Пиццабон\" с пепперони и сыром моцарелла",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochka-pitstsabon-s-pepperoni-i-syrom-motsarella-126013/"
+  },
+  "22929": {
+    "name": "Куриное филе запеченное с овощами",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-ovoshchami-22929/"
+  },
+  "113281": {
+    "name": "Комбо-набор: Грудка куриная с картофелем по-деревенски и Салат из летних овощей",
+    "price": "240",
+    "old_price": "400",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kombo-nabor-grudka-kurinaya-s-kartofelem-po-derevenski-i-salat-iz-letnikh-ovoshchey-113281/"
+  },
+  "31246": {
+    "name": "Голень индейки в маринаде",
+    "price": "353",
+    "old_price": "589",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/golen-indeyki-v-marinade-31246/"
+  },
+  "16942": {
+    "name": "Блины с яблоком, 210 г",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-s-yablokom-16942/"
+  },
+  "117219": {
+    "name": "Паста Ризони с куриными фрикадельками и томатным соусом",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-rizoni-s-kurinymi-frikadelkami-i-tomatnym-sousom-117219/"
+  },
+  "41137": {
+    "name": "Гречневая лапша с индейкой",
+    "price": "210",
+    "old_price": "350",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grechnevaya-lapsha-s-indeykoy-41137/"
+  },
+  "93690": {
+    "name": "Сэндвич на булочке из слоеного теста с ветчиной и сыром",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-na-bulochke-iz-sloenogo-testa-s-vetchinoy-i-syrom-93690/"
+  },
+  "271": {
+    "name": "Кефир детский 3,2%, 210 г",
+    "price": "32",
+    "old_price": "54",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/kefir-detskiy-3-271/"
+  },
+  "73475": {
+    "name": "Торт \"Бенто\" с клубникой (С Днем Рождения)",
+    "price": "322",
+    "old_price": "536",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
+  },
+  "123118": {
+    "name": "Сырок творожный с маком в молочном шоколаде 5%",
+    "price": "39",
+    "old_price": "65",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-s-makom-v-molochnom-shokolade-5-123118/"
+  },
+  "112464": {
+    "name": "Салат руккола с креветкой",
+    "price": "252",
+    "old_price": "420",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-rukkola-s-krevetkoy-112464/"
+  },
+  "100354": {
+    "name": "Суп Фо Бо, 580 г",
+    "price": "305",
+    "old_price": "508",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-fo-bo-100354/"
+  },
+  "124375": {
+    "name": "Клаб-сэндвич с курицей и творожным сыром",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-tvorozhnym-syrom-124375/"
+  },
+  "78365": {
+    "name": "Фарш говяжий Халяль",
+    "price": "266",
+    "old_price": "444",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-govyazhiy-khalyal-78365/"
+  },
+  "124666": {
+    "name": "Тарталетка \"Черника-голубика\" с сырным кремом",
+    "price": "134",
+    "old_price": "224",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tartaletka-chernika-golubika-s-syrnym-kremom-124666/"
+  },
+  "118705": {
+    "name": "Масса творожная фисташковая 23%",
+    "price": "68",
+    "old_price": "114",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-fistashkovaya-23-118705/"
+  },
+  "74314": {
+    "name": "Сырники творожные с клубничной начинкой",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-s-klubnichnoy-nachinkoy-74314/"
+  },
+  "52889": {
+    "name": "Сырок творожный Свитлогорье глазированный с ванилью 23% палочки 180 г",
+    "price": "146",
+    "old_price": "244",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-svitlogore-glazirovannyy-s-vanilyu-23-palochki-180-g-52889/"
+  },
+  "124466": {
+    "name": "Сэндвич ролл с курицей \"Баффало\"",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-baffalo-124466/"
+  },
+  "20324": {
+    "name": "Котлеты из трески охл., 300 г",
+    "price": "178",
+    "old_price": "297",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-treski-okhl-20324/"
+  },
+  "24796": {
+    "name": "Похлебка грибная",
+    "price": "114",
+    "old_price": "190",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pokhlebka-gribnaya-24796/"
+  },
+  "14962": {
+    "name": "Мясо цыпленка-бройлера на косточке",
+    "price": "334",
+    "old_price": "556",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/myaso-tsyplenka-broylera-na-kostochke-14962/"
+  },
+  "126844": {
+    "name": "Фрикадельки из говядины, 150г",
+    "price": "215",
+    "old_price": "358",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/frikadelki-iz-govyadiny-126844/"
+  },
+  "126186": {
+    "name": "Онигири с кимчи, тофу и грибами",
+    "price": "131",
+    "old_price": "218",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/onigiri-s-kimchi-126186/"
+  },
+  "62809": {
+    "name": "Фарш из говядины \"по стандарту ВкусВилл\", 360 г",
+    "price": "230",
+    "old_price": "383",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-po-standartu-vkusvill-62809/"
+  },
+  "110598": {
+    "name": "Торт бисквитный \"Сметанный рай\" с вишней",
+    "price": "552",
+    "old_price": "920",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-biskvitnyy-smetannyy-ray-s-vishney-110598/"
+  },
+  "114372": {
+    "name": "Фетучини с курицей и лисичками",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/fetuchini-s-kuritsey-i-lisichkami-114372/"
+  },
+  "36740": {
+    "name": "Скумбрия кусочки пряного посола в масле, 400 г",
+    "price": "250",
+    "old_price": "416",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/skumbriya-kusochki-pryanogo-posola-v-masle-36740/"
+  },
+  "126386": {
+    "name": "Дюрюм с кюфтой из говядины",
+    "price": "196",
+    "old_price": "326",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dyuryum-s-kyuftoy-iz-govyadiny-126386/"
+  },
+  "99925": {
+    "name": "Шаурма с креветкой, соусом тысяча островов и салатом Романо",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-krevetkoy-99925/"
+  },
+  "26582": {
+    "name": "Стрипсы в панировке",
+    "price": "182",
+    "old_price": "303",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
+  },
+  "114618": {
+    "name": "Эклеры с вишневым конфи и крем-чизом, 2 шт",
+    "price": "163",
+    "old_price": "272",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/eklery-s-vishnevym-konfi-i-krem-chizom-114618/"
+  },
+  "106055": {
+    "name": "Кальмар гигантский филе горячего копчения, 150 г",
+    "price": "249",
+    "old_price": "415",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kalmar-gigantskiy-file-goryachego-kopcheniya-106055/"
+  },
+  "126625": {
+    "name": "Голень цыпленка-бройлера Петелинка охл., ~ 850г",
+    "price": "275",
+    "old_price": "459",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-petelinka-okhl-126625/"
+  },
+  "125803": {
+    "name": "Масса творожная Ростагроэкспорт Особая с вареным сгущенным молоком и изюмом 23%, 180г",
+    "price": "81",
+    "old_price": "135",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-rostagroeksport-osobaya-s-varenym-sgushchennym-molokom-i-izyumom-23-125803/"
   }
 }
