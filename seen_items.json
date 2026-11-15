@@ -69,18 +69,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/dyuryum-s-kyuftoy-iz-govyadiny-126386/"
   },
-  "125803": {
-    "name": "Масса творожная Ростагроэкспорт Особая с вареным сгущенным молоком и изюмом 23%, 180г",
-    "price": "81",
-    "old_price": "135",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-rostagroeksport-osobaya-s-varenym-sgushchennym-molokom-i-izyumom-23-125803/"
-  },
   "67500": {
     "name": "Хлеб Хлебный дом Геркулес зерновой нарезка 250 г",
     "price": "59",
     "old_price": "99",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-khlebnyy-dom-gerkules-zernovoy-narezka-250-g-67500/"
+  },
+  "125803": {
+    "name": "Масса творожная Ростагроэкспорт Особая с вареным сгущенным молоком и изюмом 23%, 180г",
+    "price": "81",
+    "old_price": "135",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-rostagroeksport-osobaya-s-varenym-sgushchennym-molokom-i-izyumom-23-125803/"
   }
 }
