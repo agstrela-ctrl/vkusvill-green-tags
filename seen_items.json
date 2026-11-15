@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-fo-bo-100354/"
   },
-  "124375": {
-    "name": "Клаб-сэндвич с курицей и творожным сыром",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-tvorozhnym-syrom-124375/"
-  },
   "121599": {
     "name": "Булочки для хот-дога, 3 шт",
     "price": "58",
@@ -55,33 +48,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-borodinskiy-bezdrozhzhevoy-26198/"
   },
-  "62809": {
-    "name": "Фарш из говядины \"по стандарту ВкусВилл\", 360 г",
-    "price": "230",
-    "old_price": "383",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-po-standartu-vkusvill-62809/"
-  },
-  "101137": {
-    "name": "Торт \"Брауни\", веган",
-    "price": "407",
-    "old_price": "678",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-brauni-101137/"
-  },
-  "106055": {
-    "name": "Кальмар гигантский филе горячего копчения, 150 г",
-    "price": "249",
-    "old_price": "415",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kalmar-gigantskiy-file-goryachego-kopcheniya-106055/"
-  },
   "126844": {
     "name": "Фрикадельки из говядины, 150г",
     "price": "215",
     "old_price": "358",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-iz-govyadiny-126844/"
+  },
+  "62809": {
+    "name": "Фарш из говядины \"по стандарту ВкусВилл\", 360 г",
+    "price": "230",
+    "old_price": "383",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-po-standartu-vkusvill-62809/"
   },
   "126386": {
     "name": "Дюрюм с кюфтой из говядины",
@@ -90,18 +69,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/dyuryum-s-kyuftoy-iz-govyadiny-126386/"
   },
-  "67500": {
-    "name": "Хлеб Хлебный дом Геркулес зерновой нарезка 250 г",
-    "price": "59",
-    "old_price": "99",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-khlebnyy-dom-gerkules-zernovoy-narezka-250-g-67500/"
-  },
   "125803": {
     "name": "Масса творожная Ростагроэкспорт Особая с вареным сгущенным молоком и изюмом 23%, 180г",
     "price": "81",
     "old_price": "135",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-rostagroeksport-osobaya-s-varenym-sgushchennym-molokom-i-izyumom-23-125803/"
+  },
+  "67500": {
+    "name": "Хлеб Хлебный дом Геркулес зерновой нарезка 250 г",
+    "price": "59",
+    "old_price": "99",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-khlebnyy-dom-gerkules-zernovoy-narezka-250-g-67500/"
   }
 }
