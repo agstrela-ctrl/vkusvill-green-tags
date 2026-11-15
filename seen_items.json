@@ -34,20 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mango-kubiki-29044/"
   },
-  "106628": {
-    "name": "Ролл \"Симфония классики\" с сёмгой и творожным сыром",
-    "price": "264",
-    "old_price": "440",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
-  },
-  "127034": {
-    "name": "Котлеты из свинины и говядины",
-    "price": "154",
-    "old_price": "256",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-127034/"
-  },
   "125099": {
     "name": "Паста Кампанелле с курицей и грибным соусом",
     "price": "221",
@@ -82,6 +68,20 @@
     "old_price": "287",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/briosh-s-zapechennoy-govyadinoy-127222/"
+  },
+  "106628": {
+    "name": "Ролл \"Симфония классики\" с сёмгой и творожным сыром",
+    "price": "264",
+    "old_price": "440",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
+  },
+  "127034": {
+    "name": "Котлеты из свинины и говядины",
+    "price": "154",
+    "old_price": "256",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-127034/"
   },
   "111345": {
     "name": "Рулетики из цыпленка-бройлера с сыром фета и шпинатом",
