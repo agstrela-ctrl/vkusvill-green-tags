@@ -1,10 +1,10 @@
 {
-  "58728": {
-    "name": "Хлеб цельнозерновой с отрубями",
-    "price": "180",
-    "old_price": "300",
+  "605": {
+    "name": "Лук репчатый",
+    "price": "33",
+    "old_price": "55",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
+    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
   },
   "128342": {
     "name": "Хурма Персимон дольки, 140 г",
@@ -19,20 +19,6 @@
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
-  },
-  "107822": {
-    "name": "Брецель на сливочном масле с семечками",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
-  },
-  "66208": {
-    "name": "Пирожное \"Муравьешкино\", веган",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-muraveshkino-66208/"
   },
   "127034": {
     "name": "Котлеты из свинины и говядины",
