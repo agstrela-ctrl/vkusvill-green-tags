@@ -1,31 +1,10 @@
 {
-  "20542": {
-    "name": "Сэндвич ролл \"Цезарь\"",
-    "price": "137",
-    "old_price": "229",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-20542/"
-  },
-  "28648": {
-    "name": "Бифштекс из говядины с картофелем",
-    "price": "219",
-    "old_price": "365",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bifshteks-iz-govyadiny-s-kartofelem-28648/"
-  },
   "61602": {
     "name": "Суп с куриными фрикадельками и пастой \"Звездочки\"",
     "price": "136",
     "old_price": "226",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-s-kurinymi-frikadelkami-i-pastoy-zvezdochki-61602/"
-  },
-  "122737": {
-    "name": "Куриное филе гриль с киноа и овощами",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
   },
   "106904": {
     "name": "Макароны с тушёной говядиной",
@@ -47,13 +26,6 @@
     "old_price": "185",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/yogurt-bezlaktoznyy-vysokobelkovyy-vishnya-chereshnya-s-kollagenom-125553/"
-  },
-  "126013": {
-    "name": "Булочка \"Пиццабон\" с пепперони и сыром моцарелла",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-pitstsabon-s-pepperoni-i-syrom-motsarella-126013/"
   },
   "22929": {
     "name": "Куриное филе запеченное с овощами",
@@ -82,20 +54,6 @@
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-yablokom-16942/"
-  },
-  "117219": {
-    "name": "Паста Ризони с куриными фрикадельками и томатным соусом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-rizoni-s-kurinymi-frikadelkami-i-tomatnym-sousom-117219/"
-  },
-  "41137": {
-    "name": "Гречневая лапша с индейкой",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechnevaya-lapsha-s-indeykoy-41137/"
   },
   "93690": {
     "name": "Сэндвич на булочке из слоеного теста с ветчиной и сыром",
@@ -202,13 +160,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pokhlebka-gribnaya-24796/"
   },
-  "14962": {
-    "name": "Мясо цыпленка-бройлера на косточке",
-    "price": "334",
-    "old_price": "556",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myaso-tsyplenka-broylera-na-kostochke-14962/"
-  },
   "126844": {
     "name": "Фрикадельки из говядины, 150г",
     "price": "215",
@@ -230,26 +181,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/farsh-iz-govyadiny-po-standartu-vkusvill-62809/"
   },
-  "110598": {
-    "name": "Торт бисквитный \"Сметанный рай\" с вишней",
-    "price": "552",
-    "old_price": "920",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-biskvitnyy-smetannyy-ray-s-vishney-110598/"
-  },
-  "114372": {
-    "name": "Фетучини с курицей и лисичками",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/fetuchini-s-kuritsey-i-lisichkami-114372/"
-  },
   "36740": {
     "name": "Скумбрия кусочки пряного посола в масле, 400 г",
     "price": "250",
     "old_price": "416",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/skumbriya-kusochki-pryanogo-posola-v-masle-36740/"
+  },
+  "101137": {
+    "name": "Торт \"Брауни\", веган",
+    "price": "407",
+    "old_price": "678",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-brauni-101137/"
   },
   "126386": {
     "name": "Дюрюм с кюфтой из говядины",
