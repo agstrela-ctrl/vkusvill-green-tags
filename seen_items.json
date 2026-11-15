@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-70074/"
   },
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
   "128342": {
     "name": "Хурма Персимон дольки, 140 г",
     "price": "117",
@@ -41,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kasha-risovaya-bezmolochnaya-na-kokose-71220/"
   },
-  "111345": {
-    "name": "Рулетики из цыпленка-бройлера с сыром фета и шпинатом",
-    "price": "301",
-    "old_price": "502",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsyplenka-broylera-s-syrom-feta-i-shpinatom-111345/"
-  },
   "126782": {
     "name": "Онигири из перловки с треской и креветкой",
     "price": "132",
@@ -55,19 +41,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
   },
-  "114975": {
-    "name": "Стейки из курицы в соусе из манго и лайма",
-    "price": "420",
-    "old_price": "700",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/steyki-iz-kuritsy-v-souse-iz-mango-i-layma-114975/"
-  },
   "40936": {
     "name": "Пирожки постные с капустой и зеленью, 140 г (2 шт)",
     "price": "96",
     "old_price": "160",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-postnye-s-kapustoy-i-zelenyu-40936/"
+  },
+  "111345": {
+    "name": "Рулетики из цыпленка-бройлера с сыром фета и шпинатом",
+    "price": "301",
+    "old_price": "502",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsyplenka-broylera-s-syrom-feta-i-shpinatom-111345/"
   },
   "117119": {
     "name": "Шашлычки куриные в беконе с печеными овощами и сырным соусом",
