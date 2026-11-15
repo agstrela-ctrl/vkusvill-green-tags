@@ -1,9 +1,44 @@
 {
-  "605": {
-    "name": "Лук репчатый",
-    "price": "33",
-    "old_price": "55",
+  "32936": {
+    "name": "Тартин пшеничный, половинка",
+    "price": "50",
+    "old_price": "84",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
+  },
+  "70074": {
+    "name": "Котлеты \"По-киевски\" с сырной начинкой с картофельным пюре, 270 г",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-70074/"
+  },
+  "127143": {
+    "name": "Круассан миндальный с яблоком и корицей",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-s-yablokom-i-koritsey-127143/"
+  },
+  "124531": {
+    "name": "Паста каннеллони с грибами и рикоттой",
+    "price": "249",
+    "old_price": "415",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-kannelloni-s-gribami-i-rikottoy-124531/"
+  },
+  "65170": {
+    "name": "Мойва жареная, 200 г",
+    "price": "214",
+    "old_price": "356",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
+  },
+  "112643": {
+    "name": "Бедра цыплят-бройлеров в чесночном маринаде",
+    "price": "354",
+    "old_price": "590",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bedra-tsyplyat-broylerov-v-chesnochnom-marinade-112643/"
   }
 }
