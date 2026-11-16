@@ -1,38 +1,10 @@
 {
-  "79662": {
-    "name": "Курица с картофельным хашбрауном в тортилье",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelnym-khashbraunom-v-tortile-79662/"
-  },
   "95582": {
     "name": "Мини-чиабатта с куриной ветчиной, омлетом и сыром (2 шт)",
     "price": "180",
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
-  },
-  "96649": {
-    "name": "Онигири с запеченным тунцом",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-zapechennym-tuntsom-96649/"
-  },
-  "58728": {
-    "name": "Хлеб цельнозерновой с отрубями",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-tselnozernovoy-s-otrubyami-58728/"
-  },
-  "54161": {
-    "name": "Грузинский суп из фасоли с овощами",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gruzinskiy-sup-iz-fasoli-s-ovoshchami-54161/"
   },
   "65192": {
     "name": "Изделие х/б \"Цельнозерновой\" полбяной с семенами льна",
@@ -41,33 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoy-polbyanoy-s-semenami-lna-65192/"
   },
-  "26199": {
-    "name": "Круассан миндальный",
-    "price": "120",
-    "old_price": "200",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-26199/"
-  },
   "21482": {
     "name": "Лаваш \"Армянский\" тандырный, 150 г",
     "price": "44",
     "old_price": "74",
     "discount": "41",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-tandyrnyy-21482/"
-  },
-  "118563": {
-    "name": "Щи из свежей капусты с говядиной",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shchi-iz-svezhey-kapusty-s-govyadinoy-118563/"
-  },
-  "94474": {
-    "name": "Блинчики с маковой начинкой",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blinchiki-s-makovoy-nachinkoy-94474/"
   },
   "69091": {
     "name": "Изделие цельнозерновое без муки \"Полбяной с пажитником\"",
@@ -97,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mintay-file-v-pivnom-klyare-99757/"
   },
-  "115321": {
-    "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
-  },
   "126378": {
     "name": "Салат с курицей и маринованными лисичками",
     "price": "203",
@@ -117,20 +61,6 @@
     "old_price": "82",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bioyogurt-pitevoy-vysokobelkovyy-ananas-0-120852/"
-  },
-  "119687": {
-    "name": "Сметана 40%, 200 г",
-    "price": "130",
-    "old_price": "217",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/smetana-40-119687/"
-  },
-  "76038": {
-    "name": "Джекфрут очищенный, 150 г",
-    "price": "264",
-    "old_price": "440",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dzhekfrut-ochishchennyy-76038/"
   },
   "123372": {
     "name": "Торт \"Сливочный пломбир\"",
@@ -152,13 +82,6 @@
     "old_price": "297",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
-  },
-  "70125": {
-    "name": "Картофель запеченный с прованскими травами",
-    "price": "154",
-    "old_price": "256",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zapechennyy-s-provanskimi-travami-70125/"
   },
   "116302": {
     "name": "Изделие х/б \"Энергия полбы\"",
@@ -187,12 +110,5 @@
     "old_price": "79",
     "discount": "41",
     "link": "https://vkusvill.ru/goods/syrok-svitlogore-s-varyenoy-sgushchenkoy-v-glazuri-so-vkusom-karameli-i-arakhisom-16-40g-125019/"
-  },
-  "99743": {
-    "name": "Завтрак боул с хашбрауном, кафе",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
   }
 }
