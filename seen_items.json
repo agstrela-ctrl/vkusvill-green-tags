@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
   },
-  "101883": {
-    "name": "Хлеб длительной ферментации, нарезка (на закваске)",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-dlitelnoy-fermentatsii-101883/"
-  },
   "124452": {
     "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
     "price": "179",
@@ -40,5 +33,12 @@
     "old_price": "788",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-gnezdo-glukharya-s-kopchenoy-kuritsey-84853/"
+  },
+  "101883": {
+    "name": "Хлеб длительной ферментации, нарезка (на закваске)",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-dlitelnoy-fermentatsii-101883/"
   }
 }
