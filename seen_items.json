@@ -1,16 +1,58 @@
 {
-  "39249": {
-    "name": "Чиабатта с курицей, моцареллой и омлетом, кафе",
-    "price": "173",
-    "old_price": "288",
+  "50163": {
+    "name": "Суп-пюре \"Сырный\" с гренками, 260 г",
+    "price": "187",
+    "old_price": "312",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39249/"
+    "link": "https://vkusvill.ru/goods/sup-pyure-syrnyy-s-grenkami-50163/"
   },
-  "114070": {
-    "name": "Сэндвич-ролл в тортилье с омлетом, курицей и соусом \"Ранч\", кафе",
+  "71656": {
+    "name": "Говядина томленая в гранатовом соке с картофельным пюре и фасолью",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-tomlenaya-v-granatovom-soke-s-kartofelnym-pyure-i-fasolyu-71656/"
+  },
+  "81978": {
+    "name": "Сэндвич \"Рубен\" с пастрами из индейки, кафе",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-ruben-s-pastrami-iz-indeyki-81978/"
+  },
+  "99853": {
+    "name": "Суп из печеных томатов с креветками",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-iz-pechenykh-tomatov-s-krevetkami-99853/"
+  },
+  "20698": {
+    "name": "Творог \"Пластовой\" из цельного молока, 350 г",
     "price": "167",
     "old_price": "278",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-v-tortile-s-omletom-114070/"
+    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-iz-tselnogo-moloka-20698/"
+  },
+  "18161": {
+    "name": "Лаваш \"Армянский по-деревенски\", 220 г",
+    "price": "48",
+    "old_price": "80",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
+  },
+  "110143": {
+    "name": "Йогурт питьевой безлактозный 1,5%",
+    "price": "55",
+    "old_price": "92",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-1-110143/"
+  },
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
   }
 }
