@@ -1,23 +1,9 @@
 {
-  "124684": {
-    "name": "Булочка \"Вкусвиллбон\" классическая",
-    "price": "140",
-    "old_price": "233",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-vkusvillbon-klassicheskaya-124684/"
-  },
   "117337": {
     "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
     "price": "361",
     "old_price": "602",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
-  },
-  "84853": {
-    "name": "Салат \"Гнездо глухаря\" с копченой курицей, 500 г",
-    "price": "473",
-    "old_price": "788",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-gnezdo-glukharya-s-kopchenoy-kuritsey-84853/"
   }
 }
