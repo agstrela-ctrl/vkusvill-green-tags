@@ -1,18 +1,4 @@
 {
-  "95582": {
-    "name": "Мини-чиабатта с куриной ветчиной, омлетом и сыром (2 шт)",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
-  },
-  "65192": {
-    "name": "Изделие х/б \"Цельнозерновой\" полбяной с семенами льна",
-    "price": "89",
-    "old_price": "149",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoy-polbyanoy-s-semenami-lna-65192/"
-  },
   "21482": {
     "name": "Лаваш \"Армянский\" тандырный, 150 г",
     "price": "44",
@@ -27,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozernovoe-bez-muki-polbyanoy-s-pazhitnikom-69091/"
   },
-  "86669": {
-    "name": "Корюшка жареная, 200 г",
-    "price": "286",
-    "old_price": "477",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koryushka-zharenaya-86669/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
@@ -41,47 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
-  "99757": {
-    "name": "Минтай филе в пивном кляре, 200 г",
-    "price": "230",
-    "old_price": "383",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mintay-file-v-pivnom-klyare-99757/"
-  },
-  "126378": {
-    "name": "Салат с курицей и маринованными лисичками",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-marinovannymi-lisichkami-126378/"
-  },
-  "120852": {
-    "name": "Биойогурт питьевой высокобелковый \"Ананас\" 0,1%, 250 г",
-    "price": "49",
-    "old_price": "82",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bioyogurt-pitevoy-vysokobelkovyy-ananas-0-120852/"
-  },
-  "123372": {
-    "name": "Торт \"Сливочный пломбир\"",
-    "price": "621",
-    "old_price": "1035",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-slivochnyy-plombir-123372/"
-  },
   "109310": {
     "name": "Тушка перепела",
     "price": "729",
     "old_price": "1215",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tushka-perepela-109310/"
-  },
-  "41672": {
-    "name": "Эклеры \"Шоколад и ваниль\"",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-shokolad-i-vanil-41672/"
   },
   "116302": {
     "name": "Изделие х/б \"Энергия полбы\"",
@@ -96,19 +40,5 @@
     "old_price": "230",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-forelyu-i-ogurtsom-63605/"
-  },
-  "127287": {
-    "name": "Фрикадельки из мяса цыплят-бройлеров для супа",
-    "price": "159",
-    "old_price": "265",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-iz-myasa-tsyplyat-broylerov-dlya-supa-127287/"
-  },
-  "125019": {
-    "name": "Сырок Свитлогорье с варёной сгущенкой в глазури со вкусом карамели и арахисом 16% 40г",
-    "price": "47",
-    "old_price": "79",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/syrok-svitlogore-s-varyenoy-sgushchenkoy-v-glazuri-so-vkusom-karameli-i-arakhisom-16-40g-125019/"
   }
 }
