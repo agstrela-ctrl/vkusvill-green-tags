@@ -1,10 +1,24 @@
 {
+  "20972": {
+    "name": "Вареники \"Царь-Клубника\"",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vareniki-tsar-klubnika-20972/"
+  },
   "117337": {
     "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
     "price": "361",
     "old_price": "602",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
+  },
+  "81269": {
+    "name": "Безе кокосовое",
+    "price": "114",
+    "old_price": "190",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/beze-kokosovoe-81269/"
   },
   "84853": {
     "name": "Салат \"Гнездо глухаря\" с копченой курицей, 500 г",
