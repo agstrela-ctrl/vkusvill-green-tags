@@ -1,10 +1,10 @@
 {
-  "20972": {
-    "name": "Вареники \"Царь-Клубника\"",
-    "price": "239",
-    "old_price": "398",
+  "123360": {
+    "name": "Торт бисквитный \"Вишня в шоколаде\", 700 г",
+    "price": "668",
+    "old_price": "1114",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/vareniki-tsar-klubnika-20972/"
+    "link": "https://vkusvill.ru/goods/tort-biskvitnyy-vishnya-v-shokolade-123360/"
   },
   "117337": {
     "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
@@ -13,18 +13,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
   },
-  "81269": {
-    "name": "Безе кокосовое",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/beze-kokosovoe-81269/"
-  },
   "84853": {
     "name": "Салат \"Гнездо глухаря\" с копченой курицей, 500 г",
     "price": "473",
     "old_price": "788",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-gnezdo-glukharya-s-kopchenoy-kuritsey-84853/"
+  },
+  "124684": {
+    "name": "Булочка \"Вкусвиллбон\" классическая",
+    "price": "140",
+    "old_price": "233",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochka-vkusvillbon-klassicheskaya-124684/"
   }
 }
