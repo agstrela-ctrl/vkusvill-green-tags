@@ -1,9 +1,44 @@
 {
-  "14844": {
-    "name": "Котлеты \"Домашние\"",
-    "price": "222",
-    "old_price": "370",
+  "18161": {
+    "name": "Лаваш \"Армянский по-деревенски\", 220 г",
+    "price": "48",
+    "old_price": "80",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-domashnie-14844/"
+    "link": "https://vkusvill.ru/goods/lavash-armyanskiy-po-derevenski-18161/"
+  },
+  "101883": {
+    "name": "Хлеб длительной ферментации, нарезка (на закваске)",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-dlitelnoy-fermentatsii-101883/"
+  },
+  "124452": {
+    "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
+  },
+  "117337": {
+    "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
+    "price": "361",
+    "old_price": "602",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
+  },
+  "118104": {
+    "name": "Мясо по-французски",
+    "price": "505",
+    "old_price": "842",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
+  },
+  "84853": {
+    "name": "Салат \"Гнездо глухаря\" с копченой курицей, 500 г",
+    "price": "473",
+    "old_price": "788",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-gnezdo-glukharya-s-kopchenoy-kuritsey-84853/"
   }
 }
