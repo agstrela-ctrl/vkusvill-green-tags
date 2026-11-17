@@ -20,13 +20,6 @@
     "discount": "41",
     "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
   },
-  "17137": {
-    "name": "Кофе \"Французский\" молотый",
-    "price": "315",
-    "old_price": "525",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kofe-frantsuzskiy-molotyy-17137/"
-  },
   "121691": {
     "name": "Трубочки сдобные с черной смородиной",
     "price": "171",
@@ -40,20 +33,6 @@
     "old_price": "152",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
-  },
-  "103756": {
-    "name": "Печенье сдобное \"Палочки с шоколадом\"",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-palochki-s-shokoladom-103756/"
-  },
-  "91005": {
-    "name": "\"Добрый пряник\" в ассортименте (лето)",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dobryy-pryanik-v-assortimente-leto-91005/"
   },
   "58314": {
     "name": "Конфеты Zentis Марципановая буханка 100 г",
@@ -75,5 +54,19 @@
     "old_price": "580",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
+  },
+  "103756": {
+    "name": "Печенье сдобное \"Палочки с шоколадом\"",
+    "price": "125",
+    "old_price": "208",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-sdobnoe-palochki-s-shokoladom-103756/"
+  },
+  "91005": {
+    "name": "\"Добрый пряник\" в ассортименте (лето)",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dobryy-pryanik-v-assortimente-leto-91005/"
   }
 }
