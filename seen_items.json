@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
   },
-  "50548": {
-    "name": "Томаты мини на ветке",
-    "price": "276",
-    "old_price": "460",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-mini-na-vetke-50548/"
-  },
   "113057": {
     "name": "Дыня резаная полукольца, 300 г",
     "price": "293",
@@ -33,5 +26,12 @@
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-731/"
+  },
+  "50548": {
+    "name": "Томаты мини на ветке",
+    "price": "276",
+    "old_price": "460",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-mini-na-vetke-50548/"
   }
 }
