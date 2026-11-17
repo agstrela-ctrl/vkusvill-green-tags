@@ -13,33 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-ovoshchami-119583/"
   },
-  "61688": {
-    "name": "Котлета рыбная с картофельным пюре",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-rybnaya-s-kartofelnym-pyure-61688/"
-  },
-  "27195": {
-    "name": "Суп щавелевый с курицей",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-shchavelevyy-s-kuritsey-27195/"
-  },
   "123171": {
     "name": "Клаб-сэндвич с бужениной и Коул Слоу",
     "price": "191",
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klab-sendvich-s-buzheninoy-i-koul-slou-123171/"
-  },
-  "126593": {
-    "name": "Курица с лапшой в темном соусе по-корейски",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-s-lapshoy-v-temnom-souse-po-koreyski-126593/"
   },
   "97075": {
     "name": "Оладьи куриные с кабачком, 130 г",
@@ -96,13 +75,6 @@
     "old_price": "105",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
-  },
-  "63575": {
-    "name": "Форель филе-кусок на коже охл., 350 г",
-    "price": "594",
-    "old_price": "990",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-file-kusok-na-kozhe-okhl-63575/"
   },
   "112464": {
     "name": "Салат руккола с креветкой",
@@ -188,6 +160,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zharkoe-iz-yagnenka-khalyal-113787/"
   },
+  "95276": {
+    "name": "Папайя нарезанная свежая, шт",
+    "price": "267",
+    "old_price": "445",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/papayya-narezannaya-svezhaya-95276/"
+  },
   "37284": {
     "name": "Блины шоколадные с маскарпоне и вишней",
     "price": "156",
@@ -272,13 +251,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudinka-kopcheno-varenaya-dymov-krylatskaya-290-g-115648/"
   },
-  "124616": {
-    "name": "Карбонад копчено-вареный Ближние Горки Деликатесный 280 г",
-    "price": "221",
-    "old_price": "369",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/karbonad-kopcheno-varenyy-blizhnie-gorki-delikatesnyy-280-g-124616/"
-  },
   "115285": {
     "name": "Торт \"Медовый\" с карамелью, 450 г",
     "price": "502",
@@ -292,13 +264,6 @@
     "old_price": "60",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/biolakt-detskiy-s-inulinom-125084/"
-  },
-  "126408": {
-    "name": "Рулет \"Мияри\" вишня на японском бисквите",
-    "price": "103",
-    "old_price": "172",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-miyari-vishnya-na-yaponskom-biskvite-126408/"
   },
   "127318": {
     "name": "Десерт кокосовый с семенами чиа на сиропе топинамбура",
@@ -397,27 +362,6 @@
     "old_price": "563",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-iz-myasa-indeyki-zernovogo-otkorma-s-pryanymi-travami-122602/"
-  },
-  "103087": {
-    "name": "Киви \"светофор\", 3 шт",
-    "price": "177",
-    "old_price": "295",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kivi-svetofor-103087/"
-  },
-  "114053": {
-    "name": "Говядина в специях, запеченная",
-    "price": "217",
-    "old_price": "362",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-v-spetsiyakh-114053/"
-  },
-  "116566": {
-    "name": "Салат \"Грибное ассорти\"",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-gribnoe-assorti-116566/"
   },
   "118030": {
     "name": "Изделие х/б \"Льняной\", на закваске",
