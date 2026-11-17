@@ -104,33 +104,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/maslyanaya-ryba-kholodnogo-kopcheniya-lomtiki-84331/"
   },
-  "17660": {
-    "name": "Карпаччо из индейки сырокопченое, ~170 г",
-    "price": "1395",
-    "old_price": "2325",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/karpachcho-iz-indeyki-syrokopchenoe-17660/"
-  },
   "124164": {
     "name": "Мини-пирожки с мясом, 3 шт",
     "price": "157",
     "old_price": "262",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mini-pirozhki-s-myasom-124164/"
-  },
-  "75681": {
-    "name": "Пирожки с капустной начинкой, 160 г (4 шт)",
-    "price": "134",
-    "old_price": "223",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhki-s-kapustnoy-nachinkoy-75681/"
-  },
-  "124452": {
-    "name": "Сэндвич ролл с курицей, огурцом и азиатским соусом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-124452/"
   },
   "122910": {
     "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
@@ -160,13 +139,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zharkoe-iz-yagnenka-khalyal-113787/"
   },
-  "95276": {
-    "name": "Папайя нарезанная свежая, шт",
-    "price": "267",
-    "old_price": "445",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/papayya-narezannaya-svezhaya-95276/"
-  },
   "37284": {
     "name": "Блины шоколадные с маскарпоне и вишней",
     "price": "156",
@@ -195,26 +167,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-mango-122475/"
   },
-  "117285": {
-    "name": "Корюшка азиатская холодного копчения, 150 г",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koryushka-aziatskaya-kholodnogo-kopcheniya-117285/"
-  },
   "115364": {
     "name": "Сырники творожные для жарки",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-dlya-zharki-115364/"
-  },
-  "104161": {
-    "name": "Салат \"Шпроты под шубой\"",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-shproty-pod-shuboy-104161/"
   },
   "116721": {
     "name": "Фрикадельки куриные с картофельным пюре и брусничным соусом",
@@ -251,13 +209,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudinka-kopcheno-varenaya-dymov-krylatskaya-290-g-115648/"
   },
-  "115285": {
-    "name": "Торт \"Медовый\" с карамелью, 450 г",
-    "price": "502",
-    "old_price": "836",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-medovyy-s-karamelyu-115285/"
-  },
   "125084": {
     "name": "Биолакт детский с инулином, 210 г",
     "price": "36",
@@ -265,33 +216,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/biolakt-detskiy-s-inulinom-125084/"
   },
-  "127318": {
-    "name": "Десерт кокосовый с семенами чиа на сиропе топинамбура",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-kokosovyy-s-semenami-chia-na-sirope-topinambura-127318/"
-  },
-  "28680": {
-    "name": "Сосиски куриные \"Суперсила\"",
-    "price": "324",
-    "old_price": "540",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-supersila-28680/"
-  },
   "113057": {
     "name": "Дыня резаная полукольца, 300 г",
     "price": "293",
     "old_price": "488",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/dynya-rezanaya-polukoltsa-113057/"
-  },
-  "112565": {
-    "name": "Тарталетка \"Дубайский шоколад. Солёная фисташка\"",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartaletka-dubayskiy-shokolad-solyenaya-fistashka-112565/"
   },
   "113775": {
     "name": "Мякоть ягненка без кости Халяль",
@@ -307,19 +237,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
-  "104308": {
-    "name": "Салат из соевой спаржи с овощами маринованный по-корейски",
-    "price": "143",
-    "old_price": "238",
+  "95276": {
+    "name": "Папайя нарезанная свежая, шт",
+    "price": "267",
+    "old_price": "445",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-soevoy-sparzhi-s-ovoshchami-marinovannyy-po-koreyski-104308/"
-  },
-  "104067": {
-    "name": "Шарики \"Пикантные\" с творожным сыром",
-    "price": "217",
-    "old_price": "362",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shariki-pikantnye-s-tvorozhnym-syrom-104067/"
+    "link": "https://vkusvill.ru/goods/papayya-narezannaya-svezhaya-95276/"
   },
   "113296": {
     "name": "Крем-суп с тыквой и жареными креветками",
