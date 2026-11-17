@@ -1,10 +1,10 @@
 {
-  "125794": {
-    "name": "Ковурма-лагман с говядиной и соусом Лаза",
-    "price": "287",
-    "old_price": "478",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kovurma-lagman-s-govyadinoy-i-sousom-laza-125794/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
   },
   "18735": {
     "name": "Морковь мытая",
@@ -33,12 +33,5 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
-  },
-  "82834": {
-    "name": "Торт \"Половинки Маракуйя-Монтблан\"",
-    "price": "439",
-    "old_price": "732",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-montblan-82834/"
   }
 }
