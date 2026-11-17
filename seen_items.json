@@ -146,13 +146,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudinka-kopcheno-varenaya-dymov-krylatskaya-290-g-115648/"
   },
-  "125084": {
-    "name": "Биолакт детский с инулином, 210 г",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/biolakt-detskiy-s-inulinom-125084/"
-  },
   "113057": {
     "name": "Дыня резаная полукольца, 300 г",
     "price": "293",
@@ -209,13 +202,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
   },
-  "65558": {
-    "name": "Колбаса вареная Клинский Молочная нарезка 190 г",
-    "price": "149",
-    "old_price": "249",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-klinskiy-molochnaya-narezka-190-g-65558/"
-  },
   "122602": {
     "name": "Рулет из мяса индейки зернового откорма \"С пряными травами\"",
     "price": "338",
@@ -223,11 +209,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-iz-myasa-indeyki-zernovogo-otkorma-s-pryanymi-travami-122602/"
   },
+  "125084": {
+    "name": "Биолакт детский с инулином, 210 г",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/biolakt-detskiy-s-inulinom-125084/"
+  },
   "118030": {
     "name": "Изделие х/б \"Льняной\", на закваске",
     "price": "113",
     "old_price": "188",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-lnyanoy-118030/"
+  },
+  "65558": {
+    "name": "Колбаса вареная Клинский Молочная нарезка 190 г",
+    "price": "149",
+    "old_price": "249",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-klinskiy-molochnaya-narezka-190-g-65558/"
   }
 }
