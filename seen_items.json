@@ -1,11 +1,4 @@
 {
-  "731": {
-    "name": "Бананы",
-    "price": "101",
-    "old_price": "168",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/banany-731/"
-  },
   "18735": {
     "name": "Морковь мытая",
     "price": "53",
@@ -13,12 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-mytaya-18735/"
   },
-  "39295": {
-    "name": "Творог \"Пластовой\" 5%, 350 г",
-    "price": "142",
-    "old_price": "237",
+  "50548": {
+    "name": "Томаты мини на ветке",
+    "price": "276",
+    "old_price": "460",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-5-39295/"
+    "link": "https://vkusvill.ru/goods/tomaty-mini-na-vetke-50548/"
   },
   "113057": {
     "name": "Дыня резаная полукольца, 300 г",
@@ -33,5 +26,12 @@
     "old_price": "110",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
+  },
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/banany-731/"
   }
 }
