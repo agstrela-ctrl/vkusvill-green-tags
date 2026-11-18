@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-s-tomatami-i-bazilikom-119445/"
   },
-  "115321": {
-    "name": "Паста с запеченной тыквой, сырным кремом и соусом терияки",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-zapechennoy-tykvoy-115321/"
-  },
   "70195": {
     "name": "Салат \"Гранатовый браслет\"",
     "price": "198",
@@ -41,25 +34,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
-  "126782": {
-    "name": "Онигири из перловки с треской и креветкой",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
-  },
   "125639": {
     "name": "Колбаса вареная с протеином, нарезка",
     "price": "118",
     "old_price": "196",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-varenaya-s-proteinom-125639/"
-  },
-  "118030": {
-    "name": "Изделие х/б \"Льняной\", на закваске",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-lnyanoy-118030/"
   }
 }
