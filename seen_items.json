@@ -1,51 +1,9 @@
 {
-  "125099": {
-    "name": "Паста Кампанелле с курицей и грибным соусом",
-    "price": "221",
-    "old_price": "368",
+  "603": {
+    "name": "Картофель красный",
+    "price": "39",
+    "old_price": "65",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-kampanelle-s-kuritsey-i-gribnym-sousom-125099/"
-  },
-  "119445": {
-    "name": "Тофу с томатами и базиликом, 250 г",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tofu-s-tomatami-i-bazilikom-119445/"
-  },
-  "70195": {
-    "name": "Салат \"Гранатовый браслет\"",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-granatovyy-braslet-70195/"
-  },
-  "122475": {
-    "name": "Десерт \"Бала баяна\" кокосовый с манго",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-mango-122475/"
-  },
-  "111168": {
-    "name": "Шоколад молочный на мальтите",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shokolad-molochnyy-na-maltite-111168/"
-  },
-  "65170": {
-    "name": "Мойва жареная, 200 г",
-    "price": "214",
-    "old_price": "356",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
-  "125639": {
-    "name": "Колбаса вареная с протеином, нарезка",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-s-proteinom-125639/"
+    "link": "https://vkusvill.ru/goods/kartofel-krasnyy-603/"
   }
 }
