@@ -1,18 +1,4 @@
 {
-  "124473": {
-    "name": "Слойка-фило с курицей и грибами (в сливках)",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sloyka-filo-s-kuritsey-i-gribami-v-slivkakh-124473/"
-  },
-  "127264": {
-    "name": "Сэндвич ролл с индейкой и запеченной тыквой",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-zapechennoy-tykvoy-127264/"
-  },
   "125099": {
     "name": "Паста Кампанелле с курицей и грибным соусом",
     "price": "221",
@@ -41,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-granatovyy-braslet-70195/"
   },
-  "126845": {
-    "name": "Шаурма с треской и соусом Тартар",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-treskoy-i-sousom-tartar-126845/"
-  },
   "122475": {
     "name": "Десерт \"Бала баяна\" кокосовый с манго",
     "price": "203",
@@ -55,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-mango-122475/"
   },
-  "36454": {
-    "name": "Рамбутан, 150 г",
-    "price": "195",
-    "old_price": "325",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rambutan-36454/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
     "old_price": "356",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
-  },
-  "119124": {
-    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
-    "price": "273",
-    "old_price": "455",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
   },
   "126782": {
     "name": "Онигири из перловки с треской и креветкой",
@@ -89,13 +54,6 @@
     "old_price": "196",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-varenaya-s-proteinom-125639/"
-  },
-  "95276": {
-    "name": "Папайя нарезанная свежая, шт",
-    "price": "267",
-    "old_price": "445",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/papayya-narezannaya-svezhaya-95276/"
   },
   "118030": {
     "name": "Изделие х/б \"Льняной\", на закваске",
