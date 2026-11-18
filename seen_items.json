@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
-  "36862": {
-    "name": "Молоко 1% в бутылке, 900 мл",
-    "price": "58",
-    "old_price": "96",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-1-v-butylke-36862/"
-  },
   "125206": {
     "name": "Блины с картошкой и лисичками",
     "price": "143",
@@ -27,40 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-kartoshkoy-i-lisichkami-125206/"
   },
-  "70195": {
-    "name": "Салат \"Гранатовый браслет\"",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-granatovyy-braslet-70195/"
-  },
   "126720": {
     "name": "Боул с курицей, бататом, брокколи и соусом Дзадзики",
     "price": "257",
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-s-kuritsey-126720/"
-  },
-  "111168": {
-    "name": "Шоколад молочный на мальтите",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shokolad-molochnyy-na-maltite-111168/"
-  },
-  "49753": {
-    "name": "Кефир 3,2% с крышкой, 1000 г",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-3-49753/"
-  },
-  "40085": {
-    "name": "Мандарины с листочком",
-    "price": "195",
-    "old_price": "325",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mandariny-s-listochkom-40085/"
   },
   "125639": {
     "name": "Колбаса вареная с протеином, нарезка",
@@ -75,13 +40,6 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
-  },
-  "123192": {
-    "name": "Сырок творожный \"Картошка\" в молочном шоколаде 15%, 50 г",
-    "price": "58",
-    "old_price": "96",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-kartoshka-v-molochnom-shokolade-15-123192/"
   },
   "124616": {
     "name": "Карбонад копчено-вареный Ближние Горки Деликатесный 280 г",
