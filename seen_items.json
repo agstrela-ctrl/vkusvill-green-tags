@@ -1,11 +1,4 @@
 {
-  "20969": {
-    "name": "Котлета куриная с картофельным пюре",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-20969/"
-  },
   "50163": {
     "name": "Суп-пюре \"Сырный\" с гренками, 260 г",
     "price": "187",
@@ -19,13 +12,6 @@
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-klassicheskie-127332/"
-  },
-  "120495": {
-    "name": "Мак-н-шницель",
-    "price": "209",
-    "old_price": "348",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mak-n-shnitsel-120495/"
   },
   "58173": {
     "name": "Котлета куриная с картофельным пюре, 400 г",
@@ -41,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-shokoladnyy-s-karamelyu-i-arakhisom-92214/"
   },
-  "16942": {
-    "name": "Блины с яблоком, 210 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-yablokom-16942/"
-  },
   "74272": {
     "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
     "price": "72",
@@ -55,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
   },
-  "102082": {
-    "name": "Омлет с томатами и моцареллой",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-s-tomatami-i-motsarelloy-102082/"
-  },
   "115245": {
     "name": "Фрикадельки \"Сливочные\" из мяса цыплят-бройлеров и индейки",
     "price": "167",
     "old_price": "279",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-slivochnye-iz-myasa-tsyplyat-broylerov-i-indeyki-115245/"
-  },
-  "120063": {
-    "name": "Курица в сливочно-шпинатном соусе с рисом",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-v-slivochno-shpinatnom-souse-s-risom-120063/"
   },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
@@ -96,48 +61,6 @@
     "old_price": "238",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/omlet-s-kuritsey-i-syrom-21451/"
-  },
-  "109471": {
-    "name": "Тартин \"Зерновой\", нарезка, 250 г",
-    "price": "62",
-    "old_price": "104",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
-  },
-  "63576": {
-    "name": "Семга филе-кусок на коже охл., 350 г",
-    "price": "798",
-    "old_price": "1330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/semga-file-kusok-na-kozhe-okhl-63576/"
-  },
-  "15257": {
-    "name": "Бифилайф детский \"Яблоко-Банан\" 2,5%",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bifilayf-detskiy-yabloko-banan-2-15257/"
-  },
-  "88264": {
-    "name": "Микс салатный \"Римини\" 120 г",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-rimini-120-g-88264/"
-  },
-  "31275": {
-    "name": "Укроп, 100 г",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ukrop-31275/"
-  },
-  "38710": {
-    "name": "Голубика, 300 г",
-    "price": "419",
-    "old_price": "698",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-38710/"
   },
   "101883": {
     "name": "Хлеб длительной ферментации, нарезка (на закваске)",
@@ -188,13 +111,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mitboly-iz-krolika-i-indeyki-s-syrom-suluguni-125683/"
   },
-  "126386": {
-    "name": "Дюрюм с кюфтой из говядины",
-    "price": "196",
-    "old_price": "326",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dyuryum-s-kyuftoy-iz-govyadiny-126386/"
-  },
   "119651": {
     "name": "Говядина в томатном соусе с кабачками гриль и гречкой",
     "price": "245",
@@ -222,13 +138,6 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-apelsinovoy-zapravkoy-68047/"
-  },
-  "41146": {
-    "name": "Сливки 10%, 200 г",
-    "price": "54",
-    "old_price": "90",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/slivki-10-41146/"
   },
   "123017": {
     "name": "Хачапури с сыром и шпинатом",
