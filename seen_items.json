@@ -1,4 +1,11 @@
 {
+  "124473": {
+    "name": "Слойка-фило с курицей и грибами (в сливках)",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sloyka-filo-s-kuritsey-i-gribami-v-slivkakh-124473/"
+  },
   "119445": {
     "name": "Тофу с томатами и базиликом, 250 г",
     "price": "111",
@@ -12,13 +19,6 @@
     "old_price": "338",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-mango-122475/"
-  },
-  "126720": {
-    "name": "Боул с курицей, бататом, брокколи и соусом Дзадзики",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-s-kuritsey-126720/"
   },
   "36454": {
     "name": "Рамбутан, 150 г",
