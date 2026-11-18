@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rambutan-36454/"
   },
-  "125639": {
-    "name": "Колбаса вареная с протеином, нарезка",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-s-proteinom-125639/"
-  },
   "95276": {
     "name": "Папайя нарезанная свежая, шт",
     "price": "267",
@@ -61,6 +54,13 @@
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-iz-perlovki-s-treskoy-i-krevetkoy-126782/"
+  },
+  "125639": {
+    "name": "Колбаса вареная с протеином, нарезка",
+    "price": "118",
+    "old_price": "196",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kolbasa-varenaya-s-proteinom-125639/"
   },
   "118030": {
     "name": "Изделие х/б \"Льняной\", на закваске",
