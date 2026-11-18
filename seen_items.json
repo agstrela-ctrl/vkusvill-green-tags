@@ -1,9 +1,16 @@
 {
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "63",
-    "old_price": "105",
+  "22658": {
+    "name": "Яйцо куриное С0",
+    "price": "93",
+    "old_price": "155",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s0-22658/"
+  },
+  "15544": {
+    "name": "Яйцо куриное С1",
+    "price": "77",
+    "old_price": "129",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yaytso-kurinoe-s1-15544/"
   }
 }
