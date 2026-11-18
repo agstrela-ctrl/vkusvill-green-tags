@@ -20,6 +20,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/voda-mineralnaya-legenda-gor-arkhyz-48587/"
   },
+  "125084": {
+    "name": "Биолакт детский с инулином, 210 г",
+    "price": "36",
+    "old_price": "60",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/biolakt-detskiy-s-inulinom-125084/"
+  },
   "84853": {
     "name": "Салат \"Гнездо глухаря\" с копченой курицей, 500 г",
     "price": "473",
@@ -55,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-mango-122475/"
   },
-  "126720": {
-    "name": "Боул с курицей, бататом, брокколи и соусом Дзадзики",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-s-kuritsey-126720/"
-  },
   "39461": {
     "name": "Салат мимоза, 300 г",
     "price": "293",
@@ -82,12 +82,5 @@
     "old_price": "368",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-kampanelle-s-kuritsey-i-gribnym-sousom-125099/"
-  },
-  "125084": {
-    "name": "Биолакт детский с инулином, 210 г",
-    "price": "36",
-    "old_price": "60",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/biolakt-detskiy-s-inulinom-125084/"
   }
 }
