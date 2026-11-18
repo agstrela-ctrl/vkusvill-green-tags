@@ -1,31 +1,10 @@
 {
-  "19363": {
-    "name": "Салат \"Цезарь\"",
-    "price": "205",
-    "old_price": "342",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-19363/"
-  },
-  "119583": {
-    "name": "Куриное филе гриль с овощами",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-ovoshchami-119583/"
-  },
   "97075": {
     "name": "Оладьи куриные с кабачком, 130 г",
     "price": "132",
     "old_price": "220",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladi-kurinye-s-kabachkom-97075/"
-  },
-  "100821": {
-    "name": "Печень жареная с луком с гречкой",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechen-zharenaya-s-lukom-s-grechkoy-100821/"
   },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
@@ -47,41 +26,6 @@
     "old_price": "105",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
-  },
-  "112464": {
-    "name": "Салат руккола с креветкой",
-    "price": "252",
-    "old_price": "420",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-rukkola-s-krevetkoy-112464/"
-  },
-  "58201": {
-    "name": "Кефир 1%, 290 г",
-    "price": "41",
-    "old_price": "69",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/kefir-1-58201/"
-  },
-  "38710": {
-    "name": "Голубика, 300 г",
-    "price": "419",
-    "old_price": "698",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-38710/"
-  },
-  "122910": {
-    "name": "Фруктовый микс (ананас, киви, клубника), 140 г",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/fruktovyy-miks-ananas-122910/"
-  },
-  "68407": {
-    "name": "Шницель куриный, 360 г",
-    "price": "288",
-    "old_price": "480",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-68407/"
   },
   "113787": {
     "name": "Жаркое из ягненка Халяль",
@@ -125,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-mimoza-39461/"
   },
-  "26904": {
-    "name": "Сэндвич с форелью.",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
-  },
   "36454": {
     "name": "Рамбутан, 150 г",
     "price": "195",
@@ -173,13 +110,6 @@
     "old_price": "445",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/papayya-narezannaya-svezhaya-95276/"
-  },
-  "113296": {
-    "name": "Крем-суп с тыквой и жареными креветками",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-zharenymi-krevetkami-113296/"
   },
   "119124": {
     "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
