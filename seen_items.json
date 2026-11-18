@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/biolakt-detskiy-s-inulinom-125084/"
   },
-  "84853": {
-    "name": "Салат \"Гнездо глухаря\" с копченой курицей, 500 г",
-    "price": "473",
-    "old_price": "788",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-gnezdo-glukharya-s-kopchenoy-kuritsey-84853/"
-  },
   "113787": {
     "name": "Жаркое из ягненка Халяль",
     "price": "456",
@@ -61,26 +54,5 @@
     "old_price": "338",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-bala-bayana-kokosovyy-s-mango-122475/"
-  },
-  "39461": {
-    "name": "Салат мимоза, 300 г",
-    "price": "293",
-    "old_price": "488",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-mimoza-39461/"
-  },
-  "36454": {
-    "name": "Рамбутан, 150 г",
-    "price": "195",
-    "old_price": "325",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rambutan-36454/"
-  },
-  "125099": {
-    "name": "Паста Кампанелле с курицей и грибным соусом",
-    "price": "221",
-    "old_price": "368",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-kampanelle-s-kuritsey-i-gribnym-sousom-125099/"
   }
 }
