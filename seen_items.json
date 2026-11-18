@@ -1,11 +1,4 @@
 {
-  "38076": {
-    "name": "Котлеты из индейки \"Диетические\"",
-    "price": "225",
-    "old_price": "375",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-indeyki-dieticheskie-38076/"
-  },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
     "price": "63",
@@ -13,39 +6,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
-  "125206": {
-    "name": "Блины с картошкой и лисичками",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-kartoshkoy-i-lisichkami-125206/"
-  },
-  "126720": {
-    "name": "Боул с курицей, бататом, брокколи и соусом Дзадзики",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-s-kuritsey-126720/"
-  },
   "125639": {
     "name": "Колбаса вареная с протеином, нарезка",
     "price": "118",
     "old_price": "196",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kolbasa-varenaya-s-proteinom-125639/"
-  },
-  "26904": {
-    "name": "Сэндвич с форелью.",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
-  },
-  "124616": {
-    "name": "Карбонад копчено-вареный Ближние Горки Деликатесный 280 г",
-    "price": "221",
-    "old_price": "369",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/karbonad-kopcheno-varenyy-blizhnie-gorki-delikatesnyy-280-g-124616/"
   }
 }
