@@ -1,45 +1,10 @@
 {
-  "50163": {
-    "name": "Суп-пюре \"Сырный\" с гренками, 260 г",
-    "price": "187",
-    "old_price": "312",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-pyure-syrnyy-s-grenkami-50163/"
-  },
-  "127332": {
-    "name": "Сырники из творога классические",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-klassicheskie-127332/"
-  },
-  "58173": {
-    "name": "Котлета куриная с картофельным пюре, 400 г",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-58173/"
-  },
-  "92214": {
-    "name": "Торт шоколадный с карамелью и арахисом",
-    "price": "491",
-    "old_price": "818",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-shokoladnyy-s-karamelyu-i-arakhisom-92214/"
-  },
   "74272": {
     "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
     "price": "72",
     "old_price": "120",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
-  },
-  "115245": {
-    "name": "Фрикадельки \"Сливочные\" из мяса цыплят-бройлеров и индейки",
-    "price": "167",
-    "old_price": "279",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-slivochnye-iz-myasa-tsyplyat-broylerov-i-indeyki-115245/"
   },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
@@ -138,12 +103,5 @@
     "old_price": "330",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-apelsinovoy-zapravkoy-68047/"
-  },
-  "123017": {
-    "name": "Хачапури с сыром и шпинатом",
-    "price": "187",
-    "old_price": "312",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khachapuri-s-syrom-i-shpinatom-123017/"
   }
 }
