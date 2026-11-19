@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
   },
-  "1334": {
-    "name": "Салат Рукола, 50 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-rukola-1334/"
-  },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
     "price": "63",
@@ -48,26 +41,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
   },
-  "107822": {
-    "name": "Брецель на сливочном масле с семечками",
-    "price": "91",
-    "old_price": "152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
-  },
   "82440": {
     "name": "Булочки сдобные, 4 шт",
     "price": "84",
     "old_price": "140",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-sdobnye-82440/"
-  },
-  "85247": {
-    "name": "Капкейк \"Морковный\" с сырным кремом, 2 шт",
-    "price": "247",
-    "old_price": "412",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapkeyk-morkovnyy-s-syrnym-kremom-85247/"
   },
   "74674": {
     "name": "Напиток \"Молоко овсяное\" обогащенное Ca и витаминами, 1л",
@@ -89,6 +68,20 @@
     "old_price": "418",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
+  },
+  "107822": {
+    "name": "Брецель на сливочном масле с семечками",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
+  },
+  "85247": {
+    "name": "Капкейк \"Морковный\" с сырным кремом, 2 шт",
+    "price": "247",
+    "old_price": "412",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapkeyk-morkovnyy-s-syrnym-kremom-85247/"
   },
   "119539": {
     "name": "Лепешка Шоти, 300 г",
