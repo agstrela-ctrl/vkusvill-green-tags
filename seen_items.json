@@ -1,4 +1,18 @@
 {
+  "127069": {
+    "name": "Боул \"50/25/25\" с булгуром, киноа и куриным филе су-вид",
+    "price": "222",
+    "old_price": "370",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-50-25-25-s-bulgurom-127069/"
+  },
+  "127532": {
+    "name": "Курица с картофелем по-деревенски и маринованной капустой",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelem-po-derevenski-i-marinovannoy-kapustoy-127532/"
+  },
   "74272": {
     "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
     "price": "72",
@@ -12,5 +26,47 @@
     "old_price": "105",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+  },
+  "99884": {
+    "name": "Шаурма с рваной говядиной и горчичным соусом",
+    "price": "210",
+    "old_price": "350",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-rvanoy-govyadinoy-i-gorchichnym-sousom-99884/"
+  },
+  "22540": {
+    "name": "Пирог осетинский с картофелем и сыром, 500 г",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirog-osetinskiy-s-kartofelem-i-syrom-22540/"
+  },
+  "120057": {
+    "name": "Тортилья с отрубями и льном",
+    "price": "41",
+    "old_price": "68",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
+  },
+  "125578": {
+    "name": "\"Просто шаурма\" с курицей и морковкой по-корейски",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/prosto-shaurma-s-kuritsey-i-morkovkoy-po-koreyski-125578/"
+  },
+  "98614": {
+    "name": "Филе минтая жареное в кляре с картофельным пюре",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-mintaya-zharenoe-v-klyare-s-kartofelnym-pyure-98614/"
+  },
+  "69753": {
+    "name": "Шаурма грузинская",
+    "price": "204",
+    "old_price": "340",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-gruzinskaya-69753/"
   }
 }
