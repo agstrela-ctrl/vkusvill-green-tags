@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
   },
-  "19363": {
-    "name": "Салат \"Цезарь\"",
-    "price": "205",
-    "old_price": "342",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-19363/"
-  },
   "68797": {
     "name": "Картофельное пюре, 500 г",
     "price": "179",
@@ -26,13 +19,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-po-italyanski-s-kolbasoy-felino-i-motsarelloy-126591/"
-  },
-  "125622": {
-    "name": "Чиабатта с оливками",
-    "price": "71",
-    "old_price": "118",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-olivkami-125622/"
   },
   "32931": {
     "name": "Тартин пшенично-ржаной, половинка",
@@ -75,27 +61,6 @@
     "old_price": "188",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blinchiki-s-kapustoy-i-yaytsom-61604/"
-  },
-  "69649": {
-    "name": "Оладьи печеночные, 300 г",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-pechenochnye-69649/"
-  },
-  "62414": {
-    "name": "Котлеты куриные",
-    "price": "258",
-    "old_price": "430",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-62414/"
-  },
-  "121045": {
-    "name": "Трубочки с курицей и шпинатом, 4 шт",
-    "price": "220",
-    "old_price": "367",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-kuritsey-i-shpinatom-121045/"
   },
   "114389": {
     "name": "Лобио по-картлийски",
