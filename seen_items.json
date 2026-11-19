@@ -1,11 +1,4 @@
 {
-  "111102": {
-    "name": "Салат \"Зеленый\" с брынзой, эдамаме и медово-горчичным соусом",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-zelenyy-s-brynzoy-111102/"
-  },
   "68797": {
     "name": "Картофельное пюре, 500 г",
     "price": "179",
@@ -62,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/blinchiki-s-kapustoy-i-yaytsom-61604/"
   },
-  "114389": {
-    "name": "Лобио по-картлийски",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lobio-po-kartliyski-114389/"
-  },
   "848": {
     "name": "Торт \"Наполеон\"",
     "price": "212",
@@ -89,13 +75,6 @@
     "old_price": "408",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-kurinye-s-kartofelnym-pyure-i-brusnichnym-sousom-116721/"
-  },
-  "74314": {
-    "name": "Сырники творожные с клубничной начинкой",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-s-klubnichnoy-nachinkoy-74314/"
   },
   "79479": {
     "name": "Сосиски куриные с картофельным пюре",
@@ -138,13 +117,6 @@
     "old_price": "660",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-58174/"
-  },
-  "125206": {
-    "name": "Блины с картошкой и лисичками",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-kartoshkoy-i-lisichkami-125206/"
   },
   "117022": {
     "name": "Финики с фисташковой пастой и лепестками фисташки, 3 шт",
