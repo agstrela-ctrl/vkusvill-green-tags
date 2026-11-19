@@ -1,4 +1,11 @@
 {
+  "35099": {
+    "name": "Борщ \"Украинский\" с курицей, 1 кг",
+    "price": "295",
+    "old_price": "492",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/borshch-ukrainskiy-s-kuritsey-35099/"
+  },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
     "price": "63",
@@ -19,5 +26,26 @@
     "old_price": "68",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
+  },
+  "117953": {
+    "name": "Смузи \"Банан-яблоко\" обогащенный белком, 250 мл",
+    "price": "115",
+    "old_price": "192",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/smuzi-banan-yabloko-obogashchennyy-belkom-117953/"
+  },
+  "97447": {
+    "name": "Вафли сахарные \"Парижские\"",
+    "price": "92",
+    "old_price": "154",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vafli-sakharnye-parizhskie-97447/"
+  },
+  "104180": {
+    "name": "Вареники с черникой, 500 г",
+    "price": "261",
+    "old_price": "435",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vareniki-s-chernikoy-104180/"
   }
 }
