@@ -1,9 +1,107 @@
 {
-  "120057": {
-    "name": "Тортилья с отрубями и льном",
-    "price": "41",
-    "old_price": "68",
+  "32936": {
+    "name": "Тартин пшеничный, половинка",
+    "price": "50",
+    "old_price": "84",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tortilya-s-otrubyami-i-lnom-120057/"
+    "link": "https://vkusvill.ru/goods/tartin-pshenichnyy-32936/"
+  },
+  "58178": {
+    "name": "Крем-суп с тыквой и индейкой",
+    "price": "137",
+    "old_price": "228",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178/"
+  },
+  "23160": {
+    "name": "Микс салатный \"Грасс\"",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
+  },
+  "33473": {
+    "name": "Котлеты \"Пожарские\"",
+    "price": "239",
+    "old_price": "399",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-pozharskie-33473/"
+  },
+  "15197": {
+    "name": "Ассорти из зелени, 100 г",
+    "price": "69",
+    "old_price": "115",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/assorti-iz-zeleni-15197/"
+  },
+  "1334": {
+    "name": "Салат Рукола, 50 г",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-rukola-1334/"
+  },
+  "44310": {
+    "name": "Морковь резаная \"Сочная морковь\"",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+  },
+  "107822": {
+    "name": "Брецель на сливочном масле с семечками",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-semechkami-107822/"
+  },
+  "82440": {
+    "name": "Булочки сдобные, 4 шт",
+    "price": "84",
+    "old_price": "140",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochki-sdobnye-82440/"
+  },
+  "85247": {
+    "name": "Капкейк \"Морковный\" с сырным кремом, 2 шт",
+    "price": "247",
+    "old_price": "412",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kapkeyk-morkovnyy-s-syrnym-kremom-85247/"
+  },
+  "74674": {
+    "name": "Напиток \"Молоко овсяное\" обогащенное Ca и витаминами, 1л",
+    "price": "87",
+    "old_price": "145",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-moloko-ovsyanoe-obogashchennoe-ca-i-vitaminami-74674/"
+  },
+  "109679": {
+    "name": "Суп сливочный с цветной капустой, брокколи и куриной грудкой",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-slivochnyy-s-tsvetnoy-kapustoy-109679/"
+  },
+  "108688": {
+    "name": "Картофель жареный с грибами, 500 г",
+    "price": "251",
+    "old_price": "418",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-s-gribami-108688/"
+  },
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
+  },
+  "71935": {
+    "name": "Йогурт питьевой \"Красная смородина\" без доб. сахара 2,5%",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-krasnaya-smorodina-bez-dob-sakhara-2-71935/"
   }
 }
