@@ -1,9 +1,23 @@
 {
-  "120978": {
-    "name": "Икра щуки из охл. сырья пастеризованная ст/б, 112 г",
-    "price": "1050",
-    "old_price": "1750",
+  "113571": {
+    "name": "Батон \"Молодежная классика\", нарезка",
+    "price": "38",
+    "old_price": "63",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/ikra-shchuki-iz-okhl-syrya-pasterizovannaya-st-b-120978/"
+    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+  },
+  "105788": {
+    "name": "Овощной микс \"Витаминное трио\", 250 г",
+    "price": "72",
+    "old_price": "120",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
+  },
+  "29556": {
+    "name": "Конфеты шоколадные \"Пралине\" на мальтите",
+    "price": "205",
+    "old_price": "342",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konfety-shokoladnye-praline-na-maltite-29556/"
   }
 }
