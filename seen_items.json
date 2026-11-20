@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khlebtsy-zernovye-22459/"
   },
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
   "58173": {
     "name": "Котлета куриная с картофельным пюре, 400 г",
     "price": "282",
@@ -90,18 +83,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-58174/"
   },
-  "117022": {
-    "name": "Финики с фисташковой пастой и лепестками фисташки, 3 шт",
-    "price": "255",
-    "old_price": "425",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/finiki-s-fistashkovoy-pastoy-i-lepestkami-fistashki-117022/"
-  },
   "114975": {
     "name": "Стейки из курицы в соусе из манго и лайма",
     "price": "420",
     "old_price": "700",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/steyki-iz-kuritsy-v-souse-iz-mango-i-layma-114975/"
+  },
+  "117022": {
+    "name": "Финики с фисташковой пастой и лепестками фисташки, 3 шт",
+    "price": "255",
+    "old_price": "425",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/finiki-s-fistashkovoy-pastoy-i-lepestkami-fistashki-117022/"
   }
 }
