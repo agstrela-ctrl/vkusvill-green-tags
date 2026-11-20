@@ -1,25 +1,4 @@
 {
-  "124143": {
-    "name": "Креветки с булгуром, брокколи, тыквой и соусом Тахини",
-    "price": "293",
-    "old_price": "488",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-s-bulgurom-124143/"
-  },
-  "36296": {
-    "name": "Молоко 2,5% в бутылке, 900 мл",
-    "price": "60",
-    "old_price": "100",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-2-36296/"
-  },
-  "125622": {
-    "name": "Чиабатта с оливками",
-    "price": "71",
-    "old_price": "118",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-olivkami-125622/"
-  },
   "58728": {
     "name": "Хлеб цельнозерновой с отрубями",
     "price": "180",
@@ -34,47 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-s-kuritsey-126720/"
   },
-  "42406": {
-    "name": "Кефир 2,5% в бутылке, 900 г",
-    "price": "67",
-    "old_price": "112",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-2-42406/"
-  },
-  "29622": {
-    "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
-    "price": "82",
-    "old_price": "136",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
-  },
-  "52681": {
-    "name": "Голень индейки",
-    "price": "242",
-    "old_price": "404",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golen-indeyki-52681/"
-  },
   "127027": {
     "name": "Сэндвич с грибами и сливочным соусом",
     "price": "174",
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
-  },
-  "83595": {
-    "name": "Кесадилья с ветчиной из индейки и курицы с сыром",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-vetchinoy-iz-indeyki-i-kuritsy-s-syrom-83595/"
-  },
-  "119499": {
-    "name": "Булочка \"Ароматная\" с изюмом",
-    "price": "85",
-    "old_price": "142",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-aromatnaya-s-izyumom-119499/"
   },
   "119383": {
     "name": "Салат \"Цезарь\" легкий",
@@ -83,12 +27,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
   },
-  "123587": {
-    "name": "Масса творожная с клюквой 16,5%",
-    "price": "63",
-    "old_price": "105",
+  "65425": {
+    "name": "Креветки жареные, 150 г",
+    "price": "348",
+    "old_price": "580",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-s-klyukvoy-16-123587/"
+    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
+  },
+  "83595": {
+    "name": "Кесадилья с ветчиной из индейки и курицы с сыром",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kesadilya-s-vetchinoy-iz-indeyki-i-kuritsy-s-syrom-83595/"
   },
   "58829": {
     "name": "Печенье \"Кокосовое воздушное\"",
@@ -96,12 +47,5 @@
     "old_price": "190",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-kokosovoe-vozdushnoe-58829/"
-  },
-  "65425": {
-    "name": "Креветки жареные, 150 г",
-    "price": "348",
-    "old_price": "580",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   }
 }
