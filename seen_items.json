@@ -1,9 +1,86 @@
 {
-  "71212": {
-    "name": "Салат с курицей, сыром \"Фета\" и виноградом",
-    "price": "203",
-    "old_price": "338",
+  "42530": {
+    "name": "Борщ с говядиной",
+    "price": "143",
+    "old_price": "238",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-71212/"
+    "link": "https://vkusvill.ru/goods/borshch-s-govyadinoy-42530/"
+  },
+  "67492": {
+    "name": "Рис с куриной бризолью",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ris-s-kurinoy-brizolyu-67492/"
+  },
+  "19363": {
+    "name": "Салат \"Цезарь\"",
+    "price": "205",
+    "old_price": "342",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-tsezar-19363/"
+  },
+  "67836": {
+    "name": "Грибной жюльен с курицей и картофельным пюре",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/gribnoy-zhyulen-s-kuritsey-i-kartofelnym-pyure-67836/"
+  },
+  "46648": {
+    "name": "Ролл Филадельфия",
+    "price": "359",
+    "old_price": "598",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/roll-filadelfiya-46648/"
+  },
+  "126720": {
+    "name": "Боул с курицей, бататом, брокколи и соусом Дзадзики",
+    "price": "257",
+    "old_price": "428",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/boul-s-kuritsey-126720/"
+  },
+  "115477": {
+    "name": "Батон без добавления сахара нарезанный, половинка",
+    "price": "35",
+    "old_price": "58",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-bez-dobavleniya-sakhara-narezannyy-115477/"
+  },
+  "126845": {
+    "name": "Шаурма с треской и соусом Тартар",
+    "price": "239",
+    "old_price": "398",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shaurma-s-treskoy-i-sousom-tartar-126845/"
+  },
+  "16416": {
+    "name": "Суп с фрикадельками из индейки",
+    "price": "136",
+    "old_price": "226",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416/"
+  },
+  "116721": {
+    "name": "Фрикадельки куриные с картофельным пюре и брусничным соусом",
+    "price": "245",
+    "old_price": "408",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/frikadelki-kurinye-s-kartofelnym-pyure-i-brusnichnym-sousom-116721/"
+  },
+  "74272": {
+    "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
+    "price": "72",
+    "old_price": "120",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
+  },
+  "127143": {
+    "name": "Круассан миндальный с яблоком и корицей",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-mindalnyy-s-yablokom-i-koritsey-127143/"
   }
 }
