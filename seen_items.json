@@ -6,40 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835/"
   },
-  "39459": {
-    "name": "Салат сельдь под шубой, 300 г",
-    "price": "188",
-    "old_price": "314",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-seld-pod-shuboy-39459/"
-  },
-  "105270": {
-    "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-kurinaya-s-kartofelnym-pyure-i-salat-vitaminnyy-s-limonnoy-zapravkoy-105270/"
-  },
   "18852": {
     "name": "Салат Листовой в горшочке",
     "price": "69",
     "old_price": "115",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-listovoy-v-gorshochke-18852/"
-  },
-  "15310": {
-    "name": "Кинза, 50 г",
-    "price": "69",
-    "old_price": "115",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kinza-15310/"
-  },
-  "44309": {
-    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
   "108750": {
     "name": "Огурчики Кисловодские, 250 г",
@@ -76,20 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurchiki-s-gryadki-75484/"
   },
-  "123380": {
-    "name": "Паприкаш из курицы с картофелем",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/paprikash-iz-kuritsy-s-kartofelem-123380/"
-  },
-  "76538": {
-    "name": "Лепешка с курицей и овощами",
-    "price": "179",
-    "old_price": "299",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-kuritsey-i-ovoshchami-76538/"
-  },
   "22346": {
     "name": "Кумкват, 125 г",
     "price": "141",
@@ -110,12 +68,5 @@
     "old_price": "183",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/servelat-iz-kuritsy-i-indeyki-s-fermentirovannymi-spetsiyami-118427/"
-  },
-  "120897": {
-    "name": "Сосиски Клинские 410 г",
-    "price": "293",
-    "old_price": "488",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-klinskie-410-g-120897/"
   }
 }
