@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835/"
   },
-  "38977": {
-    "name": "Салат свекольный с грецким орехом",
-    "price": "124",
-    "old_price": "206",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-svekolnyy-s-gretskim-orekhom-38977/"
-  },
   "75244": {
     "name": "Котлета куриная с фарфалле",
     "price": "155",
@@ -26,13 +19,6 @@
     "old_price": "300",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
-  },
-  "50163": {
-    "name": "Суп-пюре \"Сырный\" с гренками, 260 г",
-    "price": "187",
-    "old_price": "312",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-pyure-syrnyy-s-grenkami-50163/"
   },
   "39459": {
     "name": "Салат сельдь под шубой, 300 г",
@@ -76,26 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-plastovoy-5-39295/"
   },
-  "67243": {
-    "name": "Котлета \"Нежная\" со сливочным маслом и картофельным пюре",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-nezhnaya-so-slivochnym-maslom-i-kartofelnym-pyure-67243/"
-  },
   "126407": {
     "name": "Десерт молочный \"Наполеон\" без добавления сахара",
     "price": "163",
     "old_price": "272",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-bez-dobavleniya-sakhara-126407/"
-  },
-  "39480": {
-    "name": "Запеканка творожная с черникой",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zapekanka-tvorozhnaya-s-chernikoy-39480/"
   },
   "25292": {
     "name": "Салат \"Сельдь под шубой\", 180 г",
@@ -111,13 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-kuritsey-109601/"
   },
-  "88589": {
-    "name": "Голубика \"ВВ Отборное\", 125 г",
-    "price": "207",
-    "old_price": "345",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-vv-otbornoe-88589/"
-  },
   "68228": {
     "name": "Творог \"Пластовой\" из топленого молока 9%, 200 г",
     "price": "117",
@@ -131,13 +96,6 @@
     "old_price": "296",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
-  "16942": {
-    "name": "Блины с яблоком, 210 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-yablokom-16942/"
   },
   "15310": {
     "name": "Кинза, 50 г",
@@ -160,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "69161": {
-    "name": "Десерт \"Тирамису\", 300 г",
-    "price": "322",
-    "old_price": "536",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-tiramisu-69161/"
-  },
   "44310": {
     "name": "Морковь резаная \"Сочная морковь\"",
     "price": "63",
@@ -180,20 +131,6 @@
     "old_price": "407",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-indeyki-i-tsyplenka-s-syrom-chedder-83348/"
-  },
-  "76795": {
-    "name": "Биточки из курицы и капусты, 480 г",
-    "price": "305",
-    "old_price": "508",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-kuritsy-i-kapusty-76795/"
-  },
-  "29853": {
-    "name": "Микс салатный \"Месклам\" 125 г",
-    "price": "153",
-    "old_price": "255",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-mesklam-125-g-29853/"
   },
   "21451": {
     "name": "Омлет с курицей и сыром",
@@ -265,13 +202,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-maslyanistyy-zelenyy-v-gorshochke-88558/"
   },
-  "36277": {
-    "name": "Томаты черри красные на ветке, 500 г",
-    "price": "276",
-    "old_price": "460",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tomaty-cherri-krasnye-na-vetke-36277/"
-  },
   "71623": {
     "name": "Блины с клубникой",
     "price": "137",
@@ -299,13 +229,6 @@
     "old_price": "400",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-bitochek-sochnyy-s-penne-i-salat-krabovyy-102212/"
-  },
-  "118663": {
-    "name": "Масса творожная с ванилью 23%",
-    "price": "65",
-    "old_price": "108",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-s-vanilyu-23-118663/"
   },
   "88800": {
     "name": "Тофу с белыми грибами, 250 г",
@@ -356,33 +279,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-s-kuritsey-126720/"
   },
-  "124644": {
-    "name": "Сыр \"Моцарелла\" (мини), 100 г",
-    "price": "83",
-    "old_price": "138",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-motsarella-mini-124644/"
-  },
-  "125081": {
-    "name": "Крокеты по-французски с грибами и творожным сыром",
-    "price": "279",
-    "old_price": "465",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krokety-po-frantsuzski-s-gribami-i-tvorozhnym-syrom-125081/"
-  },
   "126124": {
     "name": "Свинина кимчи по-корейски с рисом",
     "price": "227",
     "old_price": "378",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svinina-kimchi-po-koreyski-s-risom-126124/"
-  },
-  "124131": {
-    "name": "Пирожное \"Медовик\" в дубайском стиле",
-    "price": "253",
-    "old_price": "422",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-medovik-v-dubayskom-stile-124131/"
   },
   "125132": {
     "name": "Рулетики из цукини с творожным сыром и базиликом",
@@ -418,20 +320,6 @@
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/paprikash-iz-kuritsy-s-kartofelem-123380/"
-  },
-  "123710": {
-    "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-vetchinoy-i-syrom-chedder-123710/"
-  },
-  "119124": {
-    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
-    "price": "273",
-    "old_price": "455",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
   },
   "127599": {
     "name": "Проростки микс основа для салата, 115г",
