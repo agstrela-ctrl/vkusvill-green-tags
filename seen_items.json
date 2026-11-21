@@ -76,18 +76,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/navaga-zharenaya-119741/"
   },
-  "23165": {
-    "name": "Салат Кейл, 75 г",
-    "price": "105",
-    "old_price": "175",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-keyl-23165/"
-  },
   "118985": {
     "name": "Грибы свежие Майтаке, 150 г",
     "price": "216",
     "old_price": "360",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/griby-svezhie-maytake-118985/"
+  },
+  "23165": {
+    "name": "Салат Кейл, 75 г",
+    "price": "105",
+    "old_price": "175",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-keyl-23165/"
   }
 }
