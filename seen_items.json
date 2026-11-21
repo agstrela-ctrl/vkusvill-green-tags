@@ -1,11 +1,4 @@
 {
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
   "68461": {
     "name": "Картофель жареный со свининой и грибами в сметанном соусе",
     "price": "216",
@@ -33,13 +26,6 @@
     "old_price": "278",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klab-sendvich-s-vetchinoy-i-syrom-chedder-123710/"
-  },
-  "117285": {
-    "name": "Корюшка азиатская холодного копчения, 150 г",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/koryushka-aziatskaya-kholodnogo-kopcheniya-117285/"
   },
   "125622": {
     "name": "Чиабатта с оливками",
@@ -82,13 +68,6 @@
     "old_price": "328",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pibimpab-s-kuritsey-125769/"
-  },
-  "511": {
-    "name": "Окорок свиной, охлажденный",
-    "price": "402",
-    "old_price": "670",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/okorok-svinoy-511/"
   },
   "125578": {
     "name": "\"Просто шаурма\" с курицей и морковкой по-корейски",
