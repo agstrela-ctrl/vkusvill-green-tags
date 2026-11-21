@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835/"
   },
-  "75244": {
-    "name": "Котлета куриная с фарфалле",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244/"
-  },
   "39459": {
     "name": "Салат сельдь под шубой, 300 г",
     "price": "188",
@@ -34,27 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-listovoy-v-gorshochke-18852/"
   },
-  "116725": {
-    "name": "Шницель куриный с пряным маслом и лимоном",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-s-pryanym-maslom-i-limonom-116725/"
-  },
-  "39295": {
-    "name": "Творог \"Пластовой\" 5%, 350 г",
-    "price": "142",
-    "old_price": "237",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-5-39295/"
-  },
-  "126407": {
-    "name": "Десерт молочный \"Наполеон\" без добавления сахара",
-    "price": "163",
-    "old_price": "272",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-bez-dobavleniya-sakhara-126407/"
-  },
   "15310": {
     "name": "Кинза, 50 г",
     "price": "69",
@@ -75,13 +47,6 @@
     "old_price": "225",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurchiki-kislovodskie-108750/"
-  },
-  "71623": {
-    "name": "Блины с клубникой",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-klubnikoy-71623/"
   },
   "288": {
     "name": "Молоко козье 2,8-4%",
@@ -111,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-svininy-rublevskiy-dlya-zavtraka-400-g-74328/"
   },
-  "126720": {
-    "name": "Боул с курицей, бататом, брокколи и соусом Дзадзики",
-    "price": "257",
-    "old_price": "428",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-s-kuritsey-126720/"
-  },
   "75484": {
     "name": "Огурчики с грядки, 300 г",
     "price": "141",
@@ -125,47 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurchiki-s-gryadki-75484/"
   },
-  "125132": {
-    "name": "Рулетики из цукини с творожным сыром и базиликом",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-iz-tsukini-s-tvorozhnym-syrom-i-bazilikom-125132/"
-  },
-  "78481": {
-    "name": "Чиабатта с куриным филе и соусом \"Песто\"",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481/"
-  },
-  "125730": {
-    "name": "Кимпаб с курицей, овощами и омлетом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kimpab-s-kuritsey-125730/"
-  },
-  "81523": {
-    "name": "Круассан пшеничный с куриной ветчиной и сыром \"Моцарелла\"",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-pshenichnyy-s-kurinoy-vetchinoy-i-syrom-motsarella-81523/"
-  },
   "123380": {
     "name": "Паприкаш из курицы с картофелем",
     "price": "191",
     "old_price": "318",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/paprikash-iz-kuritsy-s-kartofelem-123380/"
-  },
-  "127599": {
-    "name": "Проростки микс основа для салата, 115г",
-    "price": "117",
-    "old_price": "195",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/prorostki-miks-osnova-dlya-salata-127599/"
   },
   "76538": {
     "name": "Лепешка с курицей и овощами",
