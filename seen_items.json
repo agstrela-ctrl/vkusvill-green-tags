@@ -1,4 +1,25 @@
 {
+  "21096": {
+    "name": "Коржик молочный",
+    "price": "52",
+    "old_price": "86",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/korzhik-molochnyy-21096/"
+  },
+  "119741": {
+    "name": "Навага жареная, 200 г",
+    "price": "165",
+    "old_price": "275",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/navaga-zharenaya-119741/"
+  },
+  "36454": {
+    "name": "Рамбутан, 150 г",
+    "price": "195",
+    "old_price": "325",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rambutan-36454/"
+  },
   "731": {
     "name": "Бананы",
     "price": "101",
