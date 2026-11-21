@@ -1,24 +1,10 @@
 {
-  "68461": {
-    "name": "Картофель жареный со свининой и грибами в сметанном соусе",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-zharenyy-so-svininoy-i-gribami-v-smetannom-souse-68461/"
-  },
   "35710": {
     "name": "Набор: Салат Витаминный + Плов с курицей",
     "price": "240",
     "old_price": "400",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nabor-salat-vitaminnyy-plov-s-kuritsey-35710/"
-  },
-  "121046": {
-    "name": "Трубочки с сыром и шпинатом, 4 шт",
-    "price": "220",
-    "old_price": "367",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-syrom-i-shpinatom-121046/"
   },
   "123710": {
     "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
@@ -83,13 +69,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gnezda-iz-tsyplenka-broylera-i-indeyki-po-italyanski-121009/"
   },
-  "117897": {
-    "name": "Сырники с начинкой из вареной сгущенки",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-s-nachinkoy-iz-varenoy-sgushchenki-117897/"
-  },
   "119741": {
     "name": "Навага жареная, 200 г",
     "price": "165",
@@ -110,12 +89,5 @@
     "old_price": "360",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/griby-svezhie-maytake-118985/"
-  },
-  "81642": {
-    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
   }
 }
