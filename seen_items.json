@@ -1,18 +1,4 @@
 {
-  "19419": {
-    "name": "Бедро цыпленка-бройлера бескостное (филе бедра)",
-    "price": "423",
-    "old_price": "705",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bedro-tsyplenka-broylera-beskostnoe-file-bedra-19419/"
-  },
-  "32931": {
-    "name": "Тартин пшенично-ржаной, половинка",
-    "price": "50",
-    "old_price": "84",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-pshenichno-rzhanoy-32931/"
-  },
   "17243": {
     "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
     "price": "38",
@@ -27,26 +13,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "50389": {
-    "name": "Ролл \"Симфония классики\" с креветкой",
-    "price": "224",
-    "old_price": "374",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-krevetkoy-50389/"
-  },
   "17125": {
     "name": "Салат Айсберг, 200 г",
     "price": "81",
     "old_price": "135",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-aysberg-17125/"
-  },
-  "26780": {
-    "name": "Трубочки с белковым кремом",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-s-belkovym-kremom-26780/"
   },
   "112770": {
     "name": "Хлеб \"Свекольно-морковный\"",
@@ -110,12 +82,5 @@
     "old_price": "360",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/griby-svezhie-maytake-118985/"
-  },
-  "99743": {
-    "name": "Завтрак боул с хашбрауном, кафе",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
   }
 }
