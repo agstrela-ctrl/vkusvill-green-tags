@@ -1,10 +1,45 @@
 {
-  "23073": {
-    "name": "Салат Кобб с имбирным соусом",
-    "price": "174",
-    "old_price": "290",
+  "48589": {
+    "name": "Вода минеральная \"Легенда гор Архыз\", негаз., 5 л",
+    "price": "89",
+    "old_price": "148",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073/"
+    "link": "https://vkusvill.ru/goods/voda-mineralnaya-legenda-gor-arkhyz-48589/"
+  },
+  "22809": {
+    "name": "Вода родниковая газированная, 1,5 л",
+    "price": "38",
+    "old_price": "64",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/voda-rodnikovaya-gazirovannaya-22809/"
+  },
+  "33142": {
+    "name": "Вода питьевая детская Святой Источник Светлячок негазированная 1,5 л",
+    "price": "47",
+    "old_price": "79",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-detskaya-svyatoy-istochnik-svetlyachok-negazirovannaya-1-33142/"
+  },
+  "128461": {
+    "name": "Манго Бразилия, шт",
+    "price": "246",
+    "old_price": "410",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-braziliya-128461/"
+  },
+  "123118": {
+    "name": "Сырок творожный с маком в молочном шоколаде 5%",
+    "price": "39",
+    "old_price": "65",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrok-tvorozhnyy-s-makom-v-molochnom-shokolade-5-123118/"
+  },
+  "114789": {
+    "name": "Икра кижуча из охлажденного сырья соленая ст/б охл., 100 г",
+    "price": "2040",
+    "old_price": "3400",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ikra-kizhucha-iz-okhlazhdennogo-syrya-solenaya-st-b-okhl-114789/"
   },
   "121452": {
     "name": "Грибы Ежовики, 125г",
