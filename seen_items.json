@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
   },
-  "110649": {
-    "name": "Огурцы Ботаника, 420 г",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurtsy-botanika-110649/"
-  },
   "68461": {
     "name": "Картофель жареный со свининой и грибами в сметанном соусе",
     "price": "216",
@@ -26,13 +19,6 @@
     "old_price": "400",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/nabor-salat-vitaminnyy-plov-s-kuritsey-35710/"
-  },
-  "103754": {
-    "name": "Сосиски куриные с картофельным пюре и салат винегрет, 390 г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-i-salat-vinegret-103754/"
   },
   "121046": {
     "name": "Трубочки с сыром и шпинатом, 4 шт",
@@ -76,13 +62,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-fasolyu-i-kurinoy-vetchinoy-125477/"
   },
-  "61604": {
-    "name": "Блинчики с капустой и яйцом",
-    "price": "113",
-    "old_price": "188",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blinchiki-s-kapustoy-i-yaytsom-61604/"
-  },
   "121449": {
     "name": "Паста Тортильони с курицей и сыром в сливочно-томатном соусе",
     "price": "185",
@@ -125,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gnezda-iz-tsyplenka-broylera-i-indeyki-po-italyanski-121009/"
   },
-  "126385": {
-    "name": "Клаб-сэндвич со свиным окороком и омлетом",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-so-svinym-okorokom-i-omletom-126385/"
-  },
   "117897": {
     "name": "Сырники с начинкой из вареной сгущенки",
     "price": "132",
@@ -145,13 +117,6 @@
     "old_price": "275",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/navaga-zharenaya-119741/"
-  },
-  "26904": {
-    "name": "Сэндвич с форелью.",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
   },
   "23165": {
     "name": "Салат Кейл, 75 г",
@@ -173,19 +138,5 @@
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
-  },
-  "126028": {
-    "name": "Биойогурт питьевой ПРОБИОТИК + \"Малина\" на сиропе топинамбура, 1,5%",
-    "price": "68",
-    "old_price": "114",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bioyogurt-pitevoy-probiotik-malina-na-sirope-topinambura-126028/"
-  },
-  "38710": {
-    "name": "Голубика, 300 г",
-    "price": "419",
-    "old_price": "698",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-38710/"
   }
 }
