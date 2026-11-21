@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244/"
   },
-  "95582": {
-    "name": "Мини-чиабатта с куриной ветчиной, омлетом и сыром (2 шт)",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
-  },
   "39459": {
     "name": "Салат сельдь под шубой, 300 г",
     "price": "188",
@@ -69,26 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-bez-dobavleniya-sakhara-126407/"
   },
-  "25292": {
-    "name": "Салат \"Сельдь под шубой\", 180 г",
-    "price": "139",
-    "old_price": "231",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-seld-pod-shuboy-25292/"
-  },
   "109601": {
     "name": "Конвертики с курицей, шпинатом и сыром",
     "price": "183",
     "old_price": "305",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/konvertiki-s-kuritsey-109601/"
-  },
-  "68228": {
-    "name": "Творог \"Пластовой\" из топленого молока 9%, 200 г",
-    "price": "117",
-    "old_price": "195",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-plastovoy-iz-toplenogo-moloka-9-68228/"
   },
   "101864": {
     "name": "Сэндвич ролл с запеченным тунцом",
@@ -103,13 +82,6 @@
     "old_price": "115",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kinza-15310/"
-  },
-  "29622": {
-    "name": "Изделие х/б \"Цельнозерновое\" ржано-пшен.",
-    "price": "82",
-    "old_price": "136",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tselnozernovoe-rzhano-pshen-29622/"
   },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
@@ -209,13 +181,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-klubnikoy-71623/"
   },
-  "65513": {
-    "name": "Биточки из мяса индейки",
-    "price": "237",
-    "old_price": "395",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
-  },
   "288": {
     "name": "Молоко козье 2,8-4%",
     "price": "111",
@@ -244,34 +209,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vetchina-iz-svininy-rublevskiy-dlya-zavtraka-400-g-74328/"
   },
-  "75484": {
-    "name": "Огурчики с грядки, 300 г",
-    "price": "141",
-    "old_price": "235",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurchiki-s-gryadki-75484/"
-  },
-  "108975": {
-    "name": "Сыр протеиновый \"Моцарелла пикколо\" без лактозы, 100 г",
-    "price": "116",
-    "old_price": "194",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-proteinovyy-motsarella-pikkolo-bez-laktozy-108975/"
-  },
-  "66863": {
-    "name": "Сосиски \"Из курицы и индейки с сыром\"",
-    "price": "229",
-    "old_price": "381",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-i-indeyki-s-syrom-66863/"
-  },
-  "89957": {
-    "name": "Голубика гигант, 125 г",
-    "price": "231",
-    "old_price": "385",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-gigant-89957/"
-  },
   "126720": {
     "name": "Боул с курицей, бататом, брокколи и соусом Дзадзики",
     "price": "257",
@@ -285,6 +222,13 @@
     "old_price": "378",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/svinina-kimchi-po-koreyski-s-risom-126124/"
+  },
+  "75484": {
+    "name": "Огурчики с грядки, 300 г",
+    "price": "141",
+    "old_price": "235",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ogurchiki-s-gryadki-75484/"
   },
   "125132": {
     "name": "Рулетики из цукини с творожным сыром и базиликом",
@@ -328,12 +272,40 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/prorostki-miks-osnova-dlya-salata-127599/"
   },
+  "108975": {
+    "name": "Сыр протеиновый \"Моцарелла пикколо\" без лактозы, 100 г",
+    "price": "116",
+    "old_price": "194",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syr-proteinovyy-motsarella-pikkolo-bez-laktozy-108975/"
+  },
   "76538": {
     "name": "Лепешка с курицей и овощами",
     "price": "179",
     "old_price": "299",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-s-kuritsey-i-ovoshchami-76538/"
+  },
+  "66863": {
+    "name": "Сосиски \"Из курицы и индейки с сыром\"",
+    "price": "229",
+    "old_price": "381",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-i-indeyki-s-syrom-66863/"
+  },
+  "99915": {
+    "name": "Салат с курицей и ананасами, 400 г",
+    "price": "295",
+    "old_price": "492",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-ananasami-99915/"
+  },
+  "89957": {
+    "name": "Голубика гигант, 125 г",
+    "price": "231",
+    "old_price": "385",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/golubika-gigant-89957/"
   },
   "22346": {
     "name": "Кумкват, 125 г",
@@ -355,13 +327,6 @@
     "old_price": "183",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/servelat-iz-kuritsy-i-indeyki-s-fermentirovannymi-spetsiyami-118427/"
-  },
-  "99915": {
-    "name": "Салат с курицей и ананасами, 400 г",
-    "price": "295",
-    "old_price": "492",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-ananasami-99915/"
   },
   "120897": {
     "name": "Сосиски Клинские 410 г",
