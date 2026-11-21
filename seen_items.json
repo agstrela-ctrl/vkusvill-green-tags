@@ -1,24 +1,10 @@
 {
-  "123710": {
-    "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-vetchinoy-i-syrom-chedder-123710/"
-  },
   "125622": {
     "name": "Чиабатта с оливками",
     "price": "71",
     "old_price": "118",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-s-olivkami-125622/"
-  },
-  "116721": {
-    "name": "Фрикадельки куриные с картофельным пюре и брусничным соусом",
-    "price": "245",
-    "old_price": "408",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-kurinye-s-kartofelnym-pyure-i-brusnichnym-sousom-116721/"
   },
   "125477": {
     "name": "Салат с фасолью и куриной ветчиной",
