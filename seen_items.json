@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-seld-pod-shuboy-39459/"
   },
-  "61483": {
-    "name": "Салат \"Цезарь\" с курицей и пекинской капустой",
-    "price": "181",
-    "old_price": "301",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-pekinskoy-kapustoy-61483/"
-  },
   "105270": {
     "name": "Комбо-набор: Котлета куриная с картофельным пюре и Салат \"Витаминный\" с лимонной заправкой",
     "price": "240",
@@ -90,26 +83,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "44310": {
-    "name": "Морковь резаная \"Сочная морковь\"",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
-  },
   "83348": {
     "name": "Котлеты из индейки и цыпленка с сыром чеддер",
     "price": "244",
     "old_price": "407",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-indeyki-i-tsyplenka-s-syrom-chedder-83348/"
-  },
-  "21451": {
-    "name": "Омлет с курицей и сыром",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-s-kuritsey-i-syrom-21451/"
   },
   "39543": {
     "name": "Котлета куриная в панировке из сухарей с картофельным пюре",
@@ -166,13 +145,6 @@
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lagman-zharenyy-s-govyadinoy-83776/"
-  },
-  "88558": {
-    "name": "Салат маслянистый зеленый в горшочке",
-    "price": "96",
-    "old_price": "160",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-maslyanistyy-zelenyy-v-gorshochke-88558/"
   },
   "71623": {
     "name": "Блины с клубникой",
@@ -286,26 +258,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-s-kuritsey-i-ovoshchami-76538/"
   },
-  "66863": {
-    "name": "Сосиски \"Из курицы и индейки с сыром\"",
-    "price": "229",
-    "old_price": "381",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-iz-kuritsy-i-indeyki-s-syrom-66863/"
-  },
   "99915": {
     "name": "Салат с курицей и ананасами, 400 г",
     "price": "295",
     "old_price": "492",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-s-kuritsey-i-ananasami-99915/"
-  },
-  "89957": {
-    "name": "Голубика гигант, 125 г",
-    "price": "231",
-    "old_price": "385",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golubika-gigant-89957/"
   },
   "22346": {
     "name": "Кумкват, 125 г",
