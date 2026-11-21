@@ -1,11 +1,4 @@
 {
-  "44309": {
-    "name": "Капуста белокочанная резаная \"Свежая капуста\"",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
-  },
   "112770": {
     "name": "Хлеб \"Свекольно-морковный\"",
     "price": "70",
@@ -26,13 +19,6 @@
     "old_price": "842",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/myaso-po-frantsuzski-118104/"
-  },
-  "88264": {
-    "name": "Микс салатный \"Римини\" 120 г",
-    "price": "102",
-    "old_price": "170",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-salatnyy-rimini-120-g-88264/"
   },
   "36454": {
     "name": "Рамбутан, 150 г",
