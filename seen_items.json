@@ -55,20 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-bez-dobavleniya-sakhara-126407/"
   },
-  "109601": {
-    "name": "Конвертики с курицей, шпинатом и сыром",
-    "price": "183",
-    "old_price": "305",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konvertiki-s-kuritsey-109601/"
-  },
-  "101864": {
-    "name": "Сэндвич ролл с запеченным тунцом",
-    "price": "178",
-    "old_price": "296",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
   "15310": {
     "name": "Кинза, 50 г",
     "price": "69",
@@ -83,68 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "83348": {
-    "name": "Котлеты из индейки и цыпленка с сыром чеддер",
-    "price": "244",
-    "old_price": "407",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-indeyki-i-tsyplenka-s-syrom-chedder-83348/"
-  },
-  "39543": {
-    "name": "Котлета куриная в панировке из сухарей с картофельным пюре",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-v-panirovke-iz-sukharey-s-kartofelnym-pyure-39543/"
-  },
   "108750": {
     "name": "Огурчики Кисловодские, 250 г",
     "price": "135",
     "old_price": "225",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ogurchiki-kislovodskie-108750/"
-  },
-  "100714": {
-    "name": "Лапша из батата в соусе терияки с куриным филе",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-iz-batata-v-souse-teriyaki-s-kurinym-file-100714/"
-  },
-  "44305": {
-    "name": "Сырники, 210 г",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-44305/"
-  },
-  "104701": {
-    "name": "Закрытый омлет с ветчиной и сыром, кафе",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zakrytyy-omlet-s-vetchinoy-i-syrom-104701/"
-  },
-  "98052": {
-    "name": "Паста Орзо с куриными фрикадельками",
-    "price": "126",
-    "old_price": "210",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-orzo-s-kurinymi-frikadelkami-98052/"
-  },
-  "18354": {
-    "name": "Рис \"По-тайски\"",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-po-tayski-18354/"
-  },
-  "83776": {
-    "name": "Лагман жареный с говядиной",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lagman-zharenyy-s-govyadinoy-83776/"
   },
   "71623": {
     "name": "Блины с клубникой",
@@ -187,13 +117,6 @@
     "old_price": "428",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/boul-s-kuritsey-126720/"
-  },
-  "126124": {
-    "name": "Свинина кимчи по-корейски с рисом",
-    "price": "227",
-    "old_price": "378",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/svinina-kimchi-po-koreyski-s-risom-126124/"
   },
   "75484": {
     "name": "Огурчики с грядки, 300 г",
@@ -243,13 +166,6 @@
     "old_price": "195",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/prorostki-miks-osnova-dlya-salata-127599/"
-  },
-  "108975": {
-    "name": "Сыр протеиновый \"Моцарелла пикколо\" без лактозы, 100 г",
-    "price": "116",
-    "old_price": "194",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syr-proteinovyy-motsarella-pikkolo-bez-laktozy-108975/"
   },
   "76538": {
     "name": "Лепешка с курицей и овощами",
