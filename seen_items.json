@@ -104,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pibimpab-s-kuritsey-125769/"
   },
-  "67834": {
-    "name": "Кнели куриные с тыквой и картофельным пюре",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
-  },
   "511": {
     "name": "Окорок свиной, охлажденный",
     "price": "402",
@@ -131,20 +124,6 @@
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gnezda-iz-tsyplenka-broylera-i-indeyki-po-italyanski-121009/"
-  },
-  "109196": {
-    "name": "Котлеты куриные 2 шт",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-2-sht-109196/"
-  },
-  "102993": {
-    "name": "Ассорти х/к из кеты, масляной рыбы, нерки и омуля, 200 г",
-    "price": "408",
-    "old_price": "680",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-kety-102993/"
   },
   "126385": {
     "name": "Клаб-сэндвич со свиным окороком и омлетом",
@@ -208,19 +187,5 @@
     "old_price": "698",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/golubika-38710/"
-  },
-  "72937": {
-    "name": "Картофель отварной с укропом, 500 г",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kartofel-otvarnoy-s-ukropom-72937/"
-  },
-  "79473": {
-    "name": "Биойогурт с черникой, злаками и семенами льна \"ВкусВилл\" 1,5%",
-    "price": "60",
-    "old_price": "100",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bioyogurt-s-chernikoy-79473/"
   }
 }
