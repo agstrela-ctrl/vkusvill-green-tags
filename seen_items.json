@@ -1,11 +1,4 @@
 {
-  "17243": {
-    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
-    "price": "38",
-    "old_price": "63",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
-  },
   "44309": {
     "name": "Капуста белокочанная резаная \"Свежая капуста\"",
     "price": "66",
@@ -13,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-belokochannaya-rezanaya-svezhaya-kapusta-44309/"
   },
-  "17125": {
-    "name": "Салат Айсберг, 200 г",
-    "price": "81",
-    "old_price": "135",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-aysberg-17125/"
-  },
   "112770": {
     "name": "Хлеб \"Свекольно-морковный\"",
     "price": "70",
     "old_price": "116",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-svekolno-morkovnyy-112770/"
-  },
-  "125813": {
-    "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
   },
   "100149": {
     "name": "Каша гречневая \"по-драгомировски\" на бульоне из грибов",
@@ -68,13 +47,6 @@
     "old_price": "375",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/griby-ezhoviki-121452/"
-  },
-  "125448": {
-    "name": "Хлеб “Медово-солодовый”, на закваске",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-medovo-solodovyy-125448/"
   },
   "118985": {
     "name": "Грибы свежие Майтаке, 150 г",
