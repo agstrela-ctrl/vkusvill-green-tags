@@ -1,11 +1,4 @@
 {
-  "78473": {
-    "name": "Бургеры с куриной котлетой и сыром Чеддер",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/burgery-s-kurinoy-kotletoy-i-syrom-chedder-78473/"
-  },
   "34835": {
     "name": "Салат \"Витаминный\" с лимонной заправкой",
     "price": "132",
@@ -33,13 +26,6 @@
     "old_price": "512",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vinograd-sultana-bez-kostochki-127521/"
-  },
-  "36430": {
-    "name": "Биточки из мяса цыплят-бройлеров с сыром",
-    "price": "268",
-    "old_price": "447",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-tsyplyat-broylerov-s-syrom-36430/"
   },
   "35710": {
     "name": "Набор: Салат Витаминный + Плов с курицей",
