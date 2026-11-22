@@ -1,11 +1,4 @@
 {
-  "488": {
-    "name": "Филе грудки цыпленка-бройлера",
-    "price": "394",
-    "old_price": "656",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-488/"
-  },
   "19363": {
     "name": "Салат \"Цезарь\"",
     "price": "205",
@@ -33,13 +26,6 @@
     "old_price": "238",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
-  },
-  "24952": {
-    "name": "Голень цыпленка-бройлера Халяль",
-    "price": "299",
-    "old_price": "499",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-khalyal-24952/"
   },
   "22459": {
     "name": "Хлебцы \"Зерновые\"",
@@ -146,33 +132,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-borodinskiy-bezdrozhzhevoy-26198/"
   },
-  "123299": {
-    "name": "Пирожное \"Черемуховое\" со сметанным кремом",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-cheremukhovoe-so-smetannym-kremom-123299/"
-  },
-  "83788": {
-    "name": "Форель малосоленая \"опаленная\" филе-кусок, 150 г",
-    "price": "310",
-    "old_price": "517",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-malosolenaya-opalennaya-file-kusok-83788/"
-  },
   "110281": {
     "name": "Пиццета с ветчиной и сыром",
     "price": "107",
     "old_price": "178",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pitstseta-s-vetchinoy-i-syrom-110281/"
-  },
-  "119469": {
-    "name": "Пирожное \"Наполеон с вареной сгущенкой\" домашний",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-napoleon-s-varenoy-sgushchenkoy-domashniy-119469/"
   },
   "119677": {
     "name": "Торт \"Банан-карамель\" с вареной сгущенкой",
