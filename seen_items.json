@@ -13,11 +13,74 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-listovoy-v-gorshochke-18852/"
   },
+  "126666": {
+    "name": "Котлета куриная паровая, зам.",
+    "price": "128",
+    "old_price": "213",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-parovaya-126666/"
+  },
+  "126679": {
+    "name": "Соус \"Болоньезе\", зам.",
+    "price": "147",
+    "old_price": "245",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sous-boloneze-126679/"
+  },
+  "127099": {
+    "name": "Котлета куриная в сухариках, зам",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-v-sukharikakh-127099/"
+  },
+  "126677": {
+    "name": "Соус по-мексикански с говядиной, зам.",
+    "price": "153",
+    "old_price": "255",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sous-po-meksikanski-s-govyadinoy-126677/"
+  },
+  "126721": {
+    "name": "Котлета куриная для бургера, зам.",
+    "price": "114",
+    "old_price": "190",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-dlya-burgera-126721/"
+  },
+  "55365": {
+    "name": "Смузи \"Ананас-кокос-манго\", 250 мл",
+    "price": "97",
+    "old_price": "162",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/smuzi-ananas-kokos-mango-55365/"
+  },
   "288": {
     "name": "Молоко козье 2,8-4%",
     "price": "111",
     "old_price": "185",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moloko-koze-2-288/"
+  },
+  "93904": {
+    "name": "Печенье \"Бархатное\"",
+    "price": "173",
+    "old_price": "288",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-barkhatnoe-93904/"
+  },
+  "126668": {
+    "name": "Тефтели домашние из говядины и свинины, зам.",
+    "price": "158",
+    "old_price": "263",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tefteli-domashnie-iz-govyadiny-i-svininy-126668/"
+  },
+  "126838": {
+    "name": "Соус ягодный, зам.",
+    "price": "99",
+    "old_price": "165",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sous-yagodnyy-126838/"
   }
 }
