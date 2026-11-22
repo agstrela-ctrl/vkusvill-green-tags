@@ -76,20 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-borodinskiy-bezdrozhzhevoy-26198/"
   },
-  "110281": {
-    "name": "Пиццета с ветчиной и сыром",
-    "price": "107",
-    "old_price": "178",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstseta-s-vetchinoy-i-syrom-110281/"
-  },
-  "119677": {
-    "name": "Торт \"Банан-карамель\" с вареной сгущенкой",
-    "price": "512",
-    "old_price": "854",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-banan-karamel-s-varenoy-sgushchenkoy-119677/"
-  },
   "23549": {
     "name": "Хамса без головы непотрошеная в масле, 200 г",
     "price": "129",
@@ -103,6 +89,13 @@
     "old_price": "320",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-s-krevetkami-117221/"
+  },
+  "119677": {
+    "name": "Торт \"Банан-карамель\" с вареной сгущенкой",
+    "price": "512",
+    "old_price": "854",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-banan-karamel-s-varenoy-sgushchenkoy-119677/"
   },
   "125813": {
     "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
