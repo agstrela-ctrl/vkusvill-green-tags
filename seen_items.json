@@ -13,6 +13,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-listovoy-v-gorshochke-18852/"
   },
+  "127521": {
+    "name": "Виноград \"султана\" без косточки, 500 г",
+    "price": "307",
+    "old_price": "512",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vinograd-sultana-bez-kostochki-127521/"
+  },
+  "36430": {
+    "name": "Биточки из мяса цыплят-бройлеров с сыром",
+    "price": "268",
+    "old_price": "447",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-tsyplyat-broylerov-s-syrom-36430/"
+  },
   "126666": {
     "name": "Котлета куриная паровая, зам.",
     "price": "128",
@@ -62,12 +76,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moloko-koze-2-288/"
   },
+  "126446": {
+    "name": "Брецель с солью",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-s-solyu-126446/"
+  },
   "93904": {
     "name": "Печенье \"Бархатное\"",
     "price": "173",
     "old_price": "288",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-barkhatnoe-93904/"
+  },
+  "121970": {
+    "name": "Десерт \"Бонфуа\" с манго и крем-чиз",
+    "price": "170",
+    "old_price": "284",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-bonfua-s-mango-i-krem-chiz-121970/"
   },
   "126668": {
     "name": "Тефтели домашние из говядины и свинины, зам.",
