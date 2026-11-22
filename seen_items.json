@@ -1,9 +1,51 @@
 {
-  "39250": {
-    "name": "Чиабатта с курицей, пармезаном и соусом цезарь, кафе",
-    "price": "179",
-    "old_price": "298",
+  "67859": {
+    "name": "Розы кустовые в горшочке",
+    "price": "270",
+    "old_price": "450",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/chiabatta-s-kuritsey-39250/"
+    "link": "https://vkusvill.ru/goods/rozy-kustovye-v-gorshochke-67859/"
+  },
+  "75484": {
+    "name": "Огурчики с грядки, 300 г",
+    "price": "141",
+    "old_price": "235",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ogurchiki-s-gryadki-75484/"
+  },
+  "36880": {
+    "name": "Паштет куриный сливочный с кориандром",
+    "price": "112",
+    "old_price": "186",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pashtet-kurinyy-slivochnyy-s-koriandrom-36880/"
+  },
+  "288": {
+    "name": "Молоко козье 2,8-4%",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-koze-2-288/"
+  },
+  "126353": {
+    "name": "Йогурт питьевой безлактозный с яблоком без доб.сахара, 2,5%",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-s-yablokom-bez-dob-sakhara-126353/"
+  },
+  "54702": {
+    "name": "Торт \"Медовый\" со сметанным кремом",
+    "price": "395",
+    "old_price": "658",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-medovyy-so-smetannym-kremom-54702/"
+  },
+  "123710": {
+    "name": "Клаб-сэндвич с ветчиной и сыром Чеддер",
+    "price": "167",
+    "old_price": "278",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/klab-sendvich-s-vetchinoy-i-syrom-chedder-123710/"
   }
 }
