@@ -13,20 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-pekinskoy-kapustoy-61483/"
   },
-  "25291": {
-    "name": "Салат \"Мимоза\", 180 г",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-mimoza-25291/"
-  },
-  "22459": {
-    "name": "Хлебцы \"Зерновые\"",
-    "price": "89",
-    "old_price": "148",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khlebtsy-zernovye-22459/"
-  },
   "22664": {
     "name": "Сэндвич ролл с горбушей и яйцом",
     "price": "161",
@@ -40,13 +26,6 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-tigrovymi-krevetkami-95811/"
-  },
-  "97844": {
-    "name": "Крем-суп тыквенный",
-    "price": "127",
-    "old_price": "212",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
   },
   "86021": {
     "name": "Бутерброд с тунцом и базиликом, 156 г",
@@ -131,12 +110,5 @@
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
-  },
-  "115112": {
-    "name": "Жаркое из кролика со сметаной",
-    "price": "499",
-    "old_price": "832",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zharkoe-iz-krolika-so-smetanoy-115112/"
   }
 }
