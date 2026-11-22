@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-pekinskoy-kapustoy-61483/"
   },
-  "96587": {
-    "name": "Салат винегрет, 180 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vinegret-96587/"
-  },
   "25291": {
     "name": "Салат \"Мимоза\", 180 г",
     "price": "143",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krem-sup-tykvennyy-97844/"
   },
-  "14983": {
-    "name": "Шейка свиная без кости",
-    "price": "508",
-    "old_price": "847",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sheyka-svinaya-bez-kosti-14983/"
-  },
   "86021": {
     "name": "Бутерброд с тунцом и базиликом, 156 г",
     "price": "162",
@@ -82,27 +68,6 @@
     "old_price": "270",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
-  },
-  "83026": {
-    "name": "Голень цыпленка-бройлера на зерновом откорме",
-    "price": "367",
-    "old_price": "612",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-na-zernovom-otkorme-83026/"
-  },
-  "83024": {
-    "name": "Филе грудки цыпленка-бройлера на зерновом откорме",
-    "price": "388",
-    "old_price": "647",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-na-zernovom-otkorme-83024/"
-  },
-  "115669": {
-    "name": "Мимоза с горбушей горячего копчения",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mimoza-s-gorbushey-goryachego-kopcheniya-115669/"
   },
   "108138": {
     "name": "Шаурма с грибным жюльеном и курицей",
@@ -152,13 +117,6 @@
     "old_price": "215",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khamsa-bez-golovy-nepotroshenaya-v-masle-23549/"
-  },
-  "113775": {
-    "name": "Мякоть ягненка без кости Халяль",
-    "price": "599",
-    "old_price": "998",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/myakot-yagnenka-bez-kosti-khalyal-113775/"
   },
   "117221": {
     "name": "Сэндвич ролл \"Цезарь\" с креветками",
