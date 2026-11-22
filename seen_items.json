@@ -69,6 +69,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-kurinaya-dlya-burgera-126721/"
   },
+  "66833": {
+    "name": "Набор для супа из индейки",
+    "price": "197",
+    "old_price": "329",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/nabor-dlya-supa-iz-indeyki-66833/"
+  },
   "55365": {
     "name": "Смузи \"Ананас-кокос-манго\", 250 мл",
     "price": "97",
@@ -97,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-barkhatnoe-93904/"
   },
-  "121970": {
-    "name": "Десерт \"Бонфуа\" с манго и крем-чиз",
-    "price": "170",
-    "old_price": "284",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-bonfua-s-mango-i-krem-chiz-121970/"
-  },
   "126668": {
     "name": "Тефтели домашние из говядины и свинины, зам.",
     "price": "158",
@@ -117,5 +117,33 @@
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sous-yagodnyy-126838/"
+  },
+  "78473": {
+    "name": "Бургеры с куриной котлетой и сыром Чеддер",
+    "price": "150",
+    "old_price": "250",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/burgery-s-kurinoy-kotletoy-i-syrom-chedder-78473/"
+  },
+  "106904": {
+    "name": "Макароны с тушёной говядиной",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
+  },
+  "17143": {
+    "name": "Кускус с овощами",
+    "price": "120",
+    "old_price": "200",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuskus-s-ovoshchami-17143/"
+  },
+  "117119": {
+    "name": "Шашлычки куриные в беконе с печеными овощами и сырным соусом",
+    "price": "426",
+    "old_price": "710",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shashlychki-kurinye-v-bekone-s-pechenymi-ovoshchami-i-syrnym-sousom-117119/"
   }
 }
