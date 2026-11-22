@@ -1,11 +1,4 @@
 {
-  "19363": {
-    "name": "Салат \"Цезарь\"",
-    "price": "205",
-    "old_price": "342",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-19363/"
-  },
   "61483": {
     "name": "Салат \"Цезарь\" с курицей и пекинской капустой",
     "price": "181",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shaurma-s-gribnym-zhyulenom-i-kuritsey-108138/"
   },
-  "99757": {
-    "name": "Минтай филе в пивном кляре, 200 г",
-    "price": "230",
-    "old_price": "383",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mintay-file-v-pivnom-klyare-99757/"
-  },
   "127264": {
     "name": "Сэндвич ролл с индейкой и запеченной тыквой",
     "price": "198",
@@ -90,18 +76,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-s-krevetkami-117221/"
   },
-  "119677": {
-    "name": "Торт \"Банан-карамель\" с вареной сгущенкой",
-    "price": "512",
-    "old_price": "854",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-banan-karamel-s-varenoy-sgushchenkoy-119677/"
-  },
   "125813": {
     "name": "Хлеб ржано-пшеничный \"Калининградский\" с клюквой, нарезка",
     "price": "89",
     "old_price": "148",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-rzhano-pshenichnyy-kaliningradskiy-s-klyukvoy-125813/"
+  },
+  "119677": {
+    "name": "Торт \"Банан-карамель\" с вареной сгущенкой",
+    "price": "512",
+    "old_price": "854",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-banan-karamel-s-varenoy-sgushchenkoy-119677/"
   }
 }
