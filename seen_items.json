@@ -1,18 +1,4 @@
 {
-  "126666": {
-    "name": "Котлета куриная паровая, зам.",
-    "price": "128",
-    "old_price": "213",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-parovaya-126666/"
-  },
-  "126677": {
-    "name": "Соус по-мексикански с говядиной, зам.",
-    "price": "153",
-    "old_price": "255",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sous-po-meksikanski-s-govyadinoy-126677/"
-  },
   "126721": {
     "name": "Котлета куриная для бургера, зам.",
     "price": "114",
@@ -26,13 +12,6 @@
     "old_price": "185",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moloko-koze-2-288/"
-  },
-  "126668": {
-    "name": "Тефтели домашние из говядины и свинины, зам.",
-    "price": "158",
-    "old_price": "263",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tefteli-domashnie-iz-govyadiny-i-svininy-126668/"
   },
   "126838": {
     "name": "Соус ягодный, зам.",
