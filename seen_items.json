@@ -1,23 +1,9 @@
 {
-  "126721": {
-    "name": "Котлета куриная для бургера, зам.",
-    "price": "114",
-    "old_price": "190",
+  "22648": {
+    "name": "Креветки северные очищенные 300/400 в/м., 200 г",
+    "price": "432",
+    "old_price": "720",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotleta-kurinaya-dlya-burgera-126721/"
-  },
-  "288": {
-    "name": "Молоко козье 2,8-4%",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-koze-2-288/"
-  },
-  "126838": {
-    "name": "Соус ягодный, зам.",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sous-yagodnyy-126838/"
+    "link": "https://vkusvill.ru/goods/krevetki-severnye-ochishchennye-300-400-v-m-22648/"
   }
 }
