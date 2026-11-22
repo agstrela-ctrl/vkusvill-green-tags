@@ -6,20 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-listovoy-v-gorshochke-18852/"
   },
-  "106904": {
-    "name": "Макароны с тушёной говядиной",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
-  },
-  "35710": {
-    "name": "Набор: Салат Витаминный + Плов с курицей",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-salat-vitaminnyy-plov-s-kuritsey-35710/"
-  },
   "126666": {
     "name": "Котлета куриная паровая, зам.",
     "price": "128",
@@ -48,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotleta-kurinaya-dlya-burgera-126721/"
   },
-  "55365": {
-    "name": "Смузи \"Ананас-кокос-манго\", 250 мл",
-    "price": "97",
-    "old_price": "162",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/smuzi-ananas-kokos-mango-55365/"
-  },
   "288": {
     "name": "Молоко козье 2,8-4%",
     "price": "111",
@@ -75,13 +54,6 @@
     "old_price": "200",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuskus-s-ovoshchami-17143/"
-  },
-  "117119": {
-    "name": "Шашлычки куриные в беконе с печеными овощами и сырным соусом",
-    "price": "426",
-    "old_price": "710",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shashlychki-kurinye-v-bekone-s-pechenymi-ovoshchami-i-syrnym-sousom-117119/"
   },
   "126668": {
     "name": "Тефтели домашние из говядины и свинины, зам.",
