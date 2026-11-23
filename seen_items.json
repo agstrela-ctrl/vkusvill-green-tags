@@ -20,47 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-fistashkovyy-s-malinoy-22920/"
   },
-  "71656": {
-    "name": "Говядина томленая в гранатовом соке с картофельным пюре и фасолью",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-tomlenaya-v-granatovom-soke-s-kartofelnym-pyure-i-fasolyu-71656/"
-  },
-  "484": {
-    "name": "Тушка цыпленка-бройлера, охлажденная",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-484/"
-  },
-  "122737": {
-    "name": "Куриное филе гриль с киноа и овощами",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-gril-s-kinoa-i-ovoshchami-122737/"
-  },
   "185": {
     "name": "Творог 5%, 400 г",
     "price": "123",
     "old_price": "205",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tvorog-5-185/"
-  },
-  "28799": {
-    "name": "Плов с курицей",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-s-kuritsey-28799/"
-  },
-  "122564": {
-    "name": "Паста цельнозерновая с тунцом и запеченными томатами",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-tselnozernovaya-s-tuntsom-i-zapechennymi-tomatami-122564/"
   },
   "69875": {
     "name": "Ролл с креветкой и огурцом",
@@ -90,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
   },
-  "97075": {
-    "name": "Оладьи куриные с кабачком, 130 г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladi-kurinye-s-kabachkom-97075/"
-  },
   "83024": {
     "name": "Филе грудки цыпленка-бройлера на зерновом откорме",
     "price": "397",
@@ -110,13 +68,6 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
-  },
-  "22664": {
-    "name": "Сэндвич ролл с горбушей и яйцом",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664/"
   },
   "82338": {
     "name": "Наггетсы куриные, 500 г",
@@ -138,13 +89,6 @@
     "old_price": "93",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-zhitnyy-1039/"
-  },
-  "105840": {
-    "name": "Солянка \"по-домашнему\"",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/solyanka-po-domashnemu-105840/"
   },
   "127143": {
     "name": "Круассан миндальный с яблоком и корицей",
@@ -174,13 +118,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
   },
-  "110608": {
-    "name": "Клаб-сэндвич на угольном хлебе с пастрами из курицы и соусом \"Пряная паприка\"",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-na-ugolnom-khlebe-s-pastrami-iz-kuritsy-i-sousom-pryanaya-paprika-110608/"
-  },
   "121449": {
     "name": "Паста Тортильони с курицей и сыром в сливочно-томатном соусе",
     "price": "185",
@@ -208,13 +145,6 @@
     "old_price": "270",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
-  },
-  "25262": {
-    "name": "Суп-крем куриный",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-krem-kurinyy-25262/"
   },
   "85153": {
     "name": "Крылья цыплят-бройлеров две части раздельно",
@@ -251,40 +181,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-rybnaya-s-kartofelnym-pyure-i-salat-koul-slou-postnyy-114787/"
   },
-  "83595": {
-    "name": "Кесадилья с ветчиной из индейки и курицы с сыром",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-vetchinoy-iz-indeyki-i-kuritsy-s-syrom-83595/"
-  },
-  "27161": {
-    "name": "Сырники из творога, кафе",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-27161/"
-  },
   "65460": {
     "name": "Изделие х/б из зеленой гречки (на закваске)",
     "price": "86",
     "old_price": "144",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
-  },
-  "63899": {
-    "name": "Котлеты из свинины и говядины, 300 г",
-    "price": "282",
-    "old_price": "470",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-63899/"
-  },
-  "121339": {
-    "name": "Кесадилья с курицей, шпинатом и моцареллой",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-121339/"
   },
   "81722": {
     "name": "Изделие х/б \"Ржаной край\" зерновой, нарезка",
@@ -321,26 +223,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/koryushka-zharenaya-86669/"
   },
-  "89166": {
-    "name": "Крем-суп с лесными грибами",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krem-sup-s-lesnymi-gribami-89166/"
-  },
   "126750": {
     "name": "Онигири с крабом + соевый соус",
     "price": "147",
     "old_price": "245",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/onigiri-s-krabom-soevyy-sous-126750/"
-  },
-  "43088": {
-    "name": "Блины с грушей и мягким сыром",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-grushey-i-myagkim-syrom-43088/"
   },
   "126994": {
     "name": "Филе грудки утки с апельсинами",
@@ -362,13 +250,6 @@
     "old_price": "408",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/frikadelki-kurinye-s-kartofelnym-pyure-i-brusnichnym-sousom-116721/"
-  },
-  "39461": {
-    "name": "Салат мимоза, 300 г",
-    "price": "293",
-    "old_price": "488",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-mimoza-39461/"
   },
   "127532": {
     "name": "Курица с картофелем по-деревенски и маринованной капустой",
@@ -426,20 +307,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/prosto-shaurma-s-kuritsey-i-morkovkoy-po-koreyski-125578/"
   },
-  "112906": {
-    "name": "Рулет \"Классический\" с рикоттой, 250 г",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-klassicheskiy-s-rikottoy-112906/"
-  },
-  "25023": {
-    "name": "Блинчики \"Цезарь\"",
-    "price": "152",
-    "old_price": "254",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blinchiki-tsezar-25023/"
-  },
   "20748": {
     "name": "Коктейль из морепродуктов в маринаде, 200 г",
     "price": "171",
@@ -474,13 +341,6 @@
     "old_price": "830",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/forel-forel-gornaya-steyk-okhl-124903/"
-  },
-  "127364": {
-    "name": "Самса \"Бодоми\" с говядиной, 2 шт",
-    "price": "169",
-    "old_price": "282",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/samsa-bodomi-s-govyadinoy-127364/"
   },
   "120752": {
     "name": "Булочки-брецель с кунжутом, 2 шт",
