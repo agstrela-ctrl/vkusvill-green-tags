@@ -1,4 +1,11 @@
 {
+  "23074": {
+    "name": "Манго Египет",
+    "price": "231",
+    "old_price": "385",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
+  },
   "29450": {
     "name": "Яблоко Медовый хруст",
     "price": "135",
@@ -19,6 +26,20 @@
     "old_price": "45",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banan-56310/"
+  },
+  "489": {
+    "name": "Голень цыпленка-бройлера",
+    "price": "270",
+    "old_price": "450",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/golen-tsyplenka-broylera-489/"
+  },
+  "23160": {
+    "name": "Микс салатный \"Грасс\"",
+    "price": "144",
+    "old_price": "240",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/miks-salatnyy-grass-23160/"
   },
   "15197": {
     "name": "Ассорти из зелени, 100 г",
@@ -55,6 +76,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-aysberg-17125/"
   },
+  "128296": {
+    "name": "Напиток пивной \"Балтика безалкогольное сливочное\", 330 мл",
+    "price": "54",
+    "old_price": "90",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-pivnoy-baltika-bezalkogolnoe-slivochnoe-128296/"
+  },
   "63774": {
     "name": "Минтай жареный филе, 200 г",
     "price": "244",
@@ -62,12 +90,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mintay-zharenyy-file-63774/"
   },
-  "119016": {
-    "name": "Микс из капусты краснокочанной, капусты белокочанной и моркови, нарезка",
-    "price": "66",
-    "old_price": "110",
+  "123115": {
+    "name": "Лимонад \"Лимон-лайм\" с мятой и мелиссой, 330 мл",
+    "price": "100",
+    "old_price": "166",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-krasnokochannoy-119016/"
+    "link": "https://vkusvill.ru/goods/limonad-limon-laym-s-myatoy-i-melissoy-123115/"
+  },
+  "98336": {
+    "name": "Окорочок утиный с соевым соусом и чесноком",
+    "price": "677",
+    "old_price": "1128",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/okorochok-utinyy-s-soevym-sousom-i-chesnokom-98336/"
   },
   "91084": {
     "name": "Лепёшка \"Ёка\" с сыром и омлетом",
