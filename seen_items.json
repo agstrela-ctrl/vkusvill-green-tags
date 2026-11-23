@@ -1,4 +1,18 @@
 {
+  "69": {
+    "name": "Запеканка классическая",
+    "price": "462",
+    "old_price": "770",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/zapekanka-klassicheskaya-69/"
+  },
+  "106517": {
+    "name": "Масса творожная с соленой карамелью и арахисом 12%",
+    "price": "84",
+    "old_price": "140",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/massa-tvorozhnaya-s-solenoy-karamelyu-i-arakhisom-12-106517/"
+  },
   "605": {
     "name": "Лук репчатый",
     "price": "37",
@@ -19,6 +33,13 @@
     "old_price": "173",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/smetana-25-52/"
+  },
+  "75195": {
+    "name": "Йогурт греческий безлактозный 4%",
+    "price": "50",
+    "old_price": "84",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-grecheskiy-bezlaktoznyy-4-75195/"
   },
   "126386": {
     "name": "Дюрюм с кюфтой из говядины",
