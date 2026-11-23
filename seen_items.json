@@ -1,4 +1,25 @@
 {
+  "34835": {
+    "name": "Салат \"Витаминный\" с лимонной заправкой",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835/"
+  },
+  "30042": {
+    "name": "Ежики из индейки",
+    "price": "217",
+    "old_price": "362",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ezhiki-iz-indeyki-30042/"
+  },
+  "107823": {
+    "name": "Брецель на сливочном масле с кунжутом",
+    "price": "91",
+    "old_price": "152",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
+  },
   "100214": {
     "name": "Печенье \"Розовые лепестки\" с ванильной начинкой",
     "price": "157",
@@ -6,12 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-rozovye-lepestki-s-vanilnoy-nachinkoy-100214/"
   },
-  "35085": {
-    "name": "Пицца \"4 сыра\", зам.",
-    "price": "330",
-    "old_price": "550",
+  "119539": {
+    "name": "Лепешка Шоти, 300 г",
+    "price": "56",
+    "old_price": "94",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pitstsa-4-syra-35085/"
+    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
   },
   "23549": {
     "name": "Хамса без головы непотрошеная в масле, 200 г",
