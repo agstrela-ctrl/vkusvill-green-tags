@@ -90,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-postnye-s-kapustoy-i-zelenyu-40936/"
   },
-  "27376": {
-    "name": "Дорадо 400-600 охл., вес",
-    "price": "891",
-    "old_price": "1485",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/dorado-400-600-okhl-27376/"
-  },
   "619": {
     "name": "Кабачки",
     "price": "209",
@@ -138,6 +131,20 @@
     "old_price": "18",
     "discount": "39",
     "link": "https://vkusvill.ru/goods/semena-perets-sladkiy-zolotoy-bochonok-95646/"
+  },
+  "20234": {
+    "name": "Салат Шпинат, 50 г",
+    "price": "108",
+    "old_price": "180",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-shpinat-20234/"
+  },
+  "27376": {
+    "name": "Дорадо 400-600 охл., вес",
+    "price": "891",
+    "old_price": "1485",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/dorado-400-600-okhl-27376/"
   },
   "95929": {
     "name": "Изделие х/б тартин \"Льняное\"",
