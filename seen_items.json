@@ -76,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepyeshka-yeka-s-syrom-i-omletom-91084/"
   },
-  "81765": {
-    "name": "Нерка натуральная ж/б, 227 г",
-    "price": "249",
-    "old_price": "415",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nerka-naturalnaya-zh-b-81765/"
-  },
   "113851": {
     "name": "Капуста очищенная половинка, шт",
     "price": "51",
@@ -90,19 +83,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kapusta-ochishchennaya-polovinka-113851/"
   },
-  "55032": {
-    "name": "Свечи для торта, 24 шт",
-    "price": "61",
-    "old_price": "102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/svechi-dlya-torta-55032/"
-  },
   "40936": {
     "name": "Пирожки постные с капустой и зеленью, 140 г (2 шт)",
     "price": "96",
     "old_price": "160",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhki-postnye-s-kapustoy-i-zelenyu-40936/"
+  },
+  "619": {
+    "name": "Кабачки",
+    "price": "209",
+    "old_price": "348",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kabachki-619/"
   },
   "106786": {
     "name": "Изделие х/б \"Ремесленный\" с пророщенными семенами ржи. Пекарня",
