@@ -1,4 +1,32 @@
 {
+  "100214": {
+    "name": "Печенье \"Розовые лепестки\" с ванильной начинкой",
+    "price": "157",
+    "old_price": "262",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-rozovye-lepestki-s-vanilnoy-nachinkoy-100214/"
+  },
+  "118965": {
+    "name": "\"Грейнсы\" с семенами тыквы, чиа и конопли",
+    "price": "157",
+    "old_price": "262",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/greynsy-s-semenami-tykvy-118965/"
+  },
+  "114798": {
+    "name": "Пельмени мини с курицей",
+    "price": "225",
+    "old_price": "375",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pelmeni-mini-s-kuritsey-114798/"
+  },
+  "35085": {
+    "name": "Пицца \"4 сыра\", зам.",
+    "price": "330",
+    "old_price": "550",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pitstsa-4-syra-35085/"
+  },
   "23549": {
     "name": "Хамса без головы непотрошеная в масле, 200 г",
     "price": "129",
