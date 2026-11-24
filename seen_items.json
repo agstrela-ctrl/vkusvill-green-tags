@@ -1,4 +1,11 @@
 {
+  "113571": {
+    "name": "Батон \"Молодежная классика\", нарезка",
+    "price": "38",
+    "old_price": "63",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/baton-molodezhnaya-klassika-113571/"
+  },
   "112775": {
     "name": "Изделие х/б \"Зерновой\" с куркумой",
     "price": "67",
@@ -6,12 +13,40 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
   },
+  "125687": {
+    "name": "Хлеб \"Тыквенный\" с семечками",
+    "price": "80",
+    "old_price": "133",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-tykvennyy-s-semechkami-125687/"
+  },
   "17243": {
     "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
     "price": "38",
     "old_price": "63",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
+  },
+  "113574": {
+    "name": "Батон \"Сдобный\" на сливочном масле",
+    "price": "47",
+    "old_price": "79",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
+  },
+  "14662": {
+    "name": "Медальоны в рисовых хлопьях, охл.",
+    "price": "424",
+    "old_price": "707",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/medalony-v-risovykh-khlopyakh-14662/"
+  },
+  "18336": {
+    "name": "Чиабатта",
+    "price": "76",
+    "old_price": "127",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/chiabatta-18336/"
   },
   "46813": {
     "name": "Пирожки с зеленью и яйцом на сметанном тесте, 120 г (2шт)",
