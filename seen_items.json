@@ -1,23 +1,9 @@
 {
-  "123820": {
-    "name": "Минтай филе порционное зам., 400 г",
-    "price": "276",
-    "old_price": "460",
+  "731": {
+    "name": "Бананы",
+    "price": "101",
+    "old_price": "168",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/mintay-file-portsionnoe-zam-123820/"
-  },
-  "39234": {
-    "name": "Форель филе зам.",
-    "price": "1737",
-    "old_price": "2895",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-file-zam-39234/"
-  },
-  "33425": {
-    "name": "Мармелад Мармеландия Дольки лимонные 250 г",
-    "price": "147",
-    "old_price": "245",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/marmelad-marmelandiya-dolki-limonnye-250-g-33425/"
+    "link": "https://vkusvill.ru/goods/banany-731/"
   }
 }
