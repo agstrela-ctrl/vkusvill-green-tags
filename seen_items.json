@@ -195,13 +195,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bekon-iz-svininy-dlya-zharki-115074/"
   },
-  "98527": {
-    "name": "Овощи микс на пару",
-    "price": "138",
-    "old_price": "230",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
-  },
   "116990": {
     "name": "Квисо цыпленка-бройлера в цитрусовом маринаде",
     "price": "326",
@@ -216,13 +209,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-zapechennoy-tykvoy-127264/"
   },
-  "125578": {
-    "name": "\"Просто шаурма\" с курицей и морковкой по-корейски",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/prosto-shaurma-s-kuritsey-i-morkovkoy-po-koreyski-125578/"
-  },
   "115250": {
     "name": "Перец фаршированный с курицей",
     "price": "361",
@@ -230,19 +216,33 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/perets-farshirovannyy-s-kuritsey-115250/"
   },
-  "90366": {
-    "name": "Набор пирожных \"Картошка - Муравьешкино\", 6 шт.",
-    "price": "317",
-    "old_price": "529",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-pirozhnykh-kartoshka-muraveshkino-90366/"
-  },
   "82209": {
     "name": "Молоко Вкуснотеево пастеризованное цельное 3,5-6% 900 г",
     "price": "95",
     "old_price": "159",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moloko-vkusnoteevo-pasterizovannoe-tselnoe-3-82209/"
+  },
+  "98527": {
+    "name": "Овощи микс на пару",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ovoshchi-miks-na-paru-98527/"
+  },
+  "125578": {
+    "name": "\"Просто шаурма\" с курицей и морковкой по-корейски",
+    "price": "155",
+    "old_price": "258",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/prosto-shaurma-s-kuritsey-i-morkovkoy-po-koreyski-125578/"
+  },
+  "90366": {
+    "name": "Набор пирожных \"Картошка - Муравьешкино\", 6 шт.",
+    "price": "317",
+    "old_price": "529",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/nabor-pirozhnykh-kartoshka-muraveshkino-90366/"
   },
   "125469": {
     "name": "Мойва неразделанная холодного копчения, 200 г",
