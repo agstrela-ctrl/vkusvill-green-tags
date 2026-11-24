@@ -1,11 +1,4 @@
 {
-  "23074": {
-    "name": "Манго Египет",
-    "price": "231",
-    "old_price": "385",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
-  },
   "605": {
     "name": "Лук репчатый",
     "price": "37",
@@ -19,12 +12,5 @@
     "old_price": "127",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-18336/"
-  },
-  "125469": {
-    "name": "Мойва неразделанная холодного копчения, 200 г",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/moyva-nerazdelannaya-kholodnogo-kopcheniya-125469/"
   }
 }
