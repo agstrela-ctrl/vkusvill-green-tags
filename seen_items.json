@@ -1,10 +1,10 @@
 {
-  "79663": {
-    "name": "Вода питьевая негазированная, 5 л",
-    "price": "72",
-    "old_price": "120",
+  "37174": {
+    "name": "Торт домашний \"Наполеон\"",
+    "price": "478",
+    "old_price": "796",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
+    "link": "https://vkusvill.ru/goods/tort-domashniy-napoleon-37174/"
   },
   "18336": {
     "name": "Чиабатта",
@@ -12,12 +12,5 @@
     "old_price": "127",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-18336/"
-  },
-  "120567": {
-    "name": "Жюльен из морепродуктов зам., 200 г",
-    "price": "281",
-    "old_price": "468",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhyulen-iz-moreproduktov-zam-120567/"
   }
 }
