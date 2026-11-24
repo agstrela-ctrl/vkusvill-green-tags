@@ -1,16 +1,23 @@
 {
-  "68894": {
-    "name": "Кабачки, 2 шт",
-    "price": "179",
-    "old_price": "298",
+  "123820": {
+    "name": "Минтай филе порционное зам., 400 г",
+    "price": "276",
+    "old_price": "460",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/kabachki-68894/"
+    "link": "https://vkusvill.ru/goods/mintay-file-portsionnoe-zam-123820/"
   },
-  "82209": {
-    "name": "Молоко Вкуснотеево пастеризованное цельное 3,5-6% 900 г",
-    "price": "95",
-    "old_price": "159",
+  "39234": {
+    "name": "Форель филе зам.",
+    "price": "1737",
+    "old_price": "2895",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/moloko-vkusnoteevo-pasterizovannoe-tselnoe-3-82209/"
+    "link": "https://vkusvill.ru/goods/forel-file-zam-39234/"
+  },
+  "33425": {
+    "name": "Мармелад Мармеландия Дольки лимонные 250 г",
+    "price": "147",
+    "old_price": "245",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/marmelad-marmelandiya-dolki-limonnye-250-g-33425/"
   }
 }
