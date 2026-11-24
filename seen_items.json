@@ -1,16 +1,16 @@
 {
-  "37174": {
-    "name": "Торт домашний \"Наполеон\"",
-    "price": "478",
-    "old_price": "796",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-domashniy-napoleon-37174/"
-  },
   "18336": {
     "name": "Чиабатта",
     "price": "76",
     "old_price": "127",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/chiabatta-18336/"
+  },
+  "37174": {
+    "name": "Торт домашний \"Наполеон\"",
+    "price": "478",
+    "old_price": "796",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-domashniy-napoleon-37174/"
   }
 }
