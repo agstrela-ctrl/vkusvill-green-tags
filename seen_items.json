@@ -1,10 +1,17 @@
 {
-  "605": {
-    "name": "Лук репчатый",
-    "price": "37",
-    "old_price": "62",
+  "79663": {
+    "name": "Вода питьевая негазированная, 5 л",
+    "price": "72",
+    "old_price": "120",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/luk-repchatyy-605/"
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-negazirovannaya-79663/"
+  },
+  "48589": {
+    "name": "Вода минеральная \"Легенда гор Архыз\", негаз., 5 л",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-mineralnaya-legenda-gor-arkhyz-48589/"
   },
   "18336": {
     "name": "Чиабатта",
