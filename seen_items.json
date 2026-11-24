@@ -1,11 +1,4 @@
 {
-  "123606": {
-    "name": "Пирожное \"Фисташка\" в шоколаде",
-    "price": "222",
-    "old_price": "370",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-fistashka-v-shokolade-123606/"
-  },
   "74272": {
     "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
     "price": "72",
@@ -20,20 +13,6 @@
     "discount": "41",
     "link": "https://vkusvill.ru/goods/baton-sdobnyy-na-slivochnom-masle-113574/"
   },
-  "14662": {
-    "name": "Медальоны в рисовых хлопьях, охл.",
-    "price": "424",
-    "old_price": "707",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/medalony-v-risovykh-khlopyakh-14662/"
-  },
-  "125235": {
-    "name": "Рулетики с грецким орехом",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ruletiki-s-gretskim-orekhom-125235/"
-  },
   "18336": {
     "name": "Чиабатта",
     "price": "76",
@@ -47,13 +26,6 @@
     "old_price": "144",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
-  },
-  "115669": {
-    "name": "Мимоза с горбушей горячего копчения",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mimoza-s-gorbushey-goryachego-kopcheniya-115669/"
   },
   "685": {
     "name": "Пряник \"Паломник\"",
