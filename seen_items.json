@@ -1,51 +1,9 @@
 {
-  "67492": {
-    "name": "Рис с куриной бризолью",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-s-kurinoy-brizolyu-67492/"
-  },
-  "126494": {
-    "name": "Йогурт сливочный с молочными подушечками 6%",
-    "price": "82",
-    "old_price": "137",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-slivochnyy-s-molochnymi-podushechkami-6-126494/"
-  },
-  "19345": {
-    "name": "Блины пшеничные",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-pshenichnye-19345/"
-  },
-  "23760": {
-    "name": "Салат \"Кальмаровый\"",
-    "price": "167",
-    "old_price": "278",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-kalmarovyy-23760/"
-  },
-  "75357": {
-    "name": "Йогурт Teos Греческий 2% 250 г",
-    "price": "75",
-    "old_price": "125",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-teos-grecheskiy-2-250-g-75357/"
-  },
   "731": {
     "name": "Бананы",
     "price": "101",
     "old_price": "168",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-731/"
-  },
-  "40598": {
-    "name": "Макаронные изделия Barilla №98 Фузилли спирали 450 г",
-    "price": "83",
-    "old_price": "139",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/makaronnye-izdeliya-barilla-98-fuzilli-spirali-450-g-40598/"
   }
 }
