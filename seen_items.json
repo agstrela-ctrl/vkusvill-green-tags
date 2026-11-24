@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-svekolnyy-s-gretskim-orekhom-38977/"
   },
-  "22920": {
-    "name": "Рулет фисташковый с малиной",
-    "price": "311",
-    "old_price": "518",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-fistashkovyy-s-malinoy-22920/"
-  },
   "112775": {
     "name": "Изделие х/б \"Зерновой\" с куркумой",
     "price": "67",
@@ -26,13 +19,6 @@
     "old_price": "585",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grudka-tsyplyat-broylerov-bez-kozhi-93666/"
-  },
-  "76931": {
-    "name": "Онигири с креветкой",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-krevetkoy-76931/"
   },
   "83024": {
     "name": "Филе грудки цыпленка-бройлера на зерновом откорме",
@@ -76,47 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-tortiloni-s-kuritsey-i-syrom-v-slivochno-tomatnom-souse-121449/"
   },
-  "62414": {
-    "name": "Котлеты куриные",
-    "price": "258",
-    "old_price": "430",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-62414/"
-  },
-  "98204": {
-    "name": "Сэндвич ролл с индейкой и сладким чили",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-sladkim-chili-98204/"
-  },
-  "65409": {
-    "name": "Салат \"Витаминный\" с лимонной заправкой, 500 г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
-  },
-  "58465": {
-    "name": "Булочка с маком и шоколадом",
-    "price": "149",
-    "old_price": "248",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochka-s-makom-i-shokoladom-58465/"
-  },
   "106625": {
     "name": "Рулет бисквитный \"Шоколад-карамель-арахис\", 140 г",
     "price": "172",
     "old_price": "286",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-shokolad-karamel-arakhis-106625/"
-  },
-  "114787": {
-    "name": "Комбо-набор: Котлета рыбная с картофельным пюре и Салат \"Коул Слоу\" постный",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-rybnaya-s-kartofelnym-pyure-i-salat-koul-slou-postnyy-114787/"
   },
   "65460": {
     "name": "Изделие х/б из зеленой гречки (на закваске)",
@@ -139,13 +90,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/moyva-zharenaya-65170/"
   },
-  "66421": {
-    "name": "Коктейль из морепродуктов в масле, 180 г",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kokteyl-iz-moreproduktov-v-masle-66421/"
-  },
   "86669": {
     "name": "Корюшка жареная, 200 г",
     "price": "286",
@@ -166,20 +110,6 @@
     "old_price": "577",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-grudki-utki-s-apelsinami-126994/"
-  },
-  "116721": {
-    "name": "Фрикадельки куриные с картофельным пюре и брусничным соусом",
-    "price": "245",
-    "old_price": "408",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/frikadelki-kurinye-s-kartofelnym-pyure-i-brusnichnym-sousom-116721/"
-  },
-  "102450": {
-    "name": "Салат \"Гнездо глухаря\" с копченой курицей, 260 г.",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-gnezdo-glukharya-s-kopchenoy-kuritsey-102450/"
   },
   "125477": {
     "name": "Салат с фасолью и куриной ветчиной",
