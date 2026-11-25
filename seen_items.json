@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
   },
-  "31275": {
-    "name": "Укроп, 100 г",
-    "price": "63",
-    "old_price": "105",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ukrop-31275/"
-  },
   "129030": {
     "name": "Бутерброд \"Мам, сделай бутер\"",
     "price": "179",
@@ -41,26 +34,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-dlya-khot-doga-121599/"
   },
-  "128792": {
-    "name": "Оладушки \"Утро воскресенья\"",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladushki-utro-voskresenya-128792/"
-  },
   "90092": {
     "name": "Равиоли с сыром моцарелла и вялеными томатами",
     "price": "307",
     "old_price": "511",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ravioli-s-syrom-motsarella-i-vyalenymi-tomatami-90092/"
-  },
-  "17398": {
-    "name": "Проростки Фасоли (маш)",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/prorostki-fasoli-mash-17398/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
