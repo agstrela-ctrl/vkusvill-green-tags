@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-kurinye-rublenye-119261/"
   },
-  "29461": {
-    "name": "Коврижка яблочная постная, кафе",
-    "price": "109",
-    "old_price": "182",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kovrizhka-yablochnaya-postnaya-29461/"
-  },
   "129030": {
     "name": "Бутерброд \"Мам, сделай бутер\"",
     "price": "179",
@@ -75,6 +68,13 @@
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/govyadina-tushenaya-s-lisichkami-i-pastoy-rizo-v-slivochno-gribnom-souse-101030/"
+  },
+  "49979": {
+    "name": "Изделие х/б \"Тостовый с льном и кунжутом\", нарезка",
+    "price": "62",
+    "old_price": "103",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-kh-b-tostovyy-s-lnom-i-kunzhutom-49979/"
   },
   "65460": {
     "name": "Изделие х/б из зеленой гречки (на закваске)",
