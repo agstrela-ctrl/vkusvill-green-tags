@@ -1,4 +1,11 @@
 {
+  "126407": {
+    "name": "Десерт молочный \"Наполеон\" без добавления сахара",
+    "price": "163",
+    "old_price": "272",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-bez-dobavleniya-sakhara-126407/"
+  },
   "30220": {
     "name": "Паста с лососем в сливочном соусе",
     "price": "204",
@@ -33,13 +40,6 @@
     "old_price": "518",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-kurinye-rublenye-119261/"
-  },
-  "105788": {
-    "name": "Овощной микс \"Витаминное трио\", 250 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
   },
   "29461": {
     "name": "Коврижка яблочная постная, кафе",
@@ -97,33 +97,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pibimpab-s-kuritsey-125769/"
   },
-  "121339": {
-    "name": "Кесадилья с курицей, шпинатом и моцареллой",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kesadilya-s-kuritsey-121339/"
-  },
   "128792": {
     "name": "Оладушки \"Утро воскресенья\"",
     "price": "131",
     "old_price": "218",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladushki-utro-voskresenya-128792/"
-  },
-  "123009": {
-    "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
-    "price": "47",
-    "old_price": "78",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
-  "77153": {
-    "name": "Свекольник на кефире",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
   },
   "17398": {
     "name": "Проростки Фасоли (маш)",
