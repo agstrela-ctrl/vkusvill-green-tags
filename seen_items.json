@@ -76,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
   },
-  "51915": {
-    "name": "Вок фунчоза с креветками",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vok-funchoza-s-krevetkami-51915/"
-  },
   "73475": {
     "name": "Торт \"Бенто\" с клубникой (С Днем Рождения)",
     "price": "332",
@@ -97,26 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
   },
-  "26797": {
-    "name": "Творог обезжиренный, 180 г",
-    "price": "66",
-    "old_price": "110",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-obezzhirennyy-26797/"
-  },
   "97552": {
     "name": "Котлеты из мяса цыплёнка-бройлера и индейки с моцареллой",
     "price": "260",
     "old_price": "433",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyenka-broylera-i-indeyki-s-motsarelloy-97552/"
-  },
-  "61150": {
-    "name": "Ролл с огурцом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
   },
   "27161": {
     "name": "Сырники из творога, кафе",
@@ -159,13 +138,6 @@
     "old_price": "96",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-dlya-khot-doga-121599/"
-  },
-  "90171": {
-    "name": "Суп с куриными фрикадельками и пастой \"Звездочки\", 1 кг",
-    "price": "311",
-    "old_price": "518",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-s-kurinymi-frikadelkami-i-pastoy-zvezdochki-90171/"
   },
   "117119": {
     "name": "Шашлычки куриные в беконе с печеными овощами и сырным соусом",
@@ -223,13 +195,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/omlet-s-kuritsey-i-syrom-21451/"
   },
-  "118342": {
-    "name": "Боул с курицей \"Терияки\", киноа и азиатским соусом",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/boul-s-kuritsey-teriyaki-118342/"
-  },
   "29587": {
     "name": "Котлеты из цыпленка-бройлера со сливочным маслом и укропом",
     "price": "319",
@@ -285,13 +250,6 @@
     "old_price": "238",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-iz-soevoy-sparzhi-s-ovoshchami-marinovannyy-po-koreyski-104308/"
-  },
-  "119124": {
-    "name": "Креветки \"Королевские\" очищ. с хвостом вареные подкопченные 41/50 охл., 150 г",
-    "price": "273",
-    "old_price": "455",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-korolevskie-ochishch-s-khvostom-varenye-podkopchennye-41-50-okhl-119124/"
   },
   "121452": {
     "name": "Грибы Ежовики, 125г",
