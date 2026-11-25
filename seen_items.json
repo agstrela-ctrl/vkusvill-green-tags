@@ -1,18 +1,4 @@
 {
-  "126407": {
-    "name": "Десерт молочный \"Наполеон\" без добавления сахара",
-    "price": "163",
-    "old_price": "272",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-molochnyy-napoleon-bez-dobavleniya-sakhara-126407/"
-  },
-  "30220": {
-    "name": "Паста с лососем в сливочном соусе",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pasta-s-lososem-v-slivochnom-souse-30220/"
-  },
   "104161": {
     "name": "Салат \"Шпроты под шубой\"",
     "price": "185",
@@ -34,33 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
   },
-  "119261": {
-    "name": "Котлеты куриные рубленые, 360 г",
-    "price": "311",
-    "old_price": "518",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-rublenye-119261/"
-  },
   "129030": {
     "name": "Бутерброд \"Мам, сделай бутер\"",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/buterbrod-mam-129030/"
-  },
-  "114787": {
-    "name": "Комбо-набор: Котлета рыбная с картофельным пюре и Салат \"Коул Слоу\" постный",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-rybnaya-s-kartofelnym-pyure-i-salat-koul-slou-postnyy-114787/"
-  },
-  "106625": {
-    "name": "Рулет бисквитный \"Шоколад-карамель-арахис\", 140 г",
-    "price": "172",
-    "old_price": "286",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-shokolad-karamel-arakhis-106625/"
   },
   "101030": {
     "name": "Говядина тушеная с лисичками и пастой Ризо в сливочно-грибном соусе",
@@ -75,20 +40,6 @@
     "old_price": "103",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-tostovyy-s-lnom-i-kunzhutom-49979/"
-  },
-  "65460": {
-    "name": "Изделие х/б из зеленой гречки (на закваске)",
-    "price": "86",
-    "old_price": "144",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-iz-zelenoy-grechki-na-zakvaske-65460/"
-  },
-  "34570": {
-    "name": "Блины с курицей в сливочном соусе",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-kuritsey-v-slivochnom-souse-34570/"
   },
   "125769": {
     "name": "Пибимпаб с курицей",
