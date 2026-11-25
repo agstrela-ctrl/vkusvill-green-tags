@@ -55,13 +55,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-115261/"
   },
-  "126590": {
-    "name": "Курица по-корейски \"Яннем\" с яичной лапшой",
-    "price": "233",
-    "old_price": "388",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kuritsa-po-koreyski-yannem-s-yaichnoy-lapshoy-126590/"
-  },
   "99858": {
     "name": "Оладьи из тыквы",
     "price": "108",
@@ -76,33 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
   },
-  "73475": {
-    "name": "Торт \"Бенто\" с клубникой (С Днем Рождения)",
-    "price": "332",
-    "old_price": "554",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
-  },
   "106904": {
     "name": "Макароны с тушёной говядиной",
     "price": "174",
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
-  },
-  "97552": {
-    "name": "Котлеты из мяса цыплёнка-бройлера и индейки с моцареллой",
-    "price": "260",
-    "old_price": "433",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-myasa-tsyplyenka-broylera-i-indeyki-s-motsarelloy-97552/"
-  },
-  "27161": {
-    "name": "Сырники из творога, кафе",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-27161/"
   },
   "63579": {
     "name": "Нерка слабосоленая ломтик, 100 г",
@@ -145,13 +117,6 @@
     "old_price": "710",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shashlychki-kurinye-v-bekone-s-pechenymi-ovoshchami-i-syrnym-sousom-117119/"
-  },
-  "127960": {
-    "name": "Лапша рисовая с жареной свининой и овощами \"Бун-ча\" по-вьетнамски",
-    "price": "227",
-    "old_price": "378",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-risovaya-s-zharenoy-svininoy-i-ovoshchami-bun-cha-po-vetnamski-127960/"
   },
   "128179": {
     "name": "Греночки \"Молочные\" с вишневым вареньем",
@@ -201,13 +166,6 @@
     "old_price": "532",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-so-slivochnym-maslom-i-ukropom-29587/"
-  },
-  "126685": {
-    "name": "Грудка куриная запеченная",
-    "price": "227",
-    "old_price": "378",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grudka-kurinaya-zapechennaya-126685/"
   },
   "65170": {
     "name": "Мойва жареная, 200 г",
