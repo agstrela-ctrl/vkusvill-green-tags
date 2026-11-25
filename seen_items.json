@@ -6,26 +6,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-shproty-pod-shuboy-104161/"
   },
-  "94337": {
-    "name": "Треска атлантическая филе спинка зам., 600 г",
-    "price": "951",
-    "old_price": "1585",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/treska-atlanticheskaya-file-spinka-zam-94337/"
-  },
-  "63575": {
-    "name": "Форель филе-кусок на коже охл., 350 г",
-    "price": "594",
-    "old_price": "990",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-file-kusok-na-kozhe-okhl-63575/"
-  },
   "129030": {
     "name": "Бутерброд \"Мам, сделай бутер\"",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/buterbrod-mam-129030/"
+  },
+  "16670": {
+    "name": "Рукав для запекания 30см *3м",
+    "price": "60",
+    "old_price": "100",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rukav-dlya-zapekaniya-30sm-3m-16670/"
   },
   "105063": {
     "name": "Кета стейк зам., 500 г",
@@ -40,6 +33,13 @@
     "old_price": "475",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kotlety-domashnie-zharenye-68993/"
+  },
+  "92469": {
+    "name": "Палочки кукурузные с ароматом клубники и банана",
+    "price": "64",
+    "old_price": "107",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/palochki-kukuruznye-s-aromatom-klubniki-i-banana-92469/"
   },
   "125763": {
     "name": "Кижуч филе-кусок на коже зам., 400 г",
