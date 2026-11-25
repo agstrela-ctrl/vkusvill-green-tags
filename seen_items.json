@@ -27,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
   },
-  "68412": {
-    "name": "Сэндвич ролл \"Сельдь под шубой\"",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-seld-pod-shuboy-68412/"
-  },
   "31275": {
     "name": "Укроп, 100 г",
     "price": "63",
@@ -47,13 +40,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/buterbrod-mam-129030/"
-  },
-  "119383": {
-    "name": "Салат \"Цезарь\" легкий",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
   },
   "121599": {
     "name": "Булочки для хот-дога, 3 шт",
@@ -69,19 +55,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladushki-utro-voskresenya-128792/"
   },
-  "17398": {
-    "name": "Проростки Фасоли (маш)",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/prorostki-fasoli-mash-17398/"
-  },
   "90092": {
     "name": "Равиоли с сыром моцарелла и вялеными томатами",
     "price": "307",
     "old_price": "511",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ravioli-s-syrom-motsarella-i-vyalenymi-tomatami-90092/"
+  },
+  "68412": {
+    "name": "Сэндвич ролл \"Сельдь под шубой\"",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-seld-pod-shuboy-68412/"
+  },
+  "17398": {
+    "name": "Проростки Фасоли (маш)",
+    "price": "111",
+    "old_price": "185",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/prorostki-fasoli-mash-17398/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
