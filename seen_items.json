@@ -1,11 +1,4 @@
 {
-  "43240": {
-    "name": "Плов с курицей, 600 г",
-    "price": "258",
-    "old_price": "430",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-s-kuritsey-43240/"
-  },
   "104161": {
     "name": "Салат \"Шпроты под шубой\"",
     "price": "185",
@@ -96,13 +89,6 @@
     "old_price": "195",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khurma-persimon-dolki-128342/"
-  },
-  "21451": {
-    "name": "Омлет с курицей и сыром",
-    "price": "143",
-    "old_price": "238",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-s-kuritsey-i-syrom-21451/"
   },
   "29587": {
     "name": "Котлеты из цыпленка-бройлера со сливочным маслом и укропом",
