@@ -1,11 +1,4 @@
 {
-  "126047": {
-    "name": "Булочки для бургера \"Клаб Дуо\", 2 шт",
-    "price": "48",
-    "old_price": "80",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-klab-duo-126047/"
-  },
   "129030": {
     "name": "Бутерброд \"Мам, сделай бутер\"",
     "price": "179",
@@ -19,13 +12,6 @@
     "old_price": "96",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-dlya-khot-doga-121599/"
-  },
-  "90092": {
-    "name": "Равиоли с сыром моцарелла и вялеными томатами",
-    "price": "307",
-    "old_price": "511",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ravioli-s-syrom-motsarella-i-vyalenymi-tomatami-90092/"
   },
   "112444": {
     "name": "Салат рыбный с неркой",
