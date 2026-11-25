@@ -1,9 +1,23 @@
 {
-  "53648": {
-    "name": "Макаронные изделия Barilla Фетучини гнезда 500 г",
-    "price": "299",
-    "old_price": "498",
+  "105840": {
+    "name": "Солянка \"по-домашнему\"",
+    "price": "172",
+    "old_price": "286",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/makaronnye-izdeliya-barilla-fetuchini-gnezda-500-g-53648/"
+    "link": "https://vkusvill.ru/goods/solyanka-po-domashnemu-105840/"
+  },
+  "15310": {
+    "name": "Кинза, 50 г",
+    "price": "69",
+    "old_price": "115",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kinza-15310/"
+  },
+  "29587": {
+    "name": "Котлеты из цыпленка-бройлера со сливочным маслом и укропом",
+    "price": "319",
+    "old_price": "532",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-so-slivochnym-maslom-i-ukropom-29587/"
   }
 }
