@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kefir-2-58202/"
   },
-  "63729": {
-    "name": "Шаурма с курицей и печеным картофелем",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-i-pechenym-kartofelem-63729/"
-  },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
     "price": "72",
@@ -104,26 +97,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-dlya-khot-doga-121599/"
   },
-  "128179": {
-    "name": "Греночки \"Молочные\" с вишневым вареньем",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grenochki-molochnye-s-vishnevym-varenem-128179/"
-  },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
     "price": "47",
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
-  },
-  "115788": {
-    "name": "Салат с уткой су-вид и мандаринами",
-    "price": "292",
-    "old_price": "486",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-utkoy-su-vid-i-mandarinami-115788/"
   },
   "128342": {
     "name": "Хурма Персимон дольки, 140 г",
