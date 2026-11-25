@@ -1,11 +1,4 @@
 {
-  "53515": {
-    "name": "Котлеты куриные с моцареллой с булгуром, киноа и овощами",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-kurinye-s-motsarelloy-s-bulgurom-53515/"
-  },
   "30220": {
     "name": "Паста с лососем в сливочном соусе",
     "price": "204",
@@ -13,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-s-lososem-v-slivochnom-souse-30220/"
   },
-  "111212": {
-    "name": "Куриное филе запеченное с цукини и моцареллой",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-tsukini-i-motsarelloy-111212/"
-  },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
     "price": "72",
     "old_price": "120",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
-  },
-  "35710": {
-    "name": "Набор: Салат Витаминный + Плов с курицей",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/nabor-salat-vitaminnyy-plov-s-kuritsey-35710/"
   },
   "108451": {
     "name": "Микс салатный \"Корн и радичио\", 75 г",
