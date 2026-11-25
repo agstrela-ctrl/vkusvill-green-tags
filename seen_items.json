@@ -1,51 +1,9 @@
 {
-  "104161": {
-    "name": "Салат \"Шпроты под шубой\"",
-    "price": "185",
-    "old_price": "308",
+  "90092": {
+    "name": "Равиоли с сыром моцарелла и вялеными томатами",
+    "price": "307",
+    "old_price": "511",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-shproty-pod-shuboy-104161/"
-  },
-  "126047": {
-    "name": "Булочки для бургера \"Клаб Дуо\", 2 шт",
-    "price": "48",
-    "old_price": "80",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-klab-duo-126047/"
-  },
-  "127027": {
-    "name": "Сэндвич с грибами и сливочным соусом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
-  },
-  "129030": {
-    "name": "Бутерброд \"Мам, сделай бутер\"",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/buterbrod-mam-129030/"
-  },
-  "128792": {
-    "name": "Оладушки \"Утро воскресенья\"",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladushki-utro-voskresenya-128792/"
-  },
-  "17398": {
-    "name": "Проростки Фасоли (маш)",
-    "price": "111",
-    "old_price": "185",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/prorostki-fasoli-mash-17398/"
-  },
-  "121452": {
-    "name": "Грибы Ежовики, 125г",
-    "price": "225",
-    "old_price": "375",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/griby-ezhoviki-121452/"
+    "link": "https://vkusvill.ru/goods/ravioli-s-syrom-motsarella-i-vyalenymi-tomatami-90092/"
   }
 }
