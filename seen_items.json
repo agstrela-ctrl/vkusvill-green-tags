@@ -20,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
   },
-  "119435": {
-    "name": "Лапша удон с кальмарами, креветками и овощами",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-udon-s-kalmarami-119435/"
-  },
   "111212": {
     "name": "Куриное филе запеченное с цукини и моцареллой",
     "price": "197",
     "old_price": "328",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kurinoe-file-zapechennoe-s-tsukini-i-motsarelloy-111212/"
-  },
-  "58202": {
-    "name": "Кефир 2,5%, 290 г",
-    "price": "42",
-    "old_price": "70",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kefir-2-58202/"
   },
   "105788": {
     "name": "Овощной микс \"Витаминное трио\", 250 г",
@@ -62,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sote-iz-indeyki-74054/"
   },
-  "50388": {
-    "name": "Коктейль детский молочный с малиной 2,5%",
-    "price": "34",
-    "old_price": "57",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kokteyl-detskiy-molochnyy-s-malinoy-2-50388/"
-  },
   "35710": {
     "name": "Набор: Салат Витаминный + Плов с курицей",
     "price": "240",
@@ -82,13 +61,6 @@
     "old_price": "195",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-korn-i-radichio-108451/"
-  },
-  "119383": {
-    "name": "Салат \"Цезарь\" легкий",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
   },
   "121599": {
     "name": "Булочки для хот-дога, 3 шт",
@@ -104,13 +76,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
   },
-  "128342": {
-    "name": "Хурма Персимон дольки, 140 г",
-    "price": "117",
-    "old_price": "195",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khurma-persimon-dolki-128342/"
-  },
   "65170": {
     "name": "Мойва жареная, 200 г",
     "price": "214",
@@ -124,13 +89,6 @@
     "old_price": "185",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/prorostki-fasoli-mash-17398/"
-  },
-  "89613": {
-    "name": "Йогурт сливочный со свежей малиной 5%",
-    "price": "80",
-    "old_price": "134",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-slivochnyy-so-svezhey-malinoy-5-89613/"
   },
   "29144": {
     "name": "Микс из грибов (эринги и шиитаке), шт",
