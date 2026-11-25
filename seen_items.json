@@ -1,17 +1,24 @@
 {
-  "95582": {
-    "name": "Мини-чиабатта с куриной ветчиной, омлетом и сыром (2 шт)",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/mini-chiabatta-s-kurinoy-vetchinoy-95582/"
-  },
   "30220": {
     "name": "Паста с лососем в сливочном соусе",
     "price": "204",
     "old_price": "340",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-s-lososem-v-slivochnom-souse-30220/"
+  },
+  "104161": {
+    "name": "Салат \"Шпроты под шубой\"",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-shproty-pod-shuboy-104161/"
+  },
+  "126047": {
+    "name": "Булочки для бургера \"Клаб Дуо\", 2 шт",
+    "price": "48",
+    "old_price": "80",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bulochki-dlya-burgera-klab-duo-126047/"
   },
   "127027": {
     "name": "Сэндвич с грибами и сливочным соусом",
@@ -48,12 +55,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/buterbrod-mam-129030/"
   },
-  "99743": {
-    "name": "Завтрак боул с хашбрауном, кафе",
-    "price": "204",
-    "old_price": "340",
+  "114787": {
+    "name": "Комбо-набор: Котлета рыбная с картофельным пюре и Салат \"Коул Слоу\" постный",
+    "price": "240",
+    "old_price": "400",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
+    "link": "https://vkusvill.ru/goods/kombo-nabor-kotleta-rybnaya-s-kartofelnym-pyure-i-salat-koul-slou-postnyy-114787/"
+  },
+  "106625": {
+    "name": "Рулет бисквитный \"Шоколад-карамель-арахис\", 140 г",
+    "price": "172",
+    "old_price": "286",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/rulet-biskvitnyy-shokolad-karamel-arakhis-106625/"
+  },
+  "101030": {
+    "name": "Говядина тушеная с лисичками и пастой Ризо в сливочно-грибном соусе",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/govyadina-tushenaya-s-lisichkami-i-pastoy-rizo-v-slivochno-gribnom-souse-101030/"
   },
   "65460": {
     "name": "Изделие х/б из зеленой гречки (на закваске)",
@@ -68,6 +89,13 @@
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-kuritsey-v-slivochnom-souse-34570/"
+  },
+  "125769": {
+    "name": "Пибимпаб с курицей",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pibimpab-s-kuritsey-125769/"
   },
   "121339": {
     "name": "Кесадилья с курицей, шпинатом и моцареллой",
@@ -89,6 +117,13 @@
     "old_price": "78",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-solodovyy-s-grechnevoy-mukoy-123009/"
+  },
+  "77153": {
+    "name": "Свекольник на кефире",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/svekolnik-na-kefire-77153/"
   },
   "17398": {
     "name": "Проростки Фасоли (маш)",
