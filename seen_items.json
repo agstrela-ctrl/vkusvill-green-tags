@@ -6,6 +6,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-shproty-pod-shuboy-104161/"
   },
+  "94337": {
+    "name": "Треска атлантическая филе спинка зам., 600 г",
+    "price": "951",
+    "old_price": "1585",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/treska-atlanticheskaya-file-spinka-zam-94337/"
+  },
   "63575": {
     "name": "Форель филе-кусок на коже охл., 350 г",
     "price": "594",
@@ -19,5 +26,26 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/buterbrod-mam-129030/"
+  },
+  "105063": {
+    "name": "Кета стейк зам., 500 г",
+    "price": "414",
+    "old_price": "690",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keta-steyk-zam-105063/"
+  },
+  "68993": {
+    "name": "Котлеты \"Домашние\" жареные, зам.",
+    "price": "285",
+    "old_price": "475",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-domashnie-zharenye-68993/"
+  },
+  "125763": {
+    "name": "Кижуч филе-кусок на коже зам., 400 г",
+    "price": "648",
+    "old_price": "1080",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kizhuch-file-kusok-na-kozhe-zam-125763/"
   }
 }
