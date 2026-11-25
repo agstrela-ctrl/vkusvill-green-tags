@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-s-lososem-v-slivochnom-souse-30220/"
   },
-  "106904": {
-    "name": "Макароны с тушёной говядиной",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
-  },
   "111212": {
     "name": "Куриное филе запеченное с цукини и моцареллой",
     "price": "197",
@@ -34,13 +27,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ovoshchnoy-miks-vitaminnoe-trio-105788/"
   },
-  "65409": {
-    "name": "Салат \"Витаминный\" с лимонной заправкой, 500 г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
-  },
   "35710": {
     "name": "Набор: Салат Витаминный + Плов с курицей",
     "price": "240",
@@ -54,13 +40,6 @@
     "old_price": "195",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/miks-salatnyy-korn-i-radichio-108451/"
-  },
-  "121599": {
-    "name": "Булочки для хот-дога, 3 шт",
-    "price": "58",
-    "old_price": "96",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bulochki-dlya-khot-doga-121599/"
   },
   "123009": {
     "name": "Хлеб \"Солодовый\" с гречневой мукой, нарезка",
