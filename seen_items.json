@@ -1,16 +1,9 @@
 {
-  "69919": {
-    "name": "Печенье с пармезаном, кунжутом и чесноком, 110 г",
-    "price": "123",
-    "old_price": "205",
+  "67702": {
+    "name": "Слива Президент",
+    "price": "214",
+    "old_price": "357",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pechene-s-parmezanom-69919/"
-  },
-  "129030": {
-    "name": "Бутерброд \"Мам, сделай бутер\"",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/buterbrod-mam-129030/"
+    "link": "https://vkusvill.ru/goods/sliva-prezident-67702/"
   }
 }
