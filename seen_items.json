@@ -20,20 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-88414/"
   },
-  "1066": {
-    "name": "Филе грудки индейки",
-    "price": "557",
-    "old_price": "928",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-indeyki-1066/"
-  },
-  "83507": {
-    "name": "Ватрушки-мини с творогом, 4 шт",
-    "price": "148",
-    "old_price": "246",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vatrushki-mini-s-tvorogom-83507/"
-  },
   "102212": {
     "name": "Комбо-набор: Биточек сочный с пенне и Салат \"Крабовый\"",
     "price": "240",
@@ -47,13 +33,6 @@
     "old_price": "353",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
-  },
-  "54161": {
-    "name": "Грузинский суп из фасоли с овощами",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gruzinskiy-sup-iz-fasoli-s-ovoshchami-54161/"
   },
   "19058": {
     "name": "Пирожное Кольцо творожное, 100 г",
@@ -82,13 +61,6 @@
     "old_price": "554",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
-  },
-  "18360": {
-    "name": "Суп \"Харчо\"",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-kharcho-18360/"
   },
   "125598": {
     "name": "Хлеб для брускетт \"Ароматный\" с травами и семен., на закваске",
@@ -139,19 +111,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
   },
-  "99743": {
-    "name": "Завтрак боул с хашбрауном, кафе",
-    "price": "204",
-    "old_price": "340",
+  "94474": {
+    "name": "Блинчики с маковой начинкой",
+    "price": "125",
+    "old_price": "208",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/zavtrak-boul-s-khashbraunom-99743/"
-  },
-  "123548": {
-    "name": "Клаб-сэндвич \"Цезарь\" с курицей и беконом, 190 г",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-tsezar-s-kuritsey-i-bekonom-123548/"
+    "link": "https://vkusvill.ru/goods/blinchiki-s-makovoy-nachinkoy-94474/"
   },
   "21419": {
     "name": "Сэндвич ролл с бужениной запеченной",
@@ -202,13 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lapsha-grechnevaya-s-tsukini-i-orekhovym-sousom-22274/"
   },
-  "127695": {
-    "name": "Строганов из курицы с соусом бешамель",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stroganov-iz-kuritsy-s-sousom-beshamel-127695/"
-  },
   "125188": {
     "name": "Рулька \"Калининградская\" с квашеной капустой и брусникой",
     "price": "407",
@@ -244,13 +202,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/zhele-yagodnoe-chernaya-smorodina-128817/"
   },
-  "124375": {
-    "name": "Клаб-сэндвич с курицей и творожным сыром",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-tvorozhnym-syrom-124375/"
-  },
   "104525": {
     "name": "Бедро индейки бескостное \"По-Домашнему\"",
     "price": "610",
@@ -285,20 +236,6 @@
     "old_price": "398",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tsyplenok-zapechennyy-v-spetsiyakh-s-bebi-kartofelem-127687/"
-  },
-  "124493": {
-    "name": "Йогурт \"Вишня-шоколадная крошка\" 6,2%",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-vishnya-shokoladnaya-kroshka-6-124493/"
-  },
-  "20712": {
-    "name": "Пирожное \"Монтблан\"",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-montblan-20712/"
   },
   "76538": {
     "name": "Лепешка с курицей и овощами",
