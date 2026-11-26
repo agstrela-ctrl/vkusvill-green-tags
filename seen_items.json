@@ -48,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-malina-112143/"
   },
-  "22274": {
-    "name": "Лапша гречневая с цукини и ореховым соусом",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lapsha-grechnevaya-s-tsukini-i-orekhovym-sousom-22274/"
-  },
   "61150": {
     "name": "Ролл с огурцом",
     "price": "179",
@@ -68,13 +61,6 @@
     "old_price": "123",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-kukuruznyy-121692/"
-  },
-  "21419": {
-    "name": "Сэндвич ролл с бужениной запеченной",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
   },
   "103754": {
     "name": "Сосиски куриные с картофельным пюре и салат винегрет, 390 г",
@@ -103,13 +89,6 @@
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
-  },
-  "102642": {
-    "name": "Сэндвич-ролл с курицей и сливочным сыром",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-slivochnym-syrom-102642/"
   },
   "23151": {
     "name": "Шницель куриный с сыром, 480 г",
