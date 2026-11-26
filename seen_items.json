@@ -1,9 +1,51 @@
 {
-  "61150": {
-    "name": "Ролл с огурцом",
-    "price": "179",
-    "old_price": "298",
+  "27474": {
+    "name": "Вода детская питьевая, 5 л",
+    "price": "85",
+    "old_price": "142",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
+    "link": "https://vkusvill.ru/goods/voda-detskaya-pitevaya-27474/"
+  },
+  "29450": {
+    "name": "Яблоко Медовый хруст",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
+  },
+  "23719": {
+    "name": "Грибы Шампиньоны свежие, 250 г",
+    "price": "89",
+    "old_price": "148",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/griby-shampinony-svezhie-23719/"
+  },
+  "18940": {
+    "name": "Хурма Королек",
+    "price": "153",
+    "old_price": "255",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khurma-korolek-18940/"
+  },
+  "98068": {
+    "name": "Дрип-кофе \"Колумбия\", 24 шт",
+    "price": "687",
+    "old_price": "1145",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/drip-kofe-kolumbiya-98068/"
+  },
+  "33153": {
+    "name": "Вода питьевая Святой Источник негазированная 1,5 л",
+    "price": "41",
+    "old_price": "69",
+    "discount": "41",
+    "link": "https://vkusvill.ru/goods/voda-pitevaya-svyatoy-istochnik-negazirovannaya-1-33153/"
+  },
+  "33243": {
+    "name": "Вода минеральная природная питьевая столовая Vita Архыз газированная пэт 1,5 л",
+    "price": "45",
+    "old_price": "75",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/voda-mineralnaya-prirodnaya-pitevaya-stolovaya-vita-arkhyz-gazirovannaya-pet-1-33243/"
   }
 }
