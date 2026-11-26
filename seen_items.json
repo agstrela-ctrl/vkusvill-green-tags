@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-kurin-s-tsukini-s-pyure-iz-batata-36801/"
   },
-  "113281": {
-    "name": "Комбо-набор: Грудка куриная с картофелем по-деревенски и Салат из летних овощей",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-grudka-kurinaya-s-kartofelem-po-derevenski-i-salat-iz-letnikh-ovoshchey-113281/"
-  },
   "66659": {
     "name": "Горбуша слабосоленая ломтики, 100 г",
     "price": "212",
@@ -90,20 +83,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lapsha-grechnevaya-s-tsukini-i-orekhovym-sousom-22274/"
   },
-  "25262": {
-    "name": "Суп-крем куриный",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-krem-kurinyy-25262/"
-  },
-  "24787": {
-    "name": "Огурцы трилоджи, 450 г",
-    "price": "141",
-    "old_price": "235",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurtsy-trilodzhi-24787/"
-  },
   "49729": {
     "name": "Вырезка из кролика",
     "price": "307",
@@ -125,13 +104,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/krylo-tsyplenka-broylera-67171/"
   },
-  "27161": {
-    "name": "Сырники из творога, кафе",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-iz-tvoroga-27161/"
-  },
   "121692": {
     "name": "Хлеб \"Кукурузный\", нарезка",
     "price": "74",
@@ -152,13 +124,6 @@
     "old_price": "380",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-i-salat-vinegret-103754/"
-  },
-  "123897": {
-    "name": "Сэндвич \"ВкусМаффин\" с курицей",
-    "price": "144",
-    "old_price": "240",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-vkusmaffin-s-kuritsey-123897/"
   },
   "123548": {
     "name": "Клаб-сэндвич \"Цезарь\" с курицей и беконом, 190 г",
@@ -202,20 +167,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-s-syrom-23151/"
   },
-  "127687": {
-    "name": "Цыпленок запеченный в специях с бэби-картофелем",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tsyplenok-zapechennyy-v-spetsiyakh-s-bebi-kartofelem-127687/"
-  },
-  "46592": {
-    "name": "Грудка куриная Троекурово варено-копченая ~ 600 г",
-    "price": "479",
-    "old_price": "799",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grudka-kurinaya-troekurovo-vareno-kopchenaya-600-g-46592/"
-  },
   "124133": {
     "name": "Тарт \"Клубника-земляника\" со сливочно-сырным кремом",
     "price": "629",
@@ -258,13 +209,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-kurinye-69719/"
   },
-  "46784": {
-    "name": "Йогурт питьевой с финиками без доб. сахара 2,5%",
-    "price": "61",
-    "old_price": "102",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-s-finikami-bez-dob-sakhara-2-46784/"
-  },
   "16540": {
     "name": "Сосиски куриные \"Избранные\"",
     "price": "192",
@@ -285,13 +229,6 @@
     "old_price": "187",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
-  },
-  "65425": {
-    "name": "Креветки жареные, 150 г",
-    "price": "348",
-    "old_price": "580",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/krevetki-zharenye-65425/"
   },
   "123553": {
     "name": "Клаб-сэндвич с индейкой и соусом песто",
@@ -327,20 +264,6 @@
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
-  },
-  "126057": {
-    "name": "Йогурт питьевой безлактозный с клубникой и киви без доб. сахара, 2,5%",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-bezlaktoznyy-s-klubnikoy-i-kivi-bez-dob-sakhara-126057/"
-  },
-  "121251": {
-    "name": "Филе куриной грудки с кунжутом, запеченное",
-    "price": "194",
-    "old_price": "324",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-s-kunzhutom-121251/"
   },
   "117654": {
     "name": "Филе куриной грудки с грибами",
