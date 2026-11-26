@@ -1,9 +1,30 @@
 {
-  "33153": {
-    "name": "Вода питьевая Святой Источник негазированная 1,5 л",
-    "price": "41",
-    "old_price": "69",
-    "discount": "41",
-    "link": "https://vkusvill.ru/goods/voda-pitevaya-svyatoy-istochnik-negazirovannaya-1-33153/"
+  "89186": {
+    "name": "Хлеб \"На кефире с сывороткой\", нарезка",
+    "price": "60",
+    "old_price": "100",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-na-kefire-s-syvorotkoy-89186/"
+  },
+  "17243": {
+    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
+    "price": "38",
+    "old_price": "63",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
+  },
+  "44310": {
+    "name": "Морковь резаная \"Сочная морковь\"",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/morkov-rezanaya-sochnaya-morkov-44310/"
+  },
+  "126451": {
+    "name": "Хлеб для брускетт \"Грано\" с семенами льна",
+    "price": "211",
+    "old_price": "352",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-grano-s-semenami-lna-126451/"
   }
 }
