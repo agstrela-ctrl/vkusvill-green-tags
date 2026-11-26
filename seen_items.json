@@ -1,11 +1,4 @@
 {
-  "17243": {
-    "name": "Изделие цельнозер. без муки \"Целебный\" с цикорием",
-    "price": "38",
-    "old_price": "63",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
-  },
   "115261": {
     "name": "Плов \"Узбекский\" с говядиной, 250 г",
     "price": "198",
@@ -61,6 +54,13 @@
     "old_price": "352",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-grano-s-semenami-lna-126451/"
+  },
+  "20672": {
+    "name": "Кинза в горшочке",
+    "price": "75",
+    "old_price": "125",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kinza-v-gorshochke-20672/"
   },
   "100149": {
     "name": "Каша гречневая \"по-драгомировски\" на бульоне из грибов",
