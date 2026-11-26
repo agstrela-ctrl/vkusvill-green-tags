@@ -1,72 +1,9 @@
 {
-  "36801": {
-    "name": "Биточки курин. с цукини с пюре из батата",
-    "price": "170",
-    "old_price": "283",
+  "123951": {
+    "name": "Самоса по-азиатски с курицей",
+    "price": "130",
+    "old_price": "217",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-kurin-s-tsukini-s-pyure-iz-batata-36801/"
-  },
-  "61150": {
-    "name": "Ролл с огурцом",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
-  },
-  "118959": {
-    "name": "Салат-боул с креветкой, авокадо и кукурузой",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
-  },
-  "119474": {
-    "name": "Торт \"Блинный Тирамису\"",
-    "price": "539",
-    "old_price": "898",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-blinnyy-tiramisu-119474/"
-  },
-  "88800": {
-    "name": "Тофу с белыми грибами, 250 г",
-    "price": "112",
-    "old_price": "187",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
-  },
-  "119539": {
-    "name": "Лепешка Шоти, 300 г",
-    "price": "56",
-    "old_price": "94",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
-  },
-  "63223": {
-    "name": "Сосиски Ближние горки Баварские 450 г",
-    "price": "209",
-    "old_price": "349",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-blizhnie-gorki-bavarskie-450-g-63223/"
-  },
-  "81642": {
-    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
-  },
-  "69719": {
-    "name": "Сосиски куриные, 300 г",
-    "price": "177",
-    "old_price": "295",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-69719/"
-  },
-  "16540": {
-    "name": "Сосиски куриные \"Избранные\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-izbrannye-16540/"
+    "link": "https://vkusvill.ru/goods/samosa-po-aziatski-s-kuritsey-123951/"
   }
 }
