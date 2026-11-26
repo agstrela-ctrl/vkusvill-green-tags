@@ -34,13 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
   },
-  "18360": {
-    "name": "Суп \"Харчо\"",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sup-kharcho-18360/"
-  },
   "61751": {
     "name": "Гречка отварная с овощами, 200 г",
     "price": "90",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ris-po-tayski-18354/"
   },
-  "124183": {
-    "name": "Эклеры \"Манго и маракуйя\" с кремчиз, 3 шт",
-    "price": "190",
-    "old_price": "316",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eklery-mango-i-marakuyya-s-kremchiz-124183/"
-  },
   "118975": {
     "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
     "price": "53",
@@ -75,13 +61,6 @@
     "old_price": "440",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
-  },
-  "21419": {
-    "name": "Сэндвич ролл с бужениной запеченной",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419/"
   },
   "83249": {
     "name": "Редис дайкон, 600 г",
@@ -138,12 +117,5 @@
     "old_price": "310",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
-  },
-  "68003": {
-    "name": "Шейка свиная в чесночном маринаде",
-    "price": "691",
-    "old_price": "1152",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sheyka-svinaya-v-chesnochnom-marinade-68003/"
   }
 }
