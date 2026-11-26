@@ -20,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pirozhnoe-koltso-tvorozhnoe-19058/"
   },
-  "109471": {
-    "name": "Тартин \"Зерновой\", нарезка, 250 г",
-    "price": "62",
-    "old_price": "104",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tartin-zernovoy-109471/"
-  },
   "93690": {
     "name": "Сэндвич на булочке из слоеного теста с ветчиной и сыром",
     "price": "138",
@@ -54,13 +47,6 @@
     "old_price": "150",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
-  },
-  "86021": {
-    "name": "Бутерброд с тунцом и базиликом, 156 г",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/buterbrod-s-tuntsom-i-bazilikom-86021/"
   },
   "18354": {
     "name": "Рис \"По-тайски\"",
@@ -104,26 +90,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/redis-daykon-83249/"
   },
-  "126750": {
-    "name": "Онигири с крабом + соевый соус",
-    "price": "147",
-    "old_price": "245",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/onigiri-s-krabom-soevyy-sous-126750/"
-  },
   "43088": {
     "name": "Блины с грушей и мягким сыром",
     "price": "137",
     "old_price": "228",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bliny-s-grushey-i-myagkim-syrom-43088/"
-  },
-  "125188": {
-    "name": "Рулька \"Калининградская\" с квашеной капустой и брусникой",
-    "price": "407",
-    "old_price": "678",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
   },
   "128792": {
     "name": "Оладушки \"Утро воскресенья\"",
@@ -138,13 +110,6 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
-  },
-  "128817": {
-    "name": "Желе ягодное черная смородина, 200г",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zhele-yagodnoe-chernaya-smorodina-128817/"
   },
   "104525": {
     "name": "Бедро индейки бескостное \"По-Домашнему\"",
@@ -174,33 +139,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
   },
-  "127687": {
-    "name": "Цыпленок запеченный в специях с бэби-картофелем",
-    "price": "239",
-    "old_price": "398",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tsyplenok-zapechennyy-v-spetsiyakh-s-bebi-kartofelem-127687/"
-  },
-  "76538": {
-    "name": "Лепешка с курицей и овощами",
-    "price": "179",
-    "old_price": "299",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshka-s-kuritsey-i-ovoshchami-76538/"
-  },
   "68003": {
     "name": "Шейка свиная в чесночном маринаде",
     "price": "691",
     "old_price": "1152",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sheyka-svinaya-v-chesnochnom-marinade-68003/"
-  },
-  "24640": {
-    "name": "Грибы свежие Опята, 200г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/griby-svezhie-opyata-24640/"
   },
   "118762": {
     "name": "Булочка паровая \"Бань Бао\" со свининой и грибами",
