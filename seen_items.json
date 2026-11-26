@@ -62,6 +62,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
   },
+  "18360": {
+    "name": "Суп \"Харчо\"",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-kharcho-18360/"
+  },
   "125598": {
     "name": "Хлеб для брускетт \"Ароматный\" с травами и семен., на закваске",
     "price": "86",
@@ -173,13 +180,6 @@
     "old_price": "678",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/rulka-kaliningradskaya-s-kvashenoy-kapustoy-i-brusnikoy-125188/"
-  },
-  "123360": {
-    "name": "Торт бисквитный \"Вишня в шоколаде\", 700 г",
-    "price": "668",
-    "old_price": "1114",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-biskvitnyy-vishnya-v-shokolade-123360/"
   },
   "128792": {
     "name": "Оладушки \"Утро воскресенья\"",
