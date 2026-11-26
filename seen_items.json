@@ -13,6 +13,13 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-tortiloni-s-kuritsey-i-syrom-v-slivochno-tomatnom-souse-121449/"
   },
+  "61936": {
+    "name": "Фарш из мяса курицы, индейки и кролика",
+    "price": "318",
+    "old_price": "530",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
+  },
   "61150": {
     "name": "Ролл с огурцом",
     "price": "179",
@@ -20,19 +27,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
   },
+  "101137": {
+    "name": "Торт \"Брауни\", веган",
+    "price": "407",
+    "old_price": "678",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-brauni-101137/"
+  },
   "128179": {
     "name": "Греночки \"Молочные\" с вишневым вареньем",
     "price": "119",
     "old_price": "198",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grenochki-molochnye-s-vishnevym-varenem-128179/"
-  },
-  "69719": {
-    "name": "Сосиски куриные, 300 г",
-    "price": "177",
-    "old_price": "295",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-69719/"
   },
   "123951": {
     "name": "Самоса по-азиатски с курицей",
