@@ -1,25 +1,4 @@
 {
-  "103992": {
-    "name": "Салат \"Тортилла\", 200 г",
-    "price": "185",
-    "old_price": "308",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tortilla-103992/"
-  },
-  "484": {
-    "name": "Тушка цыпленка-бройлера, охлажденная",
-    "price": "191",
-    "old_price": "318",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tushka-tsyplenka-broylera-484/"
-  },
-  "22300": {
-    "name": "Круассан на масле",
-    "price": "67",
-    "old_price": "112",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
-  },
   "53516": {
     "name": "Курица в сливочном соусе с гречкой",
     "price": "179",
@@ -82,13 +61,6 @@
     "old_price": "260",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lapsha-grechnevaya-s-tsukini-i-orekhovym-sousom-22274/"
-  },
-  "49729": {
-    "name": "Вырезка из кролика",
-    "price": "307",
-    "old_price": "512",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vyrezka-iz-krolika-49729/"
   },
   "61150": {
     "name": "Ролл с огурцом",
@@ -188,13 +160,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-baffalo-124466/"
   },
-  "26904": {
-    "name": "Сэндвич с форелью.",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-forelyu-26904/"
-  },
   "69719": {
     "name": "Сосиски куриные, 300 г",
     "price": "177",
@@ -222,13 +187,6 @@
     "old_price": "187",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
-  },
-  "123553": {
-    "name": "Клаб-сэндвич с индейкой и соусом песто",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-s-indeykoy-i-sousom-pesto-123553/"
   },
   "119539": {
     "name": "Лепешка Шоти, 300 г",
