@@ -6,27 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshki-kartofelnye-s-gaudoy-i-parmezanom-101898/"
   },
-  "27695": {
-    "name": "Творог 5%, 180 г",
-    "price": "68",
-    "old_price": "114",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tvorog-5-27695/"
-  },
-  "69875": {
-    "name": "Ролл с креветкой и огурцом",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-krevetkoy-i-ogurtsom-69875/"
-  },
-  "108186": {
-    "name": "Салат с консервированным тунцом и яблоком",
-    "price": "179",
-    "old_price": "298",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-s-konservirovannym-tuntsom-i-yablokom-108186/"
-  },
   "112775": {
     "name": "Изделие х/б \"Зерновой\" с куркумой",
     "price": "67",
@@ -41,26 +20,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-blinnyy-shokoladnyy-88414/"
   },
-  "106904": {
-    "name": "Макароны с тушёной говядиной",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
-  },
   "1066": {
     "name": "Филе грудки индейки",
     "price": "557",
     "old_price": "928",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-grudki-indeyki-1066/"
-  },
-  "113281": {
-    "name": "Комбо-набор: Грудка куриная с картофелем по-деревенски и Салат из летних овощей",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kombo-nabor-grudka-kurinaya-s-kartofelem-po-derevenski-i-salat-iz-letnikh-ovoshchey-113281/"
   },
   "83507": {
     "name": "Ватрушки-мини с творогом, 4 шт",
@@ -75,13 +40,6 @@
     "old_price": "400",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kombo-nabor-bitochek-sochnyy-s-penne-i-salat-krabovyy-102212/"
-  },
-  "24734": {
-    "name": "Торт \"Морковный с пеканом\" постный",
-    "price": "365",
-    "old_price": "608",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-morkovnyy-s-pekanom-postnyy-24734/"
   },
   "66659": {
     "name": "Горбуша слабосоленая ломтики, 100 г",
@@ -139,20 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-aromatnyy-s-travami-i-semen-125598/"
   },
-  "108750": {
-    "name": "Огурчики Кисловодские, 250 г",
-    "price": "135",
-    "old_price": "225",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ogurchiki-kislovodskie-108750/"
-  },
-  "52515": {
-    "name": "Омлет белковый с куриным филе, овощами и мягким сыром",
-    "price": "172",
-    "old_price": "287",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/omlet-belkovyy-s-kurinym-file-52515/"
-  },
   "61751": {
     "name": "Гречка отварная с овощами, 200 г",
     "price": "90",
@@ -188,13 +132,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zavarnoy-s-solodom-118975/"
   },
-  "117863": {
-    "name": "Салат по-азиатски с курицей, арахисом и соусом Унаги",
-    "price": "203",
-    "old_price": "338",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
-  },
   "106628": {
     "name": "Ролл \"Симфония классики\" с сёмгой и творожным сыром",
     "price": "264",
@@ -216,13 +153,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/klab-sendvich-tsezar-s-kuritsey-i-bekonom-123548/"
   },
-  "114501": {
-    "name": "Овсяноблин с курицей, творожным сыром и вялеными томатами",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ovsyanoblin-s-kuritsey-114501/"
-  },
   "21419": {
     "name": "Сэндвич ролл с бужениной запеченной",
     "price": "162",
@@ -243,34 +173,6 @@
     "old_price": "96",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bulochki-dlya-khot-doga-121599/"
-  },
-  "109037": {
-    "name": "Эскалоп из свинины в сливочно-перечном маринаде",
-    "price": "240",
-    "old_price": "400",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/eskalop-iz-svininy-v-slivochno-perechnom-marinade-109037/"
-  },
-  "38956": {
-    "name": "Грибы Шампиньоны мини свежие, 300 г",
-    "price": "108",
-    "old_price": "180",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/griby-shampinony-mini-svezhie-38956/"
-  },
-  "20324": {
-    "name": "Котлеты из трески охл., 300 г",
-    "price": "178",
-    "old_price": "297",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-iz-treski-okhl-20324/"
-  },
-  "38119": {
-    "name": "Блин сырный по-голландски",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blin-syrnyy-po-gollandski-38119/"
   },
   "108138": {
     "name": "Шаурма с грибным жюльеном и курицей",
@@ -334,13 +236,6 @@
     "old_price": "290",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
-  },
-  "39461": {
-    "name": "Салат мимоза, 300 г",
-    "price": "293",
-    "old_price": "488",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-mimoza-39461/"
   },
   "128817": {
     "name": "Желе ягодное черная смородина, 200г",
@@ -412,26 +307,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-s-kuritsey-i-ovoshchami-76538/"
   },
-  "80166": {
-    "name": "Десерт \"Наполеон\", постный",
-    "price": "161",
-    "old_price": "268",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/desert-napoleon-80166/"
-  },
   "68003": {
     "name": "Шейка свиная в чесночном маринаде",
     "price": "691",
     "old_price": "1152",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sheyka-svinaya-v-chesnochnom-marinade-68003/"
-  },
-  "124331": {
-    "name": "Йогурт \"Шоколадная крошка-мята\" 6,2%, 180 г",
-    "price": "64",
-    "old_price": "107",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-shokoladnaya-kroshka-myata-6-124331/"
   },
   "24640": {
     "name": "Грибы свежие Опята, 200г",
