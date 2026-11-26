@@ -1,18 +1,4 @@
 {
-  "101898": {
-    "name": "Лепешки картофельные с гаудой и пармезаном",
-    "price": "155",
-    "old_price": "258",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/lepeshki-kartofelnye-s-gaudoy-i-parmezanom-101898/"
-  },
-  "112775": {
-    "name": "Изделие х/б \"Зерновой\" с куркумой",
-    "price": "67",
-    "old_price": "112",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
-  },
   "88414": {
     "name": "Торт блинный шоколадный, 1 кг",
     "price": "761",
@@ -61,13 +47,6 @@
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sup-kharcho-18360/"
-  },
-  "125598": {
-    "name": "Хлеб для брускетт \"Ароматный\" с травами и семен., на закваске",
-    "price": "86",
-    "old_price": "143",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-aromatnyy-s-travami-i-semen-125598/"
   },
   "61751": {
     "name": "Гречка отварная с овощами, 200 г",
@@ -124,13 +103,6 @@
     "old_price": "165",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/redis-daykon-83249/"
-  },
-  "108138": {
-    "name": "Шаурма с грибным жюльеном и курицей",
-    "price": "210",
-    "old_price": "350",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-gribnym-zhyulenom-i-kuritsey-108138/"
   },
   "126750": {
     "name": "Онигири с крабом + соевый соус",
