@@ -1,4 +1,11 @@
 {
+  "79662": {
+    "name": "Курица с картофельным хашбрауном в тортилье",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kuritsa-s-kartofelnym-khashbraunom-v-tortile-79662/"
+  },
   "89186": {
     "name": "Хлеб \"На кефире с сывороткой\", нарезка",
     "price": "60",
@@ -13,11 +20,137 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-tselnozer-bez-muki-tselebnyy-s-tsikoriem-17243/"
   },
+  "20122": {
+    "name": "Огурцы короткоплодные, 450 г",
+    "price": "147",
+    "old_price": "245",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ogurtsy-korotkoplodnye-20122/"
+  },
+  "115261": {
+    "name": "Плов \"Узбекский\" с говядиной, 250 г",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-115261/"
+  },
+  "59996": {
+    "name": "Блины овсяные, 6 шт",
+    "price": "168",
+    "old_price": "280",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-ovsyanye-59996/"
+  },
+  "21629": {
+    "name": "Томаты черри красные, 250 г",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-cherri-krasnye-21629/"
+  },
+  "61604": {
+    "name": "Блинчики с капустой и яйцом",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/blinchiki-s-kapustoy-i-yaytsom-61604/"
+  },
+  "70974": {
+    "name": "Майонез на перепелином яйце 67%",
+    "price": "61",
+    "old_price": "102",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/mayonez-na-perepelinom-yaytse-67-70974/"
+  },
+  "98052": {
+    "name": "Паста Орзо с куриными фрикадельками",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-orzo-s-kurinymi-frikadelkami-98052/"
+  },
+  "29691": {
+    "name": "Шоколад ремесленный горький 74%",
+    "price": "217",
+    "old_price": "362",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shokolad-remeslennyy-gorkiy-74-29691/"
+  },
+  "119474": {
+    "name": "Торт \"Блинный Тирамису\"",
+    "price": "539",
+    "old_price": "898",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-blinnyy-tiramisu-119474/"
+  },
+  "27966": {
+    "name": "Пирог осетинский \"Картофель с сыром\", 250 г",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirog-osetinskiy-kartofel-s-syrom-27966/"
+  },
+  "105639": {
+    "name": "Напиток чайный с ягодами можжевельника, листьями смородины и чабрецом, в фильтр-пакетиках",
+    "price": "157",
+    "old_price": "261",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/napitok-chaynyy-s-yagodami-mozhzhevelnika-105639/"
+  },
+  "38813": {
+    "name": "Пирожное \"Морковное\", веган",
+    "price": "115",
+    "old_price": "192",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhnoe-morkovnoe-38813/"
+  },
+  "128179": {
+    "name": "Греночки \"Молочные\" с вишневым вареньем",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grenochki-molochnye-s-vishnevym-varenem-128179/"
+  },
+  "115788": {
+    "name": "Салат с уткой су-вид и мандаринами",
+    "price": "292",
+    "old_price": "486",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-s-utkoy-su-vid-i-mandarinami-115788/"
+  },
+  "74314": {
+    "name": "Сырники творожные с клубничной начинкой",
+    "price": "132",
+    "old_price": "220",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/syrniki-tvorozhnye-s-klubnichnoy-nachinkoy-74314/"
+  },
   "126451": {
     "name": "Хлеб для брускетт \"Грано\" с семенами льна",
     "price": "211",
     "old_price": "352",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-grano-s-semenami-lna-126451/"
+  },
+  "127207": {
+    "name": "Икра горбуши зернистая ст/б охл., 80 г",
+    "price": "1314",
+    "old_price": "2190",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ikra-gorbushi-zernistaya-st-b-okhl-127207/"
+  },
+  "63964": {
+    "name": "Конфеты вафельные Победа вкуса Чаржед в горьком шоколаде без сахара 150 г",
+    "price": "216",
+    "old_price": "360",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konfety-vafelnye-pobeda-vkusa-charzhed-v-gorkom-shokolade-bez-sakhara-150-g-63964/"
+  },
+  "100149": {
+    "name": "Каша гречневая \"по-драгомировски\" на бульоне из грибов",
+    "price": "120",
+    "old_price": "200",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kasha-grechnevaya-po-dragomirovski-na-bulone-iz-gribov-100149/"
   }
 }
