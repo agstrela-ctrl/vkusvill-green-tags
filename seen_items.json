@@ -6,26 +6,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
   },
-  "70074": {
-    "name": "Котлеты \"По-киевски\" с сырной начинкой с картофельным пюре, 270 г",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kotlety-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-70074/"
-  },
   "36801": {
     "name": "Биточки курин. с цукини с пюре из батата",
     "price": "170",
     "old_price": "283",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bitochki-kurin-s-tsukini-s-pyure-iz-batata-36801/"
-  },
-  "66659": {
-    "name": "Горбуша слабосоленая ломтики, 100 г",
-    "price": "212",
-    "old_price": "353",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
   },
   "101864": {
     "name": "Сэндвич ролл с запеченным тунцом",
@@ -34,12 +20,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
   },
-  "112143": {
-    "name": "Торт \"Половинки Маракуйя-Малина\"",
-    "price": "439",
-    "old_price": "732",
+  "70074": {
+    "name": "Котлеты \"По-киевски\" с сырной начинкой с картофельным пюре, 270 г",
+    "price": "234",
+    "old_price": "390",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-polovinki-marakuyya-malina-112143/"
+    "link": "https://vkusvill.ru/goods/kotlety-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-70074/"
+  },
+  "66659": {
+    "name": "Горбуша слабосоленая ломтики, 100 г",
+    "price": "212",
+    "old_price": "353",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
   },
   "61150": {
     "name": "Ролл с огурцом",
@@ -55,33 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-i-salat-vinegret-103754/"
   },
-  "123548": {
-    "name": "Клаб-сэндвич \"Цезарь\" с курицей и беконом, 190 г",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/klab-sendvich-tsezar-s-kuritsey-i-bekonom-123548/"
-  },
-  "119383": {
-    "name": "Салат \"Цезарь\" легкий",
-    "price": "216",
-    "old_price": "360",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
-  },
   "118959": {
     "name": "Салат-боул с креветкой, авокадо и кукурузой",
     "price": "234",
     "old_price": "390",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
-  },
-  "23151": {
-    "name": "Шницель куриный с сыром, 480 г",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-s-syrom-23151/"
   },
   "116368": {
     "name": "Курица по-французски",
@@ -97,12 +69,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-blinnyy-tiramisu-119474/"
   },
-  "117130": {
-    "name": "Трубочки вафельные с белковым кремом, 2 шт.",
-    "price": "130",
-    "old_price": "216",
+  "122740": {
+    "name": "Шницель куриный в сырной панировке",
+    "price": "204",
+    "old_price": "340",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/trubochki-vafelnye-s-belkovym-kremom-117130/"
+    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-122740/"
   },
   "88800": {
     "name": "Тофу с белыми грибами, 250 г",
@@ -117,13 +89,6 @@
     "old_price": "94",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/lepeshka-shoti-119539/"
-  },
-  "122740": {
-    "name": "Шницель куриный в сырной панировке",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-122740/"
   },
   "63223": {
     "name": "Сосиски Ближние горки Баварские 450 г",
@@ -159,12 +124,5 @@
     "old_price": "348",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/file-kurinoy-grudki-s-gribami-117654/"
-  },
-  "124762": {
-    "name": "Йогурт Free безлактозный Красный виноград 2,7% 180 г",
-    "price": "89",
-    "old_price": "149",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/yogurt-free-bezlaktoznyy-krasnyy-vinograd-2-124762/"
   }
 }
