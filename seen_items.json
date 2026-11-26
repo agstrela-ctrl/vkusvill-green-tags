@@ -6,18 +6,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-dlya-bruskett-grano-s-semenami-lna-126451/"
   },
-  "20672": {
-    "name": "Кинза в горшочке",
-    "price": "75",
-    "old_price": "125",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kinza-v-gorshochke-20672/"
-  },
   "100149": {
     "name": "Каша гречневая \"по-драгомировски\" на бульоне из грибов",
     "price": "120",
     "old_price": "200",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kasha-grechnevaya-po-dragomirovski-na-bulone-iz-gribov-100149/"
+  },
+  "20672": {
+    "name": "Кинза в горшочке",
+    "price": "75",
+    "old_price": "125",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kinza-v-gorshochke-20672/"
   }
 }
