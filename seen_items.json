@@ -97,13 +97,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tsezar-legkiy-119383/"
   },
-  "41142": {
-    "name": "Сырники с малиновой начинкой",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/syrniki-s-malinovoy-nachinkoy-41142/"
-  },
   "118959": {
     "name": "Салат-боул с креветкой, авокадо и кукурузой",
     "price": "234",
@@ -146,27 +139,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tort-blinnyy-tiramisu-119474/"
   },
-  "124466": {
-    "name": "Сэндвич ролл с курицей \"Баффало\"",
-    "price": "180",
-    "old_price": "300",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-baffalo-124466/"
-  },
-  "69719": {
-    "name": "Сосиски куриные, 300 г",
-    "price": "177",
-    "old_price": "295",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-69719/"
-  },
-  "16540": {
-    "name": "Сосиски куриные \"Избранные\"",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sosiski-kurinye-izbrannye-16540/"
-  },
   "117130": {
     "name": "Трубочки вафельные с белковым кремом, 2 шт.",
     "price": "130",
@@ -208,6 +180,20 @@
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
+  },
+  "69719": {
+    "name": "Сосиски куриные, 300 г",
+    "price": "177",
+    "old_price": "295",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-kurinye-69719/"
+  },
+  "16540": {
+    "name": "Сосиски куриные \"Избранные\"",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-kurinye-izbrannye-16540/"
   },
   "117654": {
     "name": "Филе куриной грудки с грибами",
