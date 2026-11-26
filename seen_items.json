@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-tortilla-103992/"
   },
-  "22920": {
-    "name": "Рулет фисташковый с малиной",
-    "price": "311",
-    "old_price": "518",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/rulet-fistashkovyy-s-malinoy-22920/"
-  },
   "484": {
     "name": "Тушка цыпленка-бройлера, охлажденная",
     "price": "191",
@@ -27,13 +20,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-na-masle-22300/"
   },
-  "92843": {
-    "name": "Биточки из курицы и сыра с запеченным картофелем",
-    "price": "156",
-    "old_price": "260",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bitochki-iz-kuritsy-i-syra-s-zapechennym-kartofelem-92843/"
-  },
   "25292": {
     "name": "Салат \"Сельдь под шубой\", 180 г",
     "price": "139",
@@ -47,13 +33,6 @@
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516/"
-  },
-  "43719": {
-    "name": "Ежики мясные с отварной гречкой",
-    "price": "162",
-    "old_price": "270",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719/"
   },
   "70074": {
     "name": "Котлеты \"По-киевски\" с сырной начинкой с картофельным пюре, 270 г",
@@ -89,13 +68,6 @@
     "old_price": "296",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-roll-s-zapechennym-tuntsom-101864/"
-  },
-  "34249": {
-    "name": "Сливки 15%, 200 г",
-    "price": "59",
-    "old_price": "99",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/slivki-15-34249/"
   },
   "79208": {
     "name": "Салат из свеклы с черносливом и грецкими орехами",
@@ -160,26 +132,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechen-govyazhya-po-stroganovski-s-gribami-97095/"
   },
-  "24950": {
-    "name": "Филе грудки цыпленка-бройлера Халяль",
-    "price": "456",
-    "old_price": "760",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/file-grudki-tsyplenka-broylera-khalyal-24950/"
-  },
   "49729": {
     "name": "Вырезка из кролика",
     "price": "307",
     "old_price": "512",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/vyrezka-iz-krolika-49729/"
-  },
-  "39248": {
-    "name": "Маракуйя, 2 шт",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/marakuyya-39248/"
   },
   "61150": {
     "name": "Ролл с огурцом",
@@ -285,13 +243,6 @@
     "old_price": "166",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-s-malinoy-75938/"
-  },
-  "38119": {
-    "name": "Блин сырный по-голландски",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blin-syrnyy-po-gollandski-38119/"
   },
   "116805": {
     "name": "Ряженка безлактозная 2,5%",
