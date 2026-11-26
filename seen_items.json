@@ -1,9 +1,156 @@
 {
+  "95811": {
+    "name": "Сэндвич ролл с тигровыми креветками",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-tigrovymi-krevetkami-95811/"
+  },
+  "121449": {
+    "name": "Паста Тортильони с курицей и сыром в сливочно-томатном соусе",
+    "price": "185",
+    "old_price": "308",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pasta-tortiloni-s-kuritsey-i-syrom-v-slivochno-tomatnom-souse-121449/"
+  },
+  "61936": {
+    "name": "Фарш из мяса курицы, индейки и кролика",
+    "price": "318",
+    "old_price": "530",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/farsh-iz-myasa-kuritsy-61936/"
+  },
+  "61150": {
+    "name": "Ролл с огурцом",
+    "price": "179",
+    "old_price": "298",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/roll-s-ogurtsom-61150/"
+  },
+  "39781": {
+    "name": "Сэндвич ролл с курицей, вяленой клюквой и арахисом",
+    "price": "162",
+    "old_price": "270",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-s-kuritsey-39781/"
+  },
+  "109574": {
+    "name": "Филе грудки утенка табака",
+    "price": "397",
+    "old_price": "662",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/file-grudki-utenka-tabaka-109574/"
+  },
+  "101137": {
+    "name": "Торт \"Брауни\", веган",
+    "price": "407",
+    "old_price": "678",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tort-brauni-101137/"
+  },
+  "128179": {
+    "name": "Греночки \"Молочные\" с вишневым вареньем",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grenochki-molochnye-s-vishnevym-varenem-128179/"
+  },
+  "69719": {
+    "name": "Сосиски куриные, 300 г",
+    "price": "177",
+    "old_price": "295",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-kurinye-69719/"
+  },
+  "96262": {
+    "name": "Конвертики с курицей и маринованным огурчиком",
+    "price": "145",
+    "old_price": "242",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/konvertiki-s-kuritsey-i-marinovannym-ogurchikom-96262/"
+  },
+  "40936": {
+    "name": "Пирожки постные с капустой и зеленью, 140 г (2 шт)",
+    "price": "96",
+    "old_price": "160",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-postnye-s-kapustoy-i-zelenyu-40936/"
+  },
+  "118959": {
+    "name": "Салат-боул с креветкой, авокадо и кукурузой",
+    "price": "234",
+    "old_price": "390",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/salat-boul-s-krevetkoy-118959/"
+  },
+  "117221": {
+    "name": "Сэндвич ролл \"Цезарь\" с креветками",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sendvich-roll-tsezar-s-krevetkami-117221/"
+  },
+  "15433": {
+    "name": "Молоко 2,5% в бутылке, 450 мл",
+    "price": "49",
+    "old_price": "82",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/moloko-2-15433/"
+  },
+  "16540": {
+    "name": "Сосиски куриные \"Избранные\"",
+    "price": "192",
+    "old_price": "320",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-kurinye-izbrannye-16540/"
+  },
+  "121046": {
+    "name": "Трубочки с сыром и шпинатом, 4 шт",
+    "price": "220",
+    "old_price": "367",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/trubochki-s-syrom-i-shpinatom-121046/"
+  },
+  "123860": {
+    "name": "Стрипсы из филе цыпленка-бройлера на зерновом откорме",
+    "price": "193",
+    "old_price": "322",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/stripsy-iz-file-tsyplenka-broylera-na-zernovom-otkorme-123860/"
+  },
+  "88800": {
+    "name": "Тофу с белыми грибами, 250 г",
+    "price": "112",
+    "old_price": "187",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tofu-s-belymi-gribami-88800/"
+  },
+  "71935": {
+    "name": "Йогурт питьевой \"Красная смородина\" без доб. сахара 2,5%",
+    "price": "56",
+    "old_price": "94",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-pitevoy-krasnaya-smorodina-bez-dob-sakhara-2-71935/"
+  },
+  "63223": {
+    "name": "Сосиски Ближние горки Баварские 450 г",
+    "price": "209",
+    "old_price": "349",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sosiski-blizhnie-gorki-bavarskie-450-g-63223/"
+  },
   "123951": {
     "name": "Самоса по-азиатски с курицей",
     "price": "130",
     "old_price": "217",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/samosa-po-aziatski-s-kuritsey-123951/"
+  },
+  "81642": {
+    "name": "Тостовый круассан с курицей и соусом цезарь, кафе",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tostovyy-kruassan-s-kuritsey-i-sousom-tsezar-81642/"
   }
 }
