@@ -6,26 +6,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-zelenye-57587/"
   },
+  "19365": {
+    "name": "Тыква Оранжевое солнце",
+    "price": "75",
+    "old_price": "125",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tykva-oranzhevoe-solntse-19365/"
+  },
   "114345": {
     "name": "Печенье-кукис \"Шоколадная крошка\", кафе",
     "price": "78",
     "old_price": "130",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-kukis-shokoladnaya-kroshka-114345/"
-  },
-  "116836": {
-    "name": "Конфеты суфле манго-маракуйя в белом шоколаде",
-    "price": "190",
-    "old_price": "316",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/konfety-sufle-mango-marakuyya-v-belom-shokolade-116836/"
-  },
-  "113603": {
-    "name": "Зефир \"Классический\" в темном шоколаде, 50 г",
-    "price": "72",
-    "old_price": "120",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zefir-klassicheskiy-v-temnom-shokolade-113603/"
   },
   "127422": {
     "name": "Соус томатный, зам.",
