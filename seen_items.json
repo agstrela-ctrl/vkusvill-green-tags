@@ -1,16 +1,16 @@
 {
+  "29450": {
+    "name": "Яблоко Медовый хруст",
+    "price": "135",
+    "old_price": "225",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yabloko-medovyy-khrust-29450/"
+  },
   "70407": {
     "name": "Мандарины Хатайские сладкие",
     "price": "177",
     "old_price": "295",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/mandariny-khatayskie-sladkie-70407/"
-  },
-  "127422": {
-    "name": "Соус томатный, зам.",
-    "price": "85",
-    "old_price": "142",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sous-tomatnyy-127422/"
   }
 }
