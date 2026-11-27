@@ -13,20 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/gorbusha-slabosolenaya-lomtiki-66659/"
   },
-  "19058": {
-    "name": "Пирожное Кольцо творожное, 100 г",
-    "price": "142",
-    "old_price": "236",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-koltso-tvorozhnoe-19058/"
-  },
-  "61751": {
-    "name": "Гречка отварная с овощами, 200 г",
-    "price": "90",
-    "old_price": "150",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
-  },
   "118975": {
     "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
     "price": "53",
@@ -41,32 +27,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
   },
-  "43088": {
-    "name": "Блины с грушей и мягким сыром",
-    "price": "137",
-    "old_price": "228",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-s-grushey-i-myagkim-syrom-43088/"
-  },
-  "128792": {
-    "name": "Оладушки \"Утро воскресенья\"",
-    "price": "119",
-    "old_price": "198",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/oladushki-utro-voskresenya-128792/"
-  },
   "67834": {
     "name": "Кнели куриные с тыквой и картофельным пюре",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
-  },
-  "26582": {
-    "name": "Стрипсы в панировке",
-    "price": "186",
-    "old_price": "310",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/stripsy-v-panirovke-26582/"
   }
 }
