@@ -1,9 +1,37 @@
 {
-  "125546": {
-    "name": "Пирожок осетинский с сыром",
-    "price": "86",
-    "old_price": "143",
+  "83507": {
+    "name": "Ватрушки-мини с творогом, 4 шт",
+    "price": "148",
+    "old_price": "246",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhok-osetinskiy-s-syrom-125546/"
+    "link": "https://vkusvill.ru/goods/vatrushki-mini-s-tvorogom-83507/"
+  },
+  "92590": {
+    "name": "Круассан с фисташковой начинкой",
+    "price": "113",
+    "old_price": "188",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kruassan-s-fistashkovoy-nachinkoy-92590/"
+  },
+  "34804": {
+    "name": "Макароны с курицей и грибами",
+    "price": "161",
+    "old_price": "268",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/makarony-s-kuritsey-i-gribami-34804/"
+  },
+  "78333": {
+    "name": "Творожок Даниссимо Браво Шоколад 6,7% 130 г",
+    "price": "70",
+    "old_price": "116",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorozhok-danissimo-bravo-shokolad-6-78333/"
+  },
+  "124762": {
+    "name": "Йогурт Free безлактозный Красный виноград 2,7% 180 г",
+    "price": "89",
+    "old_price": "149",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/yogurt-free-bezlaktoznyy-krasnyy-vinograd-2-124762/"
   }
 }
