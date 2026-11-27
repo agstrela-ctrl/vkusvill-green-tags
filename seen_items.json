@@ -1,11 +1,4 @@
 {
-  "126795": {
-    "name": "Ролл \"Калифорния\" с семгой",
-    "price": "348",
-    "old_price": "580",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-kaliforniya-s-semgoy-126795/"
-  },
   "57587": {
     "name": "Бананы зеленые",
     "price": "101",
@@ -20,25 +13,18 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/samsa-bodomi-s-govyadinoy-127364/"
   },
+  "114345": {
+    "name": "Печенье-кукис \"Шоколадная крошка\", кафе",
+    "price": "78",
+    "old_price": "130",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pechene-kukis-shokoladnaya-kroshka-114345/"
+  },
   "34804": {
     "name": "Макароны с курицей и грибами",
     "price": "161",
     "old_price": "268",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/makarony-s-kuritsey-i-gribami-34804/"
-  },
-  "23151": {
-    "name": "Шницель куриный с сыром, 480 г",
-    "price": "251",
-    "old_price": "418",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shnitsel-kurinyy-s-syrom-23151/"
-  },
-  "19419": {
-    "name": "Бедро цыпленка-бройлера бескостное (филе бедра)",
-    "price": "429",
-    "old_price": "715",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bedro-tsyplenka-broylera-beskostnoe-file-bedra-19419/"
   }
 }
