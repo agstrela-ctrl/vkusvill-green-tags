@@ -1,59 +1,10 @@
 {
-  "79208": {
-    "name": "Салат из свеклы с черносливом и грецкими орехами",
-    "price": "114",
-    "old_price": "190",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-iz-svekly-s-chernoslivom-i-gretskimi-orekhami-79208/"
-  },
-  "114282": {
-    "name": "Баклажаны по-сычуаньски, 200 г",
-    "price": "173",
-    "old_price": "288",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/baklazhany-po-sychuanski-114282/"
-  },
-  "65383": {
-    "name": "Ролл с креветкой и семгой",
-    "price": "294",
-    "old_price": "490",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/roll-s-krevetkoy-i-semgoy-65383/"
-  },
-  "53470": {
-    "name": "Ассорти эклеров \"Ваниль, Фисташка, Шоколад\"",
-    "price": "234",
-    "old_price": "390",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-eklerov-vanil-53470/"
-  },
-  "70874": {
-    "name": "Шаурма с курицей, 230 г",
-    "price": "192",
-    "old_price": "320",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/shaurma-s-kuritsey-70874/"
-  },
   "107823": {
     "name": "Брецель на сливочном масле с кунжутом",
     "price": "91",
     "old_price": "152",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/bretsel-na-slivochnom-masle-s-kunzhutom-107823/"
-  },
-  "126106": {
-    "name": "Чебурек \"Самаркандский\" с картофелем, 160 г",
-    "price": "70",
-    "old_price": "117",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/cheburek-samarkandskiy-s-kartofelem-126106/"
-  },
-  "127264": {
-    "name": "Сэндвич ролл с индейкой и запеченной тыквой",
-    "price": "204",
-    "old_price": "340",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-roll-s-indeykoy-i-zapechennoy-tykvoy-127264/"
   },
   "77283": {
     "name": "Десерт \"Два шоколада\", веган",
