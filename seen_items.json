@@ -27,26 +27,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sendvich-na-bulochke-iz-sloenogo-testa-s-vetchinoy-i-syrom-93690/"
   },
-  "73475": {
-    "name": "Торт \"Бенто\" с клубникой (С Днем Рождения)",
-    "price": "332",
-    "old_price": "554",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-bento-s-klubnikoy-s-dnem-rozhdeniya-73475/"
-  },
   "61751": {
     "name": "Гречка отварная с овощами, 200 г",
     "price": "90",
     "old_price": "150",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-61751/"
-  },
-  "18354": {
-    "name": "Рис \"По-тайски\"",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/ris-po-tayski-18354/"
   },
   "118975": {
     "name": "Изделие х/б \"Заварной\" с солодом, нарезка",
@@ -62,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/roll-simfoniya-klassiki-s-syemgoy-i-tvorozhnym-syrom-106628/"
   },
-  "83249": {
-    "name": "Редис дайкон, 600 г",
-    "price": "99",
-    "old_price": "165",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/redis-daykon-83249/"
-  },
   "43088": {
     "name": "Блины с грушей и мягким сыром",
     "price": "137",
@@ -83,33 +62,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/oladushki-utro-voskresenya-128792/"
   },
-  "127027": {
-    "name": "Сэндвич с грибами и сливочным соусом",
-    "price": "174",
-    "old_price": "290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/sendvich-s-gribami-i-slivochnym-sousom-127027/"
-  },
-  "104525": {
-    "name": "Бедро индейки бескостное \"По-Домашнему\"",
-    "price": "610",
-    "old_price": "1016",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/bedro-indeyki-beskostnoe-po-domashnemu-104525/"
-  },
   "67834": {
     "name": "Кнели куриные с тыквой и картофельным пюре",
     "price": "179",
     "old_price": "298",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kneli-kurinye-s-tykvoy-i-kartofelnym-pyure-67834/"
-  },
-  "125769": {
-    "name": "Пибимпаб с курицей",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pibimpab-s-kuritsey-125769/"
   },
   "26582": {
     "name": "Стрипсы в панировке",
