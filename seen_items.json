@@ -1,4 +1,11 @@
 {
+  "42672": {
+    "name": "Тесто замороженное дрожжевое зам. 500 г",
+    "price": "106",
+    "old_price": "177",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/testo-zamorozhennoe-drozhzhevoe-zam-500-g-42672/"
+  },
   "57587": {
     "name": "Бананы зеленые",
     "price": "101",
@@ -6,11 +13,25 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/banany-zelenye-57587/"
   },
+  "127105": {
+    "name": "Котлета говяжья для бургера, зам",
+    "price": "165",
+    "old_price": "275",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotleta-govyazhya-dlya-burgera-127105/"
+  },
   "114345": {
     "name": "Печенье-кукис \"Шоколадная крошка\", кафе",
     "price": "78",
     "old_price": "130",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pechene-kukis-shokoladnaya-kroshka-114345/"
+  },
+  "127422": {
+    "name": "Соус томатный, зам.",
+    "price": "85",
+    "old_price": "142",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sous-tomatnyy-127422/"
   }
 }
