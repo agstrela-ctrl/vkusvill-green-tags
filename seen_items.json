@@ -13,13 +13,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/khleb-na-kefire-s-syvorotkoy-89186/"
   },
-  "110843": {
-    "name": "Торт \"Ассорти\"",
-    "price": "486",
-    "old_price": "810",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/tort-assorti-110843/"
-  },
   "46868": {
     "name": "Голубика \"ВВ Отборное\", 250 г",
     "price": "393",
@@ -41,20 +34,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/omlet-shkolnyy-125183/"
   },
-  "65409": {
-    "name": "Салат \"Витаминный\" с лимонной заправкой, 500 г",
-    "price": "228",
-    "old_price": "380",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
-  },
-  "105273": {
-    "name": "Каша овсяная на безлактозном молоке с ягодами и миндальными лепестками, кафе",
-    "price": "132",
-    "old_price": "220",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-na-bezlaktoznom-moloke-s-yagodami-i-mindalnymi-lepestkami-105273/"
-  },
   "92975": {
     "name": "Стейк Рибай из говядины зернового откорма, 250 г",
     "price": "612",
@@ -69,47 +48,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/omlet-belkovyy-s-kurinym-file-52515/"
   },
-  "89637": {
-    "name": "Перец болгарский красный \"ВВ Отборное\", шт",
-    "price": "125",
-    "old_price": "208",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/perets-bolgarskiy-krasnyy-vv-otbornoe-89637/"
-  },
-  "121490": {
-    "name": "Песочная полоска с повидлом, 280 г",
-    "price": "197",
-    "old_price": "328",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pesochnaya-poloska-s-povidlom-121490/"
-  },
-  "99375": {
-    "name": "Жаркое из говядины с грибами",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/zharkoe-iz-govyadiny-s-gribami-99375/"
-  },
   "109037": {
     "name": "Эскалоп из свинины в сливочно-перечном маринаде",
     "price": "240",
     "old_price": "400",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eskalop-iz-svininy-v-slivochno-perechnom-marinade-109037/"
-  },
-  "117337": {
-    "name": "Гратен картофельный с моцареллой, чеддером и пармезаном",
-    "price": "361",
-    "old_price": "602",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/graten-kartofelnyy-s-motsarelloy-117337/"
-  },
-  "30357": {
-    "name": "Ассорти х/к из скумбрии и горбуши, 250 г",
-    "price": "288",
-    "old_price": "480",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-skumbrii-i-gorbushi-30357/"
   },
   "117119": {
     "name": "Шашлычки куриные в беконе с печеными овощами и сырным соусом",
@@ -125,46 +69,11 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
   },
-  "58174": {
-    "name": "Салат \"Цезарь\" с курицей, 450 г",
-    "price": "396",
-    "old_price": "660",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/salat-tsezar-s-kuritsey-58174/"
-  },
-  "38119": {
-    "name": "Блин сырный по-голландски",
-    "price": "150",
-    "old_price": "250",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/blin-syrnyy-po-gollandski-38119/"
-  },
-  "125473": {
-    "name": "Плов \"Самаркандский\" с изюмом",
-    "price": "316",
-    "old_price": "526",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-samarkandskiy-s-izyumom-125473/"
-  },
   "127695": {
     "name": "Строганов из курицы с соусом бешамель",
     "price": "239",
     "old_price": "398",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/stroganov-iz-kuritsy-s-sousom-beshamel-127695/"
-  },
-  "41146": {
-    "name": "Сливки 10%, 200 г",
-    "price": "54",
-    "old_price": "90",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/slivki-10-41146/"
-  },
-  "111433": {
-    "name": "Чизкейк \"Японский\", 140 г",
-    "price": "157",
-    "old_price": "262",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/chizkeyk-yaponskiy-111433/"
   }
 }
