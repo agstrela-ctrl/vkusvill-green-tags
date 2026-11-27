@@ -41,13 +41,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/pasta-salat-s-sousom-pesto-105236/"
   },
-  "68084": {
-    "name": "Каша овсяная молочная с яблоком и корицей, 215 г",
-    "price": "118",
-    "old_price": "196",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kasha-ovsyanaya-molochnaya-s-yablokom-i-koritsey-68084/"
-  },
   "20122": {
     "name": "Огурцы короткоплодные, 450 г",
     "price": "147",
@@ -83,26 +76,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/omlet-shkolnyy-125183/"
   },
-  "63121": {
-    "name": "Форель стейк охл., 450 г",
-    "price": "774",
-    "old_price": "1290",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/forel-steyk-okhl-63121/"
-  },
   "65409": {
     "name": "Салат \"Витаминный\" с лимонной заправкой, 500 г",
     "price": "228",
     "old_price": "380",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-65409/"
-  },
-  "19417": {
-    "name": "Вырезка из свинины",
-    "price": "484",
-    "old_price": "807",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/vyrezka-iz-svininy-19417/"
   },
   "119471": {
     "name": "Эклер \"Тирамису\", 1 шт",
@@ -160,26 +139,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/kruassan-s-syrom-65996/"
   },
-  "22646": {
-    "name": "Киви Голд, шт",
-    "price": "45",
-    "old_price": "75",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/kivi-gold-22646/"
-  },
   "109037": {
     "name": "Эскалоп из свинины в сливочно-перечном маринаде",
     "price": "240",
     "old_price": "400",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/eskalop-iz-svininy-v-slivochno-perechnom-marinade-109037/"
-  },
-  "60199": {
-    "name": "Осетр горячего копчения, 100 г",
-    "price": "365",
-    "old_price": "608",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/osetr-goryachego-kopcheniya-60199/"
   },
   "39669": {
     "name": "Пирожное \"Тарт лимонный\"",
@@ -209,13 +174,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/assorti-kh-k-iz-skumbrii-i-gorbushi-30357/"
   },
-  "61885": {
-    "name": "Говядина филей, 550 г",
-    "price": "536",
-    "old_price": "894",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/govyadina-filey-61885/"
-  },
   "123012": {
     "name": "Хачапури с курицей, томатами и базиликом",
     "price": "187",
@@ -236,13 +194,6 @@
     "old_price": "338",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/salat-po-aziatski-s-kuritsey-117863/"
-  },
-  "119469": {
-    "name": "Пирожное \"Наполеон с вареной сгущенкой\" домашний",
-    "price": "131",
-    "old_price": "218",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-napoleon-s-varenoy-sgushchenkoy-domashniy-119469/"
   },
   "125473": {
     "name": "Плов \"Самаркандский\" с изюмом",
