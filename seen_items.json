@@ -1,4 +1,25 @@
 {
+  "126842": {
+    "name": "Рис с овощами, зам.",
+    "price": "68",
+    "old_price": "113",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ris-s-ovoshchami-126842/"
+  },
+  "126724": {
+    "name": "Гречка с грибами и овощами, зам.",
+    "price": "51",
+    "old_price": "85",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/grechka-s-gribami-i-ovoshchami-126724/"
+  },
+  "127054": {
+    "name": "Соус по - итальянски с курицей, зам.",
+    "price": "171",
+    "old_price": "285",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sous-po-italyanski-s-kuritsey-127054/"
+  },
   "71655": {
     "name": "Шоколад молочный с солёным арахисом и карамелью",
     "price": "123",
