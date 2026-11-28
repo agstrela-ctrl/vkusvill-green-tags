@@ -1,9 +1,79 @@
 {
-  "23074": {
-    "name": "Манго Египет",
-    "price": "231",
-    "old_price": "385",
+  "128342": {
+    "name": "Хурма Персимон дольки, 140 г",
+    "price": "117",
+    "old_price": "195",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/mango-egipet-23074/"
+    "link": "https://vkusvill.ru/goods/khurma-persimon-dolki-128342/"
+  },
+  "15456": {
+    "name": "Томаты красные",
+    "price": "138",
+    "old_price": "230",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tomaty-krasnye-15456/"
+  },
+  "100069": {
+    "name": "Котлеты из цыпленка-бройлера с индейкой и сливочным сыром",
+    "price": "241",
+    "old_price": "401",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/kotlety-iz-tsyplenka-broylera-s-indeykoy-i-slivochnym-syrom-100069/"
+  },
+  "106904": {
+    "name": "Макароны с тушёной говядиной",
+    "price": "174",
+    "old_price": "290",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
+  },
+  "65513": {
+    "name": "Биточки из мяса индейки",
+    "price": "237",
+    "old_price": "395",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bitochki-iz-myasa-indeyki-65513/"
+  },
+  "43060": {
+    "name": "Творог с изюмом без доб. сахара 9%, 90 г",
+    "price": "53",
+    "old_price": "88",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/tvorog-s-izyumom-bez-dob-sakhara-9-43060/"
+  },
+  "125411": {
+    "name": "Пирожки жареные с тушеной капустой, 2 шт",
+    "price": "95",
+    "old_price": "158",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/pirozhki-zharenye-s-tushenoy-kapustoy-125411/"
+  },
+  "122232": {
+    "name": "Кекс \"Творожный\", 250 г",
+    "price": "126",
+    "old_price": "210",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/keks-tvorozhnyy-122232/"
+  },
+  "71655": {
+    "name": "Шоколад молочный с солёным арахисом и карамелью",
+    "price": "123",
+    "old_price": "205",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shokolad-molochnyy-s-solyenym-arakhisom-i-karamelyu-71655/"
+  },
+  "123012": {
+    "name": "Хачапури с курицей, томатами и базиликом",
+    "price": "187",
+    "old_price": "312",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khachapuri-s-kuritsey-123012/"
+  },
+  "116408": {
+    "name": "Мармелад Ростагрокомплекс Вишня 45 г",
+    "price": "75",
+    "old_price": "125",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/marmelad-rostagrokompleks-vishnya-45-g-116408/"
   }
 }
