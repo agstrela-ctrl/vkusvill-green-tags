@@ -1,9 +1,23 @@
 {
-  "128342": {
-    "name": "Хурма Персимон дольки, 140 г",
-    "price": "117",
-    "old_price": "195",
+  "74272": {
+    "name": "Микс из капусты белокочанной и моркови, нарезка, 250 г",
+    "price": "72",
+    "old_price": "120",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/khurma-persimon-dolki-128342/"
+    "link": "https://vkusvill.ru/goods/miks-iz-kapusty-belokochannoy-i-morkovi-74272/"
+  },
+  "31275": {
+    "name": "Укроп, 100 г",
+    "price": "63",
+    "old_price": "105",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/ukrop-31275/"
+  },
+  "20973": {
+    "name": "Вафельные трубочки с вареной сгущенкой",
+    "price": "158",
+    "old_price": "264",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/vafelnye-trubochki-s-varenoy-sgushchenkoy-20973/"
   }
 }
