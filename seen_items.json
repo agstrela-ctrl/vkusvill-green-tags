@@ -6,6 +6,20 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
   },
+  "115261": {
+    "name": "Плов \"Узбекский\" с говядиной, 250 г",
+    "price": "198",
+    "old_price": "330",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-115261/"
+  },
+  "128342": {
+    "name": "Хурма Персимон дольки, 140 г",
+    "price": "117",
+    "old_price": "195",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/khurma-persimon-dolki-128342/"
+  },
   "93690": {
     "name": "Сэндвич на булочке из слоеного теста с ветчиной и сыром",
     "price": "138",
@@ -20,12 +34,19 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/makarony-s-tushyenoy-govyadinoy-106904/"
   },
-  "55264": {
-    "name": "Пирожное \"Медовик\", 110 г",
-    "price": "125",
-    "old_price": "208",
+  "93516": {
+    "name": "Набор из цыплят-бройлеров (бедро, крыло, голень)",
+    "price": "317",
+    "old_price": "528",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/pirozhnoe-medovik-55264/"
+    "link": "https://vkusvill.ru/goods/nabor-iz-tsyplyat-broylerov-bedro-93516/"
+  },
+  "64044": {
+    "name": "Суп \"Чечевичный\"",
+    "price": "119",
+    "old_price": "198",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/sup-chechevichnyy-64044/"
   },
   "126842": {
     "name": "Рис с овощами, зам.",
@@ -48,12 +69,26 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sous-po-italyanski-s-kuritsey-127054/"
   },
+  "37284": {
+    "name": "Блины шоколадные с маскарпоне и вишней",
+    "price": "156",
+    "old_price": "260",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
+  },
   "71655": {
     "name": "Шоколад молочный с солёным арахисом и карамелью",
     "price": "123",
     "old_price": "205",
     "discount": "40",
     "link": "https://vkusvill.ru/goods/shokolad-molochnyy-s-solyenym-arakhisom-i-karamelyu-71655/"
+  },
+  "125212": {
+    "name": "Шарики рисовые по-корейски \"Чумокпаб\" с копченой форелью и творожным сыром",
+    "price": "197",
+    "old_price": "328",
+    "discount": "40",
+    "link": "https://vkusvill.ru/goods/shariki-risovye-po-koreyski-chumokpab-s-kopchenoy-forelyu-i-tvorozhnym-syrom-125212/"
   },
   "123188": {
     "name": "Печенье \"Рулетики\" с инжиром на сиропе топинамбура",
