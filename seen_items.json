@@ -6,13 +6,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/izdelie-kh-b-zernovoy-s-kurkumoy-112775/"
   },
-  "115261": {
-    "name": "Плов \"Узбекский\" с говядиной, 250 г",
-    "price": "198",
-    "old_price": "330",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-115261/"
-  },
   "128342": {
     "name": "Хурма Персимон дольки, 140 г",
     "price": "117",
@@ -55,13 +48,6 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/ris-s-ovoshchami-126842/"
   },
-  "126724": {
-    "name": "Гречка с грибами и овощами, зам.",
-    "price": "51",
-    "old_price": "85",
-    "discount": "40",
-    "link": "https://vkusvill.ru/goods/grechka-s-gribami-i-ovoshchami-126724/"
-  },
   "127054": {
     "name": "Соус по - итальянски с курицей, зам.",
     "price": "171",
@@ -69,12 +55,12 @@
     "discount": "40",
     "link": "https://vkusvill.ru/goods/sous-po-italyanski-s-kuritsey-127054/"
   },
-  "37284": {
-    "name": "Блины шоколадные с маскарпоне и вишней",
-    "price": "156",
-    "old_price": "260",
+  "112643": {
+    "name": "Бедра цыплят-бройлеров в чесночном маринаде",
+    "price": "354",
+    "old_price": "590",
     "discount": "40",
-    "link": "https://vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284/"
+    "link": "https://vkusvill.ru/goods/bedra-tsyplyat-broylerov-v-chesnochnom-marinade-112643/"
   },
   "71655": {
     "name": "Шоколад молочный с солёным арахисом и карамелью",
